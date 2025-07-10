@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Maryland Register, Volume 52, Issue 4" codify:doc="Code of Maryland Regulations">
+  <num>52-4</num>
+  <meta>
+    <stub/>
+    <effective>2025-03-03</effective>
+    <citations>
+      <citation type="register" url="./52-4.pdf">52:4</citation>
+    </citations>
+    <history>
+      <published>2025-02-21</published>
+    </history>
+  </meta>
+  <container name="regulations">
+    <container name="final">
+      <container>
+        <num>24-201-F</num>
+        <codify:repeal path="|03|03|05" codified:doc="Code of Maryland Regulations" codified:path="03|03|05|.01|annos"/>
+      </container>
+    </container>
+  </container>
+</document>
