@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Maryland Register, Volume 51, Issue 22" codify:doc="Code of Maryland Regulations">
+  <num>51-22</num>
+  <meta>
+    <stub/>
+    <effective>2024-11-11</effective>
+    <citations>
+      <citation type="register" url="./51-22.pdf">51:22</citation>
+    </citations>
+    <history>
+      <published>2024-11-01</published>
+    </history>
+  </meta>
+  <container name="regulations">
+    <container name="final">
+      <container>
+        <num>24-098-F</num>
+      </container>
+      <container>
+        <num>24-029-F</num>
+      </container>
+      <container>
+        <num>24-091-F</num>
+      </container>
+      <container codify:applicability="2025-01-01">
+        <num>23-235-F</num>
+      </container>
+      <container>
+        <num>24-088-F</num>
+      </container>
+      <container codify:applicability="2025-01-01">
+        <num>24-059-F</num>
+      </container>
+      <container>
+        <num>24-096-F</num>
+      </container>
+      <container>
+        <num>24-092-F</num>
+      </container>
+    </container>
+    <container name="withdrawal">
+      <container>
+        <num>23-223-W</num>
+      </container>
+      <container>
+        <num>23-224-W</num>
+      </container>
+    </container>
+  </container>
+</document>
