@@ -348,8 +348,7 @@
       <text>Change in Fiscal Year End—Prorated Fee.</text>
       <para>
         <num>(1)</num>
-        <text>Renewing Issuer. If, as a result of a change in fiscal year-end date, the effective period for an issuer's existing notice filing extends beyond 12 months, an issuer renewing its notice filing under Regulation .06 shall</text>
-        <text>submit a prorated fee in accordance with <cite path="02|02|09|.05|C.|(3)">§C(3) of this regulation</cite>.</text>
+        <text>Renewing Issuer. If, as a result of a change in fiscal year-end date, the effective period for an issuer's existing notice filing extends beyond 12 months, an issuer renewing its notice filing under Regulation .06 shall submit a prorated fee in accordance with <cite path="02|02|09|.05|C.|(3)">§C(3) of this regulation</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -824,7 +823,7 @@
   </section>
   <annotations>
     <annotation type="Authority" dest="container">Corporations and Associations Article, §§<cite doc="Md. Code" path="gca|11-203">11-203</cite>, <cite doc="Md. Code" path="gca|11-501">11-501</cite>, <cite doc="Md. Code" path="gca|11-503">11-503</cite>.1, 11-506, 11-510.1, 11-513, and 11-802, Annotated Code of Maryland</annotation>
-    <annotation type="History" dest="container" effective="1998-08-24">Effective date: August 24, 1998 (25:17 Md. R. 1358)</annotation>
-    <annotation type="History" dest="container" effective="1998-12-28">Regulations .09, .10 adopted effective December 28, 1998 (25:26 Md. R. 1918)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="1998-08-24">Effective date: August 24, 1998 (25:17 Md. R. 1358)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="1998-12-28">Regulations .09, .10 adopted effective December 28, 1998 (25:26 Md. R. 1918)</annotation>
   </annotations>
 </container>

@@ -204,7 +204,7 @@
       <text>If the unit price is under 1 dollar, it shall be listed:</text>
       <para>
         <num>(1)</num>
-        <text>To the tenth of a cent (i.e., an item priced at <cite path="|25.54">25.54</cite> cents may read 25.5 cents or 25.5); or</text>
+        <text>To the tenth of a cent (i.e., an item priced at 25.54 cents may read 25.5 cents or 25.5); or</text>
       </para>
       <para>
         <num>(2)</num>
@@ -337,7 +337,7 @@
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="gcl|14-105">Commercial Law Article, §14-105, </cite>Annotated Code of Maryland</annotation>
-    <annotation type="History" dest="container" effective="1972-09-01">Effective date: September 1, 1972</annotation>
-    <annotation type="History" dest="container" effective="1978-06-02">Chapter revised effective June 2, 1978 (5:11 Md. R. 880)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="1972-09-01">Effective date: September 1, 1972</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="1978-06-02">Chapter revised effective June 2, 1978 (5:11 Md. R. 880)</annotation>
   </annotations>
 </container>

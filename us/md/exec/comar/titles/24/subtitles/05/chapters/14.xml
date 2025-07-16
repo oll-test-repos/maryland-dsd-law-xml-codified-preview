@@ -473,7 +473,7 @@
     <prefix>Regulation</prefix>
     <num>.14</num>
     <heading>Nondiscrimination.</heading>
-    <text>An applicant shall comply with all applicable federal, State, and local laws regarding discrimination and equal opportunity, including the provisions of the Governor's Code of Fair Employment Practices, <cite path="|01.01">COMAR 01.01</cite>.1995.19.</text>
+    <text>An applicant shall comply with all applicable federal, State, and local laws regarding discrimination and equal opportunity, including the provisions of the Governor's Code of Fair Employment Practices, <cite path="01.01.1995.19">COMAR 01.01.1995.19</cite>.</text>
     <annotations/>
   </section>
   <section>
@@ -499,6 +499,6 @@
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="gec|2-108">Economic Development Article, §2-108 </cite>and Title 3, Subtitle 3; <cite doc="Md. Code" path="gsf|10-305">State Finance and Procurement Article, §10-305</cite>; Annotated Code of Maryland</annotation>
-    <annotation type="History" dest="container" effective="1992-10-12">Effective date: October 12, 1992 (19:20 Md. R. 1819)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="1992-10-12">Effective date: October 12, 1992 (19:20 Md. R. 1819)</annotation>
   </annotations>
 </container>
