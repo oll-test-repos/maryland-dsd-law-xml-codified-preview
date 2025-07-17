@@ -319,7 +319,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>For the purpose of this section, except for students identified in <cite path="13A|03|02|.06|D.">§D of this regulation</cite>, “met all assessment requirements” means taking all Maryland Comprehensive Assessments.</text>
+        <text>For the purpose of this section, except for students identified in <cite path="13A|03|02|.06|D." proof="needed" doc="Maryland Register, Volume 51, Issue 21">§D of this regulation</cite>, “met all assessment requirements” means taking all Maryland Comprehensive Assessments.</text>
       </para>
     </para>
     <para>
@@ -362,7 +362,9 @@
         <text>Students entering the ninth grade, the Maryland Comprehensive Assessment for science and government shall account for 20 percent of the student’s final grade in the respective high school level science and government courses.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-074-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -476,12 +478,12 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Submit a copy of the grade change validity audit in accordance with <cite path="13A|03|02|.08|B.|(5)|(d)">§B(5)(d) of this regulation</cite> to the State Superintendent of Schools.</text>
+        <text>Submit a copy of the grade change validity audit in accordance with <cite path="13A|03|02|.08|B.|(5)|(d)" proof="needed" doc="Maryland Register, Volume 51, Issue 21">§B(5)(d) of this regulation</cite> to the State Superintendent of Schools.</text>
       </para>
     </para>
     <para>
       <num>D.</num>
-      <text>Upon submission of the items contained in <cite path="13A|03|02|.08|C.">§C of this regulation</cite>, the Maryland State Department of Education will:</text>
+      <text>Upon submission of the items contained in <cite path="13A|03|02|.08|C." proof="needed" doc="Maryland Register, Volume 51, Issue 21">§C of this regulation</cite>, the Maryland State Department of Education will:</text>
       <para>
         <num>(1)</num>
         <text>Verify that the local school system has met the requirements of this regulation; or</text>
@@ -491,7 +493,9 @@
         <text>Direct the local school system to develop a corrective action plan to bring it into compliance with this regulation and monitor the school system’s progress in completing its corrective action.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-074-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="13A|03|02|.09">
     <prefix>Regulation</prefix>
@@ -503,7 +507,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Maryland High School Diploma. Except as provided in <cite path="|13A|03|02|.12">Regulation .12 of this chapter</cite>, to be awarded a Maryland high school diploma, a student shall:</text>
+      <text>Maryland High School Diploma. Except as provided in <cite path="|13A|03|02|.12" proof="needed" doc="Maryland Register, Volume 51, Issue 21">Regulation .12 of this chapter</cite>, to be awarded a Maryland high school diploma, a student shall:</text>
       <para>
         <num>(1)</num>
         <text>Complete the enrollment, credit, and service requirements as specified in this chapter;</text>
@@ -534,11 +538,11 @@
       <text>Maryland High School Diploma by Examination.</text>
       <para>
         <num>(1)</num>
-        <text>General Educational Development Testing Program. A Maryland High School Diploma by Examination may be awarded for satisfactory performance on approved general educational development tests if the student meets those requirements as defined in <cite doc="Md. Code" path="gle|11-808">Labor and Employment Article, §11-808, Annotated Code of Maryland</cite>, and <cite path="09.37.01.04">COMAR 09.37.01.04</cite>.</text>
+        <text>General Educational Development Testing Program. A Maryland High School Diploma by Examination may be awarded for satisfactory performance on approved general educational development tests if the student meets those requirements as defined in <cite doc="Md. Code" path="gle|11-808">Labor and Employment Article, §11-808, Annotated Code of Maryland</cite>, and <cite path="09.37.01.04" proof="needed" doc="Maryland Register, Volume 51, Issue 21">COMAR 09.37.01.04</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Maryland Adult External High School Diploma Program. A Maryland High School Diploma by Examination may be awarded for demonstrating competencies in general life skills and individual skills on applied performance tests if the student meets those requirements as defined in <cite path="09.37.01.20">COMAR 09.37.01.20</cite>.</text>
+        <text>Maryland Adult External High School Diploma Program. A Maryland High School Diploma by Examination may be awarded for demonstrating competencies in general life skills and individual skills on applied performance tests if the student meets those requirements as defined in <cite path="09.37.01.20" proof="needed" doc="Maryland Register, Volume 51, Issue 21">COMAR 09.37.01.20</cite>.</text>
       </para>
     </para>
     <para>
@@ -582,7 +586,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>A student with significant cognitive disability may not meet high school graduation requirements, in accordance with <cite path="13A|03|02|.09|B.">§B of this regulation</cite>, if a student:</text>
+        <text>A student with significant cognitive disability may not meet high school graduation requirements, in accordance with <cite path="13A|03|02|.09|B." proof="needed" doc="Maryland Register, Volume 51, Issue 21">§B of this regulation</cite>, if a student:</text>
         <para>
           <num>(a)</num>
           <text>Participates in an Alternative Assessment based on Alternative Academic Achievement Standards (AA-AAAS); and</text>
@@ -623,7 +627,7 @@
     </para>
     <para>
       <num>H.</num>
-      <text>Maryland High School Diploma. Beginning with the 2022—2023 school year, except as provided in <cite path="|13A|03|02|.12">Regulation .12 of this chapter</cite>, to be awarded a Maryland high school diploma, a student shall:</text>
+      <text>Maryland High School Diploma. Beginning with the 2022—2023 school year, except as provided in <cite path="|13A|03|02|.12" proof="needed" doc="Maryland Register, Volume 51, Issue 21">Regulation .12 of this chapter</cite>, to be awarded a Maryland high school diploma, a student shall:</text>
       <para>
         <num>(1)</num>
         <text>Complete the enrollment, credit, assessment and service requirements as specified in this chapter; and</text>
@@ -645,7 +649,9 @@
         <text>The Department will establish the requirements for the endorsements.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-074-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="13A|03|02|.09-1">
     <prefix>Regulation</prefix>
@@ -685,11 +691,11 @@
     </para>
     <para>
       <num>D.</num>
-      <text>On or before April 1, the principal shall report to the local superintendent the name and student identification number of each student identified as meeting the criteria in <cite path="13A|03|02|.09-1|C.">§C of this regulation</cite>.</text>
+      <text>On or before April 1, the principal shall report to the local superintendent the name and student identification number of each student identified as meeting the criteria in <cite path="13A|03|02|.09-1|C." proof="needed" doc="Maryland Register, Volume 51, Issue 21">§C of this regulation</cite>.</text>
     </para>
     <para>
       <num>E.</num>
-      <text>By April 1, for each senior identified in <cite path="13A|03|02|.09-1|C.">§C of this regulation</cite>, the school principal shall consider whether to recommend to the local superintendent a waiver of the Maryland Comprehensive Assessment graduation requirements that the student has not fulfilled to date if:</text>
+      <text>By April 1, for each senior identified in <cite path="13A|03|02|.09-1|C." proof="needed" doc="Maryland Register, Volume 51, Issue 21">§C of this regulation</cite>, the school principal shall consider whether to recommend to the local superintendent a waiver of the Maryland Comprehensive Assessment graduation requirements that the student has not fulfilled to date if:</text>
       <para>
         <num>(1)</num>
         <text>The student has or is expected to meet all the other graduation requirements; and</text>
@@ -699,7 +705,7 @@
         <text>The student is prevented from meeting the Maryland Comprehensive Assessment graduation requirements because:</text>
         <para>
           <num>(a)</num>
-          <text>Of a decision made by the local school system concerning the provision of appropriate assistance as required by <cite path="|13A|03|02|.06|C.">Regulation .06C of this chapter</cite>;</text>
+          <text>Of a decision made by the local school system concerning the provision of appropriate assistance as required by <cite path="|13A|03|02|.06|C." proof="needed" doc="Maryland Register, Volume 51, Issue 21">Regulation .06C of this chapter</cite>;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -721,7 +727,7 @@
     </para>
     <para>
       <num>G.</num>
-      <text>On or before May 1, the principal of the high school shall make a Maryland Comprehensive Assessment waiver recommendation to the local superintendent for each student who meets the criteria set forth in <cite path="13A|03|02|.09-1|E.">§E of this regulation</cite> with the participation of:</text>
+      <text>On or before May 1, the principal of the high school shall make a Maryland Comprehensive Assessment waiver recommendation to the local superintendent for each student who meets the criteria set forth in <cite path="13A|03|02|.09-1|E." proof="needed" doc="Maryland Register, Volume 51, Issue 21">§E of this regulation</cite> with the participation of:</text>
       <para>
         <num>(1)</num>
         <text>The student's IEP team, if the student is a student with disabilities;</text>
@@ -741,7 +747,7 @@
     </para>
     <para>
       <num>H.</num>
-      <text>The principal shall explain the reason for each recommendation under <cite path="13A|03|02|.09-1|G.">§G of this regulation</cite>, whether the recommendation is to grant or deny the waiver.</text>
+      <text>The principal shall explain the reason for each recommendation under <cite path="13A|03|02|.09-1|G." proof="needed" doc="Maryland Register, Volume 51, Issue 21">§G of this regulation</cite>, whether the recommendation is to grant or deny the waiver.</text>
     </para>
     <para>
       <num>I.</num>
@@ -787,7 +793,9 @@
       <num>N.</num>
       <text>Nothing in this regulation is intended to establish any right to participate in the graduation ceremony while an appeal is pending. Participation in the graduation ceremony remains at the discretion of the local superintendent.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-074-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -909,7 +917,7 @@
         <text>Maryland Comprehensive Assessment Exemption Requirements.</text>
         <para>
           <num>(a)</num>
-          <text>A student who transfers from a nonpublic school or a school out of State is exempt from one or more of the Maryland Comprehensive Assessments if, consistent with local school system policy and procedure, the local superintendent determines that the course taken is aligned with the relevant Maryland Comprehensive Assessment and awards the student credit for taking any of the courses aligned with the Maryland Comprehensive Assessments, that is, algebra, science, English, or government, or all of these, in accordance with the principles set forth in <cite path="13A|03|02|.12|B.|(2)|(c)">§B(2)(c) of this regulation</cite>.</text>
+          <text>A student who transfers from a nonpublic school or a school out of State is exempt from one or more of the Maryland Comprehensive Assessments if, consistent with local school system policy and procedure, the local superintendent determines that the course taken is aligned with the relevant Maryland Comprehensive Assessment and awards the student credit for taking any of the courses aligned with the Maryland Comprehensive Assessments, that is, algebra, science, English, or government, or all of these, in accordance with the principles set forth in <cite path="13A|03|02|.12|B.|(2)|(c)" proof="needed" doc="Maryland Register, Volume 51, Issue 21">§B(2)(c) of this regulation</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -941,7 +949,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>The exemption provided in <cite path="13A|03|02|.12|B.|(2)|(d)">§B(2)(d) of this regulation</cite> does not apply to a student with disabilities in a State-approved nonpublic program.</text>
+          <text>The exemption provided in <cite path="13A|03|02|.12|B.|(2)|(d)" proof="needed" doc="Maryland Register, Volume 51, Issue 21">§B(2)(d) of this regulation</cite> does not apply to a student with disabilities in a State-approved nonpublic program.</text>
         </para>
       </para>
       <para>
@@ -977,7 +985,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-074-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|2-205">2-205</cite>, <cite doc="Md. Code" path="ged|7-203">7-203</cite>, <cite doc="Md. Code" path="ged|7-205">7-205</cite>, <cite doc="Md. Code" path="ged|7-205">7-205</cite>.1, and 8-404, Annotated Code of Maryland</annotation>

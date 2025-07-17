@@ -9279,7 +9279,9 @@
       <text>For Prior Record calculations involving an out of jurisdiction adjudication, the individual completing the worksheet shall match the offense as closely as possible to the closest analogous Maryland offense. If no Maryland analogous offense exists, the individual completing the worksheet shall count the offense in the lowest seriousness category (VII), and shall inform the judge and parties. If the out of jurisdiction adjudication is based on an act that is not a criminal violation in Maryland (e.g., cannabis possession), then the out of jurisdiction adjudication shall be excluded from the prior adult criminal record. If there is a question as to the analogous guidelines offense for an out-of-State adjudication, that question should be brought to the attention of the judge at sentencing.</text>
     </para>
     <page layout="portrait"/>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-11-01" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="gcp|6-211">Criminal Procedure Article, §6-211, </cite>Annotated Code of Maryland</annotation>

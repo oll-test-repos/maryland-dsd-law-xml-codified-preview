@@ -357,7 +357,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-11-01" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -907,7 +909,9 @@
       <num>P.</num>
       <text>Record of Announcement. The court shall make a record of the statement in open court required under <cite doc="Md. Code" path="gcp|6-217">Criminal Procedure Article, §6-217, Annotated Code of Maryland</cite>, of the minimum time the defendant must serve before becoming eligible for parole.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-11-01" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1075,7 +1079,9 @@
       <num>C.</num>
       <text>Total Offense Score. To obtain an offense score, the individual completing the worksheet shall add the points assigned to each element of the offense score for each person offense for which the defendant is to be sentenced. The maximum score is 15 and the minimum score is 1.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-11-01" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|22|01|.10">
     <prefix>Regulation</prefix>
@@ -1347,7 +1353,9 @@
       <num>C.</num>
       <text>Total Offender Score. To obtain the total offender score, the individual completing the worksheet shall add the points assigned to each element of the offender score. The maximum offender score is 9 and the minimum score is 0.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-11-01" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
