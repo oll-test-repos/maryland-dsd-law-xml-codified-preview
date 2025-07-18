@@ -19,8 +19,8 @@
         <repository name="maryland-dsd/law-xml" commit="50fbad7322ba74c4995dcfc2ed22cd9a3115bcdd"/>
       </repositories>
       <platform version="2.17.0" reproducible="false"/>
-      <build-date>2025-07-17</build-date>
-      <codified-date>2024-10-28</codified-date>
+      <build-date>2025-07-18</build-date>
+      <codified-date>2024-10-14</codified-date>
     </build>
   </meta>
   <xi:include href="./us/md/exec/comar/index.xml"/>
