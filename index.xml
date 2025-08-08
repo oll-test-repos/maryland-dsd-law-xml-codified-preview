@@ -18,7 +18,7 @@
       <repositories>
         <repository name="maryland-dsd/law-xml" commit="0859d9a016a8c8a875c768d4cf8f1ccb77166324"/>
       </repositories>
-      <platform version="2.17.1.dev4511" reproducible="false"/>
+      <platform version="2.17.1.dev4516" reproducible="false"/>
       <build-date>2025-08-08</build-date>
       <codified-date>0001-01-01</codified-date>
     </build>
