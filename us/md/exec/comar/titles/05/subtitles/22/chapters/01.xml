@@ -7,10 +7,8 @@
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Purpose.</heading>
-    <text>Changed text</text>
-    <annotations>
-      <annotation app="2024-10-14" doc="Maryland Register, Volume 51, Issue 20" eff="2024-10-14" path="regulations|final|24-089-F" type="History" display="false"/>
-    </annotations>
+    <text>The purpose of this chapter is to prescribe the policies and procedures relating to the tenant’s exclusive negotiation period and right of first refusal as outlined in <cite doc="Md. Code" path="grp|8-119">Real Property Article, §8-119, Annotated Code of Maryland</cite>.</text>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -75,7 +73,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Changed text.</text>
+        <text>A delivery service providing delivery tracking and confirmation.</text>
       </para>
     </para>
     <para>
@@ -106,9 +104,7 @@
         <text>A tenant accepts a counteroffer made by the owner under <cite doc="Md. Code" path="grp|8-119">Real Property Article, §8-119(c)(5)(ii), Annotated Code of Maryland</cite>.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2024-10-14" doc="Maryland Register, Volume 51, Issue 20" eff="2024-10-14" path="regulations|final|24-089-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -228,29 +224,31 @@
       <text>The notice delivered to tenants under this chapter shall contain, at minimum, the following information:</text>
       <para>
         <num>(1)</num>
-        <text>A conspicuous statement that the notice is a solicitation of an offer to purchase and is not intended as and may not be construed as a binding contract of sale; and</text>
+        <text>The sales price proposed in the third-party offer to purchase;</text>
       </para>
       <para>
         <num>(2)</num>
+        <text>A conspicuous statement that the notice is a solicitation of an offer to purchase and is not intended as and may not be construed as a binding contract of sale; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
         <text>Any information regarding deadlines for the tenant to submit an offer to purchase.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>The notice delivered to tenants under this chapter shall be in the form provided in Appendix C of this subtitle.</text>
+      <text>The notice delivered to tenants under this chapter shall be in the form provided in <cite path="05|22|01|attachments|05.22.01-appendix-C">Appendix C of this subtitle</cite>.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>The Office shall make the form provided in Appendix C of this subtitle available on its public website in a format allowing residential rental property owners to populate the blank sections of the form, download the form, and print the form for delivery to tenants.</text>
+      <text>The Office shall make the form provided in <cite path="05|22|01|attachments|05.22.01-appendix-C">Appendix C of this subtitle</cite> available on its public website in a format allowing residential rental property owners to populate the blank sections of the form, download the form, and print the form for delivery to tenants.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>The Office may, from time to time, with the approval of the Secretary, edit or amend the form provided in Appendix C of this subtitle to facilitate compliance with Real Property Article, §§<cite doc="Md. Code" path="grp|8-119">8-119</cite>(d) and <cite doc="Md. Code" path="grp|8-120">8-120</cite>, Annotated Code of Maryland, or other applicable law, as appropriate.</text>
+      <text>The Office may, from time to time, with the approval of the Secretary, edit or amend the form provided in <cite path="05|22|01|attachments|05.22.01-appendix-C">Appendix C of this subtitle</cite> to facilitate compliance with Real Property Article, §§<cite doc="Md. Code" path="grp|8-119">8-119</cite>(d) and <cite doc="Md. Code" path="grp|8-120">8-120</cite>, Annotated Code of Maryland, or other applicable law, as appropriate.</text>
       <text>SEE FORM AT END OF CHAPTER.</text>
     </para>
-    <annotations>
-      <annotation app="2024-10-14" doc="Maryland Register, Volume 51, Issue 20" eff="2024-10-14" path="regulations|final|24-089-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -283,30 +281,13 @@
     </para>
     <annotations/>
   </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.08</num>
-    <heading>Test Reg</heading>
-    <text>Test Regulation</text>
-    <para>
-      <num>A.</num>
-      <text>Test sub para</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Test sub para 2</text>
-    </para>
-    <annotations>
-      <annotation app="2024-10-14" doc="Maryland Register, Volume 51, Issue 20" eff="2024-10-14" path="regulations|final|24-089-F" type="History" display="false"/>
-    </annotations>
-  </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="ghs|5-104">Housing and Community Development Article, §5-104</cite>; <cite doc="Md. Code" path="grp|8-119">Real Property Article, §8-119, </cite>Annotated Code of Maryland</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2024-10-14">Effective date: October 14, 2024 (51:20 Md. R. 898)</annotation>
   </annotations>
   <attachments>
-    <attachment name="05.22.01-appendix-A" url="./05.22.01-appendix-A.pdf"/>
-    <attachment name="05.22.01-appendix-B" url="./05.22.01-appendix-B.pdf"/>
-    <attachment name="05.22.01-appendix-C" url="./05.22.01-appendix-C.pdf"/>
+    <attachment name="05.22.01-appendix-A" url="/us/md/exec/comar/initial-attachments/05.22.01-appendix-A.pdf"/>
+    <attachment name="05.22.01-appendix-B" url="/us/md/exec/comar/initial-attachments/05.22.01-appendix-B.pdf"/>
+    <attachment name="05.22.01-appendix-C" url="/us/md/exec/comar/initial-attachments/05.22.01-appendix-C.pdf"/>
   </attachments>
 </container>

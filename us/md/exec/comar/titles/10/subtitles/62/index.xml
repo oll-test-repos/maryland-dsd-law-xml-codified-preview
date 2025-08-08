@@ -3,9 +3,5 @@
   <prefix>Subtitle</prefix>
   <num>62</num>
   <heading>NATALIE M. LAPRADE MEDICAL CANNABIS COMMISSION</heading>
-  <container>
-    <prefix>Chapters</prefix>
-    <num>.01 — .37</num>
-    <reason>Repealed effective July 22, 2024 (Md. R. 51:14 678)</reason>
-  </container>
+  <xi:include href="./chapters/01—37.xml"/>
 </container>
