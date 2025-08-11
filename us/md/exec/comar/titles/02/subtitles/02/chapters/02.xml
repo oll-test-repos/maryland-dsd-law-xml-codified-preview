@@ -20,7 +20,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>File with the Commissioner other information the Commissioner may reasonably require.</text>
+        <text>CHANGE IS HERE!.</text>
       </para>
     </para>
     <para>
@@ -47,7 +47,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>A statement or certificate showing compliance with, or exemption from, the examination requirement of <cite path="|02|02|02|.06">Regulation .06 of this chapter</cite>; and</text>
+          <text>A statement or certificate showing compliance with, or exemption from, the examination requirement of <cite path="|02|02|02|.06" doc="Maryland Register, Volume 52, Issue 4">Regulation .06 of this chapter</cite>; and</text>
         </para>
         <para>
           <num>(e)</num>
@@ -60,7 +60,7 @@
       <text>Completion of Filing. An application for initial registration as a broker-dealer is not considered filed for purposes of the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-405">Corporations and Associations Article, §11-405, Annotated Code of Maryland</cite>, until:</text>
       <para>
         <num>(1)</num>
-        <text>The applicant has complied with the examination requirement of <cite path="|02|02|02|.06">Regulation .06 of this chapter</cite>;</text>
+        <text>The applicant has complied with the examination requirement of <cite path="|02|02|02|.06" doc="Maryland Register, Volume 52, Issue 4">Regulation .06 of this chapter</cite>;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -75,7 +75,9 @@
         <text>The applicant has submitted any other information the Commissioner has requested.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-03-03" doc="Maryland Register, Volume 52, Issue 4" eff="2025-03-03" path="regulations|final|24-171-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>

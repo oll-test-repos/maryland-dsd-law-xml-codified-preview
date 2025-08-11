@@ -13,7 +13,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Terms Defined.</text>
+      <text>CHANGE IS HERE!</text>
       <para>
         <num>(1)</num>
         <text>"Allotted leave" means a benefit which the Department is either required to provide, for example, personal leave, or which the Department has the option of providing, for example, advanced sick leave.</text>
@@ -24,7 +24,7 @@
       </para>
       <para>
         <num>(1-2)</num>
-        <text>"Donated leave" means leave donated under the Employee-to-Employee Leave Donation Program specified in <cite path="|11|02|03|.15">Regulation .15 of this chapter</cite> by one employee to another employee for a serious and prolonged medical condition.</text>
+        <text>"Donated leave" means leave donated under the Employee-to-Employee Leave Donation Program specified in <cite path="|11|02|03|.15" doc="Maryland Register, Volume 52, Issue 4">Regulation .15 of this chapter</cite> by one employee to another employee for a serious and prolonged medical condition.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -44,7 +44,7 @@
       </para>
       <para>
         <num>(5-1)</num>
-        <text>"Leave bank leave" means leave granted to an employee who is a member of the State Employees' Leave Bank, as specified in <cite path="|11|02|03|.15">Regulation .15 of this chapter</cite>, for a serious and prolonged medical condition.</text>
+        <text>"Leave bank leave" means leave granted to an employee who is a member of the State Employees' Leave Bank, as specified in <cite path="|11|02|03|.15" doc="Maryland Register, Volume 52, Issue 4">Regulation .15 of this chapter</cite>, for a serious and prolonged medical condition.</text>
       </para>
       <para>
         <num>(6)</num>
@@ -67,7 +67,9 @@
         <text>"Workday" means the number of hours specified by an appointing authority or the appointing authority's designee in an employee work schedule.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-03-03" doc="Maryland Register, Volume 52, Issue 4" eff="2025-03-03" path="regulations|final|24-170-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>

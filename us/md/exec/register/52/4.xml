@@ -14,8 +14,152 @@
   <container name="regulations">
     <container name="final">
       <container>
-        <num>24-201-F</num>
-        <codify:repeal path="|03|03|05" codified:doc="Code of Maryland Regulations" codified:path="03|03|05|.01|annos"/>
+        <num>24-170-F</num>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="11|02|03|.01" codified:doc="Code of Maryland Regulations" codified:path="11|02|03|.01">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.01</num>
+            <heading>Definitions.</heading>
+            <para>
+              <num>A.</num>
+              <text>In this chapter, the following terms have the meanings indicated.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>CHANGE IS HERE!</text>
+              <para>
+                <num>(1)</num>
+                <text>"Allotted leave" means a benefit which the Department is either required to provide, for example, personal leave, or which the Department has the option of providing, for example, advanced sick leave.</text>
+              </para>
+              <para>
+                <num>(1-1)</num>
+                <text>"Disaster service leave" means leave with pay that may be allotted to an employee to serve during a disaster.</text>
+              </para>
+              <para>
+                <num>(1-2)</num>
+                <text>"Donated leave" means leave donated under the Employee-to-Employee Leave Donation Program specified in <cite path="|11|02|03|.15" doc="Maryland Register, Volume 52, Issue 4">Regulation .15 of this chapter</cite> by one employee to another employee for a serious and prolonged medical condition.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>"Earned leave" means a benefit which an employee obtains by performing work, for example, annual leave.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>"Employee" means a member of the Career Service, Commission Plan, or Executive Service.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>"Full-time employee" means an employee whose standard workweek is at least 40 hours during a 7-day period between Wednesday and Tuesday.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>"Leave" means an approved absence from work, with a minimum use rate of 0.1 hour.</text>
+              </para>
+              <para>
+                <num>(5-1)</num>
+                <text>"Leave bank leave" means leave granted to an employee who is a member of the State Employees' Leave Bank, as specified in <cite path="|11|02|03|.15" doc="Maryland Register, Volume 52, Issue 4">Regulation .15 of this chapter</cite>, for a serious and prolonged medical condition.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>"Leave with pay" means leave during which an employee receives compensation.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>"Leave without pay" means leave during which an employee does not receive cash compensation.</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>"Overtime" means time spent performing work in excess of 40 hours during a 7-day period between Wednesday and Tuesday or in excess of a tour of duty designated by the appointing authority or the appointing authority's designee for law enforcement or fire protection personnel.</text>
+              </para>
+              <para>
+                <num>(9)</num>
+                <text>"Part-time employee" means an employee whose standard work hours are less than 40 hours per workweek, and whose fringe benefits are prorated to the extent applicable by law.</text>
+              </para>
+              <para>
+                <num>(10)</num>
+                <text>"Workday" means the number of hours specified by an appointing authority or the appointing authority's designee in an employee work schedule.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+      </container>
+      <container>
+        <num>24-171-F</num>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="02|02|02|.01" codified:doc="Code of Maryland Regulations" codified:path="02|02|02|.01">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.01</num>
+            <heading>Initial Registration as Broker-Dealer.</heading>
+            <para>
+              <num>A.</num>
+              <text>Scope. This regulation governs applications for initial registration as a broker-dealer in Maryland.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>National Association of Securities Dealers (NASD) Members. An applicant that is already a member of, or has applied for membership in, the NASD shall:</text>
+              <para>
+                <num>(1)</num>
+                <text>File with the Central Registration Depository System (CRD) the information required by Form BD (Uniform Application for Broker-Dealer Registration) and the fee required by the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-407">Corporations and Associations Article, §11-407, Annotated Code of Maryland</cite>; and</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>CHANGE IS HERE!.</text>
+              </para>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>Non-NASD Members.</text>
+              <para>
+                <num>(1)</num>
+                <text>An applicant that is not a member of, or has not applied for membership in, the NASD shall file with the Commissioner an application upon Form BD (Uniform Application for Broker-Dealer Registration).</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The application shall contain:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>A financial statement prepared in accordance with 17 CFR §240.17a-5(d) (SEC Rule 17a-5(d), Annual Filing of Audited Financial Statements), which is incorporated by reference, as of a date within 90 days of the date on which the statement is filed;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>If the applicant is a corporation, a resolution authorizing the filing of the application;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>The fee required by the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-407">Corporations and Associations Article, §11-407, Annotated Code of Maryland</cite>;</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>A statement or certificate showing compliance with, or exemption from, the examination requirement of <cite path="|02|02|02|.06" doc="Maryland Register, Volume 52, Issue 4">Regulation .06 of this chapter</cite>; and</text>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>Other information the Commissioner may reasonably require.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>Completion of Filing. An application for initial registration as a broker-dealer is not considered filed for purposes of the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-405">Corporations and Associations Article, §11-405, Annotated Code of Maryland</cite>, until:</text>
+              <para>
+                <num>(1)</num>
+                <text>The applicant has complied with the examination requirement of <cite path="|02|02|02|.06" doc="Maryland Register, Volume 52, Issue 4">Regulation .06 of this chapter</cite>;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The required fee and all required submissions have been received by the Commissioner;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>If the applicant is seeking membership in the NASD, the applicant is approved as a member of the NASD; and</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>The applicant has submitted any other information the Commissioner has requested.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
       </container>
     </container>
   </container>
