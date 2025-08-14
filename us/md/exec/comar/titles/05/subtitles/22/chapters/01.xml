@@ -23,7 +23,7 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>“Commercially reasonable” means terms and pricing that are reasonably consistent with what an experienced real estate professional would expect to see in similar transactions.</text>
+        <text>“Commercially <cite path="05|22|01|attachments|test-attachment">reasonable” means terms</cite> and pricing that are reasonably consistent with what an experienced real estate professional would expect to see in similar transactions.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -54,7 +54,9 @@
         <text>“Tenant’s exclusive negotiation period” means the period of time prescribed in <cite doc="Md. Code" path="grp|8-119">Real Property Article, §8-119(c), Annotated Code of Maryland</cite>, after a tenant is notified about the tenant’s right to purchase a residential rental property during which the tenant may negotiate exclusively with the owner to enter into a contract of sale.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-10-14" doc="Maryland Register, Volume 51, Issue 20" eff="2024-10-14" path="regulations|final|24-089-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -89,7 +91,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>A tenant fails to make an offer to purchase in response to the notice sent under this chapter within the time prescribed by law;</text>
+        <text>A tenant fails to <cite path="05|22|01|attachments|test-attachment">make an offer</cite> to purchase in response to the notice sent under this chapter within the time prescribed by law;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -104,7 +106,9 @@
         <text>A tenant accepts a counteroffer made by the owner under <cite doc="Md. Code" path="grp|8-119">Real Property Article, §8-119(c)(5)(ii), Annotated Code of Maryland</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-10-14" doc="Maryland Register, Volume 51, Issue 20" eff="2024-10-14" path="regulations|final|24-089-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -144,7 +148,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>The notice delivered to tenants under this chapter shall be in the form provided in <cite path="05|22|01|attachments|05.22.01-appendix-A">Appendix A of this subtitle</cite>.</text>
+      <text>The notice delivered to tenants under this chapter shall be in the form provided in.</text>
     </para>
     <para>
       <num>D.</num>
@@ -159,7 +163,9 @@
       <text>The Office may, from time to time, with the approval of the Secretary, edit or amend the forms provided in Appendix A and <cite path="05|22|01|attachments|05.22.01-appendix-B">Appendix B of this subtitle</cite> to facilitate compliance with Real Property Article, §§<cite doc="Md. Code" path="grp|8-119">8-119</cite>(c) and <cite doc="Md. Code" path="grp|8-120">8-120</cite>, Annotated Code of Maryland, or other applicable law, as appropriate.</text>
       <text>SEE FORM AT END OF CHAPTER.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-10-14" doc="Maryland Register, Volume 51, Issue 20" eff="2024-10-14" path="regulations|final|24-089-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -167,7 +173,7 @@
     <heading>Notice Requirements for Tenant’s Right of First Refusal.</heading>
     <para>
       <num>A.</num>
-      <text>Before accepting an offer to purchase a residential rental property from a third party, the owner of the property shall provide written notice to any tenants of the property of the tenants’ right of first refusal, and give the tenant an opportunity to exercise the right of first refusal within 30 days after receipt of the notice, if:</text>
+      <text>Before accepting an offer to purchase a residential rental property from a third party, the owner of the property shall provide written notice to any tenants of the property of the tenants’ <cite path="05|22|01|attachments|test-attachment">right of first refusal</cite>, and give the tenant an opportunity to exercise the right of first refusal within 30 days after receipt of the notice, if:</text>
       <para>
         <num>(1)</num>
         <text>The proposed transfer to the third party is not a transfer listed in <cite doc="Md. Code" path="grp|8-119">Real Property Article, §8-119(b), Annotated Code of Maryland</cite>;</text>
@@ -213,7 +219,9 @@
         <text>The owner accepts an offer to purchase from a tenant and enters into a contract of sale, but the contract of sale is terminated before settlement.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-10-14" doc="Maryland Register, Volume 51, Issue 20" eff="2024-10-14" path="regulations|final|24-089-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -248,13 +256,15 @@
       <text>The Office may, from time to time, with the approval of the Secretary, edit or amend the form provided in <cite path="05|22|01|attachments|05.22.01-appendix-C">Appendix C of this subtitle</cite> to facilitate compliance with Real Property Article, §§<cite doc="Md. Code" path="grp|8-119">8-119</cite>(d) and <cite doc="Md. Code" path="grp|8-120">8-120</cite>, Annotated Code of Maryland, or other applicable law, as appropriate.</text>
       <text>SEE FORM AT END OF CHAPTER.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-10-14" doc="Maryland Register, Volume 51, Issue 20" eff="2024-10-14" path="regulations|final|24-089-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.07</num>
     <heading>Information Provided to Department.</heading>
-    <text>Upon entry into a contract of sale with a tenant to purchase a residential rental property, the termination of a tenant’s exclusive negotiation period, or the termination of a tenant’s right of first refusal as provided in <cite doc="Md. Code" path="grp|8-119">Real Property Article, §8-119, Annotated Code of Maryland</cite>, the owner shall provide the following information to the Office by submission form on the Office’s website:</text>
+    <text>Upon entry into a contract of sale with a tenant to purchase a residential rental property, the termination of a tenant’s exclusive negotiation period, or the termination of a <cite path="05|22|01|attachments|05.22.01-appendix-C">tenant’s right of first refusal</cite> as provided in <cite doc="Md. Code" path="grp|8-119">Real Property Article, §8-119, Annotated Code of Maryland</cite>, the owner shall provide the following information to the Office by submission form on the Office’s website:</text>
     <para>
       <num>A.</num>
       <text>The physical address of the property, including the county (or Baltimore City) in which the property is located;</text>
@@ -269,7 +279,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>If applicable, the material terms of the contract of sale;</text>
+      <text>If applicable, <cite path="05|22|01|attachments|05.22.01-appendix-C">the material terms of</cite> the contract of sale;</text>
     </para>
     <para>
       <num>E.</num>
@@ -279,15 +289,22 @@
       <num>F.</num>
       <text>The periodic rent amount under the most recent lease entered by the tenant.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-10-14" doc="Maryland Register, Volume 51, Issue 20" eff="2024-10-14" path="regulations|final|24-089-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="ghs|5-104">Housing and Community Development Article, §5-104</cite>; <cite doc="Md. Code" path="grp|8-119">Real Property Article, §8-119, </cite>Annotated Code of Maryland</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2024-10-14">Effective date: October 14, 2024 (51:20 Md. R. 898)</annotation>
   </annotations>
   <attachments>
-    <attachment name="05.22.01-appendix-A" url="/us/md/exec/comar/initial-attachments/05.22.01-appendix-A.pdf"/>
     <attachment name="05.22.01-appendix-B" url="/us/md/exec/comar/initial-attachments/05.22.01-appendix-B.pdf"/>
-    <attachment name="05.22.01-appendix-C" url="/us/md/exec/comar/initial-attachments/05.22.01-appendix-C.pdf"/>
+    <attachment name="05.22.01-appendix-C" url="/us/md/exec/register/51/20/attachments/05.22.01-appendix-C.pdf">
+      <annotation app="2024-10-14" doc="Maryland Register, Volume 51, Issue 20" eff="2024-10-14" path="regulations|final|24-089-F" type="History" display="false"/>
+    </attachment>
+    <annotation app="2024-10-14" doc="Maryland Register, Volume 51, Issue 20" eff="2024-10-14" path="regulations|final|24-089-F" type="History" display="false"/>
+    <attachment name="test-attachment" url="/us/md/exec/register/51/20/attachments/test-attachment.pdf">
+      <annotation app="2024-10-14" doc="Maryland Register, Volume 51, Issue 20" eff="2024-10-14" path="regulations|final|24-089-F" type="History"/>
+    </attachment>
   </attachments>
 </container>
