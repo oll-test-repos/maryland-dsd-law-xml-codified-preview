@@ -15,120 +15,6 @@
     <container name="emergency">
       <container codify:applicability="2025-07-23" codify:expire="2026-01-19">
         <num>25-154-E</num>
-        <codify:remove history="false" doc="Code of Maryland Regulations" path="13A|01|02|.04" warning="false" codified:doc="Code of Maryland Regulations" codified:path="13A|01|02|.01|annos"/>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="13A|01|02|.03" codified:doc="Code of Maryland Regulations" codified:path="13A|01|02|.03">
-          <section cache:ref-path="13A|01|02|.03">
-            <prefix>Regulation</prefix>
-            <num>.03</num>
-            <heading>Approval of Construction Plans.</heading>
-            <para>
-              <num>A.</num>
-              <text>Purpose. The following requirements of this regulation shall be followed by local school systems to obtain the State Superintendent's approval of certain school construction projects pursuant to <cite doc="Md. Code" path="ged|2-303">Education Article, §2-303(f), Annotated Code of Maryland</cite>.</text>
-            </para>
-            <para>
-              <num>B.</num>
-              <text>Applicable projects include the following:</text>
-              <para>
-                <num>(1)</num>
-                <text>Plans or specifications for the remodeling of or addition to a school building if the remodeling or addition costs more than $350,000;</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>Change orders that cost more than $25,000 for the remodeling, restoration, or construction of a school building.</text>
-              </para>
-            </para>
-            <para>
-              <num>C.</num>
-              <text>Exceptions. A public school construction project or public school capital improvement project for which State planning approval is requested and approved by the Board of Public Works pursuant to <cite doc="Md. Code" path="ged|5-301">Education Article, §5-301, Annotated Code of Maryland</cite>, is excepted from the requirements of this regulation.</text>
-            </para>
-            <para>
-              <num>D.</num>
-              <text>Procedures.</text>
-              <para>
-                <num>(1)</num>
-                <text>Requests for approval shall be in writing and addressed to the State Superintendent.</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>The State Superintendent shall approve or disapprove all applicable projects under <cite path="13A|01|02|.03|B." doc="Code of Maryland Regulations">§B of this regulation</cite>.</text>
-              </para>
-              <para>
-                <num>(3)</num>
-                <text>If the State Superintendent disapproves any plan, specification, proposal, or change order, the Superintendent shall state in writing the reasons for disapproval.</text>
-              </para>
-              <para>
-                <num>(4)</num>
-                <text>Approvals required by the fire marshal and other State and local agencies shall be obtained by the local school system before submitting a request for approval of the Superintendent.</text>
-              </para>
-              <para>
-                <num>(5)</num>
-                <text>A local school system may use Interagency Committee/Public School Construction Program (IAC/PSCP) forms for the above referenced requests. If the IAC/PSCP forms are used, a notation of Non-State Funded Project shall be placed at the top of each form.</text>
-              </para>
-              <para>
-                <num>(6)</num>
-                <text>Requests for approval shall be addressed to the State Superintendent of Schools, c/o School Facilities Branch, 200 West Baltimore Street, Baltimore, Maryland 21201.</text>
-              </para>
-              <para>
-                <num>(7)</num>
-                <text>Upon completion of the project, a letter shall be submitted to the Superintendent from the local school system certifying that the project is completed.</text>
-              </para>
-            </para>
-            <para>
-              <num>E.</num>
-              <text>The following information shall be submitted:</text>
-              <para>
-                <num>(1)</num>
-                <text>Notification of intent to proceed with a project under <cite path="13A|01|02|.03|B." doc="Code of Maryland Regulations">§B of this regulation</cite>;</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>Educational specifications consistent with the outline for educational specifications in the IAC/PSCP Administrative Procedures Guide;</text>
-              </para>
-              <para>
-                <num>(3)</num>
-                <text>Schematic plans;</text>
-              </para>
-              <para>
-                <num>(4)</num>
-                <text>Design development documents;</text>
-              </para>
-              <para>
-                <num>(5)</num>
-                <text>Construction documents;</text>
-              </para>
-              <para>
-                <num>(6)</num>
-                <text>Contract award or authorization for use of local staff;</text>
-              </para>
-              <para>
-                <num>(7)</num>
-                <text>Testing</text>
-              </para>
-            </para>
-          </section>
-        </codify:replace>
-        <codify:insert history="false" doc="Code of Maryland Regulations" path="13A|01|02" before="annos" codified:doc="Code of Maryland Regulations" codified:path="13A|01|02|.07">
-          <section>
-            <prefix>Regulation</prefix>
-            <num>.07</num>
-            <heading>New test Reg</heading>
-            <text>Test reg text</text>
-          </section>
-        </codify:insert>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="13A|01|02|annos" codified:doc="Code of Maryland Regulations" codified:path="13A|01|02|annos">
-          <annotations>
-            <annotation type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|2-205">2-205</cite>(g), <cite doc="Md. Code" path="ged|2-303">2-303</cite>, <cite doc="Md. Code" path="ged|2-305">2-305</cite>, <cite doc="Md. Code" path="ged|5-301">5-301</cite>, <cite doc="Md. Code" path="ged|7-103">7-103</cite>, and <cite doc="Md. Code" path="ged|7-409">7-409</cite>, Annotated Code of Maryland</annotation>
-            <annotation type="History" subtype="Administrative History" dest="container" effective="1963-08-28">Effective date: August 28, 1963</annotation>
-            <annotation type="History" subtype="Administrative History" dest="container" effective="1979-02-26"><cite path="|13A|01|02|.03" doc="Code of Maryland Regulations">Regulation .03</cite> adopted effective February 26, 1979 (6:4 Md. R. 278)</annotation>
-            <annotation type="History" subtype="Administrative History" dest="container" effective="1986-01-27"><cite path="|13A|01|02|.04" doc="Code of Maryland Regulations">Regulation .04</cite> adopted effective January 27, 1986 (13:2 Md. R. 138)</annotation>
-            <annotation type="History" subtype="Administrative History" dest="container" effective="1989-01-15" discontinuity="true">Chapter revised effective January 15, 1989 (15:27 Md. R. 3129)</annotation>
-            <annotation type="History" subtype="Administrative History" dest="container" effective="1999-11-01"><cite path="|13A|01|02|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective November 1, 1999 (26:22 Md. R. 1694)</annotation>
-            <annotation type="History" subtype="Administrative History" dest="container" effective="2007-03-12"><cite path="|13A|01|02|.04" doc="Code of Maryland Regulations">Regulation .04</cite> adopted effective March 12, 2007 (34:5 Md. R. 561)</annotation>
-            <annotation type="History" subtype="Administrative History" dest="container" effective="2011-10-03"><cite path="|13A|01|02|.05" doc="Code of Maryland Regulations">Regulation .05</cite> adopted effective October 3, 2011 (38:20 Md. R. 1203)</annotation>
-            <annotation type="History" subtype="Administrative History" dest="container" effective="2014-12-22"><cite path="|13A|01|02|.06" doc="Code of Maryland Regulations">Regulation .06</cite> adopted effective December 22, 2014 (41:25 Md. R. 1486)</annotation>
-            <annotation type="History" subtype="Administrative History" dest="container" effective="2025-08-14"><cite path="|13A|01|02|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective August 14, 2025 (52:16 Md. R 085)</annotation>
-          </annotations>
-        </codify:replace>
       </container>
       <container codify:applicability="2025-07-11" codify:expire="2026-01-10">
         <num>25-127-E</num>
@@ -184,6 +70,34 @@
       </container>
       <container>
         <num>25-079-F</num>
+        <codify:insert history="false" doc="Code of Maryland Regulations" codified:doc="Code of Maryland Regulations" codified:path="99">
+          <container>
+            <prefix>Title</prefix>
+            <num>99</num>
+            <heading>Insert title heading.</heading>
+          </container>
+        </codify:insert>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="99" codified:doc="Code of Maryland Regulations" codified:path="99|01">
+          <container>
+            <prefix>Subtitle</prefix>
+            <num>01</num>
+            <heading>Insert subtitle heading.</heading>
+          </container>
+        </codify:insert>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="99|01" codified:doc="Code of Maryland Regulations" codified:path="99|01|01">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>01</num>
+            <heading>Insert chapter heading.</heading>
+            <text>
+              <strong>.01</strong>
+            </text>
+            <annotations>
+              <annotation type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
       </container>
     </container>
   </container>
