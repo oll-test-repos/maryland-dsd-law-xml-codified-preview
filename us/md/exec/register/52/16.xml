@@ -67,6 +67,13 @@
       </container>
       <container>
         <num>25-086-F</num>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="14|35|08|annos" codified:doc="Code of Maryland Regulations" codified:path="14|35|08|annos">
+          <annotations>
+            <annotation type="Authority" dest="container">Insurance Article, §§<cite doc="Md. Code" path="gin|31-106">31-106</cite>(c)(<cite doc="Md. Code" path="gin|1">1</cite>)(iv) and <cite doc="Md. Code" path="gin|31-113">31-113</cite>(p), Annotated Code of Maryland</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="2015-06-08">Effective date: June 8, 2015 (42:11 Md. R. 725)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="2020-06-15"><cite path="|14|35|08|.06|C." doc="Code of Maryland Regulations">Regulation .06C</cite> repealed effective June 15, 2020 (47:12 Md. R. 597)</annotation>
+          </annotations>
+        </codify:replace>
       </container>
       <container>
         <num>25-079-F</num>
@@ -74,7 +81,7 @@
           <container>
             <prefix>Title</prefix>
             <num>99</num>
-            <heading>Insert title heading.</heading>
+            <heading>Test Title</heading>
           </container>
         </codify:insert>
         <codify:insert history="false" doc="Code of Maryland Regulations" path="99" codified:doc="Code of Maryland Regulations" codified:path="99|01">
