@@ -13,9 +13,11 @@
     </para>
     <para>
       <num>B.</num>
-      <text>If anything contained in these regulations conflicts with other federal or State requirements, the more stringent requirements shall be followed.</text>
+      <text>If anything contained in these regulations <cite path="09|13|06|attachments|new-attachment">conflicts with other federal</cite> or State requirements, the more stringent requirements shall be followed.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-038-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -85,7 +87,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>A licensed property line surveyor as stated in <cite doc="Md. Code" path="gbo|15-101">Business Occupations and Professions Article, §15-101(g), Annotated Code of Maryland</cite>.</text>
+          <text>A licensed property line surveyor as <cite path="09|13|06|attachments|new-attachment">stated in Business Occupations and Professions Article</cite>, §15-101(g), Annotated Code of Maryland.</text>
         </para>
       </para>
       <para>
@@ -169,7 +171,9 @@
         <text>"Witness monument" means an identifiable point, object, or marker offset from the position of a survey marker, boundary point, or line which is used for the purpose of identifying the position of the survey marker, boundary point, or point on line through the use of distance measurements or angular measurements, or both.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-038-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="09|13|06|.03">
     <prefix>Regulation</prefix>
@@ -391,7 +395,9 @@
         <text>The surveyor shall use appropriate error propagation and other measurement design theory to select the proper instruments, field procedures, geometric layouts, and computational procedures to control and adjust random errors to achieve the allowable relative positional precision tolerance.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-038-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="09|13|06|.04">
     <prefix>Regulation</prefix>
@@ -589,7 +595,18 @@
       <num>F.</num>
       <text>Exemptions. Individuals who successfully completed the qualifying activity, as defined in Regulation.02B(15) of this chapter, from the certification entity, as defined in <cite path="|09|13|06|.02|B.|(6)">Regulation .02B(6) of this chapter</cite>, are permitted to produce topographic surveys.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-038-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04-1</num>
+    <heading>Test New Section Heading</heading>
+    <text>Test text</text>
+    <annotations>
+      <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-038-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="09|13|06|.05">
     <prefix>Regulation</prefix>
@@ -743,7 +760,9 @@
         <text>In general, what is well defined may also be determined by what is plottable on the scale of the map within 1/100 inch.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-038-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="09|13|06|.06">
     <prefix>Regulation</prefix>
@@ -943,7 +962,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-038-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -965,7 +986,9 @@
       <num>D.</num>
       <text>Seal and signature of the surveyor who personally prepared or was in responsible charge over the preparation of the as-constructed or record survey.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-038-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1027,7 +1050,9 @@
         <text>The metes and bounds description shall be signed and sealed by a surveyor who personally prepared or was in responsible charge over the preparation of the metes and bounds description.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-038-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1053,7 +1078,9 @@
       <num>E.</num>
       <text>Seal and signature of the surveyor who personally prepared or was in responsible charge of the preparation of the right-of-way/easement survey.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-038-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1192,7 +1219,9 @@
         <text>Nothing in this regulation is intended to modify any of the requirements set forth in <cite path="09|13|06|.12|I.">§I of this regulation</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-038-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1209,7 +1238,9 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation type="Authority" dest="container"><cite doc="Md. Code" path="gbo|15-208">Business Occupations and Professions Article, §15-208(b)(4), </cite>Annotated Code of Maryland</annotation>
+    <annotation type="Authority" dest="container">
+      <cite doc="Md. Code" path="gbo|15-208">Business Occupations and Professions Article, §15-208(b)(4), Annotated Code of Maryland</cite>
+    </annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1994-12-01">Effective date: December 1, 1994 (21:22 Md. R. 1875)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1995-01-27">Annotation: Regulations <cite path="|09|13|06|.01">.01</cite>—<cite path="|09|13|06|.10">.10</cite>, which were adopted effective December 1, 1994, can be found at 21:21 Md. R. 1875 and 21:11 Md. R. 958. Judicial action stayed the effectiveness of these regulations. Maryland Society of Surveyors et al. v. William A. Fogle et al., Case No. 94314037/CE 188625, Circuit Court for Baltimore City. A consent order, dated January 27, 1995, required the repeal of these regulations without taking effect. The consent order included new regulations to be adopted.</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1995-06-05" discontinuity="true">Regulations <cite path="|09|13|06|.01">.01</cite>—<cite path="|09|13|06|.10">.10</cite> repealed and new Regulations <cite path="|09|13|06|.01">.01</cite>—<cite path="|09|13|06|.14">.14</cite> adopted as an emergency provision effective March 1, 1995 (22:5 Md. R. 364); adopted permanently effective June 5, 1995 (22:11 Md. R. 820)</annotation>
@@ -1240,5 +1271,11 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="2011-06-13"><cite path="|09|13|06|.12|H.">Regulation .12H</cite> adopted effective June 13, 2011 (38:12 Md. R. 704)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2025-08-04"><cite path="|09|13|06|.12|I.">Regulation .12I</cite> amended effective August 4, 2025 (52:15 Md. R. 811)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2018-08-27"><cite path="|09|13|06|.12|J.">Regulation .12J</cite> amended effective August 27, 2018 (45:17 Md. R. 802)</annotation>
+    <annotation type="Authority" dest="container"><cite doc="Md. Code" path="gbo|15-208">Business Occupations and Professions Article, §15-208(b)(4), </cite>Annotated Code of Maryland</annotation>
+    <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-038-F" type="History" display="false"/>
   </annotations>
+  <attachments>
+    <attachment name="new-attachment" url="/us/md/exec/register/52/15/attachments/new-attachment.pdf"/>
+    <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-038-F" type="History"/>
+  </attachments>
 </container>
