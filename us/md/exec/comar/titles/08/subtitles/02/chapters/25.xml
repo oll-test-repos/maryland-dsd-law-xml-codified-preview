@@ -9,7 +9,7 @@
     <heading>Gear Definitions.</heading>
     <para>
       <num>A.</num>
-      <text>In this subtitle, the following terms have the meanings indicated.</text>
+      <text>CHANGE.</text>
     </para>
     <para>
       <num>B.</num>
@@ -327,7 +327,9 @@
         <text>"Trolling" means the method of angling during which fish are attracted to a lure or bait being trailed from a boat which is moving forward or backward by mechanical, manual, or wind power.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2024-11-25" doc="Maryland Register, Volume 51, Issue 23" eff="2024-11-25" path="regulations|final|24-040-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="08|02|25|.02">
     <prefix>Regulation</prefix>

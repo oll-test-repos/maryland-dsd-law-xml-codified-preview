@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Maryland Register, Volume 51, Issue 23" codify:doc="Code of Maryland Regulations">
+  <num>51-23</num>
+  <meta>
+    <stub/>
+    <effective>2024-11-25</effective>
+    <citations>
+      <citation type="register" url="./51-23.pdf">51:23</citation>
+    </citations>
+    <history>
+      <published>2024-11-15</published>
+    </history>
+  </meta>
+  <container name="regulations">
+    <container name="emergency">
+      <container codify:applicability="2024-10-16" codify:expire="2025-04-15">
+        <num>24-146-E-I</num>
+      </container>
+      <container codify:applicability="2024-10-16" codify:expire="2025-04-15">
+        <num>24-139-E-I</num>
+      </container>
+    </container>
+    <container name="final">
+      <container>
+        <num>24-040-F</num>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="08|02|25|.01" codified:doc="Code of Maryland Regulations" codified:path="08|02|25|.01">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.01</num>
+            <heading>Gear Definitions.</heading>
+            <para>
+              <num>A.</num>
+              <text>CHANGE.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Terms Defined.</text>
+              <para>
+                <num>(1)</num>
+                <text>“Archery equipment” means a vertical bow or a crossbow.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>“Bank pole” means a line and hook dangling into a river, stream, or lake that has the other end attached to a pole which is stuck into the ground.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>“Bush-bob” means a line and hook dangling into a river, stream, or lake that has the other end attached to an overhead tree or bush limb.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>“Cast net” means a circular monofilament or multi-ply net with weights distributed around its edge that is cast or thrown by hand in such a manner that it spreads out on the water and sinks.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>“Chumming” means placing fish, parts of fish, or other natural or manmade attractants upon which fish might feed, in the water, not attached to a hook, for the purpose of attracting fish to a particular area so that they might be caught.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>"Circle hook" means a non-offset hook with the point turned perpendicularly back to the shank.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>“Dip net” means a mesh bag of netting which is suspended from a circular, oval, or a rectangular frame attached to a long handle or rope.</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>“Eel pot” means an enclosure constructed of wire having:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>A square mesh size not less than 1/2 inch; or</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>If the mesh is smaller than 1/2 inch by 1/2 inch, an escape panel installed in an exterior wall of the retention chamber measuring at least 16 square inches made of 1/2 inch by 1/2 inch mesh.</text>
+                </para>
+              </para>
+              <para>
+                <num>(9)</num>
+                <text>“Finfish trotline” means a length of rope or line, buoyed at both ends with one or more anchors, which is baited with hooks set at intervals for the purpose of catching finfish.</text>
+              </para>
+              <para>
+                <num>(10)</num>
+                <text>"Fish pot" means a single, finfish entrapment net device, without associated wings or leads, consisting of:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>An enclosure of various shapes covered with mesh webbing of not less than 1-1/2 inch mesh size;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>One or more conical entrance funnels; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>One or more unobstructed escape vents, in the holding chamber, of at least 2-1/2 inches in diameter, if circular, or 2-1/2 inches mesh size if square.</text>
+                </para>
+              </para>
+              <para>
+                <num>(11)</num>
+                <text>“Fyke net” means a stationary finfish entrapment net device, without a pound or crib, consisting of:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>A series of hoops covered by mesh webbing of #12, or larger, twine of not less than 1-1/2 inch mesh size;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>No more than one set of wings;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>A leader or hedging not longer than 250 feet consisting of #12, or larger, twine and with a minimum mesh size of 3 inches;</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>In nets with a mesh size less than 2-1/2 inches, a cull panel at least 1 foot by 1 foot with unobstructed escape meshes when set with a minimum mesh size of 2-1/2 inches;</text>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>A single entrance funnel; and</text>
+                </para>
+                <para>
+                  <num>(f)</num>
+                  <text>One or more internal funnel shaped throats.</text>
+                </para>
+              </para>
+              <para>
+                <num>(12)</num>
+                <text>“Gig” means an implement with a shaft and three-pronged barbed point which is either thrust or thrown by hand.</text>
+              </para>
+              <para>
+                <num>(13)</num>
+                <text>"Gill net" means a net which:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Is maintained in a vertical position in the water with sinkers, floats, or stakes, or a combination of sinkers, floats, and stakes; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Captures fish by means of a mesh too small to permit passage of the body of the fish or withdrawal of the head once the posterior margin of the gill covers has passed through the mesh.</text>
+                </para>
+              </para>
+              <para>
+                <num>(14)</num>
+                <text>“Gill net, anchored” means a gill net that is stationary in the water and secured to the bottom by weights on either end or along the bottom line which prevent the gill net from drifting freely with the tide or current.</text>
+              </para>
+              <para>
+                <num>(15)</num>
+                <text>“Gill net, attended” means the licensee remains in the boat within 2 miles of the gill net while it is in waters of the Chesapeake Bay, or within 1 mile when the gill net is in waters of the Atlantic Ocean, its coastal bays and their tributaries, or a tributary of the Chesapeake Bay.</text>
+              </para>
+              <para>
+                <num>(16)</num>
+                <text>“Gill net, drift” means a gill net not secured to or anchored to the bottom, designed to drift with the natural or prevailing tidal current, including a gill net rigged with up to 20 pounds of weight at each end, in addition to that weight required to achieve negative buoyancy.</text>
+              </para>
+              <para>
+                <num>(17)</num>
+                <text>“Gill net, stake” means a gill net hung from or supported by stakes which are set in a row and driven into the bottom.</text>
+              </para>
+              <para>
+                <num>(18)</num>
+                <text>“Hand” means a method of fishing whereby an individual uses their own hand to physically capture the fish.</text>
+              </para>
+              <para>
+                <num>(19)</num>
+                <text>“Handline” means a fishing line attended primarily by hand.</text>
+              </para>
+              <para>
+                <num>(20)</num>
+                <text>"Haul seine" means an encircling type of net with wings, brail lines and poles, and a bunt or pocket, and with the following characteristics:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Made of at least #12 twine;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Wings not greater than 15 feet in width at the attachment with the brail poles or brail line;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>A width or depth not exceeding 22 feet at the bunt or back; and</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>A width of the bunt or back not greater than 100 feet.</text>
+                </para>
+              </para>
+              <para>
+                <num>(21)</num>
+                <text>"Hook and line" means a line free of mechanical devices except for reels attached to a pole or rod or held in hand and attended in a manner that the fish is caught by the hook.</text>
+              </para>
+              <para>
+                <num>(22)</num>
+                <text>“Hook unit” means a lure with multiple hooks.</text>
+              </para>
+              <para>
+                <num>(23)</num>
+                <text>"Hoop net" means a single finfish entrapment net device consisting of:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>An enclosure formed by a series of hoops covered by mesh webbing of #12, or larger, twine, of not less than 1-1/2 inch mesh size;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>One or more internal funnel-shaped throats;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>A single entrance funnel;</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>No wings and leader; and</text>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>In nets with a mesh size less than 2-1/2 inches, a cull panel at least 1 foot by 1 foot with unobstructed escape meshes when set having a minimum mesh size of 2-1/2 inches.</text>
+                </para>
+              </para>
+              <para>
+                <num>(24)</num>
+                <text>"J hook" means a hook having a point parallel to the hook shank.</text>
+              </para>
+              <para>
+                <num>(25)</num>
+                <text>“Jug” means a method of fishing that uses lines suspended from floating containers or devices.</text>
+              </para>
+              <para>
+                <num>(26)</num>
+                <text>“Landing net” means a mesh bag which is suspended from a circular, oval, or rectangular frame attached to a short handle which is operated by hand to capture a fish which is being caught by other means.</text>
+              </para>
+              <para>
+                <num>(27)</num>
+                <text>“Live-lining” means using a live finfish on a hook for the purpose of catching other fish with:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Hook and line;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Rod and reel; or</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Handlines.</text>
+                </para>
+              </para>
+              <para>
+                <num>(28)</num>
+                <text>“Lure” means an artificial bait used for catching fish.</text>
+              </para>
+              <para>
+                <num>(29)</num>
+                <text>"Net" means a mesh webbing panel or multiple panels, whether continuous or discontinuous, which may be joined in various configurations for the capture of fish.</text>
+              </para>
+              <para>
+                <num>(30)</num>
+                <text>“Noodling” means a method of catching fish using one’s hands or feet while in the water.</text>
+              </para>
+              <para>
+                <num>(31)</num>
+                <text>"Number 12 twine" means tightly twisted or braided nylon fibers, which are between 0.043 and 0.048 inches in diameter when compressed.</text>
+              </para>
+              <para>
+                <num>(32)</num>
+                <text>"Offset hook" means a hook with the point and barb not in the same plane with the shank.</text>
+              </para>
+              <para>
+                <num>(33)</num>
+                <text>"Pound net" means a fixed finfish entrapment net device consisting of:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>One or more pounds or cribs each measuring at least 16 feet long by 16 feet wide at the surface of the water with a netting floor and open top;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Mesh webbing with a twine size of #12 or larger;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>At least one heart leading into the crib;</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>A leader or hedging consisting of #12 twine or larger and with a minimum mesh size of 3 inches; and</text>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>No other type of fishing device, netting, or wire within the pound or crib.</text>
+                </para>
+              </para>
+              <para>
+                <num>(34)</num>
+                <text>“Rod” means a pole, cane, or stick to which a line can be attached directly.</text>
+              </para>
+              <para>
+                <num>(35)</num>
+                <text>“Rod and reel” means a pole with a line and usually a line winding mechanism, attached at the bottom of the pole, and is turned by a crank so that the line is wound around a barrel.</text>
+              </para>
+              <para>
+                <num>(36)</num>
+                <text>“Seine” means an encircling type of net with mesh.</text>
+              </para>
+              <para>
+                <num>(37)</num>
+                <text>“Slat basket” means a wooden box that funnels fish down into a holding area that is usually baited.</text>
+              </para>
+              <para>
+                <num>(38)</num>
+                <text>“Snagging” means actively fishing with a hook that intentionally foul-hooks the fish outside the mouth.</text>
+              </para>
+              <para>
+                <num>(39)</num>
+                <text>“Spear” means a shaft with one sharp point and/or a barb for capturing a fish by piercing its body.</text>
+              </para>
+              <para>
+                <num>(40)</num>
+                <text>“Spear gun” means any type of device used for propelling a spear under water by any means other than manual in order to catch fish.</text>
+              </para>
+              <para>
+                <num>(41)</num>
+                <text>“Stinger hook” means any hook which trails another hook or hook unit, either by direct physical attachment to the lead hook or hook unit, or by a connective device such as a line, swivel or chain, and is part of the same bait or lure.</text>
+              </para>
+              <para>
+                <num>(42)</num>
+                <text>“Tip up” means a device used in ice fishing in which a signal flag is raised when a fish takes the bait.</text>
+              </para>
+              <para>
+                <num>(43)</num>
+                <text>“Trap” means a single, bait finfish entrapment device, without associated wings or leads, and consisting of:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>An enclosure of various shapes covered with mesh of not greater than 1/2-inch square mesh size for tidal waters and 1/4-inch square mesh for nontidal waters;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>One or more entrances with an opening not more than 2 inches in diameter in tidal waters or not more than 1 inch in diameter in nontidal waters; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>No dimension greater than 24 inches in any direction.</text>
+                </para>
+              </para>
+              <para>
+                <num>(44)</num>
+                <text>"Trip" means the duration which begins with departure of the fishing vessel from a shore-based location and which terminates with return to a shore-based location.</text>
+              </para>
+              <para>
+                <num>(45)</num>
+                <text>"Trolling" means the method of angling during which fish are attracted to a lure or bait being trailed from a boat which is moving forward or backward by mechanical, manual, or wind power.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+      </container>
+      <container>
+        <num>24-070-F</num>
+      </container>
+      <container>
+        <num>24-106-F-I</num>
+      </container>
+      <container codify:applicability="2024-12-01">
+        <num>24-103-F</num>
+      </container>
+      <container>
+        <num>24-085-F</num>
+      </container>
+      <container>
+        <num>24-102-F</num>
+      </container>
+      <container>
+        <num>24-082-F</num>
+      </container>
+    </container>
+  </container>
+</document>
