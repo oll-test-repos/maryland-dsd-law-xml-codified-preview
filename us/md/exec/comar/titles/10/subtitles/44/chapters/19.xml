@@ -407,7 +407,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-212">1-212</cite> and <cite doc="Md. Code" path="gho|4-505">4-505</cite>, Annotated Code of Maryland</annotation>
+    <annotation type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-212">1-212</cite> and <cite doc="Md. Code" path="gho|4-505">4-505</cite>, Annotated Code of Maryland</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1991-02-18">Effective date: February 18, 1991 (18:3 Md. R. 306)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2004-04-12"><cite path="|10|44|19|.03">Regulation .03</cite> amended effective March 8, 1999 (26:5 Md. R. 392); April 12, 2004 (31:7 Md. R. 585)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1994-11-20"><cite path="|10|44|19|.04">Regulation .04</cite> amended effective November 20, 1994 (21:23 Md. R. 1934)</annotation>
@@ -423,5 +423,7 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="2015-12-21" discontinuity="true">Chapter revised effective December 21, 2015 (42:25 Md. R. 1544)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2016-06-06"><cite path="|10|44|19|.03|A.">Regulation .03A</cite> amended effective June 6, 2016 (43:11 Md. R. 634)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2025-01-01" discontinuity="true">Chapter revised effective January 1, 2025 (51:22 Md. R. 963)</annotation>
+    <annotation type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-212">1-212</cite> and <cite doc="Md. Code" path="gho|4-505">4-505</cite>, Annotated Code of Maryland</annotation>
+    <annotation app="2025-01-01" doc="Maryland Register, Volume 51, Issue 22" eff="2024-11-11" path="regulations|final|23-235-F" type="History" display="false"/>
   </annotations>
 </container>

@@ -1320,7 +1320,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation type="Authority" dest="container">Health-General Article, §§19-207, 19-215, and 19-303,Annotated Code of Maryland</annotation>
+    <annotation type="Authority" dest="container">Health-General Article, §§19-207, 19-215, and 19-303,Annotated Code of Maryland</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1973-04-24">Effective date: April 24, 1973</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1974-09-19"><cite path="|10|37|01|.01|B.">Regulation .01B</cite>, C, E, F, J, and K adopted effective September 19, 1974 (1:1 Md. R. 17)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1978-07-28"><cite path="|10|37|01|.03">Regulation .03</cite> amended effective July 28, 1978 (5:15 Md. R. 1189)</annotation>
@@ -1363,5 +1363,7 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="2007-08-13"><cite path="|10|37|01|.06|I.">Regulation .06I</cite> amended effective August 13, 2007 (34:16 Md. R. 1432)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1992-01-06"><cite path="|10|37|01|.08">Regulation .08</cite> adopted effective January 6, 1992 (18:26 Md. R. 2830)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2015-09-14"><cite path="|10|37|01|.08|A.">Regulation .08A</cite>, B amended effective September 14, 2015 (42:18 Md. R. 1174)</annotation>
+    <annotation type="Authority" dest="container">Health-General Article, §§19-207, 19-215, and 19-303,Annotated Code of Maryland</annotation>
+    <annotation app="2024-11-11" doc="Maryland Register, Volume 51, Issue 22" eff="2024-11-11" path="regulations|final|24-091-F" type="History" display="false"/>
   </annotations>
 </container>
