@@ -2177,7 +2177,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-205">4-205</cite>, <cite doc="Md. Code" path="gnr|4-205">4-205</cite>.1, 4-206, 4-212, 4-214, 4-215, 4-215.2, 4-2A-03, 4-216, 4-306, 4-405, 4-407, 4-602, 4-604, 4-701, 4-701.1, 4-735, 4-745, 4-1006, 4-1006.1, 4-1009, 4-1011, 4-1012, 4-1103, 4-11A-02, 4-11A-04—4-11A-09, 4-11A-11, 4-11A-20, and 4-11A-21; <cite doc="Md. Code" path="gsg|10-206">State Government Article, §10-206</cite>;  Annotated Code of Maryland</annotation>
+    <annotation type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-205">4-205</cite>, <cite doc="Md. Code" path="gnr|4-205">4-205</cite>.1, 4-206, 4-212, 4-214, 4-215, 4-215.2, 4-2A-03, 4-216, 4-306, 4-405, 4-407, 4-602, 4-604, 4-701, 4-701.1, 4-735, 4-745, 4-1006, 4-1006.1, 4-1009, 4-1011, 4-1012, 4-1103, 4-11A-02, 4-11A-04—4-11A-09, 4-11A-11, 4-11A-20, and 4-11A-21; <cite doc="Md. Code" path="gsg|10-206">State Government Article, §10-206</cite>;  Annotated Code of Maryland</annotation>
     <annotation type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1991-04-29"><cite path="|08|02|01|.01">Regulation .01</cite> adopted effective April 29, 1991 (18:8 Md. R. 863)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2018-03-26"><cite path="|08|02|01|.01">Regulation .01</cite> amended effective November 11, 1991 (18:22 Md. R. 2395); December 6, 1993 (20:24 Md. R. 1864); July 8, 2002 (29:13 Md. R. 990); March 26, 2018 (45:6 Md. R. 317)</annotation>
@@ -2224,7 +2224,5 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|08|02|01|.15">Regulation .15</cite> adopted effective August 29, 2016 (43:17 Md. R. 953)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2019-02-11"><cite path="|08|02|01|.16">Regulation .16</cite> adopted effective February 11, 2019 (46:3 Md. R. 106)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2020-03-09"><cite path="|08|02|01|.16|C.">Regulation .16C</cite> amended effective September 23, 2019 (46:19 Md. R. 813); March 9, 2020 (47:5 Md. R. 310)</annotation>
-    <annotation type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-205">4-205</cite>, <cite doc="Md. Code" path="gnr|4-205">4-205</cite>.1, 4-206, 4-212, 4-214, 4-215, 4-215.2, 4-2A-03, 4-216, 4-306, 4-405, 4-407, 4-602, 4-604, 4-701, 4-701.1, 4-735, 4-745, 4-1006, 4-1006.1, 4-1009, 4-1011, 4-1012, 4-1103, 4-11A-02, 4-11A-04—4-11A-09, 4-11A-11, 4-11A-20, and 4-11A-21; <cite doc="Md. Code" path="gsg|10-206">State Government Article, §10-206</cite>;  Annotated Code of Maryland</annotation>
-    <annotation app="2024-11-11" doc="Maryland Register, Volume 51, Issue 22" eff="2024-11-11" path="regulations|final|24-098-F" type="History" display="false"/>
   </annotations>
 </container>

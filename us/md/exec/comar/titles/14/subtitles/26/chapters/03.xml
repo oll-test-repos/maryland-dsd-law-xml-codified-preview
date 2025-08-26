@@ -545,9 +545,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation type="Authority" dest="container">
-      <cite doc="Md. Code" path="gsg|9-2006">State Government Article, §9-2006, Annotated Code of Maryland</cite>
-    </annotation>
+    <annotation type="Authority" dest="container"><cite doc="Md. Code" path="gsg|9-2006">State Government Article, §9-2006, </cite>Annotated Code of Maryland</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2004-11-22">Effective date: November 22, 2004 (31:23 Md. R. 1655)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2006-06-19" discontinuity="true">Regulations 01—.13 repealed and new Regulations <cite path="|14|26|03|.01">.01</cite>—<cite path="|14|26|03|.13">.13</cite> adopted effective June 19, 2006 (33:12 Md. R. 998)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2025-01-01"><cite path="|14|26|03|.01">Regulation .01</cite> amended effective January 1, 2025 (Md. R. 964)</annotation>
@@ -562,7 +560,5 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="2025-01-01"><cite path="|14|26|03|.11">Regulation .11</cite> amended effective January 1, 2025 (Md. R. 964)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2025-01-01"><cite path="|14|26|03|.12|D.">Regulation .12D</cite> adopted effective January 1, 2025 (Md. R. 964)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2025-01-01"><cite path="|14|26|03|.13|A.">Regulation .13A</cite> amended effective January 1, 2025 (Md. R. 964)</annotation>
-    <annotation type="Authority" dest="container"><cite doc="Md. Code" path="gsg|9-2006">State Government Article, §9-2006, </cite>Annotated Code of Maryland</annotation>
-    <annotation app="2025-01-01" doc="Maryland Register, Volume 51, Issue 22" eff="2024-11-11" path="regulations|final|24-059-F" type="History" display="false"/>
   </annotations>
 </container>
