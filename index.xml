@@ -16,10 +16,10 @@
     <history-start>2025-01-01</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="maryland-dsd/law-xml" commit="f236a3b6e6b90a5de8c71d8bf127f855fda02ca7"/>
+        <repository name="maryland-dsd/law-xml" commit="117ffda422514d53dc2a1817ea9e4ad910b06bbe"/>
       </repositories>
-      <platform version="2.17.4.dev4670" reproducible="false"/>
-      <build-date>2025-08-26</build-date>
+      <platform version="2.17.4" reproducible="false"/>
+      <build-date>2025-10-13</build-date>
       <codified-date>2025-03-03</codified-date>
     </build>
   </meta>
@@ -27,6 +27,5 @@
   <collection name="us/md/exec/register">
     <heading>Maryland Register</heading>
     <xi:include href="./us/md/exec/register/52/index.xml"/>
-    <xi:include href="./us/md/exec/register/51/index.xml"/>
   </collection>
 </library>

@@ -14,8 +14,10 @@
     <prefix>Regulation</prefix>
     <num>.02</num>
     <heading>Facility Database.</heading>
-    <text>The LEA shall update the IAC facility inventory when a State-funded project is substantially complete.</text>
-    <annotations/>
+    <text>CHANGE IS HERE!</text>
+    <annotations>
+      <annotation app="2025-01-20" doc="Maryland Register, Volume 52, Issue 1" eff="2025-01-20" path="regulations|final|24-117-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -762,129 +764,131 @@
           <tbody>
             <tr>
               <td>Allegany</td>
-              <td data-text-align="center">89%</td>
-              <td data-text-align="center">89%</td>
+              <td>89%</td>
+              <td>89%</td>
             </tr>
             <tr>
               <td>Anne Arundel</td>
-              <td data-text-align="center">50%</td>
-              <td data-text-align="center">50%</td>
+              <td>50%</td>
+              <td>50%</td>
             </tr>
             <tr>
               <td>Baltimore City</td>
-              <td data-text-align="center">94%</td>
-              <td data-text-align="center">91%</td>
+              <td>94%</td>
+              <td>91%</td>
             </tr>
             <tr>
               <td>Baltimore</td>
-              <td data-text-align="center">59%</td>
-              <td data-text-align="center">57%</td>
+              <td>59%</td>
+              <td>57%</td>
             </tr>
             <tr>
               <td>Calvert</td>
-              <td data-text-align="center">56%</td>
-              <td data-text-align="center">56%</td>
+              <td>56%</td>
+              <td>56%</td>
             </tr>
             <tr>
               <td>Caroline</td>
-              <td data-text-align="center">94%</td>
-              <td data-text-align="center">94%</td>
+              <td>94%</td>
+              <td>94%</td>
             </tr>
             <tr>
               <td>Carroll</td>
-              <td data-text-align="center">57%</td>
-              <td data-text-align="center">54%</td>
+              <td>57%</td>
+              <td>54%</td>
             </tr>
             <tr>
               <td>Cecil</td>
-              <td data-text-align="center">64%</td>
-              <td data-text-align="center">61%</td>
+              <td>64%</td>
+              <td>61%</td>
             </tr>
             <tr>
               <td>Charles</td>
-              <td data-text-align="center">64%</td>
-              <td data-text-align="center">64%</td>
+              <td>64%</td>
+              <td>64%</td>
             </tr>
             <tr>
               <td>Dorchester</td>
-              <td data-text-align="center">98%</td>
-              <td data-text-align="center">98%</td>
+              <td>98%</td>
+              <td>98%</td>
             </tr>
             <tr>
               <td>Frederick</td>
-              <td data-text-align="center">67%</td>
-              <td data-text-align="center">67%</td>
+              <td>67%</td>
+              <td>67%</td>
             </tr>
             <tr>
               <td>Garrett</td>
-              <td data-text-align="center">89%</td>
-              <td data-text-align="center">89%</td>
+              <td>89%</td>
+              <td>89%</td>
             </tr>
             <tr>
               <td>Harford</td>
-              <td data-text-align="center">61%</td>
-              <td data-text-align="center">58%</td>
+              <td>61%</td>
+              <td>58%</td>
             </tr>
             <tr>
               <td>Howard</td>
-              <td data-text-align="center">54%</td>
-              <td data-text-align="center">51%</td>
+              <td>54%</td>
+              <td>51%</td>
             </tr>
             <tr>
               <td>Kent</td>
-              <td data-text-align="center">50%</td>
-              <td data-text-align="center">50%</td>
+              <td>50%</td>
+              <td>50%</td>
             </tr>
             <tr>
               <td>Montgomery</td>
-              <td data-text-align="center">50%</td>
-              <td data-text-align="center">50%</td>
+              <td>50%</td>
+              <td>50%</td>
             </tr>
             <tr>
               <td>Prince George’s</td>
-              <td data-text-align="center">71%</td>
-              <td data-text-align="center">68%</td>
+              <td>71%</td>
+              <td>68%</td>
             </tr>
             <tr>
               <td>Queen Anne’s</td>
-              <td data-text-align="center">50%</td>
-              <td data-text-align="center">50%</td>
+              <td>50%</td>
+              <td>50%</td>
             </tr>
             <tr>
               <td>St. Mary’s</td>
-              <td data-text-align="center">58%</td>
-              <td data-text-align="center">58%</td>
+              <td>58%</td>
+              <td>58%</td>
             </tr>
             <tr>
               <td>Somerset</td>
-              <td data-text-align="center">100%</td>
-              <td data-text-align="center">100%</td>
+              <td>100%</td>
+              <td>100%</td>
             </tr>
             <tr>
               <td>Talbot</td>
-              <td data-text-align="center">50%</td>
-              <td data-text-align="center">50%</td>
+              <td>50%</td>
+              <td>50%</td>
             </tr>
             <tr>
               <td>Washington</td>
-              <td data-text-align="center">78%</td>
-              <td data-text-align="center">78%</td>
+              <td>78%</td>
+              <td>78%</td>
             </tr>
             <tr>
               <td>Wicomico</td>
-              <td data-text-align="center">98%</td>
-              <td data-text-align="center">95%</td>
+              <td>98%</td>
+              <td>95%</td>
             </tr>
             <tr>
               <td>Worcester</td>
-              <td data-text-align="center">50%.</td>
-              <td data-text-align="center">50%.</td>
+              <td>50%.</td>
+              <td>50%.</td>
             </tr>
           </tbody>
         </table>
       </text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-01-20" doc="Maryland Register, Volume 52, Issue 1" eff="2025-01-20" path="regulations|final|24-117-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|39|02|.07">
     <prefix>Regulation</prefix>
@@ -2878,10 +2882,10 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|2-303">2-303</cite>, <cite doc="Md. Code" path="ged|4-126">4-126</cite>, <cite doc="Md. Code" path="ged|5-112">5-112</cite>, and <cite doc="Md. Code" path="ged|5-303">5-303</cite>; <cite doc="Md. Code" path="gsf|5-7">State Finance and Procurement Article, §5-7</cite>B-07; Annotated Code of Maryland;<br/>Ch. 32, §5, Acts of 2022</annotation>
+    <annotation type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|2-303">2-303</cite>, <cite doc="Md. Code" path="ged|4-126">4-126</cite>, <cite doc="Md. Code" path="ged|5-112">5-112</cite>, and <cite doc="Md. Code" path="ged|5-303">5-303</cite>; <cite doc="Md. Code" path="gsf|5-7">State Finance and Procurement Article, §5-7</cite>B-07; Annotated Code of Maryland;<br/>Ch. 32, §5, Acts of 2022</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2007-05-21">Effective date: May 21, 2007 (34:10 Md. R. 891)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2009-11-02"><cite path="|14|39|02|.01|B.">Regulation .01B</cite> amended effective November 2, 2009 (36:22 Md. R. 1725)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2009-11-02"><cite path="|14|39|02|.01">Regulation .01</cite>-1 adopted effective November 2, 2009 (36:22 Md. R. 1725)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2009-11-02"><cite path="|14|39|02|.01-1">Regulation .01-1</cite> adopted effective November 2, 2009 (36:22 Md. R. 1725)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2009-11-02"><cite path="|14|39|02|.02|A.">Regulation .02A</cite> amended effective November 2, 2009 (36:22 Md. R. 1725)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2011-11-14"><cite path="|14|39|02|.03">Regulation .03</cite> amended effective November 2, 2009 (36:22 Md. R. 1725); November 14, 2011 (38:23 Md. R. 1423)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2009-11-02"><cite path="|14|39|02|.04|C.">Regulation .04C</cite> amended effective November 2, 2009 (36:22 Md. R. 1725)</annotation>
@@ -2902,7 +2906,7 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="2009-11-02"><cite path="|14|39|02|.16">Regulation .16</cite> amended effective November 2, 2009 (36:22 Md. R. 1725)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2009-11-02"><cite path="|14|39|02|.23|D.">Regulation .23D</cite> amended effective November 2, 2009 (36:22 Md. R. 1725)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2009-11-02"><cite path="|14|39|02|.24|E.">Regulation .24E</cite>, F repealed effective November 2, 2009 (36:22 Md. R. 1725)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2009-11-02"><cite path="|14|39|02|.24">Regulation .24</cite>-1 adopted effective November 2, 2009 (36:22 Md. R. 1725)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2009-11-02"><cite path="|14|39|02|.24-1">Regulation .24-1</cite> adopted effective November 2, 2009 (36:22 Md. R. 1725)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2011-11-14"><cite path="|14|39|02|.28">Regulation .28</cite> adopted effective November 14, 2011 (38:23 Md. R. 1423)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2011-11-14"><cite path="|14|39|02|.29">Regulation .29</cite> adopted effective November 14, 2011 (38:23 Md. R. 1423)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2014-11-24"><cite path="|14|39|02|.29">Regulation .29</cite> amended effective November 24, 2014 (41:23 Md. R. 1376)</annotation>
@@ -2931,5 +2935,9 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|14|39|02|.20">Regulation .20</cite> amended effective July 7, 2025 (52:13 Md. R. 656)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|14|39|02|.32|D.">Regulation .32D</cite> amended effective July 7, 2025 (52:13 Md. R. 656)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|14|39|02|.33">Regulation .33</cite> adopted effective July 7, 2025 (52:13 Md. R. 656)</annotation>
+    <annotation type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|2-303">2-303</cite>, <cite doc="Md. Code" path="ged|4-126">4-126</cite>, <cite doc="Md. Code" path="ged|5-112">5-112</cite>, and <cite doc="Md. Code" path="ged|5-303">5-303</cite>; <cite doc="Md. Code" path="gsf|5-7">State Finance and Procurement Article, §5-7</cite>B-07; Annotated Code of Maryland;<br/>Ch. 32, §5, Acts of 2022</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2009-11-02"><cite path="|14|39|02|.01">Regulation .01</cite>-1 adopted effective November 2, 2009 (36:22 Md. R. 1725)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2009-11-02"><cite path="|14|39|02|.24">Regulation .24</cite>-1 adopted effective November 2, 2009 (36:22 Md. R. 1725)</annotation>
+    <annotation app="2025-01-20" doc="Maryland Register, Volume 52, Issue 1" eff="2025-01-20" path="regulations|final|24-117-F" type="History" display="false"/>
   </annotations>
 </container>
