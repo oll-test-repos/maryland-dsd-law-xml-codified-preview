@@ -28,4 +28,6 @@
     <heading>Maryland Register</heading>
     <xi:include href="./us/md/exec/register/52/index.xml"/>
   </collection>
+  <collection name="editorial-actions">
+  </collection>
 </library>
