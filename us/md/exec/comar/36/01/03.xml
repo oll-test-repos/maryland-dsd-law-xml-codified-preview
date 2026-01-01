@@ -1,0 +1,609 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>03</num>
+  <heading>Voluntary Exclusion and Responsible Gaming</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>General.</heading>
+    <para>
+      <num>A.</num>
+      <text>Scope. This chapter establishes a mechanism by which an individual may request to be placed on the Commission's Voluntary Exclusion List of individuals with gambling problems who have requested to self-exclude themselves from a gaming activity or a combination of multiple gaming activities.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Definitions.</text>
+      <para>
+        <num>(1)</num>
+        <text>Unless context or regulation dictates otherwise, in this chapter the following terms have the meanings indicated.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Terms Defined.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Affiliated entity” means an entity sharing ownership or management with a licensee of a gaming activity.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Commission's Voluntary Exclusion List” means the list established by the Commission that allows an individual to request to be excluded from participating in certain gaming activities for a specified period of time.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Sports wagering licensee” means:</text>
+          <para>
+            <num>(i)</num>
+            <text>Sports wagering facility licensee;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Mobile sports wagering licensee;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Sports wagering facility operator licensee; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Online sports wagering operator licensee.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Commission shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Maintain the Commission's Voluntary Exclusion List for individuals who have requested to be excluded from a gaming activity; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Establish measures to reduce and mitigate the effects of problem gambling.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Application for Placement on the Commission's Voluntary Exclusion List.</heading>
+    <para>
+      <num>A.</num>
+      <text>An individual may obtain an application for placement on the Commission's Voluntary Exclusion List by:</text>
+      <para>
+        <num>(1)</num>
+        <text>Contacting a licensed video lottery facility and requesting an application from Commission staff;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Contacting a licensed instant bingo facility with more than 10 instant bingo machines and requesting an application that is solely for exclusion from a licensed instant bingo facility;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Contacting the Agency; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Obtaining an application online</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Information about an application for placement on the Commission’s Voluntary Exclusion List shall be available at:</text>
+      <para>
+        <num>(1)</num>
+        <text>Each licensed video lottery facility;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Each registered fantasy competition operator;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Each sports wagering licensee;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Each licensed instant bingo facility with more than 10 instant bingo machines; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Agency.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An individual may request to be excluded from:</text>
+      <para>
+        <num>(1)</num>
+        <text>A gaming activity by submitting a completed application for placement on the Commission’s Voluntary Exclusion List to Agency staff; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An instant bingo facility with more than 10 instant bingo machines by submitting a completed application to instant bingo facility staff.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A completed application for placement on the Commission’s Voluntary Exclusion List shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>Sufficient information and documentation to identify, exclude, and contact the individual;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A signature of the individual, which may include the use of a Commission-approved secure electronic means; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any other information about the individual that the Commission requires.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Information on a completed application may include the individual’s:</text>
+      <para>
+        <num>(1)</num>
+        <text>Name, including any nickname or alias;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Residential address;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Date of birth;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Valid, unexpired, government-issued identification that includes a photograph of the applicant;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Social Security number or other government-issued identification number;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Gender identity;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Physical description, including any birthmarks, scars, or tattoos;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Race or ethnic origin; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>A photograph of the individual.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>A completed application shall identify the length of time requested for placement on the Commission’s Voluntary Exclusion List, which shall be for:</text>
+      <para>
+        <num>(1)</num>
+        <text>At least 2 years; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Life;</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>In the completed application, an applicant shall acknowledge:</text>
+      <para>
+        <num>(1)</num>
+        <text>With the applicant’s written consent, certain problem gambling programs may contact the applicant;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The applicant is knowingly and voluntarily applying for inclusion on the Commission’s Voluntary Exclusion List;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Is sober and informed;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>That the applicant releases and holds harmless the State of Maryland, the Commission, the Agency, and their members, employees, and agents from any liability that may arise from the application or the individual’s placement on the Commission’s Voluntary Exclusion List;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>That the Commission is collecting information from the individual that the:</text>
+        <para>
+          <num>(a)</num>
+          <text>Individual may request to inspect or correct under <cite doc="Md. Code" path="ggp|4-502">General Provisions Article, §4-502, Annotated Code of Maryland</cite>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Commission will maintain as sociological information under <cite doc="Md. Code" path="ggp|4-330">General Provisions Article, §4-330, Annotated Code of Maryland</cite>; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Commission or its licensees may share with entities as provided in <cite path="|36|01|03|.05">Regulation .05 of this chapter</cite>;</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>That the release of information to the persons specified in <cite path="|36|01|03|.07">Regulation .07 of this chapter</cite> is permitted;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>For the entire term of the requested period of exclusion the individual will be prohibited from participating in each gaming activity selected;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>That there is no automatic removal from the Commission’s Voluntary Exclusion List;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>That the individual may be subject to criminal charges if, during the period of exclusion, the individual enters a video lottery facility in the State;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>That the individual may be excluded from participating in the gaming activity of an affiliated entity;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>That the individual is responsible for knowing from which properties and gaming platforms the individual is excluded;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>That the individual understands the individual’s responsibilities and possible outcomes associated with being placed on the Commission’s Voluntary Exclusion List; and</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>That the individual is voluntarily applying.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Upon receipt of a completed application for placement on the Commission’s Voluntary Exclusion List, assigned Agency staff may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Interview the individual in order to confirm that the individual:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is voluntarily applying for exclusion;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is sober and informed;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Confirms the information provided in the application is accurate and complete; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Is fully informed of the outcomes associated with being placed on the Commission’s Voluntary Exclusion List; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Decide whether to grant or deny the individual’s application for placement on the Commission’s Voluntary Exclusion List.</text>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>After determining whether to grant or deny an application, Agency staff shall either:</text>
+      <para>
+        <num>(1)</num>
+        <text>Place the individual on the Commission’s Voluntary Exclusion List; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Not place the individual on the Commission's Voluntary Exclusion List.</text>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Agency staff shall notify the individual:</text>
+      <para>
+        <num>(1)</num>
+        <text>For placement on the Commission’s Voluntary Exclusion List, by U.S. Mail; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For denial of an application, by U.S. mail or other agreed upon written communication.</text>
+      </para>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Notice to Individual Placed on the Commissions Voluntary Exclusion List. The Agency’s notice to an individual of placement on the Commissions Voluntary Exclusion List for video lottery facilities, shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>A statement from each video lottery facility informing the individual not to enter the video lottery facility;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notice that, if the individual enters a video lottery facility, the individual may be subject to criminal charges;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Notice that the individual may be excluded from gaming activity offered by an affiliated entity in Maryland or another jurisdiction; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Notice that, if the individual enters a video lottery facility that offers sports wagering, the individual may be subject to criminal charges.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Direct Exclusion by Operator.</heading>
+    <para>
+      <num>A.</num>
+      <text>Registered Fantasy Competition Operator.</text>
+      <para>
+        <num>(1)</num>
+        <text>A registered fantasy competition operator may, on request of an individual, directly exclude the individual from participating in  a fantasy competition through its platform.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A request for direct exclusion from a fantasy competition operator’s platform:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is not an application for placement on the Commissions Voluntary Exclusion List under this chapter;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Will not result in placement on the Commissions Voluntary Exclusion List;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Is not a record that is maintained by the Commission; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Does not prevent the person from using another fantasy competition platform in Maryland.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Mobile Sports Wagering Licensee.</text>
+      <para>
+        <num>(1)</num>
+        <text>An individual may request direct exclusion from a mobile sports wagering platform.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A request for direct exclusion from a mobile sports wagering platform:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is not an application for placement on the Commissions Voluntary Exclusion List;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Will not result in inclusion on the Commissions Voluntary Exclusion List;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Is not a record that is maintained by the Commission; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Does not prevent the individual from using another mobile sports wagering platform in Maryland.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Voluntary Surrender.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this regulation, the following term has the meaning indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Term Defined. Unredeemed item:</text>
+      <para>
+        <num>(1)</num>
+        <text>Means a token, voucher, check, ticket, chip, coupon, points, or similar item that has monetary value, and that a player has won, obtained, or otherwise received by playing or participating in a gaming activity.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Does not include cash.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An individual who applies to be placed on the Commissions Voluntary Exclusion List contractually agrees to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Redeem or liquidate an unredeemed item with monetary value that the individual has:</text>
+        <para>
+          <num>(a)</num>
+          <text>In their possession since being placed on the Commissions Voluntary Exclusion List; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Received from a fantasy competition, if the individual entered the fantasy competition after placement on the Commissions Voluntary Exclusion List; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Designate that the proceeds of the item be redeemed and distributed to the Problem Gambling Fund established under <cite doc="Md. Code" path="gsg|9-1">State Government Article, §9-1</cite>A-33(b), Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>The Commission's Voluntary Exclusion List.</heading>
+    <text>The Commission shall:</text>
+    <para>
+      <num>A.</num>
+      <text>Establish and maintain a list of individuals:</text>
+      <para>
+        <num>(1)</num>
+        <text>From whom it has received a completed application requesting to be excluded as provided in <cite path="|36|01|03|.01|B.">Regulation .01B of this chapter</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Whose request for placement on the Commissions Voluntary Exclusion List has been accepted under <cite path="|36|01|03|.02">Regulation .02 of this chapter</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Provide the Commission’s Voluntary Exclusion List for video lottery facilities to all video lottery facilities with periodic updates;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Enter the Commission’s Voluntary Exclusion List for lottery play into the Lottery Central System to ensure that an excluded individual’s prizes over $600 on a ticket will be surrendered under <cite path="|36|01|03|.04">Regulation .04 of this chapter</cite>;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Provide the Commission’s Voluntary Exclusion List for individuals who have self-excluded from instant bingo to an instant bingo facility with more than 10 instant bingo machines, with periodic updates;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Provide the Commission’s Voluntary Exclusion List for individuals who have self-excluded from participating in fantasy competitions to all registered fantasy competition operators, with periodic updates; and</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Provide the Commission’s Voluntary Exclusion List for individuals who have self-excluded from participating in sports wagering to sports wagering facility licensees and mobile sports wagering licensees, with periodic updates, to assist them in identifying excluded individuals.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Provide anonymized information from the Commission’s Voluntary Exclusion List to the Department of Health in accordance with Health General Article, §§5-1001—5-1009, Annotated Code of Maryland.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="36|01|03|.06">
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Removal from the Commissions Voluntary Exclusion List.</heading>
+    <para>
+      <num>A.</num>
+      <text>After an individual has been on the Commissions Voluntary Exclusion List for at least 2 years, the individual may request that the Commission remove the individual from the list.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An individual shall submit their request under <cite path="36|01|03|.06|A.">§A of this regulation</cite> in writing to the Commission accompanied by documentation that the individual has:</text>
+      <para>
+        <num>(1)</num>
+        <text>Completed:</text>
+        <para>
+          <num>(a)</num>
+          <text>A problem gambling treatment or prevention program approved by the Commission; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A healthy decision-making program that is sponsored or approved by the Commission, with a licensed professional counselor or other person approved by the Commission;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Executed an authorization and release to be removed from the Commission’s Voluntary Exclusion List; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Complied with any requirements deemed necessary by the Commission.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Commission is not required to hold a hearing in order to review the request for removal.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If the Commission:</text>
+      <para>
+        <num>(1)</num>
+        <text>Grants the request, it shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Deliver to the individual by email or regular mail a notice of removal from the Commissions Voluntary Exclusion List; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notify the State’s video lottery facilities, instant bingo facilities with more than 10 instant bingo machines, registered fantasy competition operators, sports wagering facility licensees, and mobile sports wagering licensees, or update the Lottery Central System with the individual’s removal from the Commission’s Voluntary Exclusion List; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Denies the request, it shall deliver to the individual by email or regular mail a notice that the:</text>
+        <para>
+          <num>(a)</num>
+          <text>Request was denied; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Individual shall remain on the Commissions Voluntary Exclusion List.</text>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Access to the Commission’s Voluntary Exclusion List.</heading>
+    <para>
+      <num>A.</num>
+      <text>All records pertaining to an individual’s placement on the Commission’s Voluntary Exclusion List are sociological information under <cite doc="Md. Code" path="ggp|4-330">General Provisions Article, §4-330, Annotated Code of Maryland</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Access to records pertaining to an individual’s placement on the Commission’s Voluntary Exclusion List shall be limited to disclosures authorized under <cite doc="Md. Code" path="ggp">General Provisions Article, Title 4, Annotated Code of Maryland</cite>, <cite path="|36.03.06">COMAR 36.03.06</cite>, and <cite path="|36|01|03|.05">Regulation .05 of this chapter</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="36|01|03|.08">
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Responsible Gaming Program.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commission may establish a responsible gaming program.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A responsible gaming program established by the Commission under <cite path="36|01|03|.08|A.">§A of this regulation</cite> shall be designed to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Reduce or mitigate the effects of problem gambling in the State; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Maximize the access of problem gambling resources by an individual who has a gambling problem.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Criminal Law Article, §§<cite doc="Md. Code" path="gcr|12-301">12-301</cite>.1 and 12-308; State Government Article, §§<cite doc="Md. Code" path="gsg|9-110">9-110</cite>, <cite doc="Md. Code" path="gsg|9-1">9-1</cite>A-<cite doc="Md. Code" path="gsg|24">24</cite>(e), <cite doc="Md. Code" path="gsg|9-1">9-1</cite>D-<cite doc="Md. Code" path="gsg|05">05</cite>, <cite doc="Md. Code" path="gsg|9-1">9-1</cite>E-<cite doc="Md. Code" path="gsg|04">04</cite>, and <cite doc="Md. Code" path="gsg|9-1">9-1</cite>E-11; <br/>Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-29">Effective date: April 29, 2013 (40:8 Md. R. 725)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-01-14"><cite path="|36|01|03|.01">Regulation .01</cite> amended effective January 14, 2019 (46:1 Md. R. 13)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-01-14"><cite path="|36|01|03|.02">Regulation .02</cite> amended effective January 14, 2019 (46:1 Md. R. 13)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-10-22"><cite path="|36|01|03|.02|C.">Regulation .02C</cite> amended effective February 3, 2014 (41:2 Md. R. 93); October 22, 2018 (45:21 Md. R. 976)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-01"><cite path="|36|01|03|.03">Regulation .03</cite> amended effective February 3, 2014 (41:2 Md. R. 93); February 1, 2016 (43:2 Md. R. 129)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-01-14"><cite path="|36|01|03|.03|B.">Regulation .03B</cite> amended effective January 14, 2019 (46:1 Md. R. 13)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-01-14"><cite path="|36|01|03|.04">Regulation .04</cite> amended effective January 14, 2019 (46:1 Md. R. 13)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-01-14"><cite path="|36|01|03|.05|B.">Regulation .05B</cite>, D amended effective January 14, 2019 (46:1 Md. R. 13)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-01-14"><cite path="|36|01|03|.06">Regulation .06</cite> amended effective January 14, 2019 (46:1 Md. R. 13)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-02-03"><cite path="|36|01|03|.06|B.">Regulation .06B</cite> amended effective February 3, 2014 (41:2 Md. R. 93)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-01-14"><cite path="|36|01|03|.07|B.">Regulation .07B</cite> amended effective January 14, 2019 (46:1 Md. R. 13)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-05-30" discontinuity="true">Chapter revised as an emergency provision effective December 16, 2021 (49:3 Md. R. 137); revised permanently effective May 30, 2022 (49:11 Md. R. 610)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|36|01|03|.01">Regulation .01</cite> amended effective May 26, 2025 (52:10 Md. R. 439)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|36|01|03|.02">Regulation .02</cite> amended effective May 26, 2025 (52:10 Md. R. 439)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|36|01|03|.03">Regulation .03</cite> amended effective May 26, 2025 (52:10 Md. R. 439)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|36|01|03|.04|B.">Regulation .04B</cite> amended effective May 26, 2025 (52:10 Md. R. 439)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|36|01|03|.05">Regulation .05</cite> amended effective May 26, 2025 (52:10 Md. R. 439)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|36|01|03|.06|B.">Regulation .06B</cite>, D amended effective May 26, 2025 (52:10 Md. R. 439)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|36|01|03|.08|B.">Regulation .08B</cite> amended effective May 26, 2025 (52:10 Md. R. 439)</annotation>
+  </annotations>
+</container>

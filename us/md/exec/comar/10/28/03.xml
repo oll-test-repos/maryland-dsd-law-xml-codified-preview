@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>03</num>
+  <heading>Examination and Licensing of Optometrists</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Definition.</heading>
+    <text>"Board" means the Board of Examiners in Optometry.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Requirements for Licensure.</heading>
+    <para>
+      <num>A.</num>
+      <text>Preprofessional education—completion of 2 years of pre-optometric college study in an accredited institution of higher learning or its equivalent.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Professional education — completion of 4 scholastic years at:</text>
+      <para>
+        <num>(1)</num>
+        <text>An accredited college of optometry;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An accredited university school of optometry; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An equivalent of §B(1) or (2) of this regulation.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Board will accept applications for examination from graduates of those colleges of optometry or university schools of optometry:</text>
+      <para>
+        <num>(1)</num>
+        <text>Endorsed by the Association of Regulatory Boards of Optometry (ARBO); and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Accredited by the Council on Optometric Education of the American Optometric Association.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Application for Licensure.</heading>
+    <para>
+      <num>A.</num>
+      <text>An applicant shall complete and file an application on the form provided by the Board on request.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The applicant shall submit the following information:</text>
+      <para>
+        <num>(1)</num>
+        <text>Full name, residence, and date and place of birth;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A recent photograph of the applicant;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Letters of recommendation from three individuals, excluding immediate family members, who can attest to the applicant's character and reputation;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>All final professional transcripts of colleges or university schools of optometry;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The application fee specified in <cite path="|10.28.07">COMAR 10.28.07</cite>;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Satisfactory evidence of having completed a criminal history records check in accordance with <cite doc="Md. Code" path="gho|11-302">Health Occupations Article, §11-302</cite>.1, Annotated Code of Maryland; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Preprofessional transcripts.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Application fees are not refundable.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Applicants shall be notified whether they meet the standards adopted by the Board and qualify for licensure.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Examination.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Board shall require candidates for licensure to take and pass the National Board of Examiners in Optometry’s (NBEO) exam, including the Treatment and Management of Ocular Disease (TMOD) Examination and clinical exam sections.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A candidate for licensure shall obtain a minimum score of 75 percent on the Maryland Board of Examiners in Optometry jurisprudence examination.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Waiver of Examination.</heading>
+    <text>Standards for licensure with partial waiver of examination are set forth in <cite doc="Md. Code" path="gho|11-305">Health Occupations Article, §11-305, Annotated Code of Maryland</cite>.</text>
+    <annotations/>
+  </section>
+  <section cache:ref-path="10|28|03|.06">
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>License Renewal.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Board may not renew a license until the Comptroller of Maryland has verified that the individual has paid all undisputed taxes and unemployment insurance contributions, or arranged for repayment, as required by <cite path="|10.31.02">COMAR 10.31.02</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A licensee shall renew the license every 2 years, on or before July 1 of the renewal year.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Board shall send each licensee a renewal notice that states the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Date on which the current license expires;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Latest date by which the renewal application and documentation can be received by the Board in order for the renewal license to be issued before the current license expires; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Amount of the renewal fee as specified in <cite path="10.28.07.02">COMAR 10.28.07.02</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>At least 30 days before the current license or registration expires, the Board shall send the renewal notice by electronic means or first-class mail to the last known electronic or physical address of the licensee.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The failure to receive a renewal notice does not excuse a licensee from complying with <cite path="10|28|03|.06|B.">§B of this regulation</cite>.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Licensees shall satisfactorily complete the minimum continuing education requirements set forth under <cite path="|10.28.02">COMAR 10.28.02</cite>.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>After the expiration date of the license, the optometrist is no longer licensed to practice optometry in the State.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Change of Mailing Address, Legal Name, or Email Address.</heading>
+    <para>
+      <num>A.</num>
+      <text>A licensed optometrist shall give the Board written notice within 30 days of a change of:</text>
+      <para>
+        <num>(1)</num>
+        <text>Mailing address;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Legal name; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Email address if the licensee has previously submitted an email address to the Board.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Failure to notify the Board of any change of mailing address, legal name, or email address within 30 days of the change may result in a $50 fee as set forth under <cite path="10.28.07.02">COMAR 10.28.07.02</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|11-205">11-205</cite> and <cite doc="Md. Code" path="gho|11-302">11-302</cite>—<cite doc="Md. Code" path="gho|11-308">11-308</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1980-03-21">Effective date: March 21, 1980 (7:6 Md. R. 608)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-01-22"><cite path="|10|28|03|.03|B.">Regulation .03B</cite> amended effective January 22, 1990 (17:1 Md. R. 70)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-01-22"><cite path="|10|28|03|.04">Regulation .04</cite> amended effective February 13, 1984 (11:3 Md. R. 202); January 22, 1990 (17:1 Md. R. 70)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-01-22"><cite path="|10|28|03|.05">Regulation .05</cite> amended effective January 22, 1990 (17:1 Md. R. 70)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-01-22"><cite path="|10|28|03|.06">Regulation .06</cite> amended effective February 13, 1984 (11:3 Md. R. 202); January 22, 1990 (17:1 Md. R. 70)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-01-22"><cite path="|10|28|03|.07">Regulation .07</cite> amended effective January 22, 1990 (17:1 Md. R. 70)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-01-22"><cite path="|10|28|03|.09|A.">Regulation .09A</cite>, D amended effective January 22, 1990 (17:1 Md. R. 70)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-11-07" discontinuity="true">Chapter revised effective November 7, 1994 (21:22 Md. R. 1876)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-02-19" discontinuity="true">Chapter revised effective February 19, 2001 (28:3 Md. R. 206)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-07-31"><cite path="|10|28|03|.02|B.">Regulation .02B</cite>, C amended effective July 31, 2017 (44:15 Md. R. 760)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-03-31"><cite path="|10|28|03|.04">Regulation .04</cite> repealed effective March 31, 2003 (30:6 Md. R. 420)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-10-19"><cite path="|10|28|03|.08">Regulation .08</cite> amended effective October 19, 2009 (36:21 Md. R. 1591)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07" discontinuity="true">Chapter revised effective July 7, 2025 (52:13 Md. R. 656)</annotation>
+  </annotations>
+</container>

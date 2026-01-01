@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>07</num>
+  <heading>Maryland Seal of Biliteracy Program</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Purpose and Scope.</heading>
+    <text>Recognizing that high school graduates who can function in two or more languages are equipped with the knowledge and skills to participate successfully in college, careers, and a diverse 21st century society, the Maryland Seal of Biliteracy Program is established to recognize and reward excellence in language learning as measured by rigorous proficiency assessments across a range of language skills.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Multilingual learner” has the meaning stated in COMAR 13A.05.07.02.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“World language” means any natural language, including American Sign Language, native American languages, and languages no longer spoken (e.g., Latin and ancient Greek).</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Local School System Participation and Student Eligibility.</heading>
+    <para>
+      <num>A.</num>
+      <text>Local School System Participation.</text>
+      <para>
+        <num>(1)</num>
+        <text>Participation in the program by a local public school system is voluntary.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An individual school may not opt out of participation in a local school system program.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Student Eligibility.</text>
+      <para>
+        <num>(1)</num>
+        <text>The pool of students eligible to apply includes any public school student in a participating local school system who demonstrates proficiency in one or more languages in addition to English.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The pool of students shall include multilingual learners and any student who has acquired or is acquiring a world language at school, home, or in the community.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Demonstrating Proficiency in English and World Languages.</heading>
+    <text>To receive a Maryland Seal of Biliteracy, the student shall:</text>
+    <para>
+      <num>A.</num>
+      <text>Meet one of the assessment requirements from the Department’s approved list of English language arts/literacy assessments for the Maryland Seal of Biliteracy; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Meet one of the assessment requirements from the Department’s approved list of world language assessments for the Maryland Seal of Biliteracy.</text>
+    </para>
+    <annotations>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Awarding the Maryland Seal of Biliteracy.</heading>
+    <para>
+      <num>A.</num>
+      <text>The student shall provide official test results to the local school system.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The local school system shall validate the assessment results and affix the Seal of Biliteracy to the student’s diploma or transcript at graduation, at no cost to the student.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Data Collection.</heading>
+    <text>The local school system shall collect and provide data to the Department on implementation of the program, including:</text>
+    <para>
+      <num>A.</num>
+      <text>The number of Seals awarded;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The languages of the Seals awarded;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The race, ethnicity, gender, and multilingual learner status of each Seal recipient; and</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Any other demographic factors for each Seal recipient as identified by the Department.</text>
+    </para>
+    <annotations>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">
+      <cite doc="Md. Code" path="ged|7-208">Education Article, §7-208, Annotated Code of Maryland</cite>
+    </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-13">Effective date: February 13, 2017 (44:3 Md. R. 189)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|13A|03|07|.02|B.">Regulation .02B</cite> amended effective September 15, 2025 (52:18 Md. R. 924)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|13A|03|07|.03">Regulation .03</cite> amended effective September 15, 2025 (52:18 Md. R. 924)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|13A|03|07|.04">Regulation .04</cite> amended effective September 15, 2025 (52:18 Md. R. 924)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|13A|03|07|.06">Regulation .06</cite> adopted effective September 15, 2025 (52:18 Md. R. 924)</annotation>
+    <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" type="History" display="false"/>
+  </annotations>
+</container>

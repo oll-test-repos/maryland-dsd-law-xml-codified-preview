@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>05</num>
+  <heading>Telehealth</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <text>This chapter governs the practice of medicine using telehealth as an adjunct to, or replacement for, in-person patient visits.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Asynchronous” means not occurring in real time.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“In-person” means within the physical presence of the patient.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Interpretive services” means reading and analyzing images, tracings, or specimens through telehealth or giving interpretations based on visual, auditory, thermal, or ultrasonic patterns or other patterns as may evolve with technology.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Synchronous” means occurring in real time.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Telehealth.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Telehealth” means a mode of delivering health care services through the use of telecommunications technologies by a health care practitioner to a patient at a different physical location than the telehealth practitioner.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Telehealth” includes synchronous and asynchronous interactions.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Telehealth” does not include the provision of health care services solely through:</text>
+          <para>
+            <num>(i)</num>
+            <text>Audio–only calls;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>E–mail messages; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Facsimile transmissions.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Telehealth practitioner” means a Maryland licensed physician or licensed allied health practitioner performing telehealth services within their respective scope of practice.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-096-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Licensure.</heading>
+    <para>
+      <num>A.</num>
+      <text>Except as specified in <cite doc="Md. Code" path="gho|14-302">Health Occupations Article, §14-302, Annotated Code of Maryland</cite>, a telehealth practitioner shall be licensed when providing telehealth services to a patient located in the State.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Telehealth practitioners licensed in the State are subject to the jurisdiction of the State and shall abide by the telehealth requirements of this chapter if either the practitioner or patient is physically located in this State.</text>
+    </para>
+    <annotations>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-096-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Specific Telehealth Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>Before performing telehealth services, a telehealth practitioner shall develop and follow a procedure to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Verify the identification of the patient receiving telehealth services within a reasonable degree of certainty through use of:</text>
+        <para>
+          <num>(a)</num>
+          <text>Government issued photograph identification;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Insurance, Medicaid, or Medicare card; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Documentation of the patient’s:</text>
+          <para>
+            <num>(i)</num>
+            <text>Date of birth; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Home address;</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For an initial patient encounter, disclose the telehealth practitioner’s name, contact information, license type, and medical specialty, if any;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Except for interpretive services, obtain oral or written consent from a patient or the patient’s parent or guardian if State law requires the consent of a parent or guardian including informing patients of the risks, benefits, and side effects of prescribed treatments;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Securely collect and transmit a patient’s medical information, clinical data, clinical images, laboratory results, and self–reported medical history, as necessary and prevent access to data by unauthorized persons through encryption or other means;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Notify patients in the event of a data breach;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Ensure that the telehealth practitioner provides a secure and private telehealth connection that complies with federal and state privacy laws; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Establish safety protocols to be used in the case of an emergency.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Except when providing asynchronous telehealth services, a telehealth practitioner shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Obtain or confirm an alternative method of contacting the patient in case of a technological failure;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Confirm whether the patient is in Maryland and identify the practice setting in which the patient is located; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Identify all individuals present at each location and confirm they are allowed to hear personal health information.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The requirements set forth under §§A and B of this regulation may be delegated.</text>
+    </para>
+    <annotations>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-096-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Patient Evaluation.</heading>
+    <para>
+      <num>A.</num>
+      <text>A telehealth practitioner shall perform a synchronous or asynchronous clinical patient evaluation that is appropriate for the patient and the condition with which the patient presents before providing treatment or issuing a prescription through telehealth.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A telehealth practitioner shall, if clinically appropriate for the patient, provide or refer a patient to in-person health care services or another type of telehealth service.</text>
+    </para>
+    <annotations>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-096-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Standard Related to Telehealth.</heading>
+    <para>
+      <num>A.</num>
+      <text>A telehealth practitioner shall be held to the same standards of practice and documentation as those applicable in in-person health care settings.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A telehealth practitioner may not treat a patient or prescribe medication based solely on a static online questionnaire.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A telehealth practitioner may not prescribe an opiate described in the list of Schedule II substances under <cite doc="Md. Code" path="gcr|5-403">Criminal Law Article, §5-403, Annotated Code of Maryland</cite> for the treatment of pain through telehealth unless:</text>
+      <para>
+        <num>(1)</num>
+        <text>The patient is in a health care facility as defined in Health-General Article, §19-114(d)(1), Annotated Code of Maryland; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Governor has declared a state of emergency due to a catastrophic health emergency.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A telehealth practitioner shall comply with all State and federal laws and regulations related to dispensing including the prohibition on mail order dispensing.</text>
+    </para>
+    <annotations>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-096-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Telehealth Practitioner Discipline.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Board shall use the same standards in evaluating and investigating a complaint about and in disciplining a licensee who practices telehealth as it would use for a licensee who does not use telehealth technology in the licensee’s practice.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The failure of a telehealth practitioner to comply with Regulation .04, .05, or .06 of this chapter shall constitute unprofessional conduct.</text>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-903">1-903</cite>, <cite doc="Md. Code" path="gho|1-1001">1-1001</cite>—<cite doc="Md. Code" path="gho|1-1006">1-1006</cite>, <cite doc="Md. Code" path="gho|14-205">14-205</cite>, <cite doc="Md. Code" path="gho|14-301">14-301</cite>, and <cite doc="Md. Code" path="gho|14-601">14-601</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-12-28">Effective date: December 28, 2009 (36:26 Md. R. 1995)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-08-12" discontinuity="true">Regulations <cite path="|10|32|05|.01">.01</cite>—<cite path="|10|32|05|.07">.07</cite>, Telemedicine, repealed and new Regulations <cite path="|10|32|05|.01">.01</cite>—<cite path="|10|32|05|.07">.07</cite>, Telehealth, adopted effective August 12, 2019 (46:16 Md. R. 688)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|10|32|05|.02|B.">Regulation .02B</cite> amended effective September 15, 2025 (52:18 Md. R. 923)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|10|32|05|.03">Regulation .03</cite> amended effective September 15, 2025 (52:18 Md. R. 923)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|10|32|05|.04">Regulation .04</cite> amended effective September 15, 2025 (52:18 Md. R. 923)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|10|32|05|.05">Regulation .05</cite> amended effective September 15, 2025 (52:18 Md. R. 923)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|10|32|05|.06">Regulation .06</cite> B, C amended effective September 15, 2025 (52:18 Md. R. 923)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|10|32|05|.06|D.">Regulation .06D</cite> adopted effective September 15, 2025 (52:18 Md. R. 923)</annotation>
+    <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-096-F" type="History" display="false"/>
+  </annotations>
+</container>

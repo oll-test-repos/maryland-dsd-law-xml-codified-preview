@@ -1,0 +1,863 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>02</num>
+  <heading>Freestanding Birthing Centers</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Board” means the Board of Nursing.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Certified nurse midwife” has the meaning stated in <cite path="10.27.05.01">COMAR 10.27.05.01</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Freestanding Birthing Center.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Freestanding birthing center” means a facility that provides nurse midwife services through individuals licensed to practice under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 8, Subtitle 6, Annotated Code of Maryland</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Freestanding birthing center” does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>Birthing services that are licensed or accredited as a unit of a hospital; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The private residence of the patient.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Immediate action” means all actions the freestanding birthing center has taken or will take to immediately address the noncompliance that resulted in or made serious injury, serious harm, serious impairment, or death likely.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Immediate Jeopardy.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Immediate jeopardy” means a situation in which immediate corrective action is necessary because the freestanding birthing center's noncompliance with one or more licensure requirements has already caused, is causing, or is likely to cause, at any time, serious injury or harm, or death, to individuals served by the freestanding birthing center or to the health or safety of the general public.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Immediate jeopardy” consists of three components:</text>
+          <para>
+            <num>(i)</num>
+            <text>Noncompliance with this chapter;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Serious injury, harm, or death; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The need for immediate action.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Informal dispute resolution (IDR)” means an informal process that provides a freestanding birthing center the opportunity to dispute one or more deficiencies cited in a written Statement of Deficiencies issued by the Department or the Department’s designee related to a recent survey.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Licensed certified midwife” has the meaning stated in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>D-01, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Licensed direct-entry midwife” has the meaning stated in <cite path="10.64.01.01">COMAR 10.64.01.01</cite>.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Midwifery” means the antepartum, intrapartum, and postpartum management and care of birthing persons and their newborns.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Need for immediate action” means that immediate corrective action is necessary to remove the jeopardy<em>.</em></text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>“Newborn” means an infant in the first 28 days of life.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Noncompliance” means the freestanding birthing center is non-compliant with one or more licensure requirements of this chapter.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Normal Maternity.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Normal maternity” means a low risk, uncomplicated prenatal course as determined by adequate prenatal care and prospects for a normal, uncomplicated birth as defined by reasonable and generally accepted criteria of maternal and fetal health.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Normal maternity” does not include the use of drugs for induction or augmentation of labor, general and regional anesthesia, vacuum extractors, forceps, recorded electronic fetal monitors, cesarean section, surgical procedures other than episiotomy or perineal repair, intrapartum care provided prior to 36 weeks gestation, or intrapartum care provided after 42 weeks gestation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“Office of Health Care Quality (OHCQ)” means the Office of Healthcare Quality of the Maryland Department of Health.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>“Plan of Correction” means a written plan submitted by the freestanding birthing center to the OHCQ which documents steps the freestanding birthing center will take to come into compliance with the licensure requirements.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>“Removal of the immediate jeopardy” means that the freestanding birthing center has implemented the removal plan, and the OHCQ has verified that all actions the freestanding birthing center took were effective in removing the likelihood that serious injury, serious harm, serious impairment, or death would occur or recur.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>“Serious injury, harm, or death” means a situation which has already caused, is causing, or is likely to cause, at any time, serious injury or harm, or death, to individuals served by the freestanding birthing center or to the health or safety of the general public.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>“Statement of Deficiencies” means the written notification that the OHCQ issues to the free standing birthing center that contains a listing of deficiencies cited that require correction.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Incorporation By Reference.</heading>
+    <text>In this chapter, the following document is incorporated by reference, National Fire Protection Association (NFPA) 101 Life Safety Code (2018 Edition), which is incorporated by reference in <cite path="29.06.01.06">COMAR 29.06.01.06</cite>.</text>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>License Requirements.</heading>
+    <text>A freestanding birthing center shall only provide normal maternity care and shall meet all general licensing requirements for a facility as provided in <cite path="|10.05.01">COMAR 10.05.01</cite> and all requirements of this chapter.</text>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Licensing Procedure.</heading>
+    <para>
+      <num>A.</num>
+      <text>An applicant shall submit:</text>
+      <para>
+        <num>(1)</num>
+        <text>An application on a written or electronic form provided by the Department;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All other reasonable documents as required by the Department; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A business email address for the applicant or their organization.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>License Application Administratively Closed.</text>
+      <para>
+        <num>(1)</num>
+        <text>An application is not complete until the Department has received the completed license application and all required documents.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>After 180 calendar days from the date of initial receipt, the Department may deem an incomplete license application inactive and administratively close the application.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An applicant whose application is administratively closed may reapply for a license by submitting a new application.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Voiding of License.</text>
+      <para>
+        <num>(1)</num>
+        <text>Maryland State Department of Assessments and Taxation (SDAT).</text>
+        <para>
+          <num>(a)</num>
+          <text>A freestanding birthing center shall remain in good standing with (SDAT).</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the freestanding birthing center fails to return to good standing 60 calendar days after receipt of notification of noncompliance from SDAT or another government agency, the Department may void the freestanding birthing center's license.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Ceases the Provision of Services.</text>
+        <para>
+          <num>(a)</num>
+          <text>A license is void if the freestanding birthing center ceases to provide services to patients for a period of 180 consecutive days.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The owner shall immediately cease all use of the previously issued freestanding birthing center license when the license is voided.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Current Business Email Address. A freestanding birthing center is required to maintain a current business email address on file with the OHCQ.</text>
+    </para>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Inspection by OHCQ.</heading>
+    <para>
+      <num>A.</num>
+      <text>A licensee operating a freestanding birthing center shall undergo a routine annual survey.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A licensee shall allow an on-site survey by the Department at any time during the center’s normal hours of operation to evaluate the center’s compliance with the applicable requirements and standards of this chapter.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Center employees shall make data and records accessible within a reasonable time during the on-site survey.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Notice of Deficiencies.</text>
+      <para>
+        <num>(1)</num>
+        <text>If a survey identifies noncompliance with a requirement, the Secretary shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Issue a written Statement of Deficiencies that cites each deficiency;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Require the freestanding birthing center to submit an acceptable Plan of Correction within 10 calendar days of receipt of the Statement of Deficiencies;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Notify the freestanding birthing center of any sanctions or that failure to correct the violation may result in sanctions; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Offer the freestanding birthing center the opportunity for IDR.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Plan of Correction.</text>
+      <para>
+        <num>(1)</num>
+        <text>The freestanding birthing center shall submit a written Plan of Correction to the OHCQ that documents steps the licensee will take to come into compliance, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>How the freestanding birthing center will correct each deficiency;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The date by which each deficient practice will be corrected;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>How the freestanding birthing center will prevent the deficient practice from recurring; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Who will be responsible for ensuring the deficiency will not reoccur.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Failure to return an acceptable Plan of Correction within the allotted time frame may result in a sanction.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A request for an IDR does not change the freestanding birthing center's requirement to submit a Plan of Correction for all deficiencies within 10 calendar days after receipt of the notice of deficiency.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Immediate Jeopardy.</text>
+      <para>
+        <num>(1)</num>
+        <text>Declaration of Immediate Jeopardy.</text>
+        <para>
+          <num>(a)</num>
+          <text>When the OHCQ identifies a situation in which immediate corrective action is necessary because the freestanding birthing center's noncompliance with one or more licensure requirements has already caused, is causing, or is likely to cause, at any time, serious injury or harm, or death, to individuals served by the freestanding birthing center or to the health or safety of the general public, an immediate jeopardy will be declared.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The OHCQ shall provide the freestanding birthing center with a written notice that includes a description of the situation that constitutes an immediate jeopardy.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Removal Plan.  The freestanding birthing center shall submit a written removal plan to the OHCQ that includes:</text>
+        <para>
+          <num>(a)</num>
+          <text>The immediate action a freestanding birthing center will take to prevent serious harm from occurring or recurring;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All actions to remove past, present, and future jeopardy; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The date by which the freestanding birthing center asserts the likelihood for serious harm to any recipient no longer exists.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>OHCQ's Review of the Removal Plan.</text>
+        <para>
+          <num>(a)</num>
+          <text>The OHCQ shall review the freestanding birthing center's removal plan to determine that the removal plan, if implemented appropriately, will remove the likelihood that serious harm will occur, or recur.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The OHCQ shall verify that the freestanding birthing center has implemented the removal plan.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>OHCQ's Approval of the Removal Plan. The OHCQ shall approve the removal plan after verifying that all actions the freestanding birthing center took were effective in removing the likelihood that serious injury, serious harm, serious impairment or death would occur or reoccur.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Plan of Correction.  If an immediate jeopardy is identified during a survey, the Plan of Correction must completely correct all noncompliance associated with the immediate jeopardy.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Informal Dispute Resolution (IDR).</text>
+      <para>
+        <num>(1)</num>
+        <text>A freestanding birthing center may request an IDR to dispute one or more deficiencies in a Statement of Deficiencies.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The freestanding birthing center shall submit the request for an IDR to the Department within 10 calendar days of receiving the Statement of Deficiencies.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The written request for an IDR shall fully describe the disagreement with the Statement of Deficiencies and be accompanied by all evidence for the Department’s consideration.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>At the discretion of the Department, the IDR may be held in person, by telephone, by video conference, or in writing.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>IDRs are informal in nature and are not attended by legal counsel representing the freestanding birthing center or the Department.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The IDR process may not delay the effective date of any enforcement action.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>In the event a freestanding birthing center requests an IDR of a deficiency written by a designee of the Department, the Department shall request the designee to participate in the IDR process.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>There is no appeal of the Department’s decision in an IDR.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Personnel.</heading>
+    <para>
+      <num>A.</num>
+      <text>Administrator. The licensee shall appoint an administrator of the freestanding birthing center who is responsible for the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Daily administration of the center; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Training and supervision of all nonprofessional staff, unlicensed staff, and volunteers.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Director of Midwifery Services. The administrator shall appoint a certified nurse midwife <em>or licensed certified midwife</em> as director of midwifery services who is responsible for the employment, training, and supervision of the licensed professional staff</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Clinical Director.</text>
+      <para>
+        <num>(1)</num>
+        <text>The clinical director shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Be a certified nurse midwife;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Be a licensed certified midwife; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Be a physician with:</text>
+          <para>
+            <num>(i)</num>
+            <text>Board certification in a specialty that provides services for pregnant and postpartum patients; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Appropriate experience in the care of pregnant and postpartum patients; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Be responsible for advising and consulting with the center staff on all matters related to medical management of pregnancy, birth, postpartum, newborn, and gynecologic health care.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The same individual may be clinical director and the director of midwifery services.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Two licensed staff individuals in midwifery, one of whom shall be a certified nurse midwife or licensed certified midwife, shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Attend each birth; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be currently certified in:</text>
+        <para>
+          <num>(a)</num>
+          <text>Adult cardiopulmonary resuscitation equivalent to the American Heart Association Class C basic life support; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Neonatal resuscitation by a course endorsed by the American Academy of Pediatrics and the American Heart Association.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Clinical Practice Guidelines.</heading>
+    <para>
+      <num>A.</num>
+      <text>The clinical director and director of midwifery shall develop clinical practice guidelines for the management of routine and emergency care of the patient and the fetus or newborn during pregnancy, birth, and postpartum through discharge, whether through completion of the pregnancy or referral or transfer to other levels of care.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The clinical practice guidelines shall include, at a minimum, procedures for the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Transfer of patients or newborns for appropriate hospital obstetric and newborn care;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Monitoring of fetal heart tones consistent with the current standards of care; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Use of ultrasound imaging that is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Consistent with the current standards of care; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Within the scope of practice for a:</text>
+          <para>
+            <num>(i)</num>
+            <text>Physician;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Certified nurse midwife; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Licensed certified midwife.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The administrator shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Ensure that all clinical practice guidelines are fully implemented by the clinical staff;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Periodically review the non-clinical policies and revise them when necessary; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Make the [protocols] clinical practice guidelines available to staff for reference on site at all times.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A licensed direct-entry midwife, certified nurse midwife, and licensed certified midwife practicing in a birthing center shall remain in compliance with applicable practice guidelines including but not limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text><cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>C-08, Annotated Code of Maryland;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text><cite path="10.64.01.10">COMAR 10.64.01.10</cite>;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text><cite path="10.27.05.04">COMAR 10.27.05.04</cite>; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text><cite path="10.27.05.01">COMAR 10.27.05.01(a)(8)</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Consultation.</heading>
+    <text>A licensed direct-entry midwife, licensed certified midwife, certified nurse midwife, or physician shall consult or collaborate with another health care practitioner who has the knowledge, skills, and expertise to manage a clinical issue, as needed or as required in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>C-04, Annotated Code of Maryland.</text>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Referral System.</heading>
+    <text>A licensed direct-entry midwife, licensed certified midwife, certified nurse midwife, or physician shall refer and transfer patients with complications beyond their scope of practice to a health care practitioner with the knowledge, skills, and experience to manage the client.</text>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Hospitalization.</heading>
+    <para>
+      <num>A.</num>
+      <text>A freestanding birthing center shall have a written procedure for the transfer of patients to a nearby hospital when care beyond the capabilities of the facility is required.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Procedures for emergency transfer to a hospital shall include, at minimum:</text>
+      <para>
+        <num>(1)</num>
+        <text>Written clinical practice guidelines related to emergency transfer procedures;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A mechanism for notifying the hospital of a pending emergency case;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A mechanism for arranging appropriate transportation to the hospital; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Protocols for transmitting a copy of the patient’s medical record to the hospital.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A freestanding birthing center shall conduct a transfer drill with staff that may be involved in patient transfers at least once a year.</text>
+    </para>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Quality Assurance Program.</heading>
+    <para>
+      <num>A.</num>
+      <text>A freestanding birthing center shall develop and implement a quality assurance program.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A freestanding birthing center shall collect the following evaluative data in addition to that required in <cite path="10.05.01.08">COMAR 10.05.01.08</cite>:</text>
+      <para>
+        <num>(1)</num>
+        <text>Number of births;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Intrapartum transfer rates and indications for transfer; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Postpartum maternal and neonatal hospital admissions.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A freestanding birthing center shall conduct a quarterly review of all patients transferred to an emergency department or a hospital.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Process of Filing a Complaint.  The freestanding birthing center shall have a written process that describes how patients are notified of how to file a complaint with the OHCQ and, if applicable, an accreditation organization.</text>
+    </para>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>Physical Plant.</heading>
+    <para>
+      <num>A.</num>
+      <text>Bedrooms. A freestanding birthing center shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Locate bedrooms so as to provide unimpeded, rapid access to an exit of the building where emergency transportation vehicles may be accommodated;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Have bedrooms that can accommodate:</text>
+        <para>
+          <num>(a)</num>
+          <text>A double bed or a bed large enough to safely accommodate patient and baby,</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Birth attendants and support persons,</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Space for supplies, equipment, and family belongings, and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Access to a sink with hot and cold running water equipped with elbow-wrist controls such as are common in home kitchens.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Toilet Facilities. A freestanding birthing center shall make available separate fixed toilet facilities to the laboring patient and separate toilet facilities for family and staff use.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Bath Facilities. A freestanding birthing center shall make bath and shower facilities available to the laboring patient and have separate washing facilities available for staff and family.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Storage, Utility, and Laundry Facilities. A freestanding birthing center shall have facilities that are designed and equipped for washing, sterilizing, storing, and handling equipment, linens, and medical supplies in a manner which ensures separation of clean linen, and sterile supplies and equipment from those that are soiled or contaminated.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Heating and Ventilation. A freestanding birthing center shall have a safe and adequate source of heat and ventilation capable of maintaining temperature in the birthing unit between 75°F and 85°F.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Lighting and Power. A freestanding birthing center shall have adequate lighting in the birthing rooms.</text>
+    </para>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Fire Safety and Emergency Preparedness.</heading>
+    <para>
+      <num>A.</num>
+      <text>Fire Safety Protection.</text>
+      <para>
+        <num>(1)</num>
+        <text>Smoke Alarms. A freestanding birthing center shall place smoke alarms on each floor and at points as recommended by the State Fire Marshal or local fire authority. A freestanding birthing center shall have alarms that are audible throughout the center.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Fire Extinguishers. A freestanding birthing center shall provide at least one approved fire extinguisher on each floor, including below ground level.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Lighting and Power. A freestanding birthing center shall ensure that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Exits are illuminated during time of occupancy; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Emergency lighting is located to provide illumination in event of a power failure.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Power Outage. A freestanding birthing center shall have:</text>
+      <para>
+        <num>(1)</num>
+        <text>A written plan to address power outages; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Annual staff training relating to power outages.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Evacuation.</text>
+      <para>
+        <num>(1)</num>
+        <text>A freestanding birthing center shall make written copies of its fire evacuation plan available to all personnel and instruct all personnel in the implementation of the evacuation plan.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A freestanding birthing center shall keep all personnel informed of their responsibilities under the plan and conduct a supervised evacuation drill at least once a year.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.14</num>
+    <heading>Equipment.</heading>
+    <para>
+      <num>A.</num>
+      <text>Equipment and furnishings shall be constructed of materials that are easily cleaned and maintained and shall include, at a minimum:</text>
+      <para>
+        <num>(1)</num>
+        <text>A heat source for infant examination or resuscitation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A transfer isolette or demonstrated capability of ready access to a transfer isolette;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A sterilizer or demonstration of sterilizing capability;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Blood pressure equipment, thermometers, and fetoscope or doptone;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Intravenous equipment;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Adult and neonatal resuscitation equipment including, but not limited to, oxygen equipment for patient and newborn that is stored in accordance with Standards for Health Care Facilities, NFPA 99; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Instruments for delivery, episiotomy, and repair.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Laundry.</text>
+      <para>
+        <num>(1)</num>
+        <text>A freestanding birthing center shall provide for the sanitary handling of soiled linens in accordance with 29 CFR §1910.1030, which is incorporated by reference.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A freestanding birthing center may have on-site laundry facilities or use a laundry service that is experienced in handling linens for health care facilities.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>When a freestanding birthing center uses on-site laundry facilities, the center shall disinfect soiled linens by using one of the following methods:</text>
+        <para>
+          <num>(a)</num>
+          <text>Hot water at 160°F; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A low-temperature wash formula which specifies time, temperature, concentration, and pH control in conjunction with chlorine bleach as recommended by the detergent manufacturer for use in a health care setting.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A freestanding birthing center shall maintain an adequate linen supply.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.15</num>
+    <heading>Health Record.</heading>
+    <para>
+      <num>A.</num>
+      <text>In addition to meeting the requirements of this regulation, a freestanding birthing center shall comply with the requirements of <cite path="10.05.01.09">COMAR 10.05.01.09</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The health record of each patient shall contain documentation of all services provided while the patient and the fetus or newborn are under the care of the freestanding birthing center, including reports by outside providers who have examined or treated the patient at the request of the center.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A freestanding birthing center shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Send a copy of the health record with the patient or newborn, or both, on referral to another health care provider or on transfer to a hospital; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Maintain birth and death certificates on file, as required by Health-General Article, Title 4, Subtitle 2, Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §19-3B-01 et seq., Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-08-23">Effective date: August 23, 1999 (26:17 Md. R. 1322)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15" discontinuity="true">Chapter revised effective February 15, 2016 (43:3 Md. R. 272)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-12-08"><cite path="|10|05|02|.01|B.">Regulation .01B</cite> amended effective December 8, 2016 (43:24 Md. R. 1350)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-12-08"><cite path="|10|05|02|.06|A.">Regulation .06A</cite> amended effective December 8, 2016 (43:24 Md. R. 1350)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13" discontinuity="true">Chapter revised effective October 13, 2025 (52:20 Md. R. 1000)</annotation>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+  </annotations>
+</container>

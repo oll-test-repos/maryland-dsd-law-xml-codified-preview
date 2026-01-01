@@ -1,0 +1,492 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>23</num>
+  <heading>Workforce Development Sequence Scholarship</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of the Workforce Development Sequence Scholarship is to provide financial assistance to students enrolled in workforce development sequences at community colleges in the State or registered apprenticeship programs that partner with community colleges in the State.</text>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Associated costs of attendance” means costs incurred by a student to purchase books or equipment that are necessary for the completion of the workforce development sequence for which the student is receiving a Workforce Development Sequence Scholarship, and any related testing fees for licensure or certification.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Commission” means the Maryland Higher Education Commission.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Noncredit certificate” means a document issued by a community college to a student certifying that the student has completed a noncredit sequence of courses.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Office” means the Office of Student Financial Assistance within the Commission.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Registered apprenticeship program” means an apprenticeship program approved by the Division of Workforce Development and Adult Learning in the Maryland Department of Labor.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Secretary” means the Secretary of Higher Education.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Workforce Development Sequence.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Workforce development sequence” means:</text>
+          <para>
+            <num>(i)</num>
+            <text>A group of noncredit courses, approved by the Commission, that is offered by a community college and composed of courses related to job preparation, an apprenticeship, licensure, certification, or job skill enhancement; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A registered apprenticeship program.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Workforce development sequence” does not include a sequence of courses leading to an associate or bachelor’s degree.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Workforce Development Sequence Scholarship” or “Scholarship” means an award made to an eligible student under this chapter.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Establishment and Administration.</heading>
+    <para>
+      <num>A.</num>
+      <text>There is a Workforce Development Sequence Scholarship, which shall be administered by the Office consistent with this chapter and pursuant to participation agreements with participating community colleges.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>To participate in the Workforce Development Sequence Scholarship, a community college shall enter into a participation agreement with the Office, upon the terms prescribed by the Secretary, which, at a minimum, shall include terms to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Safeguard the confidentiality of personally identifiable information;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Ensure the accuracy of student eligibility determinations under this chapter; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide for the return by the college to the Office any Scholarships not awarded consistent with this chapter and the participation agreement.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Approval of a Workforce Development Sequence.</heading>
+    <para>
+      <num>A.</num>
+      <text>A community college shall apply to the Commission for approval of a workforce development sequence on a form prescribed by the Secretary.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Secretary shall approve a workforce development sequence application if:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Secretary determines that completion of the courses in the sequence results in the issuance of a noncredit certificate to the student; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Each course in the sequence:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is eligible to be funded through Pell grants under Title IV of the federal Higher Education Act;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is eligible to be funded through the federal Workforce Innovation and Opportunity Act;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Is designed to prepare an individual to sit for a licensing exam required by a State regulatory agency for employment in a specific occupational field;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Is a required component of a registered apprenticeship; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In the Secretary’s determination:</text>
+          <para>
+            <num>(i)</num>
+            <text>Is approved for State funding through the Request for State Funding of a Continuing Education Course (CC-10) application process; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Has the purpose of job enhancement or job preparation, or leads to licensure or certification for an occupation that requires licensure or certification.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Student Eligibility.</heading>
+    <para>
+      <num>A.</num>
+      <text>To be eligible to receive a Workforce Development Sequence Scholarship, a student shall satisfy the criteria set forth in §§B and C of this regulation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Residency. A student is eligible for a scholarship if the student:</text>
+      <para>
+        <num>(1)</num>
+        <text>Graduated from a Maryland high school;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Is a Maryland resident; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Is an active duty member of the U.S. Military who resides in the State or is stationed or domiciled in the State.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Enrollment. A student is eligible for a scholarship if the student is:</text>
+      <para>
+        <num>(1)</num>
+        <text>Enrolled in a workforce development sequence at a community college that has entered into a participation agreement with the Office; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Directly enrolled in a registered apprenticeship program that partners with a community college that has entered into a participation agreement with the Office.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Award Amount and Use.</heading>
+    <para>
+      <num>A.</num>
+      <text>A Workforce Development Sequence Scholarship may not exceed $2,000 per student annually.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A Workforce Development Sequence Scholarship shall be used solely for tuition, mandatory fees, costs to participate in a registered apprenticeship program, and other associated costs of attendance that have not been met through another grant or scholarship by the State or employer.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A Workforce Development Sequence Scholarship may be combined with any other grant or scholarship, provided that the total amount of grants or scholarships does not exceed the student’s tuition, mandatory fees, apprenticeship costs, and other associated costs of attendance.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="13B|08|23|.07">
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Institutional Allocation.</heading>
+    <para>
+      <num>A.</num>
+      <text>At the beginning of each State fiscal year, and no later than August 15, the Office shall notify each participating community college of the total dollar amount of funds allocated to the institution for awards.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Office shall annually allocate the funds appropriated for the Workforce Development Sequence Scholarship in the State budget based on a community college’s pro rata share of the total FTE enrollment in workforce development sequences, based on the most recently available Enrollment Report for Equated Credit Continuing Courses (CC3 report).</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>On a date established by the Office, each community college shall be initially disbursed half of the amount of their annual allocation as calculated under <cite path="13B|08|23|.07|B.">§B of this regulation</cite>.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The amount of total funds remaining after the initial disbursement shall be disbursed as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>A community college that has awarded at least 66 percent of their initial disbursement by December 31 shall receive the remaining half of the amount calculated under <cite path="13B|08|23|.07|B.">§B of this regulation</cite> in a second disbursement on a date established by the Office.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A community college that has awarded 95 percent of their initial disbursement prior to December 31 shall notify the Office and the Office may, at its discretion, provide the second disbursement to the community college at an earlier date.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a community college has awarded less than 66 percent of their initial disbursement by December 31, the community college shall consult with the Office. If the community college determines, after consultation with the Office, that the community college is unlikely to need the entirety of the remaining 50 percent of the amount calculated under <cite path="13B|08|23|.07|B.">§B of this regulation</cite>, the community college may authorize the Office to retain all or part of the remaining 50 percent of their annual allocation for reallocation to community colleges that have awarded a higher percentage of their disbursement.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Office shall calculate the reallocation of the funds retained under §D (3) of this regulation to community colleges based on a community college’s pro rata share of the amount of funds from the initial disbursement awarded to students by each community college by December 31.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Office shall notify the community colleges of the amount of any reallocated funds they will receive no later than January 21.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Disbursement and Reallocation of Funds. — Repealed.</heading>
+    <annotations/>
+  </section>
+  <section cache:ref-path="13B|08|23|.09">
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Distribution of Awards to Students.</heading>
+    <para>
+      <num>A.</num>
+      <text>Selection Criteria. In determining the selection criteria to be applied to award applicants, a community college:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall ensure that awards are made only to students who are eligible under <cite path="|13B|08|23|.05">Regulation .05 of this chapter</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>May not make an award to any student who already has received the award for two workforce development sequences, regardless of the duration, cost, or successful completion of the sequences; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>May determine the prioritization of awards based upon any of the following criteria:</text>
+        <para>
+          <num>(a)</num>
+          <text>The workforce needs of the service area of the institution;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The availability to the applicant of other funds;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Whether the student has received the award previously; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The order in which applications were submitted by applicants.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Compliance with State and Federal Law. A community college shall administer the Workforce Development Sequence Scholarship consistent with State and federal law.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Nondiscrimination. A community college may not discriminate against applicants, prospective applicants, or awardees based upon sex, race, ethnicity, religion, disability, sexual orientation, or sexual identity.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Reporting to Commission. A community college shall report to the Office annually regarding the selection criteria used by the college under <cite path="13B|08|23|.09|A.">§A of this regulation</cite>.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="13B|08|23|.10">
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Continuation of Workforce Development Sequence.</heading>
+    <para>
+      <num>A.</num>
+      <text>Approval of a Workforce Development Sequence terminates when the condition under which the sequence was approved ceases, including by:</text>
+      <para>
+        <num>(1)</num>
+        <text>A determination by the U.S. Department of Education that one or more of the courses in the sequence are no longer eligible to be funded through Pell grants under Title IV of the federal Higher Education Act;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A determination by the Maryland Department of Labor that the sequence is no longer eligible to be funded through the federal Workforce Innovation and Opportunity Act;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A determination by a licensing board that the licensing exam that is the subject of the sequence no longer is required for employment in a specific occupational field;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A determination by the Maryland Department of Labor that the sequence is no longer a required component of a registered apprenticeship; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A determination by the Secretary that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Any course in the sequence is no longer eligible for State funding through the CC-10 application process; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The sequence no longer has the purpose of job enhancement or job preparation, or no longer leads to licensure or certification for occupations that require the licensure or certification.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A community college shall notify the Commission immediately if the Workforce Development Sequence discontinues, or if any of the circumstances enumerated in <cite path="13B|08|23|.10|A.">§A of this regulation</cite> occurs.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If a workforce development sequence is discontinued or terminated, the community college either shall reallocate workforce development sequence funds towards another workforce development sequence, or shall return the unused funds to the Office.</text>
+    </para>
+    <annotations/>
+  </section>
+  <section cache:ref-path="13B|08|23|.11">
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Record Keeping, Audits, and Annual Reports.</heading>
+    <para>
+      <num>A.</num>
+      <text>All financial books, records, and documents pertaining to the Workforce Development Sequence Scholarship program shall be open to inspection, review, and audit at all times by the Commission, the State auditor, or their authorized representatives.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A community college shall include the Workforce Development Sequence Scholarship program in any independent audit conducted for the college on State financial aid programs.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Except as provided in <cite path="13B|08|23|.11|D.">§D of this regulation</cite>, each community college that participates in the Workforce Development Sequence Scholarship program shall submit to the Office:</text>
+      <para>
+        <num>(1)</num>
+        <text>By October 15, a report of all initial awards for the academic year that includes for each award the:</text>
+        <para>
+          <num>(a)</num>
+          <text>Name and social security number of each award recipient;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Cost of attendance for each sequence of courses;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Amount awarded to each recipient;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Workforce development sequence in which each recipient is enrolled;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Any registered apprenticeship in which the recipient participated;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>State and county residency of each award recipient; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>For any recipients who are not residents of the State, the Maryland high school from which the recipient graduated;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>By January 15, a report of subsequent awards for the academic year that includes for each award the:</text>
+        <para>
+          <num>(a)</num>
+          <text>Name and social security number of each award recipient;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Cost of attendance for each sequence of courses;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Amount awarded to each recipient;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Workforce development sequence in which each recipient is enrolled;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Any registered apprenticeship in which the recipient participated;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>State and county residency of each award recipient; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>For any recipients who are not residents of the State, the Maryland high school from which the recipient graduated;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>By June 15, a final, end-of-year report that provides a final cumulative list of recipients that includes for each award the:</text>
+        <para>
+          <num>(a)</num>
+          <text>Name, social security number, and date of birth of each award recipient;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Cost of attendance for each sequence of courses;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Gender, race, and ethnicity of each award recipient;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Amount awarded to each recipient;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Workforce development sequence in which each recipient is enrolled;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Any registered apprenticeship in which the recipient participated;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>State and county residency of each award recipient;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>For any recipients who are not residents of the State, the Maryland high school from which the recipient graduated; and</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The number of current year recipients registering for the following year to continue their sequence of courses; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any additional information required by the Office pursuant to the participating agreement.</text>
+      </para>
+    </para>
+    <annotations/>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|11-105">11-105</cite>(u) and <cite doc="Md. Code" path="ged|18-204">18-204</cite>(c), and Title 18, Subtitle 33, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-01-14">Effective date: January 14, 2019 (46:1 Md. R. 12)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-03-21"><cite path="|13B|08|23|.01">Regulation .01</cite> amended effective March 21, 2022 (49:6 Md. R. 405)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-03-21"><cite path="|13B|08|23|.02|B.">Regulation .02B</cite> amended effective March 21, 2022 (49:6 Md. R. 405)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-03-21"><cite path="|13B|08|23|.05">Regulation .05</cite> amended effective March 21, 2022 (49:6 Md. R. 405)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-03-21"><cite path="|13B|08|23|.06">Regulation .06</cite> amended effective March 21, 2022 (49:6 Md. R. 405)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-08-18"><cite path="|13B|08|23|.07">Regulation .07</cite> amended effective August 18, 2025 (52:16 Md. R. 847)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-03-21"><cite path="|13B|08|23|.07|A.">Regulation .07A</cite>, C amended effective March 21, 2022 (49:6 Md. R. 405)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-03-21"><cite path="|13B|08|23|.07|D.">Regulation .07D</cite> repealed effective March 21, 2022 (49:6 Md. R. 405)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-03-21"><cite path="|13B|08|23|.08|B.">Regulation .08B</cite> amended effective March 21, 2022 (49:6 Md. R. 405)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-08-18"><cite path="|13B|08|23|.08">Regulation .08</cite> repealed effective August 18, 2025 (52:16 Md. R. 847)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-03-21"><cite path="|13B|08|23|.09|A.">Regulation .09A</cite> amended effective March 21, 2022 (49:6 Md. R. 405)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-03-21"><cite path="|13B|08|23|.11|D.">Regulation .11D</cite> repealed effective March 21, 2022 (49:6 Md. R. 405</annotation>
+  </annotations>
+</container>
