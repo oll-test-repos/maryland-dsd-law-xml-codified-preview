@@ -800,7 +800,6 @@
     </include>
     <annotations>
       <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
-      <annotation app="2025-11-07" doc="Editor Action 2025-10-30" eff="2025-11-07" path="" type="History" display="false"/>
       <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -839,7 +838,6 @@
     </para>
     <annotations>
       <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
-      <annotation app="2025-11-07" doc="Editor Action 2025-10-30" eff="2025-11-07" path="" type="History" display="false"/>
       <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -1012,7 +1010,6 @@
     </para>
     <annotations>
       <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
-      <annotation app="2025-11-07" doc="Editor Action 2025-10-30" eff="2025-11-07" path="" type="History" display="false"/>
       <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -1100,7 +1097,6 @@
     </para>
     <annotations>
       <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
-      <annotation app="2025-11-07" doc="Editor Action 2025-10-30" eff="2025-11-07" path="" type="History" display="false"/>
       <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -1170,7 +1166,6 @@
     </para>
     <annotations>
       <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
-      <annotation app="2025-11-07" doc="Editor Action 2025-10-30" eff="2025-11-07" path="" type="History" display="false"/>
       <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -1364,7 +1359,6 @@
     </para>
     <annotations>
       <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
-      <annotation app="2025-11-07" doc="Editor Action 2025-10-30" eff="2025-11-07" path="" type="History" display="false"/>
       <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -1387,7 +1381,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1978-10-20"><cite path="|02|02|03|.21" proof="needed">Regulation .21</cite> adopted effective October 20, 1978 (5:21 Md. R. 1585)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-08-06"><cite path="|02|02|03|.21" proof="needed">Regulation .21</cite> repealed effective August 6, 1990 (17:15 Md. R. 1853)</annotation>
     <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
-    <annotation app="2025-11-07" doc="Editor Action 2025-10-30" eff="2025-11-07" path="" type="History" display="false"/>
     <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
   </annotations>
 </container>

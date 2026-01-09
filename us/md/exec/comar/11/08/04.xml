@@ -121,13 +121,15 @@
     </para>
     <para>
       <num>C.</num>
-      <text>The hearing will be conducted in accordance with Title 28 of the Code of Maryland Regulations (<cite path="|28.02.01">COMAR 28.02.01</cite>).</text>
+      <text>The hearing will be conducted in accordance with Title 28 of the Code of Maryland Regulations (<cite path="|28.02.01" proof="needed">COMAR 28.02.01</cite>).</text>
     </para>
     <para>
       <num>D.</num>
       <text>The administrative law judge’s decision is the final order of the MDOT Deputy Secretary of Policy, Planning, and Enterprise Services.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Transportation Article, §§<cite doc="Md. Code" path="gtr|2-102">2-102</cite>(c)(<cite doc="Md. Code" path="gtr|5">5</cite>) and <cite doc="Md. Code" path="gtr|7-203">7-203</cite>.1, Annotated Code of Maryland;<br/>49 U.S.C. §5329 and 49 CFR Part 674</annotation>

@@ -38,7 +38,7 @@
           <p>This version of the laws and codes on this website is dedicated to the public domain under the <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a> license.</p>
         </rights>
         <days-after-publication>180</days-after-publication>
-        <after-date>2026-06-30</after-date>
+        <after-date>2026-07-08</after-date>
       </license>
     </licenses>
     <history-start>2025-08-18</history-start>
@@ -46,9 +46,9 @@
       <repositories>
         <repository name="maryland-dsd/law-xml" commit="e7c0ccfa46241a169a9f36b5a28d7a27198aa753"/>
       </repositories>
-      <platform version="2.18.2" reproducible="false"/>
-      <build-date>2026-01-01</build-date>
-      <codified-date>2025-12-19</codified-date>
+      <platform version="2.19.0" reproducible="false"/>
+      <build-date>2026-01-09</build-date>
+      <codified-date>2026-01-05</codified-date>
     </build>
   </meta>
   <xi:include href="./us/md/exec/comar/index.xml"/>
@@ -58,7 +58,6 @@
     <xi:include href="./us/md/exec/register/50/index.xml"/>
   </collection>
   <collection name="editorial-actions">
-    <xi:include href="./editorial-actions/2025-10-30.xml"/>
     <xi:include href="./editorial-actions/2025-12-07.xml"/>
   </collection>
   <annotations>

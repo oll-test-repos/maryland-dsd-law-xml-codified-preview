@@ -205,7 +205,7 @@
           </para>
           <para>
             <num>(v)</num>
-            <text>Personnel are restricted from food handling positions or the plant as indicated if they have an illness or infection that is transmissible through food as defined in <cite path="10.06.01.06|E.">COMAR 10.06.01.06E</cite>;</text>
+            <text>Personnel are restricted from food handling positions or the plant as indicated if they have an illness or infection that is transmissible through food as defined in <cite path="10.06.01.06|E." proof="needed">COMAR 10.06.01.06E</cite>;</text>
           </para>
           <para>
             <num>(vi)</num>
@@ -353,7 +353,7 @@
           </para>
           <para>
             <num>(iv)</num>
-            <text>Ambient food warehouse, except as specified in <cite path="10|15|04|.02|B.|(14)|(c)">§B(14)(c) of this regulation</cite>;</text>
+            <text>Ambient food warehouse, except as specified in <cite path="10|15|04|.02|B.|(14)|(c)" proof="needed">§B(14)(c) of this regulation</cite>;</text>
           </para>
           <para>
             <num>(v)</num>
@@ -430,11 +430,11 @@
         <text>“Hazard Analysis Critical Control Point (HACCP)” means a management system that addresses the safety of food that is temperature controlled for safety (TCS) at critical control points as specified by:</text>
         <para>
           <num>(a)</num>
-          <text><cite path="|10.15.10">COMAR 10.15.10</cite> Procedures for the Safe Handling and Processing of Seafood;</text>
+          <text><cite path="|10.15.10" proof="needed">COMAR 10.15.10</cite> Procedures for the Safe Handling and Processing of Seafood;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text><cite path="|10.15.12">COMAR 10.15.12</cite> Procedures for the Safe Handling and Processing of Juice;</text>
+          <text><cite path="|10.15.12" proof="needed">COMAR 10.15.12</cite> Procedures for the Safe Handling and Processing of Juice;</text>
         </para>
         <para>
           <num>(c)</num>
@@ -495,7 +495,7 @@
       </para>
       <para>
         <num>(23)</num>
-        <text>“Potable water” means a water supply that meets the requirements of the Safe Drinking Water Act, as administered by the EPA and <cite path="26.04.02.01|B.|(33)">COMAR 26.04.02.01B(33)</cite>.</text>
+        <text>“Potable water” means a water supply that meets the requirements of the Safe Drinking Water Act, as administered by the EPA and <cite path="26.04.02.01|B.|(33)" proof="needed">COMAR 26.04.02.01B(33)</cite>.</text>
       </para>
       <para>
         <num>(24)</num>
@@ -654,7 +654,9 @@
         <text>“Temperature control for safety (TCS)” means a food requires specific time and temperature control to limit pathogenic microorganism growth or toxin formation for safety.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -694,8 +696,10 @@
     <prefix>Regulation</prefix>
     <num>.04</num>
     <heading>Compliance with Other Chapters.</heading>
-    <text>The person-in-charge shall manufacture, process, pack/repack, label, store, or distribute food and design, operate, and maintain a food processing plant and the facilities and equipment associated with a food processing plant in compliance with this chapter and with <cite path="|10.15.01">COMAR 10.15.01</cite>, <cite path="|10.15.02">10.15.02</cite>, <cite path="|10.15.07">10.15.07</cite>, <cite path="|10.15.10">10.15.10</cite>, and <cite path="|10.15.12">10.15.12</cite>, as applicable.</text>
-    <annotations/>
+    <text>The person-in-charge shall manufacture, process, pack/repack, label, store, or distribute food and design, operate, and maintain a food processing plant and the facilities and equipment associated with a food processing plant in compliance with this chapter and with <cite path="|10.15.01" proof="needed">COMAR 10.15.01</cite>, <cite path="|10.15.02" proof="needed">10.15.02</cite>, <cite path="|10.15.07" proof="needed">10.15.07</cite>, <cite path="|10.15.10" proof="needed">10.15.10</cite>, and <cite path="|10.15.12" proof="needed">10.15.12</cite>, as applicable.</text>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -723,7 +727,7 @@
       <text>Individuals are excluded from working with food, food-contact surfaces, and food-packaging materials:</text>
       <para>
         <num>(1)</num>
-        <text>As provided in <cite path="10.06.01.06|E.">COMAR 10.06.01.06E</cite>; and</text>
+        <text>As provided in <cite path="10.06.01.06|E." proof="needed">COMAR 10.06.01.06E</cite>; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -770,7 +774,7 @@
         <text>Wash hands and exposed arm areas thoroughly with soap and warm water:</text>
         <para>
           <num>(a)</num>
-          <text>At a hand washing facility in compliance with <cite path="|10|15|04|.12|G.">regulation .12G of this chapter</cite>;</text>
+          <text>At a hand washing facility in compliance with <cite path="|10|15|04|.12|G." proof="needed">regulation .12G of this chapter</cite>;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -891,14 +895,16 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Records that document each individual’s training are maintained according to <cite path="|10|15|04|.06">Regulation .06 of this chapter</cite>; and</text>
+        <text>Records that document each individual’s training are maintained according to <cite path="|10|15|04|.06" proof="needed">Regulation .06 of this chapter</cite>; and</text>
       </para>
     </para>
     <para>
       <num>I.</num>
-      <text>When specialized personnel training is required by <cite path="|10.15.01">COMAR 10.15.01</cite>, <cite path="|10.15.02">10.15.02</cite>, <cite path="|10.15.07">10.15.07</cite>, <cite path="|10.15.10">10.15.10</cite>, or <cite path="|10.15.12">10.15.12</cite> or this chapter, or 21 CFR Part 112, Subpart M, the specialized training is obtained as required.</text>
+      <text>When specialized personnel training is required by <cite path="|10.15.01" proof="needed">COMAR 10.15.01</cite>, <cite path="|10.15.02" proof="needed">10.15.02</cite>, <cite path="|10.15.07" proof="needed">10.15.07</cite>, <cite path="|10.15.10" proof="needed">10.15.10</cite>, or <cite path="|10.15.12" proof="needed">10.15.12</cite> or this chapter, or 21 CFR Part 112, Subpart M, the specialized training is obtained as required.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1270,7 +1276,7 @@
     </para>
     <para>
       <num>T.</num>
-      <text>Records that document compliance with this regulation are maintained in accordance with <cite path="|10|15|04|.06">Regulation .06 of this chapter</cite>;</text>
+      <text>Records that document compliance with this regulation are maintained in accordance with <cite path="|10|15|04|.06" proof="needed">Regulation .06 of this chapter</cite>;</text>
     </para>
     <para>
       <num>U.</num>
@@ -1296,7 +1302,9 @@
       <num>W.</num>
       <text>Environmental testing for chemicals or microbes is conducted when necessary to identify failures to protect ready to eat food from contamination or allergen cross-contact.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1548,7 +1556,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Except as provided for in <cite path="|10|15|04|.15">Regulation .15 of this chapter</cite>, a room or area in which food is processed or stored or in which utensils, equipment, or food-packaging materials are cleaned, sanitized, or stored:</text>
+      <text>Except as provided for in <cite path="|10|15|04|.15" proof="needed">Regulation .15 of this chapter</cite>, a room or area in which food is processed or stored or in which utensils, equipment, or food-packaging materials are cleaned, sanitized, or stored:</text>
       <para>
         <num>(1)</num>
         <text>Is separated from other rooms or areas in the plant to preclude allergen cross-contact and contamination by:</text>
@@ -1676,7 +1684,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Except as provided for in <cite path="|10|15|04|.15">Regulation .15 of this chapter</cite>, an area is designated for employees to eat, drink, and securely store personal items which is separate from areas designated for the cleaning, sanitation, or storage of:</text>
+      <text>Except as provided for in <cite path="|10|15|04|.15" proof="needed">Regulation .15 of this chapter</cite>, an area is designated for employees to eat, drink, and securely store personal items which is separate from areas designated for the cleaning, sanitation, or storage of:</text>
       <para>
         <num>(1)</num>
         <text>Utensils;</text>
@@ -1706,7 +1714,9 @@
         <text>Are equivalent to regulatory and industry standards.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|15|04|.10">
     <prefix>Regulation</prefix>
@@ -1886,7 +1896,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Meets the labeling requirements in <cite path="|10|15|04|.13|B.|(2)">Regulation .13B(2) of this chapter</cite>;</text>
+        <text>Meets the labeling requirements in <cite path="|10|15|04|.13|B.|(2)" proof="needed">Regulation .13B(2) of this chapter</cite>;</text>
       </para>
       <para>
         <num>(7)</num>
@@ -1951,7 +1961,7 @@
     </para>
     <para>
       <num>M.</num>
-      <text>Equipment submitted to the approving authority for review that meets the provisions of §§C—E of this regulation but fails to comply with <cite path="10|15|04|.10|A.">§A of this regulation</cite> is:</text>
+      <text>Equipment submitted to the approving authority for review that meets the provisions of §§C—E of this regulation but fails to comply with <cite path="10|15|04|.10|A." proof="needed">§A of this regulation</cite> is:</text>
       <para>
         <num>(1)</num>
         <text>Not harmful to public health; and</text>
@@ -1961,7 +1971,9 @@
         <text>Consistent with industry standards and practice.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2295,7 +2307,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>Hand washing facilities as specified in <cite path="10|15|04|.12|G.">§G of this regulation</cite>;</text>
+          <text>Hand washing facilities as specified in <cite path="10|15|04|.12|G." proof="needed">§G of this regulation</cite>;</text>
         </para>
       </para>
     </para>
@@ -2399,7 +2411,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|15|04|.13">
     <prefix>Regulation</prefix>
@@ -2414,11 +2428,11 @@
       <text>The person-in-charge shall ensure that:</text>
       <para>
         <num>(1)</num>
-        <text>Except as provided in <cite path="10|15|04|.13|A.">§A of this regulation</cite>, food labeling meets the requirements in 21 CFR Part 101;</text>
+        <text>Except as provided in <cite path="10|15|04|.13|A." proof="needed">§A of this regulation</cite>, food labeling meets the requirements in 21 CFR Part 101;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Except as provided in <cite path="10|15|04|.13|A.">§A of this regulation</cite>, the following information is provided on a label of food in packaged form:</text>
+        <text>Except as provided in <cite path="10|15|04|.13|A." proof="needed">§A of this regulation</cite>, the following information is provided on a label of food in packaged form:</text>
         <para>
           <num>(a)</num>
           <text>Common or usual name of the food;</text>
@@ -2501,12 +2515,12 @@
         </para>
         <para>
           <num>(m)</num>
-          <text>The exact words “WARNING: This product has not been pasteurized and, therefore, may contain harmful bacteria that can cause serious illness in children, the elderly, and persons with weakened immune systems.” for a juice product that has not been processed in accordance with <cite path="|10.15.12">COMAR 10.15.12</cite>;</text>
+          <text>The exact words “WARNING: This product has not been pasteurized and, therefore, may contain harmful bacteria that can cause serious illness in children, the elderly, and persons with weakened immune systems.” for a juice product that has not been processed in accordance with <cite path="|10.15.12" proof="needed">COMAR 10.15.12</cite>;</text>
         </para>
       </para>
       <para>
         <num>(3)</num>
-        <text>A food label and the labeling information in <cite path="10|15|04|.13|B.|(1)">§B(1) of this regulation</cite> are:</text>
+        <text>A food label and the labeling information in <cite path="10|15|04|.13|B.|(1)" proof="needed">§B(1) of this regulation</cite> are:</text>
         <para>
           <num>(a)</num>
           <text>Durable;</text>
@@ -2544,13 +2558,13 @@
           </para>
           <para>
             <num>(v)</num>
-            <text>Another method set forth in 21 CFR Parts 100 and 101 or in conformance with <cite path="10|15|04|.13|B.|(2)">§B(2) of this regulation</cite>;</text>
+            <text>Another method set forth in 21 CFR Parts 100 and 101 or in conformance with <cite path="10|15|04|.13|B.|(2)" proof="needed">§B(2) of this regulation</cite>;</text>
           </para>
         </para>
       </para>
       <para>
         <num>(4)</num>
-        <text>The information required in <cite path="10|15|04|.13|B.|(2)">§B(2) of this regulation</cite> is located on the principal display panel;</text>
+        <text>The information required in <cite path="10|15|04|.13|B.|(2)" proof="needed">§B(2) of this regulation</cite> is located on the principal display panel;</text>
       </para>
       <para>
         <num>(5)</num>
@@ -2597,7 +2611,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|15|04|.14">
     <prefix>Regulation</prefix>
@@ -2702,7 +2718,7 @@
           <text>Written standard operating procedures for:</text>
           <para>
             <num>(i)</num>
-            <text>Processing foods named in <cite path="10|15|04|.14|A.|(2)|(d)">§A(2)(d) of this regulation</cite>;</text>
+            <text>Processing foods named in <cite path="10|15|04|.14|A.|(2)|(d)" proof="needed">§A(2)(d) of this regulation</cite>;</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -2833,7 +2849,7 @@
     </para>
     <para>
       <num>F.</num>
-      <text>The Department may allow the use of equipment that meets the requirements of Regulation .10C—E of this chapter but fails to comply with <cite path="|10|15|04|.10|A.">Regulation .10A of this chapter</cite> if a review indicates the equipment and its use are:</text>
+      <text>The Department may allow the use of equipment that meets the requirements of Regulation .10C—E of this chapter but fails to comply with <cite path="|10|15|04|.10|A." proof="needed">Regulation .10A of this chapter</cite> if a review indicates the equipment and its use are:</text>
       <para>
         <num>(1)</num>
         <text>Not harmful to public health; and</text>
@@ -2845,7 +2861,7 @@
     </para>
     <para>
       <num>G.</num>
-      <text>The Department may accept plant, facilities, and grounds design and construction other than those that are provided for in <cite path="|10|15|04|.09">Regulation .09 of this chapter</cite> based on a review that shows the alternative plant, facilities, and grounds design:</text>
+      <text>The Department may accept plant, facilities, and grounds design and construction other than those that are provided for in <cite path="|10|15|04|.09" proof="needed">Regulation .09 of this chapter</cite> based on a review that shows the alternative plant, facilities, and grounds design:</text>
       <para>
         <num>(1)</num>
         <text>Provides for adequate food safety, food protection, and sanitation; and</text>
@@ -2855,7 +2871,9 @@
         <text>Is equivalent to regulatory and industry standards.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|15|04|.15">
     <prefix>Regulation</prefix>
@@ -2863,21 +2881,21 @@
     <heading>On-Farm Home Processing.</heading>
     <para>
       <num>A.</num>
-      <text>The Department may issue a food processing plant license to an individual who owns a farm to process food in a home or domestic kitchen, located on the individual’s farm, as set forth in this regulation.</text>
+      <text>The Department may issue a food processing plant license to an individual who owns, leases, rents, or resides on a farm to process food in a home or domestic kitchen, located on the individual’s farm, as set forth in this regulation.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>While operating with a license issued in accordance with <cite path="10|15|04|.15|A.">§A of this regulation</cite>, the person-in-charge shall:</text>
+      <text>While operating with a license issued in accordance with <cite path="10|15|04|.15|A." proof="needed">§A of this regulation</cite>, the person-in-charge shall:</text>
       <para>
         <num>(1)</num>
         <text>Comply with this chapter except for:</text>
         <para>
           <num>(a)</num>
-          <text><cite path="|10|15|04|.09|C.|(2)|(a)">Regulation .09C(2)(a)</cite>, D, and E; and</text>
+          <text><cite path="|10|15|04|.09|C.|(2)|(a)" proof="needed">Regulation .09C(2)(a)</cite>, D, and E; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text><cite path="|10|15|04|.12|D.">Regulation .12D</cite>, F(3), and G(1);</text>
+          <text><cite path="|10|15|04|.12|D." proof="needed">Regulation .12D</cite>, F(3), and G(1);</text>
         </para>
       </para>
       <para>
@@ -2896,12 +2914,12 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>Cross-contamination control; or</text>
+            <text>Cross-contamination control; and</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>$40,000 of sales;</text>
+          <text>$50,000 or less of sales other than foods processed under §§E and F of this regulation;</text>
         </para>
       </para>
       <para>
@@ -2974,7 +2992,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Except as provided in <cite path="10|15|04|.15|E.|(6)">§E(6) of this regulation</cite>, seafood;</text>
+        <text>Except as provided in <cite path="10|15|04|.15|E.|(6)" proof="needed">§E(6) of this regulation</cite>, seafood;</text>
       </para>
       <para>
         <num>(4)</num>
@@ -3002,11 +3020,11 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Weigh, package, label, and sell raw meat and poultry that is inspected by the Maryland Department of Agriculture in accordance with <cite path="|10|15|04|.20">Regulation .20 of this chapter</cite>;</text>
+        <text>Weigh, package, label, and sell raw meat and poultry that is inspected by the Maryland Department of Agriculture in accordance with <cite path="|10|15|04|.20" proof="needed">Regulation .20 of this chapter</cite>;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Distribute raw meat or poultry that is inspected by the Maryland Department of Agriculture in accordance with <cite path="|10|15|04|.20">Regulation .20 of this chapter</cite>;</text>
+        <text>Distribute raw meat or poultry that is inspected by the Maryland Department of Agriculture in accordance with <cite path="|10|15|04|.20" proof="needed">Regulation .20 of this chapter</cite>;</text>
       </para>
       <para>
         <num>(5)</num>
@@ -3017,7 +3035,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Slaughtered and processed in accordance with <cite path="|10|15|04|.17">Regulation .17 of this chapter</cite>;</text>
+          <text>Slaughtered and processed in accordance with <cite path="|10|15|04|.17" proof="needed">Regulation .17 of this chapter</cite>;</text>
         </para>
       </para>
       <para>
@@ -3029,11 +3047,11 @@
         <text>Use shared equipment and utensils for both domestic and commercial uses provided that the equipment and utensils are:</text>
         <para>
           <num>(a)</num>
-          <text>Designed and constructed as set forth in <cite path="|10|15|04|.10">Regulation .10 of this chapter</cite>; and</text>
+          <text>Designed and constructed as set forth in <cite path="|10|15|04|.10" proof="needed">Regulation .10 of this chapter</cite>; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Cleaned and sanitized as set forth in <cite path="|10|15|04|.11">Regulation .11 of this chapter</cite>.</text>
+          <text>Cleaned and sanitized as set forth in <cite path="|10|15|04|.11" proof="needed">Regulation .11 of this chapter</cite>.</text>
         </para>
       </para>
     </para>
@@ -3042,7 +3060,7 @@
       <text>An individual licensed in accordance with this regulation may weigh, label, store, and distribute cheese that:</text>
       <para>
         <num>(1)</num>
-        <text>Is made on a licensed out-of-State dairy farm using only the raw milk produced by the herd on the dairy farm licensed by the Department; and</text>
+        <text>Is made on a licensed out-of-State dairy facility using only the raw milk produced by the herd on the dairy farm licensed by the Department; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -3055,13 +3073,15 @@
     </para>
     <para>
       <num>H.</num>
-      <text>In the absence of a license issued in accordance with <cite path="|10.15.03">COMAR 10.15.03</cite>, a license issued in accordance with this regulation shall provide for the sale on the farm of food processed on the farm by the licensee.</text>
+      <text>In the absence of a license issued in accordance with <cite path="|10.15.03" proof="needed">COMAR 10.15.03</cite>, a license issued in accordance with this regulation shall provide for the sale on the farm of food processed on the farm by the licensee.</text>
     </para>
     <para>
       <num>I.</num>
-      <text>Except as provided in <cite path="|10|15|04|.17">Regulation .17 of this chapter</cite>, a person may not process food for human consumption on a farm without the license required in <cite path="|10|15|04|.18|A.">Regulation .18A of this chapter</cite>.</text>
+      <text>Except as provided in <cite path="|10|15|04|.17" proof="needed">Regulation .17 of this chapter</cite>, a person may not process food for human consumption on a farm without the license required in <cite path="|10|15|04|.18|A." proof="needed">Regulation .18A of this chapter</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|15|04|.16">
     <prefix>Regulation</prefix>
@@ -3069,7 +3089,7 @@
     <heading>Producer Mobile Farmer’s Market Unit.</heading>
     <para>
       <num>A.</num>
-      <text>The Department may issue a food processing plant license to operate a producer mobile farmer’s market unit to transport for sale at a farmer’s market TCS food products:</text>
+      <text>The Department may issue a food processing plant license to operate a producer mobile farmer’s market unit to transport for sale at a farmer’s market, public festival, or public event, TCS food products:</text>
       <para>
         <num>(1)</num>
         <text>Produced or stored on the farm by the licensee under an on-farm home processing plant license;</text>
@@ -3100,18 +3120,24 @@
       <text>A local health department shall:</text>
       <para>
         <num>(1)</num>
-        <text>Enforce <cite path="10|15|04|.16|B.">§B of this regulation</cite>;</text>
+        <text>Enforce <cite path="10|15|04|.16|B." proof="needed">§B of this regulation</cite>;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Levy fines as established in local law, ordinance, or regulation; and</text>
+        <text>Levy fines as established in local law, ordinance, or regulation;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Notify the Department of any violations occurring in the county.</text>
+        <text>Notify the Department of any violations occurring in the county; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Accept a valid producer mobile farmer’s market unit license to sell products authorized for sale under the license without requiring separate licenses or permits.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -3301,7 +3327,7 @@
       <text>The Department may suspend or revoke a license if the licensee:</text>
       <para>
         <num>(1)</num>
-        <text>Violates or fails to meet the requirements of <cite path="10|15|04|.18|C.">§C of this regulation</cite>; or</text>
+        <text>Violates or fails to meet the requirements of <cite path="10|15|04|.18|C." proof="needed">§C of this regulation</cite>; or</text>
       </para>
       <para>
         <num>(2)</num>
@@ -3333,12 +3359,12 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The processing operations in the plant are limited to the food type or types specified on the license pursuant to <cite path="10|15|04|.18|B.">§B of this regulation</cite>.</text>
+        <text>The processing operations in the plant are limited to the food type or types specified on the license pursuant to <cite path="10|15|04|.18|B." proof="needed">§B of this regulation</cite>.</text>
       </para>
     </para>
     <para>
       <num>G.</num>
-      <text>Except as provided in <cite path="10|15|04|.18|H.">§H of this regulation</cite>, a license may not be transferred from one person to another person or from one food processing plant to another.</text>
+      <text>Except as provided in <cite path="10|15|04|.18|H." proof="needed">§H of this regulation</cite>, a license may not be transferred from one person to another person or from one food processing plant to another.</text>
     </para>
     <para>
       <num>H.</num>
@@ -3364,7 +3390,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -3410,7 +3438,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The person-in-charge shall inform the Department of a food ingredient or a recipe that the person-in-charge considers a trade secret, except as provided in <cite path="10|15|04|.20|C.">§C of this regulation</cite>.</text>
+      <text>The person-in-charge shall inform the Department of a food ingredient or a recipe that the person-in-charge considers a trade secret, except as provided in <cite path="10|15|04|.20|C." proof="needed">§C of this regulation</cite>.</text>
     </para>
     <para>
       <num>C.</num>
@@ -3501,7 +3529,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>At a minimum of the frequency required by <cite path="10.15.07.01">COMAR 10.15.07.01</cite> for any shellfish:</text>
+        <text>At a minimum of the frequency required by <cite path="10.15.07.01" proof="needed">COMAR 10.15.07.01</cite> for any shellfish:</text>
         <para>
           <num>(a)</num>
           <text>Shucker-packer; or</text>
@@ -3525,7 +3553,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>At another frequency for shellfish required by <cite path="10.15.07.01">COMAR 10.15.07.01</cite>; or</text>
+        <text>At another frequency for shellfish required by <cite path="10.15.07.01" proof="needed">COMAR 10.15.07.01</cite>; or</text>
       </para>
       <para>
         <num>(5)</num>
@@ -3544,7 +3572,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -3738,10 +3768,12 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Exclusion of a suspect employee from all food handling positions within the plant until medical and epidemiological evidence shows that the likelihood of further foodborne disease transmission is low in accordance with <cite path="|10.06.01">COMAR 10.06.01</cite>.</text>
+        <text>Exclusion of a suspect employee from all food handling positions within the plant until medical and epidemiological evidence shows that the likelihood of further foodborne disease transmission is low in accordance with <cite path="|10.06.01" proof="needed">COMAR 10.06.01</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -3849,47 +3881,50 @@
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gag|4-311">Agriculture Article, §4-311</cite>; Health-General Article, §§18-102, 21-101, 21-102, 21-211, 21-234,<br/>21-301, 21-304, 21-308, 21-309.1, 21-309.2, and 21-336; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1960-11-18">Effective date: November 18, 1960</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1970-12-01">Amended effective January 1, 1964; June 8, 1965; July 1, 1966; April 1, 1967; December 1, 1970</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1979-09-21"><cite path="|10|15|04|.29">Regulation .29</cite> adopted effective September 21, 1979 (6:19 Md. R. 1519)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1979-12-14"><cite path="|10|15|04|.29">Regulation .29</cite> amended effective December 14, 1979 (6:25 Md. R. 1980)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1979-09-21"><cite path="|10|15|04|.29" proof="needed">Regulation .29</cite> adopted effective September 21, 1979 (6:19 Md. R. 1519)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1979-12-14"><cite path="|10|15|04|.29" proof="needed">Regulation .29</cite> amended effective December 14, 1979 (6:25 Md. R. 1980)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-12-25" discontinuity="true">Chapter revised as an emergency provision effective August 2, 1989 (16:17 Md. R. 1882); adopted permanently effective December 25, 1989 (16:25 Md. R. 2711)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-09-28"><cite path="|10|15|04|.01|B.">Regulation .01B</cite> amended effective September 28, 1992 (19:19 Md. R. 1708)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-04-03"><cite path="|10|15|04|.02|B.">Regulation .02B</cite> amended effective September 28, 1992 (19:19 Md. R. 1708); April 3, 2000 (27:6 Md. R. 641)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-09-28"><cite path="|10|15|04|.31">Regulation .31</cite> amended effective September 28, 1992 (19:19 Md. R. 1708)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-10-06"><cite path="|10|15|04|.33|A.">Regulation .33A</cite> amended effective March 4, 1991 (18:4 Md. R. 447); September 28, 1992 (19:19 Md. R. 1708); October 6, 1997 (24:20 Md. R. 1404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-11-22" discontinuity="true">Regulations <cite path="|10|15|04|.01">.01</cite> — <cite path="|10|15|04|.37">.37</cite> repealed and new Regulations <cite path="|10|15|04|.01">.01</cite> — <cite path="|10|15|04|.20">.20</cite> adopted effective November 22, 2004 (31:23 Md. R. 1652)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.02|B.">Regulation .02B</cite> amended effective May 4, 2009 (36:9 Md. R. 651)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.03|B.">Regulation .03B</cite> amended effective May 4, 2009 (36:9 Md. R. 651)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.08|A.">Regulation .08A</cite> amended effective May 4, 2009 (36:9 Md. R. 651)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.09|B.">Regulation .09B</cite> amended effective May 4, 2009 (36:9 Md. R. 651)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.10|D.">Regulation .10D</cite> amended effective May 4, 2009 (36:9 Md. R. 651)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.17|A.">Regulation .17A</cite> amended effective May 4, 2009 (36:9 Md. R. 651)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.19|C.">Regulation .19C</cite>, D amended effective May 4, 2009 (36:9 Md. R. 651)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.19|G.">Regulation .19G</cite> adopted effective May 4, 2009 (36:9 Md. R. 651)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.21">Regulation .21</cite> adopted effective May 4, 2009 (36:9 Md. R. 651)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-09-28"><cite path="|10|15|04|.01|B." proof="needed">Regulation .01B</cite> amended effective September 28, 1992 (19:19 Md. R. 1708)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-04-03"><cite path="|10|15|04|.02|B." proof="needed">Regulation .02B</cite> amended effective September 28, 1992 (19:19 Md. R. 1708); April 3, 2000 (27:6 Md. R. 641)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-09-28"><cite path="|10|15|04|.31" proof="needed">Regulation .31</cite> amended effective September 28, 1992 (19:19 Md. R. 1708)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-10-06"><cite path="|10|15|04|.33|A." proof="needed">Regulation .33A</cite> amended effective March 4, 1991 (18:4 Md. R. 447); September 28, 1992 (19:19 Md. R. 1708); October 6, 1997 (24:20 Md. R. 1404)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-11-22" discontinuity="true">Regulations <cite path="|10|15|04|.01" proof="needed">.01</cite> — <cite path="|10|15|04|.37" proof="needed">.37</cite> repealed and new Regulations <cite path="|10|15|04|.01" proof="needed">.01</cite> — <cite path="|10|15|04|.20" proof="needed">.20</cite> adopted effective November 22, 2004 (31:23 Md. R. 1652)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.02|B." proof="needed">Regulation .02B</cite> amended effective May 4, 2009 (36:9 Md. R. 651)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.03|B." proof="needed">Regulation .03B</cite> amended effective May 4, 2009 (36:9 Md. R. 651)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.08|A." proof="needed">Regulation .08A</cite> amended effective May 4, 2009 (36:9 Md. R. 651)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.09|B." proof="needed">Regulation .09B</cite> amended effective May 4, 2009 (36:9 Md. R. 651)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.10|D." proof="needed">Regulation .10D</cite> amended effective May 4, 2009 (36:9 Md. R. 651)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.17|A." proof="needed">Regulation .17A</cite> amended effective May 4, 2009 (36:9 Md. R. 651)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.19|C." proof="needed">Regulation .19C</cite>, D amended effective May 4, 2009 (36:9 Md. R. 651)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.19|G." proof="needed">Regulation .19G</cite> adopted effective May 4, 2009 (36:9 Md. R. 651)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-04"><cite path="|10|15|04|.21" proof="needed">Regulation .21</cite> adopted effective May 4, 2009 (36:9 Md. R. 651)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-01-24" discontinuity="true">Chapter revised as an emergency provision effective October 1, 2010 (37:23 Md. R. 1607); revised permanently effective January 24, 2011 (38:2 Md. R. 83)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.02|B.">Regulation .02B</cite> amended effective March 5, 2012 (39:4 Md. R. 337); January 6, 2014 (40:26 Md. R. 2163); February 15, 2016 (43:3 Md. R. 272)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.03|B.">Regulation .03B</cite> amended effective February 15, 2016 (43:3 Md. R. 272)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.04">Regulation .04</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.05">Regulation .05</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.07|B.">Regulation .07B</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.08|A.">Regulation .08A</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.09|D.">Regulation .09D</cite> amended effective March 5, 2012 (39:4 Md. R. 337); February 15, 2016 (43:3 Md. R. 272)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.13|A.">Regulation .13A</cite> amended effective February 15, 2016 (43:3 Md. R. 272)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.14">Regulation .14</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.14|B.">Regulation .14B</cite> amended effective February 15, 2016 (43:3 Md. R. 272)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.15|A.">Regulation .15A</cite>, D amended effective February 15, 2016 (43:3 Md. R. 272)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.16|A.">Regulation .16A</cite> amended effective March 5, 2012 (39:4 Md. R. 337); February 15, 2016 (43:3 Md. R. 272)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.17|A.">Regulation .17A</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.17|D.">Regulation .17D</cite>, E adopted effective March 5, 2012 (39:4 Md. R. 337)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|10|15|04|.17|E.">Regulation .17E</cite> amended effective January 6, 2014 (40:26 Md. R. 2163)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.18">Regulation .18</cite> amended effective February 15, 2016 (43:3 Md. R. 272)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.19|A.">Regulation .19A</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|10|15|04|.20|C.">Regulation .20C</cite>, D amended effective March 5, 2012 (39:4 Md. R. 337); January 6, 2014 (40:26 Md. R. 2163)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|10|15|04|.20|E.">Regulation .20E</cite> adopted effective January 6, 2014 (40:26 Md. R. 2163)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.20|E.">Regulation .20E</cite> adopted effective March 5, 2012 (39:4 Md. R. 337)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.22">Regulation .22</cite> repealed effective March 5, 2012 (39:4 Md. R. 337)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|10|15|04|.23|G.">Regulation .23G</cite> amended effective January 6, 2014 (40:26 Md. R. 2163)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.28|C.">Regulation .28C</cite> amended effective February 15, 2016 (43:3 Md. R. 272)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.02|B." proof="needed">Regulation .02B</cite> amended effective March 5, 2012 (39:4 Md. R. 337); January 6, 2014 (40:26 Md. R. 2163); February 15, 2016 (43:3 Md. R. 272)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.03|B." proof="needed">Regulation .03B</cite> amended effective February 15, 2016 (43:3 Md. R. 272)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.04" proof="needed">Regulation .04</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.05" proof="needed">Regulation .05</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.07|B." proof="needed">Regulation .07B</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.08|A." proof="needed">Regulation .08A</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.09|D." proof="needed">Regulation .09D</cite> amended effective March 5, 2012 (39:4 Md. R. 337); February 15, 2016 (43:3 Md. R. 272)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.13|A." proof="needed">Regulation .13A</cite> amended effective February 15, 2016 (43:3 Md. R. 272)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.14" proof="needed">Regulation .14</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.14|B." proof="needed">Regulation .14B</cite> amended effective February 15, 2016 (43:3 Md. R. 272)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.15|A." proof="needed">Regulation .15A</cite>, D amended effective February 15, 2016 (43:3 Md. R. 272)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.16|A." proof="needed">Regulation .16A</cite> amended effective March 5, 2012 (39:4 Md. R. 337); February 15, 2016 (43:3 Md. R. 272)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.17|A." proof="needed">Regulation .17A</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.17|D." proof="needed">Regulation .17D</cite>, E adopted effective March 5, 2012 (39:4 Md. R. 337)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|10|15|04|.17|E." proof="needed">Regulation .17E</cite> amended effective January 6, 2014 (40:26 Md. R. 2163)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.18" proof="needed">Regulation .18</cite> amended effective February 15, 2016 (43:3 Md. R. 272)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.19|A." proof="needed">Regulation .19A</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|10|15|04|.20|C." proof="needed">Regulation .20C</cite>, D amended effective March 5, 2012 (39:4 Md. R. 337); January 6, 2014 (40:26 Md. R. 2163)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|10|15|04|.20|E." proof="needed">Regulation .20E</cite> adopted effective January 6, 2014 (40:26 Md. R. 2163)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.20|E." proof="needed">Regulation .20E</cite> adopted effective March 5, 2012 (39:4 Md. R. 337)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|15|04|.22" proof="needed">Regulation .22</cite> repealed effective March 5, 2012 (39:4 Md. R. 337)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|10|15|04|.23|G." proof="needed">Regulation .23G</cite> amended effective January 6, 2014 (40:26 Md. R. 2163)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|15|04|.28|C." proof="needed">Regulation .28C</cite> amended effective February 15, 2016 (43:3 Md. R. 272)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-08-05" discontinuity="true">Chapter revised effective August 5, 2024 (51:15 Md. R. 708)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-05">Regulation 15A, B, F amended effective January 5, 2025 (52:26 Md. R. 1309)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-05"><cite path="|10|15|04|.16|A." proof="needed">Regulation .16A</cite>, C amended effective January 5, 2025 (52:26 Md. R. 1309)</annotation>
+    <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-202-F" type="History" display="false"/>
   </annotations>
 </container>
