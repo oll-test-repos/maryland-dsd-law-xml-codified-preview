@@ -9,11 +9,11 @@
     <heading>Initial Registration as Broker-Dealer.</heading>
     <para>
       <num>A.</num>
-      <text>Scope. This regulation governs applications for initial registration as a broker-dealer in Maryland.</text>
+      <text>Scope. This regulation governs applications for initial registration as a broker-dealer in Maryland. APPENDED CHANGE!</text>
     </para>
     <para>
       <num>B.</num>
-      <text>National Association of Securities Dealers (NASD) Members. An applicant that is already a member of, or has applied for membership in, the NASD shall: INSERT HERE!</text>
+      <text>National Association of Securities Dealers (NASD) Members. An applicant that is already a member of, or has applied for membership in, the NASD shall:</text>
       <para>
         <num>(1)</num>
         <text>File with the Central Registration Depository System (CRD) the information required by Form BD (Uniform Application for Broker-Dealer Registration) and the fee required by the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-407">Corporations and Associations Article, §11-407, Annotated Code of Maryland</cite>; and</text>
@@ -25,14 +25,14 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Non-NASD Members. INSERT HERE!</text>
+      <text>Non-NASD Members.</text>
       <para>
         <num>(1)</num>
         <text>An applicant that is not a member of, or has not applied for membership in, the NASD shall file with the Commissioner an application upon Form BD (Uniform Application for Broker-Dealer Registration).</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The application shall contain: INSERT HERE!</text>
+        <text>The application shall contain:</text>
         <para>
           <num>(a)</num>
           <text>A financial statement prepared in accordance with 17 CFR §240.17a-5(d) (SEC Rule 17a-5(d), Annual Filing of Audited Financial Statements), which is incorporated by reference, as of a date within 90 days of the date on which the statement is filed;</text>
@@ -47,7 +47,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>A statement or certificate showing compliance with, or exemption from, the examination requirement of <cite path="|02|02|02|.06" proof="needed">Regulation .06 of this chapter</cite>; and</text>
+          <text>A statement or certificate showing compliance with, or exemption from, the examination requirement of <cite path="|02|02|02|.06">Regulation .06 of this chapter</cite>; and</text>
         </para>
         <para>
           <num>(e)</num>
@@ -60,7 +60,7 @@
       <text>Completion of Filing. An application for initial registration as a broker-dealer is not considered filed for purposes of the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-405">Corporations and Associations Article, §11-405, Annotated Code of Maryland</cite>, until:</text>
       <para>
         <num>(1)</num>
-        <text>The applicant has complied with the examination requirement of <cite path="|02|02|02|.06" proof="needed">Regulation .06 of this chapter</cite>;</text>
+        <text>The applicant has complied with the examination requirement of <cite path="|02|02|02|.06">Regulation .06 of this chapter</cite>;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -78,6 +78,7 @@
     <annotations>
       <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
       <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
+      <annotation app="2026-01-21" doc="Editor Action 2026-01-21" eff="2026-01-21" path="" type="History" display="false"/>
     </annotations>
   </section>
   <section>

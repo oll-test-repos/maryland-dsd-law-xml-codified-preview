@@ -9,7 +9,7 @@
     <heading>Requirements for Compliance with Not-for-Profit Exemption.</heading>
     <para>
       <num>A.</num>
-      <text>Securities offered pursuant to the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-601">Corporations and Associations Article, §11-601(9)(i), Annotated Code of Maryland</cite>, shall be deemed exempt securities if the nationwide aggregate offering price does not exceed $150,000.</text>
+      <text>Securities offered pursuant to the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-601">Corporations and Associations Article, §11-601(9)(i), Annotated Code of Maryland</cite>, shall be deemed exempt securities if the nationwide aggregate offering price does not exceed $150,000. APPENDED CHANGE!</text>
     </para>
     <para>
       <num>B.</num>
@@ -51,7 +51,9 @@
       <num>C.</num>
       <text>The exemption for an offering made pursuant to this exemption shall be effective for 1 year from the date that the notification filing is accepted by the Commissioner. The exemption may be extended for successive 1-year periods by complying with the provisions of <cite path="02|02|04|.01|B.">§B of this regulation</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-21" doc="Editor Action 2026-01-21" eff="2026-01-21" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="02|02|04|.02">
     <prefix>Regulation</prefix>

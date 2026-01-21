@@ -9,15 +9,15 @@
     <heading>Prospectus.</heading>
     <para>
       <num>A.</num>
-      <text>Scope of Regulation. This regulation prescribes the form and content of the prospectus required to be filed as part of a registration statement for registration of securities by qualification or notification, and to be used in connection with the offering of securities so registered. INSERT HERE!</text>
+      <text>Scope of Regulation. This regulation prescribes the form and content of the prospectus required to be filed as part of a registration statement for registration of securities by qualification or notification, and to be used in connection with the offering of securities so registered. APPENDED CHANGE!</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Registration by Qualification. A prospectus filed as part of a registration statement for registration of securities by qualification shall contain all the information required by Schedule A. INSERT HERE!</text>
+      <text>Registration by Qualification. A prospectus filed as part of a registration statement for registration of securities by qualification shall contain all the information required by Schedule A.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>Registration by Notification. A prospectus filed as part of a registration statement for registration of securities by notification shall contain the information required by Schedule A except that the information required by §§F(4), I(2), J, K, L, Q, S(1)(c), and S(2) may be omitted. INSERT HERE!</text>
+      <text>Registration by Notification. A prospectus filed as part of a registration statement for registration of securities by notification shall contain the information required by Schedule A except that the information required by §§F(4), I(2), J, K, L, Q, S(1)(c), and S(2) may be omitted.</text>
     </para>
     <para>
       <num>D.</num>
@@ -192,7 +192,7 @@
             <table class="layout-table">
               <tbody>
                 <tr>
-                  <td proof="needed"/>
+                  <td/>
                   <td data-text-align="center" data-vertical-align="middle">Price<br/>to<br/>Public</td>
                   <td data-text-align="center" data-vertical-align="middle">Underwriting<br/>discounts and<br/>commissions</td>
                   <td data-text-align="center" data-vertical-align="middle">Proceeds to<br/>issuer or<br/>other persons</td>
@@ -801,6 +801,7 @@
     <annotations>
       <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
       <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
+      <annotation app="2026-01-21" doc="Editor Action 2026-01-21" eff="2026-01-21" path="" type="History" display="false"/>
     </annotations>
   </section>
   <section>

@@ -75,7 +75,7 @@
         <text>Either:</text>
         <para>
           <num>(a)</num>
-          <text>Provides a certificate of completion for a Department-approved training course meeting the requirements detailed in <cite path="|26|04|12|.04" proof="needed">Regulation .04 of this chapter</cite>; or</text>
+          <text>Provides a certificate of completion for a Department-approved training course meeting the requirements detailed in <cite path="|26|04|12|.04">Regulation .04 of this chapter</cite>; or</text>
         </para>
         <para>
           <num>(b)</num>
@@ -89,7 +89,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Sixty days prior to expiration of an on-site wastewater property transfer inspection license, an individual shall apply for licensure renewal according to the conditions described in <cite path="26|04|12|.03|B." proof="needed">§B of this regulation</cite>.</text>
+      <text>Sixty days prior to expiration of an on-site wastewater property transfer inspection license, an individual shall apply for licensure renewal according to the conditions described in <cite path="26|04|12|.03|B.">§B of this regulation</cite>.</text>
     </para>
     <para>
       <num>E.</num>
@@ -97,11 +97,9 @@
     </para>
     <para>
       <num>F.</num>
-      <text>The Department reserves the right to suspend or revoke a license in accordance with <cite path="|26|04|12|.06" proof="needed">Regulation .06 of this chapter</cite>.</text>
+      <text>The Department reserves the right to suspend or revoke a license in accordance with <cite path="|26|04|12|.06">Regulation .06 of this chapter</cite>.</text>
     </para>
-    <annotations>
-      <annotation app="2025-11-25" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-138-E" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -120,7 +118,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Topics covering Maryland statutory and regulatory requirements related to on-site sewage disposal systems in <cite path="|26.04.02" proof="needed">COMAR 26.04.02</cite>;</text>
+        <text>Topics covering Maryland statutory and regulatory requirements related to on-site sewage disposal systems in <cite path="|26.04.02">COMAR 26.04.02</cite>;</text>
       </para>
       <para>
         <num>(4)</num>
@@ -131,7 +129,7 @@
         <text>A closed book examination with a minimum of 100 multiple choice questions with:</text>
         <para>
           <num>(a)</num>
-          <text>25 questions specific to <cite path="|26.04.02" proof="needed">COMAR 26.04.02</cite>;</text>
+          <text>25 questions specific to <cite path="|26.04.02">COMAR 26.04.02</cite>;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -151,9 +149,7 @@
       <num>C.</num>
       <text>Any training course for the purpose of obtaining a certificate of completion under this regulation shall be provided by the Department or a Department-approved training course provider.</text>
     </para>
-    <annotations>
-      <annotation app="2025-11-25" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-138-E" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="26|04|12|.05">
     <prefix>Regulation</prefix>
@@ -161,11 +157,11 @@
     <heading>Training Course Provider Requirements.</heading>
     <para>
       <num>A.</num>
-      <text>The training course provider must satisfy all requirements of <cite path="|26|04|12|.04" proof="needed">Regulation .04 of this chapter</cite>.</text>
+      <text>The training course provider must satisfy all requirements of <cite path="|26|04|12|.04">Regulation .04 of this chapter</cite>.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>The Department may approve a training course if the training provider demonstrates to the satisfaction of the Department the ability to teach the requirements in this regulation and Regulations <cite path="|26|04|12|.02" proof="needed">.02</cite>—<cite path="|26|04|12|.04" proof="needed">.04</cite> of this chapter by:</text>
+      <text>The Department may approve a training course if the training provider demonstrates to the satisfaction of the Department the ability to teach the requirements in this regulation and Regulations <cite path="|26|04|12|.02">.02</cite>—<cite path="|26|04|12|.04">.04</cite> of this chapter by:</text>
       <para>
         <num>(1)</num>
         <text>Submitting complete course materials to the Department for approval; and</text>
@@ -183,7 +179,7 @@
         <text>Contains a minimum of 100 multiple-choice questions, of which:</text>
         <para>
           <num>(a)</num>
-          <text>At least 25 questions shall be specific to <cite path="|26.04.02" proof="needed">COMAR 26.04.02</cite>;</text>
+          <text>At least 25 questions shall be specific to <cite path="|26.04.02">COMAR 26.04.02</cite>;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -268,7 +264,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>Send the information in <cite path="26|04|12|.05|H.|(1)" proof="needed">§H(1) of this regulation</cite> on a form provided by the Department to the Department within 10 working days of completion of the approved course.</text>
+        <text>Send the information in <cite path="26|04|12|.05|H.|(1)">§H(1) of this regulation</cite> on a form provided by the Department to the Department within 10 working days of completion of the approved course.</text>
       </para>
     </para>
     <para>
@@ -327,9 +323,7 @@
       <num>N.</num>
       <text>The Department shall serve notice of withdrawal of an approved training provider or an approved training course. The training provider may request a hearing within 10 days after service of the notice. If the Department receives a timely request, the Department shall hold a hearing in accordance with <cite doc="Md. Code" path="gsg|10-201">State Government Article, §10-201 </cite>et seq., Annotated Code of Maryland.</text>
     </para>
-    <annotations>
-      <annotation app="2025-11-25" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-138-E" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -394,8 +388,7 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gen|9-217">Environment Article, §9-217</cite>.2, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-20">Regulations <cite path="|26|04|12|.01" proof="needed">.01</cite>—<cite path="|26|04|12|.07" proof="needed">.07</cite> adopted as an emergency provision effective August 24, 2022 (49:20 Md. R. 910); emergency provision extended to August 20, 2023 (50:7 Md. R. 297)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-21">Regulations <cite path="|26|04|12|.01" proof="needed">.01</cite>—<cite path="|26|04|12|.07" proof="needed">.07</cite> adopted effective August 21, 2023 (50:16 Md. R. 728)</annotation>
-    <annotation app="2025-11-25" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-138-E" type="History" display="false"/>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-20">Regulations <cite path="|26|04|12|.01">.01</cite>—<cite path="|26|04|12|.07">.07</cite> adopted as an emergency provision effective August 24, 2022 (49:20 Md. R. 910); emergency provision extended to August 20, 2023 (50:7 Md. R. 297)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-21">Regulations <cite path="|26|04|12|.01">.01</cite>—<cite path="|26|04|12|.07">.07</cite> adopted effective August 21, 2023 (50:16 Md. R. 728)</annotation>
   </annotations>
 </container>
