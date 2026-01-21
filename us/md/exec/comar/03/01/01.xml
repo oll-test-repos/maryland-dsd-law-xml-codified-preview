@@ -9,7 +9,7 @@
     <heading>Inspection of Public Records.</heading>
     <para>
       <num>A.</num>
-      <text>All public records maintained by the Comptroller, other than those which the Comptroller is authorized or required to hold confidential under the Public Information Act, shall be open for inspection at any time during regular business hours. A person seeking the right to inspect a public record maintained by the Comptroller, other than by means of written request, who is advised by the custodian that the Comptroller is authorized or required to hold the record confidential under the Public Information Act, may pursue his request by making written application to the Comptroller of the Treasury, State Treasury Building, Annapolis, Maryland.</text>
+      <text>All public records maintained by the Comptroller, other than those which the Comptroller is authorized or required to hold confidential under the Public Information Act, shall be open for inspection at any time during regular business hours. A person seeking the right to inspect a public record maintained by the Comptroller, other than by means of written request, who is advised by the custodian that the Comptroller is authorized or required to hold the record confidential under the Public Information Act, may pursue his request by making written application to the Comptroller of the Treasury, State Treasury Building, Annapolis, Maryland.AMEND CHANGE!</text>
     </para>
     <para>
       <num>B.</num>
@@ -75,7 +75,9 @@
         <text>If the Comptroller is required to provide a print-out pursuant to this regulation, he shall determine a reasonable charge for the print-out on a case-by-case basis, taking into account computer time, programming, and material costs.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-01" doc="Editor Action 2026-01-01" eff="2026-01-01" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>

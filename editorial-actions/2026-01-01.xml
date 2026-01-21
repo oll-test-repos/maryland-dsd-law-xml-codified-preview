@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Editor Action 2026-01-01">
+  <meta>
+    <effective>2026-01-01</effective>
+    <history>
+      <adopted>2026-01-01</adopted>
+    </history>
+  </meta>
+  <codify:replace history="false" doc="Code of Maryland Regulations" path="03|01|01|.01" codified:doc="Code of Maryland Regulations" codified:path="03|01|01|.01">
+    <section>
+      <prefix>Regulation</prefix>
+      <num>.01</num>
+      <heading>Inspection of Public Records.</heading>
+      <para>
+        <num>A.</num>
+        <text>All public records maintained by the Comptroller, other than those which the Comptroller is authorized or required to hold confidential under the Public Information Act, shall be open for inspection at any time during regular business hours. A person seeking the right to inspect a public record maintained by the Comptroller, other than by means of written request, who is advised by the custodian that the Comptroller is authorized or required to hold the record confidential under the Public Information Act, may pursue his request by making written application to the Comptroller of the Treasury, State Treasury Building, Annapolis, Maryland.AMEND CHANGE!</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A person who makes a written request for a public record maintained by the Comptroller shall include in the request:</text>
+        <para>
+          <num>(1)</num>
+          <text>A statement that the request is made pursuant to the Public Information Act;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A description of the public record sought to be inspected.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>As soon as practicable, but not later than 30 days after receipt of the written request for access to any public record, the Comptroller shall either:</text>
+        <para>
+          <num>(1)</num>
+          <text>Grant the request by written notice and produce the record for inspection;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Deny the request, in whole or in part; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Temporarily deny the request pending a court determination of whether disclosure would do substantial injury to the public interest.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The grant of a request for public inspection includes the right to copy the public record or to have it copied by the Comptroller's Office. If the Comptroller grants a request to inspect a public record, in whole or in part, the notice mailed to the applicant shall include the date, time, and place of the inspection, and the name of the employee of his office to be contacted by the applicant for this purpose.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>If the Comptroller denies, in whole or in part, a written request for the inspection of a public record in his possession, he shall provide the applicant, within 10 working days of the denial, with a written statement of the grounds for the denial and the remedies available to the applicant for review of his decision.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Any time limit set forth in this regulation:</text>
+        <para>
+          <num>(1)</num>
+          <text>May be extended with the consent of the applicant, for a period not to exceed 30 days; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Shall, if the applicant seeks resolution under <cite doc="Md. Code" path="ggp|4-1">General Provisions Article, §4-1</cite>B-04, Annotated Code of Maryland, be extended pending the resolution of the dispute.</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Charges for Copies, Print-Outs, and Photographs.</text>
+        <para>
+          <num>(1)</num>
+          <text>When the duplication is performed by the applicant or by an employee of the Comptroller's Office without supervision by a senior official, on conventional duplicating equipment located in an office of the Comptroller, the charge for copies or photographs of a public record provided pursuant to this regulation shall be 25 cents per page. A charge of 50 cents per page shall be made for copies which the Comptroller is required to make in order to delete privileged or confidential information from public records which an applicant will personally inspect and for copies which must be made under the supervision of a senior official.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If copies or photographs cannot be made on equipment located in the office where the public records are kept, the Comptroller shall cause the copies to be made at a location of his choosing, and shall charge for this service, in addition to charges incurred for duplication, an amount sufficient to reimburse the State for the cost of the time of an employee of his office in supervising this copying.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the Comptroller is required to provide a print-out pursuant to this regulation, he shall determine a reasonable charge for the print-out on a case-by-case basis, taking into account computer time, programming, and material costs.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+</document>
