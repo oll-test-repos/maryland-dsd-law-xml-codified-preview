@@ -883,7 +883,7 @@
       <text>Table 1 and Table 2—Generic Exclusion Levels.</text>
       <text>Table 1</text>
       <text>
-        <table class="layout-table">
+        <table>
           <thead>
             <tr>
               <th colspan="2">Generic Exclusion Levels for K061 and<br/>K062 Nonwastewater HTMR Residues</th>
@@ -951,7 +951,7 @@
       </text>
       <text>Table 2</text>
       <text>
-        <table class="layout-table">
+        <table>
           <thead>
             <tr>
               <th colspan="2">Generic Exclusion Levels for<br/>F006 Nonwastewater HTMR Residues</th>
@@ -1192,7 +1192,7 @@
           </para>
           <para>
             <num>(vii)</num>
-            <text>The plant owner or operator includes, in the notification required by <cite path="26|13|02|.04|A.|(9)|(c)|(vi)">§A(9)(c)(vi) of this regulation</cite>, the following statement: "I have read the applicable regulation establishing an exclusion for wood-preserving wastewaters and spent wood-preserving solutions and understand it requires me to comply at all times with the conditions set out in the regulation."; and</text>
+            <text>The plant owner or operator includes, in the notification required by <cite path="26|13|02|.04|A.|(9)|(c)|(vi)">§A(9)(c)(vi) of this regulation</cite>, the following statement: “I have read the applicable regulation establishing an exclusion for wood-preserving wastewaters and spent wood-preserving solutions and understand it requires me to comply at all times with the conditions set out in the regulation.”; and</text>
           </para>
           <para>
             <num>(viii)</num>
@@ -1261,7 +1261,7 @@
         <text>Oil-bearing hazardous secondary materials, that is, sludges, byproducts, or spent materials, that are generated at a petroleum refinery (SIC code 2911), when:</text>
         <para>
           <num>(a)</num>
-          <text>The secondary materials are inserted into the petroleum refining process (SIC code 2911), including, but not limited to, distillation, catalytic cracking, fractionation, or thermal cracking units, that is, "cokers";</text>
+          <text>The secondary materials are inserted into the petroleum refining process (SIC code 2911), including, but not limited to, distillation, catalytic cracking, fractionation, or thermal cracking units, that is, “cokers”;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1329,7 +1329,7 @@
         <text>Petrochemical recovered oil from an associated organic chemical manufacturing facility that is to be inserted into the petroleum refining process (SIC code 2911) along with normal petroleum refining process streams, subject to the following:</text>
         <para>
           <num>(a)</num>
-          <text>For the purposes of this section, "associated organic chemical manufacturing facility" means a facility:</text>
+          <text>For the purposes of this section, “associated organic chemical manufacturing facility” means a facility:</text>
           <para>
             <num>(i)</num>
             <text>Where the primary SIC code is 2869, but where operations may also include SIC codes 2821, 2822, and 2865;</text>
@@ -1345,7 +1345,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>For the purposes of this section, "petrochemical recovered oil" means oil that has been:</text>
+          <text>For the purposes of this section, “petrochemical recovered oil” means oil that has been:</text>
           <para>
             <num>(i)</num>
             <text>Reclaimed from secondary materials, that is, sludges, byproducts, or spent materials, including wastewater, from normal organic chemical manufacturing operations; or</text>
@@ -1916,7 +1916,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>For the purpose of <cite path="26|13|02|.04-1|A.|(1)">§A(1) of this regulation</cite>, "household waste" means any waste material (including garbage, trash, and sanitary wastes in septic tanks) derived from households (including single and multiple residences, hotels, motels, bunkhouses, ranger stations, crew quarters, campgrounds, picnic grounds, and day-use recreation areas).</text>
+      <text>For the purpose of <cite path="26|13|02|.04-1|A.|(1)">§A(1) of this regulation</cite>, “household waste” means any waste material (including garbage, trash, and sanitary wastes in septic tanks) derived from households (including single and multiple residences, hotels, motels, bunkhouses, ranger stations, crew quarters, campgrounds, picnic grounds, and day-use recreation areas).</text>
     </para>
     <para>
       <num>C.</num>
@@ -3274,7 +3274,7 @@
       <text>General.</text>
       <para>
         <num>(1)</num>
-        <text>Hazardous wastes that are recycled are subject to the requirements for generators, transporters, and storage facilities of §§B and C of this regulation except for the materials listed in §§A(2) and A-1 of this regulation. Hazardous wastes that are recycled will be known as "recyclable materials". Recyclable materials, except as otherwise provided in §§A(2), A-1, or C(1) of this regulation or <cite path="|26.13.10">COMAR 26.13.10</cite>, are not controlled hazardous substances (CHS) for purposes of <cite path="|26.13.07">COMAR 26.13.07</cite>.</text>
+        <text>Hazardous wastes that are recycled are subject to the requirements for generators, transporters, and storage facilities of §§B and C of this regulation except for the materials listed in §§A(2) and A-1 of this regulation. Hazardous wastes that are recycled will be known as “recyclable materials”. Recyclable materials, except as otherwise provided in §§A(2), A-1, or C(1) of this regulation or <cite path="|26.13.10">COMAR 26.13.10</cite>, are not controlled hazardous substances (CHS) for purposes of <cite path="|26.13.07">COMAR 26.13.07</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -3801,7 +3801,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>It meets the definition of "flammable gas (Division 2.1)" under 49 CFR §173.115(a); or</text>
+          <text>It meets the definition of “flammable gas (Division 2.1)” under 49 CFR §173.115(a); or</text>
         </para>
         <para>
           <num>(c)</num>
@@ -4589,7 +4589,7 @@
         <text>For the F038 listing:</text>
         <para>
           <num>(a)</num>
-          <text>Sludges are considered to be generated at the moment of deposition in the unit, when "deposition" means at least a temporary cessation of lateral particle movement; and</text>
+          <text>Sludges are considered to be generated at the moment of deposition in the unit, when “deposition” means at least a temporary cessation of lateral particle movement; and</text>
         </para>
         <para>
           <num>(b)</num>

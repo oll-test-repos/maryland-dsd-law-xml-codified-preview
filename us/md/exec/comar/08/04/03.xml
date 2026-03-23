@@ -27,7 +27,7 @@
         <text>The number shall conform to the requirements of 33 CFR §174.23 as amended.</text>
         <para>
           <num>(a)</num>
-          <text>The first part shall consist of the letters "MD";</text>
+          <text>The first part shall consist of the letters “MD”;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -43,7 +43,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>Letters "I", "O" and "Q" may not be used in the suffix.</text>
+          <text>Letters “I”, “O” and “Q” may not be used in the suffix.</text>
         </para>
       </para>
       <para>
@@ -71,11 +71,11 @@
         <text>A manufacturer or dealer, but not a broker, may apply to the Department for the issuance of certificates of number to be used for testing or demonstrating vessels.</text>
         <para>
           <num>(a)</num>
-          <text>Vessel number shall end with the suffix "DL".</text>
+          <text>Vessel number shall end with the suffix “DL”.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>There can be no personal use of a vessel displaying a "DL" number.</text>
+          <text>There can be no personal use of a vessel displaying a “DL” number.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -158,7 +158,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>A vessel equipped with propulsion less than 10 horsepower used exclusively for direct transportation between a numbered vessel and the shore. Vessel must display the number of the numbered vessel followed by the suffix "I".</text>
+      <text>A vessel equipped with propulsion less than 10 horsepower used exclusively for direct transportation between a numbered vessel and the shore. Vessel must display the number of the numbered vessel followed by the suffix “I”.</text>
     </para>
     <annotations/>
   </section>
@@ -196,7 +196,21 @@
       <num>D.</num>
       <text>A vessel issued a Maryland certificate of number must be titled in Maryland.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>E.</num>
+      <text>Revocation.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department may revoke a certificate of number issued under this chapter if the vessel has been altered in such a way that it is no longer eligible to be issued a certificate of number.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Prior to revoking a certificate of number, the Department shall give the applicant notice of its intended action and an opportunity to appear at a hearing conducted in accordance with the contested case procedures set forth in <cite doc="Md. Code" path="gsg">State Government Article, Title 10, Subtitle 2, Annotated Code of Maryland</cite>, and <cite path="|08.01.04">COMAR 08.01.04</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -217,32 +231,48 @@
     </para>
     <para>
       <num>D.</num>
-      <text>The transfer of full or partial interest in the vessel; and</text>
+      <text>The transfer of full or partial interest in the vessel;</text>
     </para>
     <para>
       <num>E.</num>
-      <text>The destruction or abandonment of the vessel.</text>
+      <text>The destruction or abandonment of the vessel;</text>
     </para>
-    <annotations/>
+    <para>
+      <num>F.</num>
+      <text>Any email address change; or</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The alteration of the vessel in such a way that it is no longer eligible to be issued a certificate of number.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.07</num>
     <heading>Removal of Number.</heading>
-    <text>The person whose name appears on a certificate of number as the owner of a vessel shall remove the number and validation sticker from the vessel when:</text>
+    <text>The person whose name appears on a certificate of number as the owner of a vessel shall remove the number and validation sticker from the vessel when the:</text>
     <para>
       <num>A.</num>
-      <text>The vessel is documented by the Coast Guard;</text>
+      <text>Vessel is documented by the Coast Guard;</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Certificate of number is invalid under 33 CFR §173.77(c) as amended; or</text>
+      <text>Certificate of number is invalid under <cite path="|08|04|03|.08">Regulation .08 of this chapter</cite>;</text>
     </para>
     <para>
       <num>C.</num>
-      <text>Vessel is no longer principally used in the state where the certificate was issued.</text>
+      <text>Vessel is no longer principally used in the state where the certificate was issued; or</text>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>Certificate of number has been revoked.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -250,30 +280,34 @@
     <heading>Validity of Certificate of Number.</heading>
     <para>
       <num>A.</num>
-      <text>A certificate of number issued by the Department is invalid after the date when:</text>
+      <text>A certificate of number issued by the Department is invalid after the date when the:</text>
       <para>
         <num>(1)</num>
-        <text>Vessel is documented or required to be documented under 46 CFR §67 as amended; or</text>
+        <text>Vessel is documented or required to be documented under 46 CFR §67 as amended;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The person whose name appears on the certificate of number as owner of the vessel, transfers all of his ownership of the vessel; or</text>
+        <text>Person whose name appears on the certificate of number as owner of the vessel, transfers all of his ownership of the vessel; or</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>The vessel is destroyed or abandoned.</text>
+        <text>Vessel is destroyed or abandoned.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>A certificate of number issued by the Department is invalid if:</text>
+      <text>A certificate of number issued by the Department is invalid if the:</text>
       <para>
         <num>(1)</num>
-        <text>The application for the certificate of number contains a false or fraudulent statement; or</text>
+        <text>Application for the certificate of number contains a false or fraudulent statement;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The fees for the issuance of the certificate of number are not paid.</text>
+        <text>Fees for the issuance of the certificate of number are not paid; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Certificate of number has been revoked.</text>
       </para>
     </para>
     <para>
@@ -284,7 +318,9 @@
       <num>D.</num>
       <text>The certificate of number is invalid when the person whose name appears on the certificate involuntarily loses ownership interest in the numbered vessel by legal process.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -405,7 +441,12 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1976-06-23">Chapter renumbered effective June 23, 1976 (3:13 Md. R. 721)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1982-08-16"><cite path="|08|04|03|.16">Regulation .16</cite> amended effective August 16, 1982 (9:16 Md. R. 1603)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-12-12" discontinuity="true">Chapter revised effective December 12, 2011 (38:25 Md. R. 1580)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|08|04|03|.05|E.">Regulation .05E</cite> adopted effective March 16, 2026 (53:5 Md. R. 243)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|08|04|03|.06">Regulation .06</cite> amended effective March 16, 2026 (53:5 Md. R. 243)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|08|04|03|.07">Regulation .07</cite> amended effective March 16, 2026 (53:5 Md. R. 243)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|08|04|03|.08">Regulation .08</cite> amended effective March 16, 2026 (53:5 Md. R. 243)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|08|04|03|.10|A.">Regulation .10A</cite> amended effective January 13, 2022 (49:1 Md. R. 13)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|08|04|03|.10|E.">Regulation .10E</cite>, F adopted effective January 13, 2022 (49:1 Md. R. 13)</annotation>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" type="History" display="false"/>
   </annotations>
 </container>

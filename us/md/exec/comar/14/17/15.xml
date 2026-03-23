@@ -54,18 +54,24 @@
       <text>The Administration may:</text>
       <para>
         <num>(1)</num>
-        <text>Disqualify as an agent an individual who has been convicted of or pleaded nolo contendere to a crime involving moral turpitude, whether or not any appeal or other proceeding is pending to have the conviction or plea set aside; and</text>
+        <text>Disqualify as an agent an individual who has been convicted of or pleaded nolo contendere to a crime involving moral turpitude, whether or not any appeal or other proceeding is pending to have the conviction or plea set aside;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Revoke the registration of an agent who is convicted of or pleads nolo contendere to a crime involving moral turpitude, whether or not any appeal or other proceeding is pending to have the conviction or plea set aside.</text>
+        <text>Revoke the registration of an agent who is convicted of or pleads nolo contendere to a crime involving moral turpitude, whether or not any appeal or other proceeding is pending to have the conviction or plea set aside; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Disqualify as an agent an individual who previously had a registration revoked under Alcoholic Beverages and Cannabis Article, §36-202(a)(7), Annotated Code of Maryland, or for good cause.</text>
       </para>
     </para>
     <para>
       <num>F.</num>
       <text>The Administration may not deny a cannabis agent registration based on any cannabis-related offense occurring before July 1, 2023.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -229,7 +235,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>On an annual basis, a registered agent employed by a cannabis licensee shall complete a responsible vendor training program that:</text>
+      <text>Within 90 days of employment start date and annually thereafter, a registered agent employed by a cannabis licensee shall complete a responsible vendor training program that:</text>
       <para>
         <num>(1)</num>
         <text>Meets the minimum requirements under Alcoholic Beverages and Cannabis Article, §§36-1001—36-1003, Annotated Code of Maryland; and</text>
@@ -271,7 +277,7 @@
         <text>A person offering a responsible vendor training program shall:</text>
         <para>
           <num>(a)</num>
-          <text>Maintain records for at least 4 years; and</text>
+          <text>Maintain records for at least 4 years; and A</text>
         </para>
         <para>
           <num>(b)</num>
@@ -279,7 +285,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Alcoholic Beverages and Cannabis Article, §§36-202, 36-203, 36-501, and 36-1001—36-1003, Annotated Code of Maryland</annotation>
@@ -287,6 +295,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-01">Regulations <cite path="|14|17|15|.01">.01</cite>—<cite path="|14|17|15|.06">.06</cite> adopted as an emergency provision effective July 1, 2023 (50:14 Md. R. 559); emergency status expired June 30, 2024</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-07">Regulations <cite path="|14|17|15|.01">.01</cite>—<cite path="|14|17|15|.05">.05</cite> adopted as an emergency provision effective June 7, 2024 (51:14 Md. R. 676)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22">Regulations <cite path="|14|17|15|.01">.01</cite>—<cite path="|14|17|15|.05">.05</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-15"><cite path="|14|17|15|.05|C.">Regulation .05C</cite> amended effective April 15, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|15|.02|E.">Regulation .02E</cite> amended effective March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|15|.05|C.">Regulation .05C</cite> amended effective April 15, 2025 (52:7 Md. R. 324); March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
   </annotations>
 </container>

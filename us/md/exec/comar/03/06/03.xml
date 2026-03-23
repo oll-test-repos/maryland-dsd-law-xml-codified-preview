@@ -72,10 +72,26 @@
     </para>
     <para>
       <num>F.</num>
-      <text>The taxpayer is required to make records available for inspection and examination by the Comptroller or authorized representative at any time during business hours.</text>
+      <text>If a sale is subject to a multiple points of use certificate, the certificate and all applicable records obtained from the purchaser shall be retained by the vendor.</text>
     </para>
     <para>
       <num>G.</num>
+      <text>If a sale is subject to a multiple points of use certificate, the buyer shall retain records as they exist at the time of sale supporting:</text>
+      <para>
+        <num>(1)</num>
+        <text>The apportionment reflecting the primary use location in the State; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The method of apportionment.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>The taxpayer is required to make records available for inspection and examination by the Comptroller or authorized representative at any time during business hours.</text>
+    </para>
+    <para>
+      <num>I.</num>
       <text>If the taxpayer fails to keep the records required, the Comptroller may compute the taxes due by using a factor that the Comptroller develops by:</text>
       <para>
         <num>(1)</num>
@@ -91,10 +107,12 @@
       </para>
     </para>
     <para>
-      <num>H.</num>
-      <text>The computation of the tax under §F is presumptively correct.</text>
+      <num>J.</num>
+      <text>The computation of the tax under §I of this regulation is presumptively correct.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="03|06|03|.03">
     <prefix>Regulation</prefix>
@@ -345,7 +363,7 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Tax-General Article, §§<cite doc="Md. Code" path="gtg|2-102">2-102</cite>, <cite doc="Md. Code" path="gtg|2-103">2-103</cite>, <cite doc="Md. Code" path="gtg|11-104">11-104</cite>, and <cite doc="Md. Code" path="gtg|11-245">11-245</cite>, Annotated Code of Maryland<br/>Ch. 203, Acts of 2003</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-01-01">Effective date: January 1, 1990 (16:25 Md. R. 2709)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|03|06|03|.02">Regulation .02</cite> amended effective August 19, 2013 (40:16 Md. R. 1341)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|03|.02">Regulation .02</cite> amended effective August 19, 2013 (40:16 Md. R. 1341); March 2, 2026 (53:4 Md. R. 183)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-21"><cite path="|03|06|03|.02|D.">Regulation .02D</cite>, H amended effective August 21, 2023 (50:16 Md. R. 725)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-10-01"><cite path="|03|06|03|.03|A.">Regulation .03A</cite> amended effective October 1, 2003 (30:19 Md. R. 1329)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-21"><cite path="|03|06|03|.03|A.">Regulation .03A</cite>, C amended effective August 21, 2023 (50:16 Md. R. 725)</annotation>
@@ -358,5 +376,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-08-20"><cite path="|03|06|03|.09">Regulation .09</cite> recodified to be Regulation .07 effective August 20, 1990 (17:16 Md. R. 1990)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-12-09">Regulations .08 and .09 adopted effective December 9, 1991 (18:24 Md. R. 2641)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-01-14">Regulations .08 and .09 repealed effective January 14, 1999 (26:1 Md. R. 22)</annotation>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
   </annotations>
 </container>

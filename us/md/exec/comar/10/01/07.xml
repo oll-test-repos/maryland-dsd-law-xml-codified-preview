@@ -6,85 +6,162 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
+    <heading>Scope.</heading>
+    <text>This chapter applies to all petitions submitted to the Department to promulgate, amend, or repeal a regulation over which the Secretary has rulemaking authority in accordance with <cite doc="Md. Code" path="gsg|10-122">State Government Article, §10-122, Annotated Code of Maryland</cite>..</text>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-258-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
     <heading>Definitions.</heading>
     <para>
       <num>A.</num>
-      <text>In this chapter, the following words have the meanings indicated.</text>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
     </para>
     <para>
       <num>B.</num>
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>"Department" means the Maryland Department of Health.</text>
+        <text>“Department” means the Maryland Department of Health.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>"Petition" means a petition to promulgate, amend, or repeal a regulation.</text>
+        <text>“Petition” means a petition to promulgate, amend, or repeal a regulation.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>"Regulation" has the same meaning as stated in <cite doc="Md. Code" path="gsg|10-101">State Government Article, §10-101(e), Annotated Code of Maryland</cite>.</text>
+        <text>“Petitioner” means an interested person filing a petition to the Department to promulgate, amend, or repeal a regulation.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>"Secretary" means the Secretary of Health.</text>
+        <text>“Regulation” has the meaning stated in <cite doc="Md. Code" path="gsg|10-101">State Government Article, §10-101, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Secretary” means the Secretary of Health.</text>
       </para>
     </para>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.02</num>
-    <heading>Scope.</heading>
-    <text>This chapter applies to all petitions submitted to the Department to promulgate, amend, or repeal a regulation over which the Secretary has rulemaking authority.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-258-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Who May File.</heading>
     <text>Any interested person may file a petition requesting the promulgation, amendment, or repeal of any regulation over which the Secretary has rulemaking authority.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-258-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.04</num>
-    <heading>Form.</heading>
-    <text>A petition may be in any written form chosen by the petitioner, and shall include:</text>
+    <heading>Form and Submission of Petition.</heading>
     <para>
       <num>A.</num>
-      <text>A detailed description of the regulation which the petitioner requests the Department to promulgate, amend, or repeal;</text>
+      <text>A petition shall be in writing and include:</text>
+      <para>
+        <num>(1)</num>
+        <text>A detailed description of the regulation which the petitioner requests the Department to promulgate, amend, or repeal;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a request for amendment or repeal, a citation to the affected regulation;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A statement in support of the petition; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The petitioner’s:</text>
+        <para>
+          <num>(a)</num>
+          <text>Name;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Signature;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Address; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Telephone number.</text>
+        </para>
+      </para>
     </para>
     <para>
       <num>B.</num>
-      <text>A statement in support of the petition; and</text>
+      <text>A petition shall be submitted by the petitioner to the Director of the Department’s Office of Regulation and Policy Coordination via email or U.S. Mail.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-258-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|01|07|.05">
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Disposition and Notification Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>Disposition of Petition. Within 60 days after receipt of a petition, the Secretary shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Deny the petition; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Initiate rulemaking proceedings.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notification Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>If the Secretary denies the petition, the Secretary shall provide in writing the reason for denial in accordance with <cite path="|10|01|07|.06">Regulation .06 of this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the Secretary initiates rulemaking proceedings, the Secretary shall provide in writing notification to the petitioner:</text>
+        <para>
+          <num>(a)</num>
+          <text>Upon the intent to initiate rulemaking proceedings;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Upon publication of the proposed action in the Maryland Register; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Upon final disposition through either publication of a notice of final action in the Maryland Register or discontinuation of rulemaking.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the Secretary discontinues rulemaking proceedings the written notification provided to the petitioner in accordance with <cite path="10|01|07|.05|B.|(2)">§B(2) of this regulation</cite> shall state the reasons for discontinuation.</text>
+      </para>
     </para>
     <para>
       <num>C.</num>
-      <text>The name, address, and telephone number of the petitioner.</text>
+      <text>The Secretary shall provide the written notification required under <cite path="10|01|07|.05|B.">§B of this regulation</cite> to any other individual requesting notification.</text>
     </para>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.05</num>
-    <heading>Submission.</heading>
-    <text>The petition should be addressed to the Regulations Coordinator, Herbert R. O'Conor Building, 201 West Preston Street, Baltimore, Maryland 21201. Petitions will be considered submitted upon receipt in the office of the Regulations Coordinator.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-258-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.06</num>
-    <heading>Disposition.</heading>
-    <text>Within 60 days after receipt of a petition, the Secretary shall either deny the petition, stating in writing the reasons for denial, or initiate rulemaking proceedings.</text>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.07</num>
     <heading>Reasons for Denial of a Petition.</heading>
-    <text>The Secretary may deny a petition to promulgate, amend, or repeal a regulation, for any reason permitted by law, including, but not limited to:</text>
+    <text>The Secretary may deny a petition for any reason permitted by law, including, but not limited to:</text>
     <para>
       <num>A.</num>
       <text>That the Secretary does not have the authority to grant the petition;</text>
@@ -105,11 +182,13 @@
       <num>E.</num>
       <text>That the requested regulation change is contrary to or inconsistent with Departmental policy.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-258-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.08</num>
+    <num>.07</num>
     <heading>Rulemaking Proceedings.</heading>
     <para>
       <num>A.</num>
@@ -132,7 +211,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Reproposal of the regulation if the Secretary determines that, before final adoption, the proposed regulation needs to be altered and that it is substantially different from its original text;</text>
+        <text>Reproposal of the regulation if the Secretary determines that, before final adoption, the proposed regulation should be altered and any part of the proposed text differs substantively from its original text; or;</text>
       </para>
       <para>
         <num>(6)</num>
@@ -143,36 +222,25 @@
       <num>B.</num>
       <text>Despite the initiation of rulemaking proceedings, the Secretary may decide not to promulgate, amend, or repeal the regulation.</text>
     </para>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.09</num>
-    <heading>Notice to the Petitioner and Other Persons.</heading>
-    <text>The Secretary shall send written notice to the petitioner and any other person requesting notification as follows:</text>
-    <para>
-      <num>A.</num>
-      <text>If the petition is denied, the Secretary shall send written notice of the denial, including the reasons for the denial, within 60 days of receipt of the petition.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>When the regulation appears in the Maryland Register, the Secretary shall send notice of this event at the time of the appearance in the Maryland Register.</text>
-    </para>
     <para>
       <num>C.</num>
-      <text>When the Secretary finally disposes of the requested regulation by final promulgation, amendment, repeal, or a decision to discontinue the rulemaking, the Secretary shall send notice at this time. If the final disposition is a decision to discontinue the rulemaking, the notice shall include a statement of the reasons for the discontinuance.</text>
+      <text>Upon final disposition, the Secretary shall provide the notification required to the petitioner in accordance with <cite path="|10|01|07|.05">Regulation .05 of this chapter</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-258-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.10</num>
+    <num>.08</num>
     <heading>Files of Petitions for Regulations.</heading>
-    <text>The Department shall maintain a file of all petitions submitted and their disposition. This file shall be available for public inspection as provided in State Government Article, §§<cite doc="Md. Code" path="gsg|10-611">10-611</cite>—<cite doc="Md. Code" path="gsg|10-630">10-630</cite>, Annotated Code of Maryland.</text>
-    <annotations/>
+    <text>The Department shall maintain a file of all petitions submitted and their disposition. This file shall be available for public inspection in accordance with General Provisions Article, §§<cite doc="Md. Code" path="ggp|4-201">4-201</cite>—<cite doc="Md. Code" path="ggp|4-206">4-206</cite>, Annotated Code of Maryland.</text>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-258-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gsg|10-123">State Government Article, §10-123</cite>; Health-General Article, §2-104; Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">State Government Article, §§<cite doc="Md. Code" path="gsg|10-122">10-122</cite> and <cite doc="Md. Code" path="gsg|10-123">10-123</cite>; Health-General Article, §2-104; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-11-09">Effective date: November 9, 1981 (8:22 Md. R. 1784)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-01-23"><cite path="|10|01|07|.01|B.">Regulation .01B</cite> amended effective January 23, 1989 (16:1 Md. R. 69)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-01-23"><cite path="|10|01|07|.02">Regulation .02</cite> amended effective January 23, 1989 (16:1 Md. R. 69)</annotation>
@@ -184,5 +252,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-12-20"><cite path="|10|01|07|.09">Regulation .09</cite> amended effective December 20, 1993 (20:25 Md. R. 1946)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-01-23"><cite path="|10|01|07|.09|A.">Regulation .09A</cite> amended effective January 23, 1989 (16:1 Md. R. 69)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-12-20"><cite path="|10|01|07|.10">Regulation .10</cite> amended effective January 23, 1989 (16:1 Md. R. 69); December 20, 1993 (20:25 Md. R. 1946)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02" discontinuity="true">Chapter revised effective March 2, 2026 (53:4 Md. R. 184)</annotation>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-258-F" type="History" display="false"/>
   </annotations>
+  <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-258-F" type="History" display="false"/>
 </container>

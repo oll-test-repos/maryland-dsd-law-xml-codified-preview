@@ -1,0 +1,916 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>05</num>
+  <heading>Dispute Resolution</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Administrative Procedure Act” means State Government Article, §§<cite doc="Md. Code" path="gsg|10-201">10-201</cite>—<cite doc="Md. Code" path="gsg|10-217">10-217</cite>, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Authorized representative” means a person designated by a party to represent the party during the Division’s dispute resolution process.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Contribution liability” means the amount the Division tells an employer is due each quarter, covering both the employer and employee portion.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Final order” means the final decision of the hearing officer which contains findings of fact, conclusions of law, and a disposition which grants or denies FAMLI benefits and/or FAMLI leave.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Good cause” means a demonstration by a party that a failure to timely file for EPIP denial or termination review, reconsideration, appeal, or postponement was due to:</text>
+        <para>
+          <num>(a)</num>
+          <text>A serious health condition that resulted in an unanticipated and prolonged period of incapacity and that prevented all individuals with authority to file from filing in a timely manner;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A demonstrated inability to reasonably access a means to file in a timely manner, such as due to a natural disaster, power outage, or a significant and prolonged Department system outage; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A demonstrated failure of the entity which issued the adverse determination to provide notice of dispute resolution procedures.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Hearing officer” means the individual or entity who issues the final order in a FAMLI appeal.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Party” means a claimant, an individual who has been disqualified from receiving benefits under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-901, Annotated Code of Maryland, an EPIP administrator, or the Division, or all or some of them, as applicable.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-199-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>EPIP Denial or Termination Review.</heading>
+    <para>
+      <num>A.</num>
+      <text>An employer whose application to opt-out of the State plan and into an EPIP was denied or whose EPIP was involuntarily terminated may file a request for review.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Manner of Filing.</text>
+      <para>
+        <num>(1)</num>
+        <text>Requests for Review shall be filed with the Division within 10 business days of the application denial or termination unless good cause for a delay can be shown.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Requests for Review shall be in writing in a manner prescribed by the Division.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Requests for Review shall include why the requestor believes the application denial or termination was in error.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Review shall be conducted by Division personnel who did not participate in the initial application denial or termination at issue.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Division shall issue a decision electronically on a request for review within 20 business days.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Division may schedule an informal conference to discuss the review request.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>If the Division schedules an informal conference, it shall be held within the required time period for a decision to be issued.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-199-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="09|42|05|.03">
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Claimant and Benefit Disqualification Reconsideration and Appeals.</heading>
+    <para>
+      <num>A.</num>
+      <text>Reconsideration. Any claimant is entitled to request reconsideration of any determination by the Division or an EPIP administrator.</text>
+      <para>
+        <num>(1)</num>
+        <text>Manner of Filing.</text>
+        <para>
+          <num>(a)</num>
+          <text>Requests for reconsideration shall be filed within 30 days, unless good cause can be shown, of a determination by the issuing entity, either the Division or EPIP administrator.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Requests for reconsideration shall be in writing.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Requests shall include why the requestor believes the determination to be in error.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notice of Reconsideration. When a reconsideration request is filed, the Division or EPIP administrator shall notify in a timely manner all parties to the determination being reconsidered and the employer.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Reconsideration shall be conducted by Division or EPIP administrator personnel, as applicable, who did not participate in the determination at issue.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A decision on the reconsideration shall be issued within 10 business days.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>An informal conference to discuss the reconsideration may be held.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>If an informal conference is scheduled, it shall be held within the required time period for a decision to be issued.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Appeals. Any claimant whose claim has been denied, in part or in full, whose benefits have been underpaid, or any individual who has been disqualified from receiving benefits under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-901, Annotated Code of Maryland, is entitled to file appeals of adverse determinations.</text>
+      <para>
+        <num>(1)</num>
+        <text>The appeals process is available only to claimants who have completed the reconsideration process as described in <cite path="09|42|05|.03|A.">§A of this regulation</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The appeal shall be filed with the Division within 30 days of the adverse determination unless the claimant or individual can show good cause.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Division shall be a party to every appeal under this section regardless of which entity issued the adverse determination on appeal.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Notice of Appeal. When an appeal is filed, the Division shall notify in a timely manner:</text>
+        <para>
+          <num>(a)</num>
+          <text>All parties to the adverse determination being appealed, including the issuer of the benefits at issue; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The claimant’s employer from whom the claimant requested FAMLI leave.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Informal Conference. There may be an informal conference process activated at the sole discretion of the Division at the time of filing of the appeal and proceeding with it shall be at the discretion of the Division.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Absent unusual circumstances, a hearing shall be held on the appeal within 30 days of filing of the appeal.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Hearing Notice. Parties to appeals shall be provided with reasonable written notice of a hearing to the parties.</text>
+        <para>
+          <num>(a)</num>
+          <text>The hearing notice shall contain:</text>
+          <para>
+            <num>(i)</num>
+            <text>The date, time, place, and nature of the hearing;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A statement of the right to present witnesses, documents, and other forms of evidence, and the right to cross-examine witnesses of another party;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A statement of the right to request subpoenas for witnesses and evidence, specifying the costs, if any, associated with the request;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>A copy of the hearing procedure;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>A statement of the right or restrictions pertaining to representation;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>A statement that failure to appear for the scheduled hearing may result in an adverse action against that party; and</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>A statement that the parties may agree to the evidence and waive their right to appear at the hearing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Service of Notices, Orders, and Other Documents. Except as provided by prior agreement of the parties, the hearing officer shall serve notices, orders, and other documents to the parties in one of the following ways:</text>
+          <para>
+            <num>(i)</num>
+            <text>Electronically; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>By personal delivery; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>By mailing a copy of the document, first class, postage prepaid, to the person’s last known business or home address; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>If the person is represented by counsel, also by delivering or mailing a copy of the document, first class, postage prepaid, to the person’s attorney.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The hearing officer shall send the hearing notice to the parties to the appeal:</text>
+          <para>
+            <num>(i)</num>
+            <text>At least 15 days before the hearing; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If the parties have agreed to a date for which 15 days notice cannot be given, at the earliest time possible.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Representation.</text>
+        <para>
+          <num>(a)</num>
+          <text>A party to a proceeding may:</text>
+          <para>
+            <num>(i)</num>
+            <text>Appear individually or, if appearance by a representative is permitted by law, through a representative; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Be represented by an attorney authorized to practice in Maryland.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any notice, decision, or other matter required to be sent to a party may also be sent to the party’s attorney of record at the attorney’s address.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If a party is represented by an attorney or appears through an authorized representative, then examination and cross-examination of witnesses, and objections and motions on the party’s behalf shall be made solely by the attorney or the authorized representative.</text>
+        </para>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Failure to Appear. A hearing may proceed as scheduled in the absence of a party if the party has:</text>
+        <para>
+          <num>(a)</num>
+          <text>Been served in accordance with <cite path="09|42|05|.03|B.|(7)">§B(7) of this regulation</cite>; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Failed to obtain a postponement of the hearing from the hearing officer under these requirements.</text>
+        </para>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Postponement.</text>
+        <para>
+          <num>(a)</num>
+          <text>The hearing officer may postpone a hearing only if a written request for postponement is filed with the hearing officer not later than 10 days before the date of the hearing.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a request for postponement is received later than 10 days before the date of the hearing, the hearing officer shall deny the request unless they determine that there was good cause which justified the delay.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Failure to retain counsel or to timely request a subpoena may not be considered good cause under this regulation.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A request for postponement based on failure to obtain service on a witness may not be granted if the party has failed to comply with the subpoena procedures set forth at <cite path="|09.01.02">COMAR 09.01.02</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Discovery. There is no pre-hearing discovery.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>The documents used by the provider of FAMLI benefits in determining the claim shall be part of the record.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Subpoenas. Subpoena procedures are governed by <cite path="|09.01.02">COMAR 09.01.02</cite>.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Conduct of the Proceedings.</text>
+        <para>
+          <num>(a)</num>
+          <text>The hearing officer may impose reasonable time limitations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Maryland Rules of Civil Procedure may be used as a guide in resolving procedural issues governing the conduct of the hearing that are not addressed in this chapter and the Administrative Procedure Act.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The hearing officer may conduct all or any part of the hearing by telephone, video conference, or other electronic means, in accordance with <cite doc="Md. Code" path="gsg|10-211">State Government Article, §10-211, Annotated Code of Maryland</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Order of Proceedings. Absent unusual circumstances, the order of proceedings shall be as follows:</text>
+          <para>
+            <num>(i)</num>
+            <text>Opening statements and preliminary matters may be heard;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>All individuals planning to testify shall be sworn before testifying;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The claimant or individual or their attorney or authorized representative may present the claimant’s or individual’s case;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The EPIP administrator may present the EPIP administrator’s case;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>The Division may present the Division’s case;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>The claimant or individual shall be entitled to a brief rebuttal after the conclusion of the EPIP administrator’s case and/or the Division’s case;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>The hearing officer may hear closing arguments in the same order as the presentation of evidence; and</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>Dispositive motions are prohibited.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>Evidence.</text>
+        <para>
+          <num>(a)</num>
+          <text>The rules of evidence under this chapter shall be under <cite doc="Md. Code" path="gsg|10-213">State Government Article, §10-213, Annotated Code of Maryland</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Hearsay, in the form of medical records and certified forms filled out by licensed health care providers, shall be permitted at the hearing.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Additional evidence may not be introduced unless the party seeking to introduce it demonstrates to the satisfaction of the hearing officer that the new evidence:</text>
+          <para>
+            <num>(i)</num>
+            <text>Is relevant and material;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Was not discovered before the claim was filed; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Could not have been discovered before the claim was filed with the exercise of due diligence.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>All hearings shall be on the record. The record shall include:</text>
+        <para>
+          <num>(a)</num>
+          <text>All pleadings, motions, responses, correspondence, memoranda, including proposed findings of fact and conclusions of law, and requests filed by the parties;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All hearing notices;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>All documentary and other tangible evidence received or considered;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A statement of each fact officially noticed;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>All stipulations;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>All offers of proof and objections;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>All rulings, orders, and decisions, proposed or final;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Matters placed on the record in connection with ex parte communication;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The recording of the hearing, and any pre hearing proceeding, and any transcript of the recording prepared by a court reporting service; and</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Any other item required by law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>Interpreters.</text>
+        <para>
+          <num>(a)</num>
+          <text>If a party or witness cannot readily hear, speak, or understand the spoken or written English language, and applies to the hearing officer in advance of the hearing for the appointment of a qualified interpreter to assist that party or witness, the hearing officer shall appoint a qualified interpreter to provide assistance during the hearing.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>With the approval of the hearing officer, a party who intends to offer the testimony of a witness who cannot readily hear, speak, or understand the spoken or written English language, may arrange for a qualified interpreter to assist the witness.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An interpreter shall take an oath or affirm that the interpreter will accurately translate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>Burden of Proof.</text>
+        <para>
+          <num>(a)</num>
+          <text>The claimant shall bear the burden of proving, by a preponderance of the evidence, that the Division or EPIP administrator erred in making the initial claim decision under dispute, given the evidence available at the time of the initial decision.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The individual who has been disqualified from receiving benefits under <cite doc="Md. Code" path="gle|8">Labor and Employment Article §8</cite>.3-901, Annotated Code of Maryland shall bear the burden of proving, by a preponderance of the evidence, that the individual should not have been disqualified.</text>
+        </para>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>Closed Hearings. Unless otherwise provided by statute, all hearings conducted under this chapter are closed to the public.</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>Recording.</text>
+        <para>
+          <num>(a)</num>
+          <text>The proceedings shall be recorded.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The record need not be transcribed unless requested by a party.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The cost of a typewritten transcript of any proceeding or part of a proceeding shall be paid by the party requesting the transcript.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Except as provided under <cite path="09|42|05|.03|B.|(20)|(a)">§B(20)(a) of this regulation</cite>, cameras, tape recorders, and other electronic and photographic equipment of any type are not permitted at the hearing, unless the equipment is intended to be introduced into evidence or used to present evidence.</text>
+        </para>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>Recusal. A hearing officer shall be recused from the review of an appeal and from participating in a hearing if the hearing officer:</text>
+        <para>
+          <num>(a)</num>
+          <text>Has personal knowledge of the facts which gave rise to the appeal;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Has a personal or business relationship with any of the parties or witnesses; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>For any other reason may be unable to act impartially in the matter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>Decisions. After consideration of the testimony and other evidence the hearing officer shall issue a final written order, including any penalties or fees issued under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-101 et seq., Annotated Code of Maryland, no more than 10 business days after the conclusion of the hearing.</text>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>Decision to Employer. Upon receipt of the decision by the Division, the Division shall forward a copy of the decision to the employer.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>Judicial Review. A party aggrieved by the final order is entitled to judicial review of the decision under <cite doc="Md. Code" path="gsg|10-222">State Government Article, §10-222, Annotated Code of Maryland</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-199-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="09|42|05|.04">
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Contribution Liability Reconsideration and Appeals.</heading>
+    <para>
+      <num>A.</num>
+      <text>Reconsideration. An employer is entitled to request reconsideration by the Division of a determination of the employer’s contribution liability.</text>
+      <para>
+        <num>(1)</num>
+        <text>Manner of Filing:</text>
+        <para>
+          <num>(a)</num>
+          <text>Requests for reconsideration shall be filed within 30 days, unless good cause can be shown, of notice of the contribution liability;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Requests for reconsideration shall be in writing; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Requests shall include why the requestor believes the contribution liability to be in error.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Reconsideration shall be conducted by Division personnel who did not participate in the contribution liability determination at issue.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A decision on the reconsideration shall be issued within 30 days.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Appeals.</text>
+      <para>
+        <num>(1)</num>
+        <text>The appeals process is only available to employers who have completed the reconsideration process as described in <cite path="09|42|05|.04|A.">§A of this regulation</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The appeal shall be filed with the Division within 30 days of the reconsideration denial unless the employer can show good cause.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Absent unusual circumstances, a hearing shall be held on the appeal within 60 days of filing of the appeal.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Hearing Notice. Employers shall be provided with reasonable written notice of a hearing.</text>
+        <para>
+          <num>(a)</num>
+          <text>The hearing notice shall contain:</text>
+          <para>
+            <num>(i)</num>
+            <text>The date, time, place, and nature of the hearing;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A statement of the right to present witnesses, documents, and other forms of evidence, and the right to cross-examine witnesses;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A statement of the right to request subpoenas for witnesses and evidence, specifying the costs, if any, associated with the request;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>A copy of the hearing procedure;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>A statement of the right or restrictions pertaining to representation;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>A statement that failure to appear for the scheduled hearing may result in an adverse action against the employer; and</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>A statement that the employer and Division may agree to the evidence and waive their right to appear at the hearing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Service of Notices, Orders, and Other Documents. Except as provided by prior agreement, the hearing officer shall serve notices, orders, and other documents to the employer and any other parties in one of the following ways:</text>
+          <para>
+            <num>(i)</num>
+            <text>Electronically; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>By personal delivery; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>By mailing a copy of the document, first class, postage prepaid, to the employer’s last known business or home address; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>If the employer is represented by counsel, also by delivering or mailing a copy of the document, first class, postage prepaid, to the employer’s attorney.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The hearing officer shall send the hearing notice to the employer:</text>
+          <para>
+            <num>(i)</num>
+            <text>At least 15 days before the hearing; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If the employer has agreed to a date for which 15 days notice cannot be given, at the earliest time possible.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Representation.</text>
+        <para>
+          <num>(a)</num>
+          <text>An employer may appear individually or, if appearance by an attorney or representative is permitted or required by law, through an attorney authorized to practice in Maryland.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any notice, decision, or other matter required to be sent to an employer may also be sent to the employer’s attorney of record at the attorney’s address.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If an employer is represented by an attorney or appears through an authorized representative, then examination and cross-examination of witnesses, and objections and motions on the employer’s behalf shall be made solely by the attorney or the authorized representative.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Failure to Appear. A hearing may proceed as scheduled in the absence of the employer if the employer has:</text>
+        <para>
+          <num>(a)</num>
+          <text>Been served in accordance with <cite path="09|42|05|.04|B.|(4)">§B(4) of this regulation</cite>; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Failed to obtain a postponement of the hearing from the hearing officer under these requirements.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Postponement.</text>
+        <para>
+          <num>(a)</num>
+          <text>The hearing officer may postpone a hearing only if a written request for postponement is filed with the hearing officer not later than 10 days before the date of the hearing.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a request for postponement is received later than 10 days before the date of the hearing, the hearing officer shall deny the request unless they determine that there was good cause which justified the delay.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Failure to retain counsel or to timely request a subpoena may not be considered good cause under this regulation.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A request for postponement based on failure to obtain service on a witness may not be granted if the employer has failed to comply with the subpoena procedures set forth at <cite path="|09.01.02">COMAR 09.01.02</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Discovery. There is no pre-hearing discovery.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Subpoenas. Subpoena procedures are governed by <cite path="|09.01.02">COMAR 09.01.02</cite>.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Conduct of the Proceedings.</text>
+        <para>
+          <num>(a)</num>
+          <text>The hearing officer may impose reasonable time limitations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Maryland Rules of Civil Procedure may be used as a guide in resolving procedural issues governing the conduct of the hearing that are not addressed in this chapter and the Administrative Procedure Act.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The hearing officer may conduct all or any part of the hearing by telephone, video conference, or other electronic means, in accordance with <cite doc="Md. Code" path="gsg|10-211">State Government Article, §10-211, Annotated Code of Maryland</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Order of Proceedings. Absent unusual circumstances, the order of proceedings shall be as follows:</text>
+          <para>
+            <num>(i)</num>
+            <text>Opening statements and preliminary matters may be heard;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>All individuals planning to testify shall be sworn before testifying;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The employer or their attorney or authorized representative may present the employer’s case;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The Division may present the Division’s case;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>The employer shall be entitled to a brief rebuttal after the conclusion of the Division’s case;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>The hearing officer may hear closing arguments in the same order as the presentation of evidence; and</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>Dispositive motions are prohibited.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Evidence.</text>
+        <para>
+          <num>(a)</num>
+          <text>The rules of evidence under this chapter shall be under <cite doc="Md. Code" path="gsg|10-213">State Government Article, §10-213, Annotated Code of Maryland</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Additional evidence may not be introduced unless the party seeking to introduce it demonstrates to the satisfaction of the hearing officer that the new evidence:</text>
+          <para>
+            <num>(i)</num>
+            <text>Is relevant and material;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Was not discovered before the contribution liability was determined; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Could not have been discovered before the contribution liability was determined with the exercise of due diligence.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>The record shall include:</text>
+        <para>
+          <num>(a)</num>
+          <text>All pleadings, motions, responses, correspondence, memoranda, including proposed findings of fact and conclusions of law, and requests filed by the employer and Division;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All hearing notices;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>All documentary and other tangible evidence received or considered;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A statement of each fact officially noticed;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>All stipulations;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>All offers of proof and objections;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>All rulings, orders, and decisions, proposed or final;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Matters placed on the record in connection with ex parte communication;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>The recording of the hearing, and any pre hearing proceeding, and any transcript of the recording prepared by a court reporting service; and</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Any other item required by law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Interpreters.</text>
+        <para>
+          <num>(a)</num>
+          <text>If an employer or witness cannot readily hear, speak, or understand the spoken or written English language, and applies to the hearing officer in advance of the hearing for the appointment of a qualified interpreter to assist that employer or witness, the hearing officer shall appoint a qualified interpreter to provide assistance during the hearing.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>With the approval of the hearing officer, an employer who intends to offer the testimony of a witness who cannot readily hear, speak, or understand the spoken or written English language, may arrange for a qualified interpreter to assist the witness.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An interpreter shall take an oath or affirm that the interpreter will accurately translate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Burden of Proof. The employer shall bear the burden of proving, by a preponderance of the evidence, that the employer is entitled to a change in the contribution liability.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>Open Hearings. Unless otherwise provided by statute, all hearings conducted under this chapter are open to the public.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>Recording.</text>
+        <para>
+          <num>(a)</num>
+          <text>The proceedings shall be recorded;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The record need not be transcribed unless requested by the employer;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The cost of a typewritten transcript of any proceeding or part of a proceeding shall be paid by the entity requesting the transcript; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Except as provided under <cite path="09|42|05|.04|B.|(16)|(a)">§B(16)(a) of this regulation</cite>, cameras, tape recorders, and other electronic and photographic equipment of any type are not permitted at the hearing, unless the equipment is intended to be introduced into evidence or used to present evidence.</text>
+        </para>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>Recusal. A hearing officer shall be recused from the review of an appeal and from participating in a hearing if the hearing officer:</text>
+        <para>
+          <num>(a)</num>
+          <text>Has personal knowledge of the facts which gave rise to the appeal;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Has a personal or business relationship with the employer or witnesses; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>For any other reason may be unable to act impartially in the matter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>Decisions. After consideration of the testimony and other evidence the hearing officer shall issue a final written order, including any penalties or fees issued under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-101 et seq., Annotated Code of Maryland, within 90 days of the conclusion of the hearing.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>Judicial Review. An employer aggrieved by the final order is entitled to judicial review of the decision under <cite doc="Md. Code" path="gsg|10-222">State Government Article, §10-222, Annotated Code of Maryland</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-199-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Special EPIP Provisions.</heading>
+    <para>
+      <num>A.</num>
+      <text>To the extent the dispute resolution procedures, including timelines and good cause, outlined in this chapter are more restrictive with respect to claimants and recipients than those dispute resolution procedures outlined by the Administration, the Administration’s procedures shall control.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>To the extent the dispute resolution procedures, including notice requirements and good cause, outlined in this chapter are less restrictive with respect to employers and carriers than those dispute resolution procedures outlined by the Administration, the Administration’s procedures shall control.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-199-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Labor and Employment Article, §§8.3-101, 403, and 906, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30">Effective date: March 30, 2026 (53:6 Md. R. 290)</annotation>
+  </annotations>
+  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-199-F" type="History" display="false"/>
+</container>

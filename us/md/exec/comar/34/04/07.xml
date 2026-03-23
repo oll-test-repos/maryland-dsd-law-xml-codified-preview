@@ -363,7 +363,7 @@
       </para>
       <para>
         <num>(28)</num>
-        <text>“Reserve Fund” means the Heritage Structure Rehabilitation Tax Credit Reserve Fund established under the Act.</text>
+        <text>“Reserve Fund” means the Historic Revitalization Tax Credit Reserve Fund established under the Act.</text>
       </para>
       <para>
         <num>(29)</num>
@@ -397,8 +397,14 @@
         <num>(33)</num>
         <text>“Trust” means the Maryland Historical Trust.</text>
       </para>
+      <para>
+        <num>(34)</num>
+        <text>“Trust Account” means the Small Commercial Project Trust Account established within the Reserve Fund.</text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-094-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -609,22 +615,28 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The Commercial Tax Credit may not exceed:</text>
+        <text>The Commercial Tax Credit may not exceed the lesser of:</text>
         <para>
           <num>(a)</num>
-          <text>$3,000,000 for any project that does not qualify as either a level 1 or level 2 opportunity zone project;</text>
+          <text>$5,000,000 for any project that does not qualify as either a level 1 or level 2 opportunity zone project;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>$3,150.000 for a project that qualifies as a level 1 opportunity zone project; or</text>
+          <text>$5,250,000 for a project that qualifies as a level 1 opportunity zone project;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>$3,300.000 for a project that qualifies as a level 2 opportunity zone project.</text>
+          <text>$5,500,000 for a project that qualifies as a level 2 opportunity zone project; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The maximum amount specified under the initial credit certificate awarded to a competitive Commercial Tax Credit Project.</text>
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-094-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -837,19 +849,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>The Director may not approve any Part 2 application or amendment and may not issue any initial credit certificates for:</text>
-        <para>
-          <num>(a)</num>
-          <text>A Small Commercial Tax Credit project after the aggregate amount of all initial credit certificates for the Small Commercial Tax Credit issued by the Director totals $4,000,000;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The rehabilitation of an agricultural structure after the aggregate amount of all initial credit certificates issued by the Director for the rehabilitation of agricultural structures totals $1,000,000; or</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The rehabilitation of a post-World War II structure after the aggregate amount of all initial credit certificates issued by the Director for the rehabilitation of post-World War II structures totals $1,000,000.</text>
-        </para>
+        <text>The Director may not approve any Part 2 applications or amendments and may not issue any initial credit certificates for Small Commercial Tax Credit projects for credit amounts in the aggregate totaling more than the amount of funds in the Small Commercial Project Trust Account.</text>
       </para>
     </para>
     <para>
@@ -1020,19 +1020,27 @@
         <text>The maximum amount of an award of an initial credit certificate for a rehabilitation under <cite path="34|04|07|.05|D.|(6)">§D(6) of this regulation</cite> may not exceed the lesser of:</text>
         <para>
           <num>(a)</num>
-          <text>The sum of:</text>
+          <text>The sum of 20 percent of the estimated qualified rehabilitation expenditures identified in the Part 2 application and, if requested in the application, one of the following additional credits:</text>
           <para>
             <num>(i)</num>
-            <text>20 percent of the estimated qualified rehabilitation expenditures identified in the Part 2 application; and</text>
+            <text>A 5 percent credit for achieving a high performance building;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>If requested in the application, either the additional 5 percent credit for achieving a high performance building, a project that qualifies as affordable housing, or a project that qualifies as a level 1 opportunity zone project, or the additional 7.5 percent credit for achieving a project that qualified as a level 2 opportunity zone project; or</text>
+            <text>A 5 percent credit for a project that qualifies as affordable housing;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A 5 percent credit for a project that qualifies as a level 1 opportunity zone project; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>A 7.5 percent credit for achieving a project that qualified as a level 2 opportunity zone project; or</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>The limits established under Regulation 03E(2)(b) of this chapter.</text>
+          <text>The limits established under <cite path="|34|04|07|.03|E.|(3)">Regulation .03E(3) of this chapter</cite>.</text>
         </para>
       </para>
       <para>
@@ -1128,7 +1136,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-094-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="34|04|07|.06">
     <prefix>Regulation</prefix>
@@ -1507,17 +1517,20 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-02-16" discontinuity="true">Regulations <cite path="|34|04|07|.01">.01</cite>—<cite path="|34|04|07|.07">.07</cite> repealed and new Regulations <cite path="|34|04|07|.01">.01</cite>—<cite path="|34|04|07|.08">.08</cite> adopted as an emergency provision effective January 1, 2015 (42:1 Md. R. 16); adopted permanently effective February 16, 2015 (42:3 Md. R. 318)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-09-12" discontinuity="true">Regulations <cite path="|34|04|07|.01">.01</cite>—<cite path="|34|04|07|.08">.08</cite> repealed and new Regulations <cite path="|34|04|07|.01">.01</cite>—<cite path="|34|04|07|.09">.09</cite> adopted effective September 12, 2016 (43:18 Md. R. 1019)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-16"><cite path="|34|04|07|.01">Regulation .01</cite> amended effective December 16, 2019 (46:25 Md. R. 1132)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-12-13"><cite path="|34|04|07|.02|B.">Regulation .02B</cite> amended effective February 12, 2018 (45:3 Md. R. 159); March 25, 2019 (46:6 Md. R. 347); December 16, 2019 (46:25 Md. R. 1132); September 21, 2020 (47:19 Md.  R. 850); December 13, 2021 (48:25 Md. R. 1082)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|34|04|07|.02|B.">Regulation .02B</cite> amended effective February 12, 2018 (45:3 Md. R. 159); March 25, 2019 (46:6 Md. R. 347); December 16, 2019 (46:25 Md. R. 1132); September 21, 2020 (47:19 Md.  R. 850); December 13, 2021 (48:25 Md. R. 1082); March 2, 2026 (53:4 Md. R. 186)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-16"><cite path="|34|04|07|.03">Regulation .03</cite> amended effective December 16, 2019 (46:25 Md. R. 1132)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-03-25"><cite path="|34|04|07|.03|C.">Regulation .03C</cite>—E amended effective March 25, 2019 (46:6 Md. R. 347)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-09-21"><cite path="|34|04|07|.03|D.">Regulation .03D</cite> amended effective September 21, 2020 (47:19 Md.  R. 850)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|34|04|07|.03">Regulation .03</cite>2E amended effective March 2, 2026 (53:4 Md. R. 186)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-16"><cite path="|34|04|07|.04|C.">Regulation .04C</cite> amended effective December 16, 2019 (46:25 Md. R. 1132)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-16"><cite path="|34|04|07|.05">Regulation .05</cite> amended effective March 25, 2019 (46:6 Md. R. 347); December 16, 2019 (46:25 Md. R. 1132)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-02-12"><cite path="|34|04|07|.05|A.">Regulation .05A</cite>—C amended effective February 12, 2018 (45:3 Md. R. 159)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-09-21"><cite path="|34|04|07|.05|C.">Regulation .05C</cite> amended effective September 21, 2020 (47:19 Md.  R. 850)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|34|04|07|.05|C.">Regulation .05C</cite> amended effective September 21, 2020 (47:19 Md.  R. 850) March 2, 2026 (53:4 Md. R. 186)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|34|04|07|.05|D.">Regulation .05D</cite> amended effective March 2, 2026 (53:4 Md. R. 186)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-16"><cite path="|34|04|07|.06">Regulation .06</cite> amended effective December 16, 2019 (46:25 Md. R. 1132)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-03-25"><cite path="|34|04|07|.06|C.">Regulation .06C</cite>, E amended effective March 25, 2019 (46:6 Md. R. 347)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-09-21"><cite path="|34|04|07|.06|G.">Regulation .06G</cite> adopted effective September 21, 2020 (47:19 Md.  R. 850)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-16"><cite path="|34|04|07|.08">Regulation .08</cite> amended effective December 16, 2019 (46:25 Md. R. 1132)</annotation>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-094-F" type="History" display="false"/>
   </annotations>
 </container>

@@ -71,19 +71,19 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>"Administration" means the Motor Vehicle Administration.</text>
+        <text>“Administration” means the Motor Vehicle Administration.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>"Applicant" means the person requesting a certificate of title for a vehicle.</text>
+        <text>“Applicant” means the person requesting a certificate of title for a vehicle.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>"ASED" means the Automotive Safety Enforcement Division of the Department of State Police.</text>
+        <text>“ASED” means the Automotive Safety Enforcement Division of the Department of State Police.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>"Bill of sale" means a written statement certifying the:</text>
+        <text>“Bill of sale” means a written statement certifying the:</text>
         <para>
           <num>(a)</num>
           <text>Ownership of something has been transferred; and</text>
@@ -98,27 +98,29 @@
         <text>Certificate of Title.</text>
         <para>
           <num>(a)</num>
-          <text>"Certificate of title" means a document evidencing ownership and commonly associated with motor vehicles.</text>
+          <text>“Certificate of title” means a document or electronic record evidencing ownership and commonly associated with motor vehicles.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>“Certificate of title does not include a salvage certificate.</text>
+          <text>“Certificate of title” does not include a salvage certificate.</text>
         </para>
       </para>
       <para>
         <num>(6)</num>
-        <text>"Dealer" has the meaning stated in <cite doc="Md. Code" path="gtr|11-111">Transportation Article, §11-111, Annotated Code of Maryland</cite>.</text>
+        <text>“Dealer” has the meaning stated in <cite doc="Md. Code" path="gtr|11-111">Transportation Article, §11-111, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>"Vehicle" has the meaning stated in <cite doc="Md. Code" path="gtr|11-176">Transportation Article, §11-176, Annotated Code of Maryland</cite>.</text>
+        <text>“Vehicle” has the meaning stated in <cite doc="Md. Code" path="gtr|11-176">Transportation Article, §11-176, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(8)</num>
         <text>“Vehicle identification number (VIN)” has the meaning stated in <cite doc="Md. Code" path="gtr|11-177">Transportation Article, §11-177, Annotated Code of Maryland</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-222-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -279,7 +281,7 @@
       <text>An applicant for a certificate of title to be issued for a used vehicle sold by a dealer shall provide the Administration with:</text>
       <para>
         <num>(1)</num>
-        <text>A properly assigned certificate of title or other acceptable ownership document from the jurisdiction in which the vehicle was last registered;</text>
+        <text>A properly assigned certificate of title or other acceptable ownership document or electronic record from the jurisdiction in which the vehicle was last registered;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -331,7 +333,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>An error or alteration in the documents furnished has occurred and a letter of explanation or certified statement does not clarify the error or  alteration to the satisfaction of the Administration;</text>
+        <text>An error or alteration in the documents furnished has occurred and a letter of explanation or certified statement does not clarify the error oralteration to the satisfaction of the Administration;</text>
       </para>
       <para>
         <num>(7)</num>
@@ -455,10 +457,12 @@
       </para>
       <para>
         <num>(17)</num>
-        <text>The ownership document is a salvage certificate branded "Not Rebuildable — Parts Only — Not To Be Retitled".</text>
+        <text>The ownership document is a salvage certificate branded “Not Rebuildable — Parts Only — Not To Be Retitled”.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-222-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -469,7 +473,7 @@
       <text>An applicant for a certificate of title for a used vehicle transferred from someone other than a dealer shall provide the Administration with a:</text>
       <para>
         <num>(1)</num>
-        <text>Properly assigned certificate of title or other ownership documentation acceptable to the Administration from the jurisdiction in which the vehicle was last registered; and</text>
+        <text>Properly assigned certificate of title or other ownership document or electronic record acceptable to the Administration from the jurisdiction in which the vehicle was last registered; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -609,7 +613,7 @@
       </para>
       <para>
         <num>(16)</num>
-        <text>The ownership document is a salvage certificate branded "Not Rebuildable — Parts Only — Not To Be Retitled";</text>
+        <text>The ownership document is a salvage certificate branded “Not Rebuildable — Parts Only — Not To Be Retitled”;</text>
       </para>
       <para>
         <num>(17)</num>
@@ -676,7 +680,9 @@
         <text>The vehicle is transferred as a result of a divorce and the divorce decree is not furnished.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-222-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -687,7 +693,7 @@
       <text>An applicant for a certificate of title for a used vehicle presently titled in the applicant's name in another jurisdiction and who is now applying for a Maryland certificate of title shall provide the Administration with an:</text>
       <para>
         <num>(1)</num>
-        <text>Out-of-State title or other acceptable ownership document from the jurisdiction where the vehicle was last registered; and</text>
+        <text>Out-of-State title or other acceptable ownership document or electronic record from the jurisdiction where the vehicle was last registered; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -703,7 +709,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The out-of-State title or other acceptable ownership document is held by a lien holder and the lien holder refuses to relinquish the title or other ownership document to the Administration;</text>
+        <text>The out-of-State title or other acceptable ownership document or electronic record is held by a lien holder and the lien holder refuses to relinquish the title or other ownership document to the Administration;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -735,7 +741,7 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>The vehicle was previously salvaged in this State or another state and has been branded "Parts Only — Not Rebuildable";</text>
+        <text>The vehicle was previously salvaged in this State or another state and has been branded “Parts Only — Not Rebuildable”;</text>
       </para>
       <para>
         <num>(9)</num>
@@ -795,10 +801,12 @@
       </para>
       <para>
         <num>(13)</num>
-        <text>The ownership document is a salvage certificate branded "Not Rebuildable — Parts Only — Not to be Retitled", or with an equivalent term.</text>
+        <text>The ownership document is a salvage certificate branded “Not Rebuildable — Parts Only — Not to be Retitled”, or with an equivalent term.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-222-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -903,31 +911,51 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>A certification by the garage owner or the person having the lien, and the auctioneer, including the odometer disclosure as required by <cite path="|11.13.06">COMAR 11.13.06</cite>, on a form provided by the Administration, that the auction was held in compliance with <cite doc="Md. Code" path="gcl">Commercial Law Article, Title 16, Annotated Code of Maryland</cite>;</text>
+        <text>A certification by the garage owner or the person having the lien, including the odometer disclosure as required by <cite path="|11.13.06">COMAR 11.13.06</cite> on a form provided by the Administration;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>A digital photograph of the VIN;</text>
+        <text>A certification on a form provided by the Administration by the auctioneer that the auction was held in compliance with <cite doc="Md. Code" path="gcl">Commercial Law Article, Title 16, Annotated Code of Maryland</cite>;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>A certification that a newspaper advertisement has run once a week for the 2 consecutive weeks immediately preceding the sale, in a newspaper of general circulation in the county or city where the vehicle was repaired or originally stored, with the last advertisement appearing the week immediately preceding the sale;</text>
+        <text>A digital photograph of the VIN;</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>A copy of the newspaper advertisement required by <cite path="11|15|14|.08|A.|(4)">§A(4) of this regulation</cite>;</text>
+        <text>A certification that a newspaper advertisement has run once a week for the 2 consecutive weeks immediately preceding the sale, in a newspaper of general circulation in the county or city where the sale is to be held, with the last advertisement appearing the week immediately preceding the sale;</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>A storage or repair order as specified in <cite doc="Md. Code" path="gcl|14-1008">Commercial Law Article, §14-1008, Annotated Code of Maryland</cite>, containing an affirmative request by the vehicle owner for the repair services or storage services requested or, if applicable, a written statement from the lienor that the lienor stored the vehicle in accordance with an agreement with an insurer;</text>
+        <text>A copy of the newspaper advertisement required by <cite path="11|15|14|.08|A.|(5)">§A(5) of this regulation</cite>;</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>Signed receipts for a certified or registered letter in a format prescribed by the Administration sent to the individual who left the vehicle for repairs, the vehicle owner, the lien holder, and the MVA or the unopened, undeliverable certified or registered letter or letters; and</text>
+        <text>A storage or repair order as specified in <cite doc="Md. Code" path="gcl|14-1008">Commercial Law Article, §14-1008, Annotated Code of Maryland</cite>, containing an affirmative request by the vehicle owner for the repair services or storage services requested or, if applicable, a written statement from the lienor that the lienor stored the vehicle in accordance with an agreement with an insurer;</text>
       </para>
       <para>
         <num>(8)</num>
+        <text>Proof that notice was provided to the individual who left the vehicle for repairs, the vehicle owner, the lien holders, and the Administration by submitting:</text>
+        <para>
+          <num>(a)</num>
+          <text>Signed receipts for a certified or registered letter in a format prescribed by the Administration;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Unopened, undeliverable certified or registered letter or letters; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Proof from the United States Postal Service of delivery or a refusal to sign receipt for a certified or registered letter;</text>
+        </para>
+      </para>
+      <para>
+        <num>(9)</num>
         <text>The national vehicle history report.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>If issued, a copy of the lienholder notice required by <cite doc="Md. Code" path="gcl|16-203">Commercial Law Article, §16-203, Annotated Code of Maryland</cite>, and proof that the notice was sent via registered or certified mail.</text>
       </para>
     </para>
     <para>
@@ -943,54 +971,56 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The receipt for the certified or registered letter sent to the owner, lien holder, or individual who left the vehicle for repairs was signed by someone other than the person to whom the letter was addressed;</text>
-      </para>
-      <para>
-        <num>(4)</num>
         <text>The provided national vehicle history report shows that the vehicle was stolen and the reporting police agency has not issued a recover report;</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(4)</num>
         <text>There is a discrepancy or alteration in the paperwork and the letter of explanation or certified statements do not clarify the discrepancy to the satisfaction of the Administration;</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(5)</num>
         <text>The signatures on the submitted documents or the application are signed by an individual to whom power of attorney is granted and the writing granting the power of attorney is not furnished;</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(6)</num>
         <text>A notarized bill of sale is not submitted and the customer refuses to pay the excise tax on the greater of the book value or the purchase price;</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(7)</num>
         <text>The digital photograph VIN is illegible;</text>
       </para>
       <para>
-        <num>(9)</num>
-        <text>The vehicle was not advertised in a newspaper as specified in <cite path="11|15|14|.08|A.|(4)">§A(4) of this regulation</cite>;</text>
+        <num>(8)</num>
+        <text>The vehicle was not advertised in a newspaper as specified in <cite path="11|15|14|.08|A.|(5)">§A(5) of this regulation</cite>;</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(9)</num>
         <text>The vehicle description by year, make, and VIN in the newspaper advertisement is different than in the supporting documents furnished;</text>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(10)</num>
         <text>The newspaper advertisement does not contain the time, date, place of auction, and description of the vehicle by year, make, and VIN;</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(11)</num>
         <text>The vehicle was previously salvaged in this State or another state and the applicant fails to furnish a certification by a police officer in this State who is authorized to inspect salvage vehicles;</text>
       </para>
       <para>
+        <num>(12)</num>
+        <text>The vehicle was previously salvaged in this State or another state, with a brand reflecting “Not Rebuildable — Parts Only — Not To Be Retitled” or an equivalent brand;</text>
+      </para>
+      <para>
         <num>(13)</num>
-        <text>The vehicle was previously salvaged in this State or another state, with a brand reflecting "Not Rebuildable — Parts Only — Not To Be Retitled" or an equivalent brand; or</text>
+        <text>The Administration has been notified that action in accordance with <cite doc="Md. Code" path="gcl|16-206">Commercial Law Article, §16-206, Annotated Code of Maryland</cite>, is being taken and that the Administration has received notification of the action before the close of the business day following the action; or</text>
       </para>
       <para>
         <num>(14)</num>
-        <text>The Administration has been notified that action in accordance with <cite doc="Md. Code" path="gcl|16-206">Commercial Law Article, §16-206, Annotated Code of Maryland</cite>, is being taken and that the Administration has received notification of the action before the close of the business day following the action.</text>
+        <text>The Administration requested the mechanic lienor send a post-auction notice to the individual who left the vehicle for repairs, the vehicle owner or lien holder and the mechanic lienor did not send the requested notice or did not provide proof of notice as specified in <cite path="11|15|14|.08|A.|(8)">§A(8) of this regulation</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-222-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1143,7 +1173,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>A salvage certificate had been previously issued containing the brand "Not Rebuildable — Parts Only — Not To Be Retitled" or an equivalent term.</text>
+        <text>A salvage certificate had been previously issued containing the brand “Not Rebuildable — Parts Only — Not To Be Retitled” or an equivalent term.</text>
       </para>
     </para>
     <annotations/>
@@ -1421,13 +1451,14 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Transportation Article, §§<cite doc="Md. Code" path="gtr|12-104">12-104</cite>(b), <cite doc="Md. Code" path="gtr|13-106">13-106</cite>, and <cite doc="Md. Code" path="gtr|13-110">13-110</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-03-11">Effective date: March 11, 1996 (23:5 Md. R. 380)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-12-21"><cite path="|11|15|14|.02|B.">Regulation .02B</cite> amended effective December 21, 2015 (42:25 Md. R. 1545)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|11|15|14|.02|B.">Regulation .02B</cite> amended effective December 21, 2015 (42:25 Md. R. 1545); March 16, 2026 (53:5 Md. R 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-12-21"><cite path="|11|15|14|.03|A.">Regulation .03A</cite>, C amended effective December 21, 2015 (42:25 Md. R. 1545)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|11|15|14|.04|A.">Regulation .04A</cite> amended effective March 16, 2026 (53:5 Md. R 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-12-21"><cite path="|11|15|14|.04|A.">Regulation .04A</cite>, C amended effective December 21, 2015 (42:25 Md. R. 1545)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-12-21"><cite path="|11|15|14|.05">Regulation .05</cite> amended effective December 21, 2015 (42:25 Md. R. 1545)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-12-21"><cite path="|11|15|14|.06">Regulation .06</cite> amended effective December 21, 2015 (42:25 Md. R. 1545)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|11|15|14|.05">Regulation .05</cite> amended effective December 21, 2015 (42:25 Md. R. 1545); March 16, 2026 (53:5 Md. R 244)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|11|15|14|.06">Regulation .06</cite> amended effective December 21, 2015 (42:25 Md. R. 1545); March 16, 2026 (53:5 Md. R 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-12-21"><cite path="|11|15|14|.07|A.">Regulation .07A</cite> amended effective December 21, 2015 (42:25 Md. R. 1545)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-12-21"><cite path="|11|15|14|.08">Regulation .08</cite> amended effective December 21, 2015 (42:25 Md. R. 1545)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|11|15|14|.08">Regulation .08</cite> amended effective December 21, 2015 (42:25 Md. R. 1545); March 16, 2026 (53:5 Md. R 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-12-21"><cite path="|11|15|14|.09|B.">Regulation .09B</cite> amended effective December 21, 2015 (42:25 Md. R. 1545)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-12-21"><cite path="|11|15|14|.10|B.">Regulation .10B</cite> amended effective December 21, 2015 (42:25 Md. R. 1545)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-12-21"><cite path="|11|15|14|.11|A.">Regulation .11A</cite> amended effective December 21, 2015 (42:25 Md. R. 1545)</annotation>
@@ -1436,5 +1467,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-12-21"><cite path="|11|15|14|.14|A.">Regulation .14A</cite> amended effective December 21, 2015 (42:25 Md. R. 1545)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-07-23"><cite path="|11|15|14|.15">Regulation .15</cite> adopted effective July 23, 2001 (28:14 Md. R. 1322)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-12-21"><cite path="|11|15|14|.15">Regulation .15</cite> amended effective December 21, 2015 (42:25 Md. R. 1545)</annotation>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-222-F" type="History" display="false"/>
   </annotations>
 </container>

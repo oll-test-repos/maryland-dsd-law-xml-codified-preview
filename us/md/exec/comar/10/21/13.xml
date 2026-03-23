@@ -7,8 +7,10 @@
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
-    <text>These regulations govern the use of quiet rooms and seclusion in all facilities as defined in Health-General Article, §§10-101(e) and 10-701, Annotated Code of Maryland. These regulations are supplemental to any other applicable law and regulation. In the event of conflict between these regulations and any other regulations or laws, the more stringent apply.</text>
-    <annotations/>
+    <text>These regulations govern the use of quiet rooms and seclusion in all facilities as defined in Health-General Article, §§10-101(g) and 10-701, Annotated Code of Maryland. These regulations are supplemental to any other applicable law and regulation. In the event of conflict between these regulations and any other regulations or laws, the more stringent apply.</text>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -23,50 +25,73 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>"Chief executive officer (CEO)" means the individual responsible for the overall management of a facility.</text>
+        <text>“Chief executive officer (CEO)” means the individual responsible for the overall management of a facility.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>"Clinical director" means the psychiatrist in charge of the clinical care of all psychiatric patients in that facility.</text>
+        <text>“Clinical director” means the psychiatrist in charge of the clinical care of all psychiatric patients in that facility.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>"Emergency situation" means any situation in which a patient's behavior poses a serious and imminent danger to the physical safety of self or others.</text>
+        <text>“Emergency situation” means any situation in which a patient's behavior poses a serious and imminent danger to the physical safety of self or others.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>"Facility" means any public or private hospital, clinic, or other institution that provides or purports to provide treatment or other services for a mental disorder, except an acute general hospital that does not have a separately identified inpatient psychiatric service.</text>
+        <text>“Facility” means any public or private hospital, clinic, or other institution that provides or purports to provide treatment or other services for a mental disorder, except an acute general hospital that does not have a separately identified inpatient psychiatric service.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>"Patient" means an individual receiving services for a mental disorder in a facility and includes any student receiving care and treatment in that facility.</text>
+        <text>“Patient” means an individual receiving services for a mental disorder in a facility and includes any student receiving care and treatment in that facility.</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>"Physician" means an individual who is authorized to practice medicine under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 14, Annotated Code of Maryland</cite>.</text>
+        <text>“Physician” means an individual who is authorized to practice medicine under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 14, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>"Quiet room" means an unlocked room that patients are not physically prevented from leaving, which is designated for patients' voluntary use to allow them time out of the company of other patients.</text>
+        <text>Prone Restraint.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Prone restraint” means restricting the free movement of all or a portion of a patient’s body through the use of physical force or mechanical devices while the patient is in a prone position.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Prone restraint” does not mean a technique for transitioning a patient  to a restraint position that involves momentarily placing the individual face down.</text>
+        </para>
       </para>
       <para>
         <num>(8)</num>
-        <text>"Registered nurse" means an individual who is licensed to practice registered nursing under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 8, Annotated Code of Maryland</cite>.</text>
+        <text>“Quiet room” means an unlocked room that patients are not physically prevented from leaving, which is designated for patients' voluntary use to allow them time out of the company of other patients.</text>
       </para>
       <para>
         <num>(9)</num>
-        <text>"Seclusion" means the involuntary confinement of a patient under the direction of a physician or registered nurse alone in a room which a patient is physically prevented from leaving.</text>
+        <text>“Registered nurse” means an individual who is licensed to practice registered nursing under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 8, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(10)</num>
-        <text>"Serious disruption to a therapeutic environment" means imminent danger of damage to the physical environment, or behavior of such a grave or protracted nature that it significantly interferes with the emotional well-being of other patients or with their treatment.</text>
+        <text>“Seclusion” means the involuntary confinement of a patient under the direction of a physician or registered nurse alone in a room which a patient is physically prevented from leaving.</text>
       </para>
       <para>
         <num>(11)</num>
-        <text>"Treatment team" means the patient's treatment team as defined in <cite path="10.21.03.02|C.">COMAR 10.21.03.02C</cite>.</text>
+        <text>“Trauma-informed care” means mental health treatment that includes:</text>
+        <para>
+          <num>(a)</num>
+          <text>An appreciation for the high prevalence of trauma experienced by individuals receiving mental health services;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An understanding of the neurological, biological, psychological, and social effects of trauma and violence, including sexual abuse and exploitation, on an individual; and</text>
+          <text>(c ) An understanding of the environment, practices, and treatments that may need to be modified to address trauma issues.</text>
+        </para>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Treatment team” means the patient's mental health professional treatment team as defined in <cite path="10.21.03.02|C.">COMAR 10.21.03.02C</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|21|13|.03">
     <prefix>Regulation</prefix>
@@ -74,14 +99,18 @@
     <heading>Use of Seclusion.</heading>
     <para>
       <num>A.</num>
-      <text>Staff authorized under the provisions of <cite path="|10|21|13|.04|A.">Regulation .04A of this chapter</cite> shall use seclusion only to:</text>
+      <text>Staff authorized under the provisions of <cite path="|10|21|13|.04|C.">Regulation .04C of this chapter</cite> may use seclusion:</text>
       <para>
         <num>(1)</num>
-        <text>Prevent and reduce serious, destructive, and damaging actions by a patient to the patient or to another; or</text>
+        <text>Only during an emergency in which the behavior of the patient places the patient or others in serious threat of violence or injury; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Prevent serious disruption of the therapeutic environment.</text>
+        <text>If ordered by a physician in writing; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If at the direction of a registered nurse if a physician's order is obtained within 2 hours of the action.</text>
       </para>
     </para>
     <para>
@@ -93,11 +122,19 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>As punishment; or</text>
+        <text>As punishment, coercion, discipline, or retaliation;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>For the convenience of staff.</text>
+        <text>For the convenience of staff;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To prevent damage or destruction to property; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>To prevent serious disruption of the therapeutic environment.</text>
       </para>
     </para>
     <para>
@@ -105,31 +142,27 @@
       <text>Staff shall conduct seclusion:</text>
       <para>
         <num>(1)</num>
-        <text>In a humane, safe, and effective manner; and</text>
+        <text>In a humane, safe, and effective manner;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Without intent to harm or create undue discomfort to the patient.</text>
+        <text>Without intent to harm or create undue discomfort to the patient; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For the shortest possible length of time, regardless of the length of time in the physician's order.</text>
       </para>
     </para>
     <para>
       <num>D.</num>
-      <text>Staff authorized under the provisions of <cite path="|10|21|13|.04|A.">Regulation .04A of this chapter</cite> may order the use of seclusion only if that staff person, following a clinical evaluation of the patient, determines that:</text>
+      <text>Staff authorized under the provisions of <cite path="|10|21|13|.04|C.">Regulation .04C of this chapter</cite> may order the use of seclusion only if that staff person, following a clinical evaluation of the patient, determines that:</text>
       <para>
         <num>(1)</num>
-        <text>The patient's behavior poses:</text>
-        <para>
-          <num>(a)</num>
-          <text>An emergency situation; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>A serious disruption to the therapeutic environment; and</text>
-        </para>
+        <text>The patient's behavior poses an emergency situation; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Less restrictive or alternative approaches have been considered and, if clinically indicated and reasonable, have been attempted, and are considered ineffective.</text>
+        <text>Less restrictive or alternative approaches have been determined to be ineffective to ensure the safety of the patient, staff, or others.</text>
       </para>
     </para>
     <para>
@@ -141,14 +174,32 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Quiet room; or</text>
+        <text>Quiet room;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Medication or medications.</text>
+        <text>Medication or medications;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Deescalation techniques;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Trauma-informed care interventions;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Calling the hospital's response team for assistance; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Consulting the patient's care plan for personalized strategies.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|21|13|.04">
     <prefix>Regulation</prefix>
@@ -156,37 +207,39 @@
     <heading>Procedures in the Use of Seclusion.</heading>
     <para>
       <num>A.</num>
-      <text>A physician who is responsible either for the care of the patient or for assessment of the appropriateness of seclusion or, when the appropriate physician is not readily available to assess the patient, a registered nurse shall conduct a clinical evaluation of the patient to determine:</text>
-      <para>
-        <num>(1)</num>
-        <text>Whether an emergency situation is present; or</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The degree to which the patient presents a serious disruption to the therapeutic environment.</text>
-      </para>
+      <text>A facility shall have a written policy specifying the method used to ensure that a patient whose primary language or method of communication is nonverbal is able to effectively communicate distress during a seclusion.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Before instituting seclusion, the physician or registered nurse shall assess whether less restrictive alternative approaches are appropriate and, if so, whether and what approaches have been attempted.</text>
+      <text>A facility shall ensure that all staff at the facility who are authorized to participate in a seclusion of patients are trained in the method specified in the written policy in accordance with <cite path="10|21|13|.04|A.|(1)">§A(1) of this regulation</cite>.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>When a physician, as identified in <cite path="10|21|13|.04|A.">§A of this regulation</cite>, is immediately available, the physician shall be responsible for determining a patient's need for seclusion and make the decision whether to seclude.</text>
+      <text>A physician who is responsible either for the care of the patient or for assessment of the appropriateness of seclusion or, when the appropriate physician is not readily available to assess the patient, a registered nurse shall conduct a clinical evaluation of the patient to determine whether an emergency situation is present.</text>
     </para>
     <para>
       <num>D.</num>
+      <text>Before instituting seclusion, the physician or registered nurse shall assess whether less restrictive or alternative approaches have been determined to be ineffective to ensure the safety of the patient, staff, or others.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>When a physician, as identified in <cite path="10|21|13|.04|C.">§C of this regulation</cite>, is immediately available, the physician shall be responsible for determining a patient's need for seclusion and make the decision whether to seclude.</text>
+    </para>
+    <para>
+      <num>F.</num>
       <text>Authorization in the Absence of a Physician.</text>
       <para>
         <num>(1)</num>
-        <text>When a physician, as identified in <cite path="10|21|13|.04|A.">§A of this regulation</cite>, is not immediately available, a registered nurse shall determine a patient's need for seclusion and may initiate and direct the use of seclusion.</text>
+        <text>When a physician, as identified in <cite path="10|21|13|.04|C.">§C of this regulation</cite>, is not immediately available, a registered nurse shall determine a patient's need for seclusion and may initiate and direct the use of seclusion.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Within 1 hour of the implementation of the seclusion, a physician shall give a written or verbal order for any seclusion initiated by a registered nurse and, at that time, shall make the clinical determination to continue or discontinue the seclusion.</text>
+        <text>Within 2 hours of the implementation of the seclusion, a physician shall give a written or verbal order for any seclusion initiated by a registered nurse and, at that time, shall make the clinical determination to continue or discontinue the seclusion.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|21|13|.05">
     <prefix>Regulation</prefix>
@@ -202,14 +255,38 @@
     </para>
     <para>
       <num>C.</num>
-      <text>To the extent consistent with the patient's safety and the safety of others:</text>
+      <text>For patient's safety and the safety of others:</text>
       <para>
         <num>(1)</num>
-        <text>Staff shall place the patient in the seclusion room in as dignified a manner as the situation permits, using the least amount of physical force necessary; and</text>
+        <text>Staff shall place the patient in the seclusion room in as dignified a manner as the situation permits, using the least amount of physical force necessary;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>As necessary, additional staff shall participate in the placement of a patient in seclusion.</text>
+        <text>As necessary, additional staff shall participate in the placement of a patient in seclusion;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The patient shall be free from prone restraint; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The patient shall be free from restraint that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Applies pressure to the individual’s back;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Obstructs the airway of the individual or impairs the individual’s ability to breathe;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Obstructs a staff member’s view of the individual’s face; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Restricts the individual’s ability to communicate distress.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -232,7 +309,13 @@
       <num>H.</num>
       <text>Staff shall inspect the seclusion room for potentially dangerous conditions and, as appropriate, shall fully secure the room.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>I.</num>
+      <text>If a patient is confined to a room in a manner that meets the definition of seclusion in accordance with <cite path="|10|21|13|.02|B.">Regulation .02B of this chapter</cite>, the patient is considered to be subject to seclusion, regardless of whether the room used is typically used as a seclusion room.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -280,9 +363,11 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Unless circumstances suggest a medical problem may exist, staff may not disrupt a patient's sleep during the night to implement the clinical procedures described in §§A and B of this regulation.</text>
+      <text>When the patient's behavior no longer places the patient or others in serious threat of violence or injury, the patient shall be released from seclusion.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|21|13|.07">
     <prefix>Regulation</prefix>
@@ -290,62 +375,54 @@
     <heading>Limitations on Seclusion and Continuous Seclusion.</heading>
     <para>
       <num>A.</num>
-      <text>Staff may not initiate "standing" or "as needed" orders for seclusion.</text>
+      <text>Staff may not initiate “standing” or “as needed” orders for seclusion.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Excluding requirements outlined in <cite path="10|21|13|.07|D.">§D of this regulation</cite>, each order or subsequent order for seclusion may be written for a period up to, but not more than, 24 hours.</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>If a patient in seclusion requires continuous seclusion for over a 24-hour period, a physician shall:</text>
+      <text>Each order for seclusion, used for the management of an emergency in which the behavior of the patient places the patient or others in serious threat of violence or injury, may only be renewed in accordance with the following limits not to exceed 24 hours total:</text>
       <para>
         <num>(1)</num>
-        <text>Conduct a face-to-face evaluation of the patient to determine whether continuous seclusion is appropriate;</text>
+        <text>Four hours for adults 18 years of age or older;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Document the evaluation in the patient's medical record; and</text>
+        <text>Two hours for children and adolescents 9 to 17 years of age; or</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>If the patient is secluded under the provisions of <cite path="10|21|13|.07|D.">§D of this regulation</cite>, carry out the requirements of §C(1) and (2) of this regulation every 24 hours throughout the period that the patient continues in seclusion.</text>
+        <text>One hour for children under 9 years of age.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>After 24 hours, before writing a new order for the use of seclusion for the management of an emergency in which the behavior of the patient places the patient or others in serious threat of violence or injury, a physician must:</text>
+      <para>
+        <num>(1)</num>
+        <text>See, assess, and conduct a face-to-face evaluation of the patient to determine whether continuous seclusion is appropriate; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Document in the patient's medical record the observed behavior that confirms that the patient, if released from seclusion, would continue to present a danger to self or others;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Follow all requirements outlined in this chapter, including but not limited to <cite path="10|21|13|.07|B.">§B of this regulation</cite>; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Obtain the authorization of the clinical director or the clinical director's physician designee, neither of whom may be the treating physician.</text>
       </para>
     </para>
     <para>
       <num>D.</num>
-      <text>If seclusion is required for a period greater than a continuous 48 hours, the physician may continue seclusion only:</text>
-      <para>
-        <num>(1)</num>
-        <text>In conjunction with the requirements outlined in this chapter;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>If the treating physician's clinical opinion is that the patient, if released from seclusion, would continue to present a danger to self or others or would present a serious disruption to the therapeutic environment; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>With the authorization of the clinical director or the clinical director's physician designee, neither of whom may be the treating physician.</text>
-      </para>
+      <text>Upon a request from a patient's treating physician, prior to authorizing continued seclusion, in accordance with <cite path="10|21|13|.07|C.|(4)" proof="needed">§C(4) of this regulation</cite>, the clinical director or the clinical director's designee shall perform a face-to-face evaluation of the patient who is secluded.</text>
     </para>
     <para>
       <num>E.</num>
-      <text>Following a request from a patient's treating physician, the clinical director or the clinical director's designee identified in <cite path="10|21|13|.07|D.|(3)">§D(3) of this regulation</cite>, following a face-to-face evaluation of the patient in seclusion, may authorize continued seclusion:</text>
-      <para>
-        <num>(1)</num>
-        <text>For an additional 48 hours over the initial 48-hour period that a patient is secluded under the provisions of <cite path="10|21|13|.07|C.">§C of this regulation</cite>; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>For each period of 7 days over the 48-hour period authorized under <cite path="10|21|13|.07|E.|(1)">§E(1) of this regulation</cite>.</text>
-      </para>
+      <text>Following the initial 24 hours of seclusion authorized under <cite path="10|21|13|.07|C.">§C of this regulation</cite>, additional periods of restraint, not to exceed 24 hours each, may be authorized only if the seclusion is provided in accordance with §§B—D of this regulation.</text>
     </para>
     <para>
       <num>F.</num>
-      <text>Each time that seclusion is authorized under the provisions of <cite path="10|21|13|.07|E.">§E of this regulation</cite>, the clinical director or the clinical director's designee identified in <cite path="10|21|13|.07|D.|(3)">§D(3) of this regulation</cite> shall countersign the physician's order in the patient's medical record for continued seclusion.</text>
-    </para>
-    <para>
-      <num>G.</num>
       <text>Treatment Team Involvement.</text>
       <para>
         <num>(1)</num>
@@ -353,14 +430,14 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Within 7 working days from the initiation of continuous seclusion, regardless of whether the patient remains in seclusion, the treatment team shall:</text>
+        <text>Within 5 working days from the initiation of continuous seclusion, regardless of whether the patient remains in seclusion, the treatment team shall:</text>
         <para>
           <num>(a)</num>
           <text>When applicable, review the appropriateness of the continued use of seclusion;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Establish and implement a plan calculated to eliminate the need for further seclusion; and</text>
+          <text>Establish and implement a plan to eliminate the need for further seclusion; and</text>
         </para>
         <para>
           <num>(c)</num>
@@ -368,7 +445,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -482,7 +561,7 @@
         <text>When a physician clinically determines that a patient is to be released from seclusion, the physician shall:</text>
         <para>
           <num>(a)</num>
-          <text>Order the release and write, sign, and date a note indicating the rationale for the release; and</text>
+          <text>Direct termination of the seclusion with or without a physician's order; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -502,7 +581,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|21|13|.09">
     <prefix>Regulation</prefix>
@@ -615,10 +696,14 @@
       <text>Staff who implement orders for seclusion:</text>
       <para>
         <num>(1)</num>
-        <text>Shall have documented annual training in the proper use of seclusion including training for special populations which include, but are not limited to, children and the elderly; and</text>
+        <text>Shall have documented annual training in the proper use of seclusion including training for special populations which include, but are not limited to, children and the elderly;</text>
       </para>
       <para>
         <num>(2)</num>
+        <text>Shall have documented annual training in trauma-informed care and demonstrate competency in providing trauma-informed care services;</text>
+      </para>
+      <para>
+        <num>(3)</num>
         <text>May not implement orders for seclusion until trained by the facility to do so unless, in an emergency situation, the safety of the patient or others is threatened.</text>
       </para>
     </para>
@@ -648,9 +733,11 @@
     </para>
     <para>
       <num>F.</num>
-      <text>If restraint is used in conjunction with seclusion, staff shall also comply with regulations for use of restraint.</text>
+      <text>If restraint is used in conjunction with seclusion, staff shall also comply with <cite path="|10.21.12">COMAR 10.21.12</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -669,7 +756,39 @@
     </para>
     <para>
       <num>B.</num>
-      <text>There may not be any variance with standards established in this regulation and in Regulations .03 and .04, .05B — E and G, .07A, .09, .10A, D, E(1), and F, .11, and .12 of this chapter.</text>
+      <text>There may not be any variance with standards established in:</text>
+      <para>
+        <num>(1)</num>
+        <text>This regulation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text><cite path="|10|21|13|.03">Regulation .03</cite> of this chapter;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text><cite path="|10|21|13|.04">Regulation .04</cite> of this chapter;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text><cite path="|10|21|13|.05|B.">Regulation .05B</cite>—E, G, and I of this chapter;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text><cite path="|10|21|13|.07|A.">Regulation .07A</cite> of this chapter;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text><cite path="|10|21|13|.09">Regulation .09</cite> of this chapter;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text><cite path="|10|21|13|.10|A.">Regulation .10A</cite>, D, E(1), and F of this chapter; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text><cite path="|10|21|13|.11">Regulation .11</cite> of this chapter.</text>
+      </para>
     </para>
     <para>
       <num>C.</num>
@@ -695,10 +814,24 @@
       <num>E.</num>
       <text>The CEO shall assure that the facility's quality assurance process incorporates a monthly review of any variance permitted in <cite path="10|21|13|.12|A.">§A of this regulation</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§10-101(e) and 10-701, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§10-101(g) and 10-701, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-10-25">Effective date: October 25, 1993 (20:21 Md. R. 1654)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|21|13|.01">Regulation .01</cite> amended effective November 24, 2025 (52:23 Md. R. 1139)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|21|13|.02|B.">Regulation .02B</cite> amended effective November 24, 2025 (52:23 Md. R. 1139)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|21|13|.03">Regulation .03</cite> amended effective November 24, 2025 (52:23 Md. R. 1139)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|21|13|.04">Regulation .04</cite> amended effective November 24, 2025 (52:23 Md. R. 1139)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|21|13|.05|C.">Regulation .05C</cite> amended effective November 24, 2025 (52:23 Md. R. 1139)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|21|13|.05|I." proof="needed">Regulation .05I</cite> adopted effective November 24, 2025 (52:23 Md. R. 1139)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|21|13|.06|C.">Regulation .06C</cite> amended effective November 24, 2025 (52:23 Md. R. 1139)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|21|13|.07">Regulation .07</cite> amended effective November 24, 2025 (52:23 Md. R. 1139)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|21|13|.08|D.">Regulation .08D</cite> amended effective November 24, 2025 (52:23 Md. R. 1139)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|21|13|.01|D." proof="needed">Regulation .01D</cite>, F amended effective November 24, 2025 (52:23 Md. R. 1139)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|21|13|.12|B.">Regulation .12B</cite> amended effective November 24, 2025 (52:23 Md. R. 1139)</annotation>
+    <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
   </annotations>
 </container>

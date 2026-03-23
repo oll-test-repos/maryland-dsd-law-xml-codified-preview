@@ -2,7 +2,7 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>56</num>
-  <heading>Maryland Swimming Pool and Spa Standards ​</heading>
+  <heading>Maryland Swimming Pool and Spa Standards</heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -32,8 +32,10 @@
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Incorporation by Reference.</heading>
-    <text>The 2021 International Swimming Pool and Spa Code (ISPSC), International Code Council, is incorporated by reference.</text>
-    <annotations/>
+    <text>The 2024 International Swimming Pool and Spa Code (ISPSC), International Code Council, is incorporated by reference.</text>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-275-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -50,23 +52,27 @@
     </para>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="09|12|56|.05">
     <prefix>Regulation</prefix>
     <num>.05</num>
     <heading>Amendments.</heading>
     <para>
       <num>A.</num>
-      <text>Chapter 3. Rename Section 305.2 to “Applicability” and replace the text with the following:</text>
+      <text>In Section 305.1, replace the word “not” with “also” to read “The provisions of this section shall apply to the design of barriers for restricting entry into areas having pools and spas. Where spas or hot tubs are equipped with a lockable safety cover complying with ASTM F1346 and swimming pools are equipped with a powered safety cover that complies with ASTM F1346, the areas where those spas, hot tubs or pools are located shall also be required to comply with Sections 305.2 through 305.7”.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Rename Section 305.2 to “Swimming pools and spas” and replace the text with the following:</text>
       <para>
         <num>(1)</num>
         <text>A public swimming pool or spa shall be surrounded by a barrier that complies with Sections 305.2.1 through 305.7, except that the top of the barrier where measured on the side of the barrier that faces away from the swimming pool or spa shall be not less than:</text>
         <para>
           <num>(a)</num>
-          <text>72 inches (1828mm) above grade for a Class A, B, or D swimming pool or spa;</text>
+          <text>72 inches (1828mm) above grade for a Class A, B, C that is considered an apartment complex, housing subdivision, or mobile home park with more than ten units, or D swimming pool or spa;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>60 inches (1524mm) above grade for a Class C or E swimming pool or spa; and</text>
+          <text>60 inches (1524mm) above grade for a Class C that is considered a hotel, motel, or condominium or E swimming pool or spa; and</text>
         </para>
         <para>
           <num>(c)</num>
@@ -75,21 +81,60 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Non-public outdoor swimming pools and spas and indoor swimming pools shall be surrounded by a barrier that complies with Sections 305.2.1 through 305.7.</text>
+        <text>Non-public swimming pools shall be surrounded by a barrier that complies with Sections 305.2.1 through 305.7.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Except as provided in <cite path="09|12|56|.05|B.|(4)">§B(4) of this regulation</cite>, Sections 305.2.4 - 305.2.5.1 shall only apply to non-public pools.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Exception: For non-public spas or hot tubs equipped with a lockable safety cover complying with ASTM F1346, the areas where those spas or hot tubs are located shall not be required to comply with Sections 305.2.1 through 305.7.</text>
       </para>
     </para>
     <para>
-      <num>B.</num>
-      <text>In Section 307.1.4, where “International Building Code” appears, substitute “Maryland Accessibility Code” and, where “ICC A117.1” appears, substitute “Maryland Accessibility Code”.</text>
+      <num>C.</num>
+      <text>In Section 307.1.5, where “International Building Code” appears, substitute “<cite path="|09.12.53">COMAR 09.12.53</cite> Maryland Accessibility Code” and, where “ICC A117.1” appears, substitute “<cite path="|09.12.53">COMAR 09.12.53</cite> Maryland Accessibility Code”.</text>
     </para>
     <para>
-      <num>C.</num>
-      <text>In Section 324.7.1, where “International Fire Code” appears, substitute “Maryland State Fire Prevention Code.”</text>
+      <num>D.</num>
+      <text>Replace Section 314.7 with the following:</text>
+      <text>“314.7 Emergency shutoff switch.</text>
+      <para>
+        <num>(a)</num>
+        <text>An emergency shutoff switch shall be provided to disconnect power to the recirculation systems.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>An emergency shutoff switch shall be provided to disconnect power to feature pump systems, jet system pumps, and air blowers.  These shutoff switches shall be: provided with access; located within sight of the pool or spa; and located not less than 5 feet (1524 mm) horizontally from the inside walls of the pool or spa.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Paragraphs (a) and (b) of this Section do not apply to onground storable pools, permanent inground residential swimming pools, residential spas and residential water features.”</text>
+      </para>
     </para>
-    <annotations/>
+    <para>
+      <num>E.</num>
+      <text>In Section 325.7.1, where “International Fire Code” appears, substitute “<cite path="|29.06.01">COMAR 29.06.01</cite> Maryland State Fire Prevention Code.”</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Replace Section 410.1 “Toilet facilities” with the following:</text>
+      <text>“410.1 “Toilet facilities". Class A, B, and C (if all units are not within 500 feet) pools shall be provided with toilet facilities having the required number of plumbing fixtures in accordance with the International Building Code or the International Plumbing Code.”</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Add to Section 609.2.1 “Exception: This requirement shall not apply to Class C semipublic pools (if all units are within 500 feet).”</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-275-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Public Safety Article, §§<cite doc="Md. Code" path="gps|12-1203">12-1203</cite> and <cite doc="Md. Code" path="gps|12-1207">12-1207</cite>(a)(<cite doc="Md. Code" path="gps|2">2</cite>), Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-01-22">Effective date: January 22, 2024 (51:1 Md. R. 16)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|09|12|56|.03">Regulation .03</cite> amended effective March 30, 2026 (53:6 Md. R. 287)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|09|12|56|.05">Regulation .05</cite> amended effective March 30, 2026 (53:6 Md. R. 287)</annotation>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-275-F" type="History" display="false"/>
   </annotations>
 </container>

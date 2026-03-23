@@ -145,8 +145,10 @@
     <prefix>Regulation</prefix>
     <num>.04</num>
     <heading>Technical Authority.</heading>
-    <text>The Maryland Cannabis Administration’s Technical Authority for Cannabis Testing (Effective January 2024), or Technical Authority, is incorporated by reference.</text>
-    <annotations/>
+    <text>The Maryland Cannabis Administration’s Technical Authority for Cannabis Testing (Effective February 2025), or Technical Authority, is incorporated by reference.</text>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|17|02|.05">
     <prefix>Regulation</prefix>
@@ -258,12 +260,60 @@
     </para>
     <annotations/>
   </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Pilot Authority.</heading>
+    <text>The Administration may require licensees to participate in pilot programs to test efficacy of proposed initiatives to improve regulation of cannabis, provided the following criteria are met.</text>
+    <para>
+      <num>A.</num>
+      <text>Pilot participants shall be selected according to objective criteria as determined by the Administration.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>No documents produced by a licensee as part of the pilot program may be used to gather a compliance case against a licensee.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Administration shall provide a minimum of 60 days’ notice to any licensee selected to participate prior to the start date of pilot participation.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Administration shall maintain strict confidentiality and data protection standards for all data collected, created, or maintained under any pilot program. Such standards shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>Restricting data collection and use to the explicit, legitimate purposes of the pilot program; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Using appropriate encryption, access controls, and other measures to prevent unauthorized disclosure or misuse.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Administration may consider a licensee's written request to opt out of a pilot program based on:</text>
+      <para>
+        <num>(1)</num>
+        <text>Anticipated hardship by the proposed pilot program; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Participation in an Administration pilot program in the prior 6 months.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
+  </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Alcoholic Beverages and Cannabis Article, §§36-201, 36-401, and 36-403, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-01">Regulations <cite path="|14|17|02|.01">.01</cite>—<cite path="|14|17|02|.03">.03</cite> adopted as an emergency provision effective July 1, 2023 (50:14 Md. R. 559); emergency status expired June 30, 2024</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-07">Regulations <cite path="|14|17|02|.01">.01</cite>—<cite path="|14|17|02|.02">.02</cite> adopted as an emergency provision effective June 7, 2024 (51:14 Md. R. 676)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22">Regulations <cite path="|14|17|02|.01">.01</cite>—<cite path="|14|17|02|.04">.04</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|02|.04">Regulation .04</cite> amended effective March 16, 2026 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|02|.05">Regulation .05</cite> adopted effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|02|.06">Regulation .06</cite> adopted effective March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
   </annotations>
 </container>

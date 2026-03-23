@@ -77,11 +77,11 @@
     </para>
     <para>
       <num>D.</num>
-      <text>A senior cosmetologist, cosmetologist, esthetician, nail technician, or makeup artist operating a barber shop shall comply with all pertinent sanitation regulations contained in <cite path="09.22.02.04">COMAR 09.22.02.04</cite>—.06.</text>
+      <text>A licensee operating a barber shop shall comply with all pertinent sanitation regulations contained in <cite path="09.22.02.04">COMAR 09.22.02.04</cite>—.06.</text>
     </para>
     <para>
       <num>E.</num>
-      <text>A photography studio which provides hair styling or makeup services as a part of a photo package shall obtain an owner's permit, and the services shall be performed by an authorized licensee.</text>
+      <text>A photography studio that provides hair styling or makeup services as a part of a photo package shall obtain an owner's permit, and the services shall be performed by an authorized licensee.</text>
     </para>
     <para>
       <num>F.</num>
@@ -103,7 +103,9 @@
       <num>J.</num>
       <text>The provision of cosmetology, esthetic, or nail technology services in a beauty salon is prima facie evidence that compensation has been, or will be, paid for the services rendered.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -132,13 +134,27 @@
     <heading>Esthetician License.</heading>
     <para>
       <num>A.</num>
-      <text>An esthetician license authorizes the licensee to engage in providing esthetic services as defined in <cite doc="Md. Code" path="gbo|5-101">Business Occupations and Professions Article, §5-101(l), Annotated Code of Maryland</cite>.</text>
+      <text>An esthetician license authorizes the licensee to engage in providing esthetic services as defined in <cite doc="Md. Code" path="gbo|5-101">Business Occupations and Professions Article, §5-101(o), Annotated Code of Maryland</cite>.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>The term "massaging", as used in Business Occupation and Professions Article, §5-101(l), Annotated Code of Maryland, means contact with the skin limited to the beautification, cleansing, and embellishment of the skin during the application and removal of skin care products.</text>
+      <text>The term “massaging”, as used in Business Occupation and Professions Article, §5-101(o), Annotated Code of Maryland, means contact with the skin limited to the beautification, cleansing, and embellishment of the skin during the application and removal of skin care products.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>C.</num>
+      <text>The term “exfoliating” as used in Business Occupation and Professions Article, §5-101(o), Annotated Code of Maryland, means to remove dead skin cells, dirt, bacteria, and excess oil from the skin.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The term “cosmetic microneedling” as used in Business Occupation and Professions Article, §5-101(o), Annotated Code of Maryland, means the use of cosmetic, non-medical devices that have needles no longer than 1 mm and are used in a manner that does not penetrate the skin beyond the epidermis.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The term “toning” as used in Business Occupation and Professions Article, §5-101(o), Annotated Code of Maryland, means the cleaning, manipulating and stimulating of skin by use of facials, face masks, and wraps.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -162,6 +178,78 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.06</num>
+    <heading>Eyelash Extension Technician License.</heading>
+    <para>
+      <num>A.</num>
+      <text>An eyelash extension technician license authorizes the licensee to engage in the practice of applying, removing, cleansing, and maintenance of semi-permanent individual or volume eyelash extensions to enhance the length, curl, fullness, and thickness of natural lashes.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Temporary Eyelash Extension Technician License.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Board may issue a temporary eyelash extension technician license to an applicant who submits an application on or before December 31, 2026.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An applicant for a temporary license shall submit to the Board an application on the form that the Board provides.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To qualify for a temporary license, an applicant shall be at least 17 years old and have completed successfully a ninth grade education or the equivalent.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Applicants for a temporary license are exempt from the training and exam requirements of <cite doc="Md. Code" path="gbo|5-305">Business Occupations and Professions Article, §5-305(c) </cite>and (h), Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The term of a temporary license is 1 year.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The fee for a temporary license is $11.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Board may issue no more than one temporary license to an individual.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Renewal.</text>
+        <para>
+          <num>(a)</num>
+          <text>Temporary licenses may be renewed no more than one time for a term of 1 year.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An applicant for the renewal of a temporary license shall submit to the Board an application on the form that the Board provides.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Board shall not renew a temporary license unless the applicant demonstrates good cause as to why they did not obtain a permanent eyelash technician license and that they are</text>
+          <para>
+            <num>(i)</num>
+            <text>Enrolled in an eyelash extension course approved by the State Department of Education or the Maryland Higher Education Commission; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Registered as an apprentice as provided under Business Occupations and Professions Article, §§<cite doc="Md. Code" path="gbo|5-404">5-404</cite> and <cite doc="Md. Code" path="gbo|5-505">5-505</cite>, Annotated Code of Maryland.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The fee for the renewal of a temporary license is $11.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
     <heading>Cosmetologist Apprentice Registration.</heading>
     <para>
       <num>A.</num>
@@ -203,11 +291,13 @@
       <num>E.</num>
       <text>A cosmetologist apprentice registration shall be obtained, and used, only for the purpose of receiving the amount of training required to qualify for a licensing examination given by the Board.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.07</num>
+    <num>.08</num>
     <heading>Esthetician Apprentice Registration.</heading>
     <para>
       <num>A.</num>
@@ -215,7 +305,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The term "massaging", as used in Business Occupation and Professions Article, §5-101(l), Annotated Code of Maryland, means contact with the skin limited to the beautification, cleansing, and embellishment of the skin during the application and removal of skin care products.</text>
+      <text>The term “massaging”, as used in Business Occupation and Professions Article, §5-101(l), Annotated Code of Maryland, means contact with the skin limited to the beautification, cleansing, and embellishment of the skin during the application and removal of skin care products.</text>
     </para>
     <para>
       <num>C.</num>
@@ -257,11 +347,13 @@
       <num>G.</num>
       <text>An esthetician apprentice registration may be renewed one time.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.08</num>
+    <num>.09</num>
     <heading>Nail Technician Apprentice Registration.</heading>
     <para>
       <num>A.</num>
@@ -303,11 +395,61 @@
       <num>E.</num>
       <text>A nail technician apprentice registration shall be obtained, and used, only for the purpose of receiving the amount of training required to qualify for a licensing examination given by the Board.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="09|22|01|.09">
+  <section>
     <prefix>Regulation</prefix>
-    <num>.09</num>
+    <num>.10</num>
+    <heading>Eyelash Extension Technician Apprentice Registration.</heading>
+    <para>
+      <num>A.</num>
+      <text>An eyelash extension technician apprentice registration authorizes the eyelash extension technician apprentice to learn all aspects of applying, removing, cleansing, and maintaining semi-permanent individual or volume eyelash extensions to enhance the length, curl, fullness, and thickness of natural lashes.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Beginning January 1, 2027, one senior cosmetologist who has completed a Board approved continuing education course regarding eyelash extension services or one licensed eyelash extension technician with 2 years’ experience as a licensed practitioner shall directly train one apprentice.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Before becoming eligible to take the eyelash extension technician examination, an eyelash extension technician apprentice shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Train at least 10 hours per week;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Train for not less than 3 or more than 7 months; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Complete the apprenticeship curriculum approved by the Board.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>For good cause, the Board may issue a new eyelash extension technician apprentice registration to an individual previously registered as a cosmetologist apprentice or an eyelash extension technician apprentice if:</text>
+      <para>
+        <num>(1)</num>
+        <text>A minimum of 6 months has passed since the individual was last registered as a cosmetologist apprentice or an eyelash extension technician apprentice; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The individual surrenders the number of hours earned under any other cosmetologist apprentice or eyelash extension technician apprentice registration.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>An eyelash extension technician apprentice registration shall be obtained and used only for the purpose of receiving the amount of training required to qualify for a licensing examination given by the Board.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="09|22|01|.11">
+    <prefix>Regulation</prefix>
+    <num>.11</num>
     <heading>Supervision of an Apprentice.</heading>
     <para>
       <num>A.</num>
@@ -343,7 +485,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Unless the Board determines that exceptional circumstances exist, if a monthly report required by <cite path="09|22|01|.09|A.|(2)">§A(2) of this regulation</cite> is not received by the Board within 90 days of the completion of the apprentice training:</text>
+      <text>Unless the Board determines that exceptional circumstances exist, if a monthly report required by <cite path="09|22|01|.11|A.|(2)">§A(2) of this regulation</cite> is not received by the Board within 90 days of the completion of the apprentice training:</text>
       <para>
         <num>(1)</num>
         <text>The report may not be received by the Board; and</text>
@@ -353,11 +495,13 @@
         <text>Credit may not be given for the training.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.10</num>
+    <num>.12</num>
     <heading>Apprenticeship Registration Requirements.</heading>
     <text>A person may be registered as an apprentice if the person:</text>
     <para>
@@ -376,11 +520,13 @@
       <num>D.</num>
       <text>Prior to being registered as an apprentice, has participated in an orientation program administered by the Board.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="09|22|01|.11">
+  <section cache:ref-path="09|22|01|.13">
     <prefix>Regulation</prefix>
-    <num>.11</num>
+    <num>.13</num>
     <heading>Examinations.</heading>
     <para>
       <num>A.</num>
@@ -468,7 +614,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Disqualification. A candidate who violates any of the provisions of <cite path="09|22|01|.11|C.">§C of this regulation</cite> may not be admitted to the examination and shall forfeit the examination fee.</text>
+      <text>Disqualification. A candidate who violates any of the provisions of <cite path="09|22|01|.13|C.">§C of this regulation</cite> may not be admitted to the examination and shall forfeit the examination fee.</text>
     </para>
     <para>
       <num>E.</num>
@@ -496,7 +642,7 @@
     </para>
     <para>
       <num>F.</num>
-      <text>When a practical test cannot be completed for any reason, the grade for that test shall be "incomplete" and not "failure."</text>
+      <text>When a practical test cannot be completed for any reason, the grade for that test shall be “incomplete” and not “failure.”</text>
     </para>
     <para>
       <num>G.</num>
@@ -946,11 +1092,73 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>N.</num>
+      <text>Content of Eyelash Extension Examination.</text>
+      <para>
+        <num>(1)</num>
+        <text>An eyelash extension examination shall consist of a theoretical and a practical portion.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The theoretical portion of the eyelash extension examination shall consist of questions that relate to the subject of eyelash extensions, including, but not limited to, the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Sanitation and safety;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Lash extension types, adhesives, and tools;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Lash anatomy and growth cycles;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Contraindications and allergic reactions; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Laws and regulations regarding the practice of cosmetology.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The practical portion of the eyelash extension examination shall consist of the candidate demonstrating and explaining:</text>
+        <para>
+          <num>(a)</num>
+          <text>Lash isolation;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Lash extension application;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Adhesive control;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Lash extension removal;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Client safety measures; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Sanitation practices.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.12</num>
+    <num>.14</num>
     <heading>Fees.</heading>
     <para>
       <num>A.</num>
@@ -1029,10 +1237,14 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>Apprentice — $11;</text>
+        <text>Eyelash extension technician — $28;</text>
       </para>
       <para>
         <num>(9)</num>
+        <text>Apprentice — $11;</text>
+      </para>
+      <para>
+        <num>(10)</num>
         <text>Reinstatement:</text>
         <para>
           <num>(a)</num>
@@ -1052,7 +1264,7 @@
         </para>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(11)</num>
         <text>Pre-opening inspection — $169.</text>
       </para>
     </para>
@@ -1068,11 +1280,13 @@
       <num>H.</num>
       <text>All fees are nonrefundable.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.13</num>
+    <num>.15</num>
     <heading>Renewals.</heading>
     <para>
       <num>A.</num>
@@ -1098,11 +1312,13 @@
       <num>F.</num>
       <text>Prior to the expiration of each 2-year term, a licensee shall provide proof of satisfactory completion of continuing education requirements.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.14</num>
+    <num>.16</num>
     <heading>Compensation — Examiners and Inspectors.</heading>
     <para>
       <num>A.</num>
@@ -1116,11 +1332,13 @@
       <num>C.</num>
       <text>All per diem employees are entitled to be reimbursed for traveling expenses in accordance with the State's policy.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.15</num>
+    <num>.17</num>
     <heading>Citations to Licensees.</heading>
     <text>Unless otherwise indicated, the following civil penalties are applicable to the following violations of the laws and regulations of the Board of Cosmetologists discovered by a Board inspector during an inspection of a beauty salon:</text>
     <para>
@@ -1299,7 +1517,7 @@
         </para>
         <para>
           <num>(ee)</num>
-          <text>Unsanitary manicuring table or surrounding area — $100;</text>
+          <text>Unsanitary manicuring or eyelash extension table or surrounding area — $100;</text>
         </para>
         <para>
           <num>(ff)</num>
@@ -1312,6 +1530,18 @@
         <para>
           <num>(hh)</num>
           <text>Improper procedures when working on acrylic nails — $100;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Improper procedures when performing eyelash extension services — $100;</text>
+        </para>
+        <para>
+          <num>(jj)</num>
+          <text>Failure to label eyelash adhesive with accurate date of opening or failure to discard eyelash adhesive container within 30 days of opening;</text>
+        </para>
+        <para>
+          <num>(kk)</num>
+          <text>Any other sanitation violation— $50;</text>
         </para>
       </para>
     </para>
@@ -1332,18 +1562,14 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>Glycolic acid — formal hearing;</text>
+        <text>Chemical peels that penetrate the skin beyond the epidermis — formal hearing;</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>Chemical peels — formal hearing;</text>
-      </para>
-      <para>
-        <num>(6)</num>
         <text>Practice causing tissue destruction or penetration to the blood fluid barrier — formal hearing;</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(6)</num>
         <text>Credo blade — $300;</text>
       </para>
     </para>
@@ -1391,11 +1617,13 @@
       <num>F.</num>
       <text>Interference with inspector — formal hearing.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.16</num>
+    <num>.18</num>
     <heading>Failure to Respond.</heading>
     <para>
       <num>A.</num>
@@ -1413,7 +1641,9 @@
       <num>D.</num>
       <text>Failure to respond as required by this regulation may be considered by the Board to be a violation of <cite doc="Md. Code" path="gbo|5-314">Business Occupations and Professions Article, §5-314(a)(1)(viii), Annotated Code of Maryland</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Business Occupations and Professions Article, Titles 4 and 5; Business Regulation Article, §§<cite doc="Md. Code" path="gbr|2-106">2-106</cite>.13 and 2-106.14;<br/>Annotated Code of Maryland; Ch. 256, Acts of 2017</annotation>
@@ -1541,5 +1771,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-05-01"><cite path="|09|22|01|.13|F.">Regulation .13F</cite> adopted effective May 1, 2023 (50:8 Md. R. 337)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-23"><cite path="|09|22|01|.15|E.">Regulation .15E</cite> amended effective March 23, 2020 (47:6 Md. R. 341)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-01-28"><cite path="|09|22|01|.16">Regulation .16</cite> adopted effective January 28, 2019 (46:2 Md. R. 52)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02" discontinuity="true">Chapter revised effective March 2, 2026 (53:4 Md. R. 184)</annotation>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
   </annotations>
 </container>

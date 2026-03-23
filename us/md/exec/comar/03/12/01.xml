@@ -24,19 +24,51 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>“Digital advertising services:”</text>
+        <text>Digital Advertising Services.</text>
         <para>
           <num>(a)</num>
-          <text>Includes advertisement services on a digital interface, including advertisements in the form of banner advertising, search engine advertising, interstitial advertising, and other comparable advertising services; and</text>
+          <text>“Digital advertising services” means advertising services on a digital interface that are:</text>
+          <para>
+            <num>(i)</num>
+            <text>Programmatic; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Visually conveyed.</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>Does not include advertisement services on digital interfaces owned or operated by or operated on behalf of a broadcast entity or news media entity as defined in <cite doc="Md. Code" path="gtg|7">Tax-General Article, §7</cite>.5-101, Annotated Code of Maryland.</text>
+          <text>“Digital advertising services” includes advertisement services on a digital interface, including advertisements in the form of banner advertising, search engine advertising, interstitial advertising, and other comparable advertising services; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Digital advertising services” does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>Advertisement services on digital interfaces owned or operated by or operated on behalf of a broadcast entity or news media entity as defined in <cite doc="Md. Code" path="gtg|7">Tax-General Article, §7</cite>.5-101, Annotated Code of Maryland;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Any advertising services that are not programmatic; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Any advertising services that are not visually conveyed.</text>
+          </para>
         </para>
       </para>
       <para>
         <num>(4)</num>
-        <text>“Digital interface” means any type of software, including a website, part of a website, or application, that a user is able to access.</text>
+        <text>Digital interface.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Digital interface” means any type of software, including a website, part of a website, or application, that a user is able to access; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Can be accessed or conveyed either on or off the Internet.</text>
+        </para>
       </para>
       <para>
         <num>(5)</num>
@@ -44,10 +76,80 @@
       </para>
       <para>
         <num>(6)</num>
+        <text>“Other comparable advertising services” includes the following digital advertising services:</text>
+        <para>
+          <num>(a)</num>
+          <text>Display advertising;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Internet programmatic video advertising;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Multichannel video programming distributor advertising conveyed via cable television, satellite television, or a digital fiber-optic distribution system;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Advertising on social media;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Native advertising; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Incentivized or rewarded advertising.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Programmatic.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Programmatic” means capable of automating advertising services.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Programmatic digital advertising services may be sold in real time by employing technology that uses computer- or software-driven workflow or machine learning algorithms to deliver advertisements to users based on advertiser-defined parameters, including precise user targeting data such as user:</text>
+          <para>
+            <num>(i)</num>
+            <text>Geographic locations;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Types of devices;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Recent online search behaviors;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Browsing history;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Shopping history;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Purchase history; and</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>Biographical and other information compiled in databases.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
         <text>“User” means an individual or any other person who accesses a digital interface with a device.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-290-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -238,5 +340,7 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Tax-General Article, §§<cite doc="Md. Code" path="gtg|2-102">2-102</cite>, <cite doc="Md. Code" path="gtg|2-103">2-103</cite>, and <cite doc="Md. Code" path="gtg|7">7</cite>.5-102, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-12-13">Effective date: December 13, 2021 (48:25 Md. R. 1079)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|12|01|.01|B.">Regulation .01B</cite> amended effective March 2, 2026 (53:4 Md. R. 183)</annotation>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-290-F" type="History" display="false"/>
   </annotations>
 </container>

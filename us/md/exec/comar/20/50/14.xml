@@ -1,0 +1,1133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>14</num>
+  <heading>Energy Storage</heading>
+  <section cache:ref-path="20|50|14|.01">
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Applicability.</heading>
+    <para>
+      <num>A.</num>
+      <text>This chapter applies to the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>All front-of-the meter energy storage devices in Maryland pursuant to <cite doc="Md. Code" path="gpu|7">Public Utilities Article, §7</cite>–219, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any energy storage devices eligible to be enrolled or registered in the Maryland Energy Storage Program pursuant to <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216</cite>.1, Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Electric vehicles that are part of a renewable on-site generating system and mobile energy storage devices are ineligible for registration in the Maryland Energy Storage Program pursuant to <cite doc="Md. Code" path="gpu|7-1005">Public Utilities Article, §7-1005(E)(2)(II)(1), Annotated Code of Maryland</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A virtual power plant or microgrid is ineligible for registration in the Maryland Energy Storage Program as a stand-alone energy storage device.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Any energy storage device that constitutes part of a virtual power plant, microgrid, or a renewable on-site generating system, except as specified in <cite path="|20|50|14|.01|B.">Regulation .01B of this chapter</cite>, is eligible to register in the Maryland Energy Storage Program or enroll in Administrator Initiatives.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Electric company owned energy storage devices used for substation control, support, and emergency back-up of utility equipment and facilities are exempt from the requirements of this chapter.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>An energy storage device as defined in <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216, Annotated Code of Maryland</cite> that off-sets grid demand, but does not deliver energy to the grid, shall not be subject to the requirements of in <cite path="|20|50|14|.03">Regulation .03 of this chapter</cite>, except for <cite path="20|50|14|.01|G.">§G of this regulation</cite> and other conditions as determined by the Commission for inclusion in a Maryland Energy Storage Program Initiative.</text>
+      <para>
+        <num>(1)</num>
+        <text>The applicant shall make a filing with the Commission regarding the technical details of its proposed energy storage device and the applicant’s rationale for inclusion in a Maryland Energy Storage Program Initiative.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Commission shall determine the next steps necessary to consider the matter as a special case in the Maryland Energy Storage Program.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Applicable Standards. Unless otherwise specified by the Commission, an energy storage device shall, to the extent applicable, comply with the provisions in the National Fire Protection Association (NFPA) 855 Standard for the Installation of Stationary Energy Storage Systems, 2023 Edition, which is incorporated by reference in <cite path="|20|50|14|.03">Regulation .03 of this chapter</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-037-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Administrator” means an approved electric company, state agency, or Commission approved entity responsible for the enrollment in and general administration of an initiative under the Maryland Energy Storage Program.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Affected community” means the residential individuals, organizations, and other entities located within 1 mile of the proposed location of an energy storage device.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Applicant” means an energy storage device owner that submits an application to an administrator to enroll in an initiative in the Maryland Energy Storage Program or to construct a front-of-the-meter energy storage device.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Behind-the-meter energy storage device” means an energy storage device that is installed on the customer side of an electric company meter and serves a particular electric company customer electric load.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Construction” has the meaning stated in <cite doc="Md. Code" path="gpu|7-207">Public Utilities Article, §7-207(a)(3), Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Cost-effective” means having projected benefits that are greater than projected costs while considering other factors as determined by the Commission.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Delivery year” has the meaning stated in <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216</cite>.1, Annotated Code of Maryland and is a planning period consisting of the 12 months beginning June 1 and extending through May 31 of the following year.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Deployment incentive mechanism” means an incentive or rebate provided by an administrator to accelerate the deployment of cost-effective energy storage devices providing grid services as part of the Maryland Energy Storage Program and is not a payment for performance or specific operations.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Distributed energy resource” has the meaning stated in <cite path="20.50.09.02">COMAR 20.50.09.02</cite>.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Electric company” has the meaning stated in <cite doc="Md. Code" path="gpu|1-101">Public Utilities Article, §1-101, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>“Energy storage device” has the meaning stated in <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216, Annotated Code of Maryland</cite> and may be classified by market segment for the purposes of registration in the Maryland Energy Storage Program or enrollment in Administrator Initiatives.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Enrollment” means the acceptance by an administrator of an application of an energy storage device in an initiative for a delivery year and occurs in parallel with the PJM Interconnection LLC or the electric company’s interconnection process.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>“Front-of-the-meter energy storage device” means an energy storage device where there is no load on the customer side of the meter beyond loads required to operate the energy storage device and includes:</text>
+        <para>
+          <num>(a)</num>
+          <text>A separate electrical isolation device to prevent the flow of electricity when required for operation or maintenance;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A separate energy measurement meter;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>At least one inverter; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The ability to be operated in an independent manner from other energy storage devices.</text>
+        </para>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“Generating station” has the meaning stated in <cite path="20.79.01.02">COMAR 20.79.01.02</cite>.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>“Grid services” means the dispatch and control of an energy storage device to provide service to the electric company’s electric grid pursuant to an electric company tariff, service contract between the electric company and the owner of a registered energy storage device, or providing transmission-level grid services by participating in PJM Interconnection LLC wholesale markets.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>“Grid services mechanism” means “pay-for-performance” compensation from an electric company to owners of energy storage devices registered in the Maryland Energy Storage Program that provide grid services to the electric system.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>“Initiative” means an administrator’s Commission-approved structure in which energy storage devices can enroll that offers a mechanism targeted at a specific market segment.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>“Long-duration energy storage system (LDES)” means an energy storage device capable of continuously discharging electricity at its full rated capacity for 10 hours or longer but less than 24 hours.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>“Market segment” means the categorization of energy storage devices in the Maryland Energy Storage Program as front-of-the-meter electric transmission, front-of-the meter electric distribution, or behind-the-meter electric distribution.</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>“Maryland energy storage program” means the initiatives and registrations that the Commission established to meet State energy storage targets pursuant to <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216</cite>.1, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>“Mechanism” means a procurement mechanism, a grid services mechanism, or a deployment incentive mechanism and may be implemented as a tariff, grant, rebate, or a contract.</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>“Microgrid” means a network that can consist of interconnected loads, distributed energy resources, and energy storage devices within clearly defined electrical boundaries that acts as a single controllable network with respect to the electric system and that can be disconnected from the electric distribution or transmission system to operate independently.</text>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>“Multi-day energy storage (Multi-day ES)” means an energy storage device capable of continuously discharging electricity at its full rated capacity for 24 hours or longer.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>“Notice to affected community” means by advertisement in a newspaper of general circulation in the county or municipal corporation affected by the application and on two types of social media platforms.</text>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>“Overburdened community” has the same meaning as defined in <cite doc="Md. Code" path="gen|1">Environment Article, §1</cite>–701, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>“Ownership and operations model” means the role that third-parties and electric companies play in owning and operating energy storage devices and may include, but are not limited to:</text>
+        <para>
+          <num>(a)</num>
+          <text>A third-party ownership and operations model;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An electric company ownership and operations model;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An electric company owned and third party-operated model;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A third-party owned and electric company operated model; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>An electric company ownership and leaseback model.</text>
+        </para>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text>“Parcel” means a lot or group of lots devoted to a particular use including open spaces required or used in connection with that particular use.</text>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text>“Pre-existing energy storage device” means an energy storage device that is in-service or under construction prior to the effective date of this chapter.</text>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text>“Procurement mechanism” means a competitive solicitation by an administrator for energy storage devices providing grid services or a contract established by an administrator for grid services from energy storage devices.</text>
+      </para>
+      <para>
+        <num>(30)</num>
+        <text>“Registrant” means the person that obtains registration of an energy storage device in the Maryland Energy Storage Program.</text>
+      </para>
+      <para>
+        <num>(31)</num>
+        <text>“Registration” means the counting of an energy storage device in the Maryland Energy Storage Program energy storage device targets stated in <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216</cite>.1, Annotated Code of Maryland as of the date it is in-service.</text>
+      </para>
+      <para>
+        <num>(32)</num>
+        <text>“Renewable on-site generating system” has the meaning stated in <cite doc="Md. Code" path="gpu|7-1001">Public Utilities Article, §7-1001(i), Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(33)</num>
+        <text>“Short-duration energy storage (SDES)” means an energy storage device capable of continuously discharging electricity at its full rated capacity for less than 10 hours.</text>
+      </para>
+      <para>
+        <num>(34)</num>
+        <text>“Technology type” means all types of electric storage device technologies, regardless of their size, storage medium, or operational purpose as classified in <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(35)</num>
+        <text>“Unclassified technology type” means a technology that is not stated in <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(36)</num>
+        <text>“Underserved community” has the same meaning as defined in <cite doc="Md. Code" path="gen|1">Environment Article, §1</cite>–701, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(37)</num>
+        <text>“Virtual power plant” means a collection of distributed energy resources, potentially including energy storage devices, that can provide grid services when aggregated together and coordinated with grid operations.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-037-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Incorporation by Reference.</heading>
+    <text>In this chapter, NFPA 855, Standard for the Installation of Stationary Energy Storage Systems, 2023 is incorporated by reference.</text>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-037-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Maryland Energy Storage Program Administration.</heading>
+    <para>
+      <num>A.</num>
+      <text>Targets.</text>
+      <para>
+        <num>(1)</num>
+        <text>Targets for the cost-effective deployment of new energy storage devices may be established by the Commission in a manner as determined by the Commission or the legislature.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Commission may assign an administrator individual targets in a manner as determined by the Commission to help meet state energy storage targets pursuant to <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216</cite>.1, Annotated Code of Maryland and to support state policy goals in Public Utilities Article, §§<cite doc="Md. Code" path="gpu|7">7</cite>–<cite doc="Md. Code" path="gpu|801">801</cite> and <cite doc="Md. Code" path="gpu|7">7</cite>–<cite doc="Md. Code" path="gpu|802">802</cite>, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An administrator shall propose to the Commission achievable goals for the enrollment of cost-effective energy storage devices in its initiatives in a manner as determined by the Commission.</text>
+        <para>
+          <num>(a)</num>
+          <text>Targets may be proposed for front-of-the-meter and behind-the-meter energy storage device initiative installations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Targets may be proposed for energy storage device initiative installations on the electric distribution system and the electric transmission system.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Targets may be proposed for energy storage device deployment using different ownership and operating models.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Targets may consider energy storage device characteristics including but not limited to attributes such as SDES, LDES, and Multi-day ES durations.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Targets may be proposed by electric companies for performance incentive mechanisms for goal achievement and the establishment of retail tariffs to support the Maryland Energy Storage Program.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An administrator shall meet its assigned targets in a cost-effective manner.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>If an administrator determines at any time that it cannot meet its assigned targets cost-effectively, the administrator shall make a filing with the Commission seeking to reduce the targets, pursuant to <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216</cite>.1, Annotated Code of Maryland or propose an alternative.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Counting for Enrollment and Registration.</text>
+      <para>
+        <num>(1)</num>
+        <text>Administrators shall develop applications to enroll energy storage devices in an initiative.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An energy storage device is enrolled in an initiative on the date the administrator sends notification of enrollment to the applicant.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An administrator shall use information regarding energy storage device enrollments to determine the amount of energy storage devices required to meet end of delivery year targets.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Maryland Energy Storage Program Manager shall use information regarding registered energy storage devices to determine if end of delivery year targets were met.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A pre-existing energy storage device shall be registered in the Maryland Energy Storage Program on the date it is discovered and cannot be enrolled in an initiative offering a deployment incentive mechanism or a procurement mechanism.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>To enroll in an initiative offering a procurement mechanism or a deployment mechanism, an energy storage device shall provide grid services.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>An administrator shall not double count an energy storage device participating in two mechanisms for reporting purposes pursuant to <cite path="|20|50|14|.13">Regulation .13 of this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>An energy storage device shall not be enrolled in an initiative offering a deployment incentive mechanism and a procurement mechanism at the same time.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>An energy storage device may enroll in an electric company initiative offering a grid services mechanism and be registered in the Maryland Energy Storage Program and counted towards the targets stated in the <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216</cite>.1, Annotated Code of Maryland without enrolling in an initiative offering a procurement mechanism or deployment incentive mechanism.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>An energy storage device that is eligible for a deployment incentive mechanism shall receive a deployment incentive from the administrator only after the energy storage device is registered in the Maryland Energy Storage Program.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>An electric company shall not enroll an electric-company-owned energy storage device in an initiative in which it is the administrator unless approved by the Commission.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>An electric company may enroll an electric company-owned energy storage device in an initiative in which it is not an administrator.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Grid Services.</text>
+      <para>
+        <num>(1)</num>
+        <text>Each electric company shall implement necessary retail tariffs or service contracts for energy storage devices to provide grid services and to support initiative targets assigned by the Commission.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Retail tariffs that include grid services shall also recognize the unique role that energy storage plays in reducing peak demand in the development of demand charges.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Energy storage devices providing transmission-level grid services under PJM Interconnection LLC tariffs shall be counted toward achieving the Maryland Energy Storage Program targets set forth in <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216</cite>.1, Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Pre-Existing Energy Storage Devices.</text>
+      <para>
+        <num>(1)</num>
+        <text>Pre-existing energy storage devices are not eligible to participate in an initiative offering a deployment incentive mechanism or a procurement mechanism.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Pre-existing energy storage devices are eligible to participate in a grid services mechanism.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Pre-existing energy storage devices participating in a grid services mechanism shall be registered in the Maryland Energy Storage Program as a pre-existing energy storage device.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Administration.</text>
+      <para>
+        <num>(1)</num>
+        <text>An administrator shall be approved by the Commission in a manner as determined by the Commission.</text>
+        <para>
+          <num>(a)</num>
+          <text>An electric company may provide administration for an initiative it creates or contract with a third party to provide administration on its behalf.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A State agency may provide administration for an initiative it creates or contract with a third party to provide administration on its behalf.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Commission shall assign a Commission person, whether internal or contracted, to serve as the Maryland Energy Storage Program Manager to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Coordinate with administrators on federal and State funding requests;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Manage and report on the status of meeting energy storage targets stated in the <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216</cite>.1, Annotated Code of Maryland;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Coordinate and develop initiative target allocation recommendations; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Advise the Commission on the plans of their initiatives.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An administrator shall post information on applying for an initiative on an administrator’s website and through other standard promotional methods, as appropriate, and all promotional efforts shall include information to enable prospective owners of eligible energy storage devices to apply for initiatives.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An electric company may identify desired locations for energy storage devices on its website and update this information at least annually.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>An administrator shall issue a notice to an energy storage device applicant following its approval or denial for enrollment in its initiative.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>An administrator shall make reasonable efforts to apply for all applicable State and federal grants, rebates, tax credits, loan guarantees, and other similar benefits as the benefits become available to help offset the cost of its initiative.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>An administrator shall also update initiative data as required in <cite path="|20|50|14|.13">Regulation .13 of this chapter</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Complaints. Any person may file a complaint with the Commission’s Executive Secretary regarding fairness, transparency, conflicts of interest, and timely resolutions, among other things.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-037-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Electric Company Owned Front-Of-The Meter Energy Storage Device Enrollment and Registration in the Maryland Energy Storage Program.</heading>
+    <para>
+      <num>A.</num>
+      <text>All energy storage devices owned by an electric company that inject power into the electric system shall be considered registered in the Maryland Energy Storage Program at the in-service date as reported to the Maryland Energy Storage Program Manager by the electric company. Electric company-owned pre-existing energy storage devices are registered as provided in <cite path="|20|50|14|.04">Regulation .04(B) of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Prior to the commencement of the stakeholder engagement and participation requirements pursuant to <cite path="|20|50|14|.09">Regulation .09 of this chapter</cite>, the electric company shall file a notification with the Commission containing information about the energy storage device. The date of this notification shall be the energy storage device enrollment date provided that the energy storage device is enrolled in an initiative.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An electric company-owned energy storage device shall be subject to the stakeholder engagement and participation requirements for front-of-the-meter energy storage device applicants in <cite path="|20|50|14|.09">Regulation .09 of this chapter</cite> and shall also be subject to the safety, siting, and environmental requirements for front-of-the-meter energy storage devices in <cite path="|20|50|14|.10">Regulation .10 of this chapter</cite>, except to the extent exempted under <cite path="|20|50|14|.08|G.">Regulation .08G of this chapter</cite>, and the Department of Natural Resources Power Plant Research Program review and recommendations in <cite path="|20|50|14|.11">Regulation .11 of this chapter</cite>, except to the extent exempted under <cite path="|20|50|14|.08|G.">Regulation .08G of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>An electric company-owned energy storage device shall be subject to Commission approvals in <cite path="|20|50|14|.12">Regulation .12 of this chapter</cite>, except to the extent exempted under <cite path="|20|50|14|.08|G.">Regulation .08G of this chapter</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-037-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="20|50|14|.06">
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Behind-The-Meter Energy Storage Device Enrollment and Registration in the Maryland Energy Storage Program.</heading>
+    <para>
+      <num>A.</num>
+      <text>All applicants seeking to enroll an energy storage device in an initiative offering a behind-the-meter mechanism shall submit an application to an administrator prior to the beginning of construction, except for pre-existing energy storage devices seeking to enroll in a grid services mechanism, which may submit an application before or after construction.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An application seeking to enroll in a behind-the-meter mechanism shall include an attestation by the applicant that:</text>
+      <para>
+        <num>(1)</num>
+        <text>The energy storage device shall meet the definition of an “energy storage device” in the <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>At the time of enrollment, the energy storage device’s planned electrical capacity in kilowatts and energy in kilowatt-hours that can be delivered to the grid or offset grid demand.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The energy storage device shall meet NFPA 855 standards, if applicable, in addition to any other applicable federal and State requirements and local codes and standards.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The energy storage device applicant shall meet a specified in-service date.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An administrator shall deny any application for enrollment in a mechanism if the conditions in <cite path="20|50|14|.06|B.">§B of this regulation</cite>, as applicable, are not met and shall provide the applicant an explanation for denial to aid the applicant in curing and resubmitting the application.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The enrollment date shall be the date the administrator notifies the applicant that its application is approved.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The date of registration in the Maryland Energy Storage Program is the in-service date, as noted in a certificate of completion to be tendered by the Program Administrator. Pre-existing energy storage devices are registered as required in <cite path="|20|50|14|.04">Regulation .04(B) of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Should an applicant not meet the expected in-service date within 60 days of the certificate of completion, an administrator shall provide notification to an applicant that its enrollment will be withdrawn unless a request for extension is submitted to the administrator within 30 days and a notice is submitted to the electric company with a new projected in-service date.</text>
+      <para>
+        <num>(1)</num>
+        <text>An administrator may approve an extension request for good cause or otherwise deny the request if good cause is not provided.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An applicant may appeal to the Commission an administrator’s decision regarding an extension by filing an appeal with the Commission's Executive Secretary.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-037-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="20|50|14|.07">
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Non-Electric Company Owned Front-Of-The-Meter Energy Storage Device Enrollment and Registration in the Maryland Energy Storage Program.</heading>
+    <para>
+      <num>A.</num>
+      <text>All energy storage devices that are not owned by an electric company seeking to enroll in a procurement mechanism or deployment incentive mechanism shall submit an application form with an administrator prior to beginning construction.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>All non-electric company front-of-the meter energy storage device applications to enroll in a deployment incentive mechanism or procurement mechanism shall include an attestation that:</text>
+      <para>
+        <num>(1)</num>
+        <text>The energy storage device meets the definition of an “energy storage device” in the <cite doc="Md. Code" path="gpu|7-216">Public Utilities Article, §7-216, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The energy storage device is not a pre-existing energy storage device.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>At the time of enrollment, the energy storage device’s planned electrical capacity in kilowatts and energy in kilowatt-hours that can be delivered to the grid.</text>
+        <para>
+          <num>(a)</num>
+          <text>If an energy storage device does not have capacity ratings in kilowatts and energy ratings in kilowatt-hours supplied by a manufacturer, the applicant shall provide these ratings in kilowatts and kilowatt-hours in a document describing the calculation methodology and showing the rating calculations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>These capacity and energy rating calculations shall be certified by a professional engineer licensed in Maryland.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The applicant shall make reasonable efforts to meet a specific in-service date.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The energy storage device shall have a position in either the PJM new services queue or have filed an interconnection request with the electric company.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An administrator shall deny any application for enrollment if the conditions in <cite path="20|50|14|.07|B.">§B of this regulation</cite>, as applicable, are not met and shall provide the applicant an explanation for the denial to aid the applicant in curing and resubmitting the application.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>An administrator shall make a proposal when seeking Commission approval of an initiative for project maturity requirements to avoid speculative projects entering into enrollment.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The registration date is the in-service date stated on a certificate of completion tendered by the administrator.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Should an applicant for a deployment incentive mechanism initiative not meet the expected in-service date within 60 days of the certificate of completion, an administrator shall provide notification to an applicant that its enrollment will be withdrawn unless a request for extension is submitted to the administrator.</text>
+      <para>
+        <num>(1)</num>
+        <text>An administrator may approve an extension request for good cause or otherwise deny the request if good cause is not provided.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An applicant may appeal an administrator’s decision regarding an extension to the Commission by filing an appeal with the Commission's Executive Secretary.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Should an applicant for a procurement mechanism initiative or a grid services mechanism initiative fail to meet the expected in-service date the terms and conditions of the executed contract apply.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Non-electric company-owned front-of-the meter energy storage devices enrolling in an initiative shall be subject to the stakeholder engagement and participation requirements for all front-of-the-meter energy storage devices in <cite path="|20|50|14|.09">Regulation .09 of this chapter</cite> and shall be subject to the safety, siting, and environmental requirements for front-of-the-meter energy storage devices in <cite path="|20|50|14|.10">Regulation .10 of this chapter</cite> and the Department of Natural Resources Power Plant Research Program review and recommendations in <cite path="|20|50|14|.11">Regulation .11 of this chapter</cite>, except to the extent exempted under <cite path="|20|50|14|.08|G.">Regulation .08G of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Non-electric company owned front-of-the meter energy storage devices shall be subject to Commission approvals in <cite path="|20|50|14|.12">Regulation .12 of this chapter</cite>, except to the extent exempted under <cite path="|20|50|14|.08|G.">Regulation .08G of this chapter</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-037-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Exemptions and Waivers from Regulations for Front-Of-The-Meter Energy Storage Devices.</heading>
+    <para>
+      <num>A.</num>
+      <text>A front-of-the-meter energy storage device applicant or registrant or an electric utility proposing a front-of-the-meter energy storage device may request from the Commission, a waiver or to be exempted from a requirement of this chapter that is not applicable to its energy storage device.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>All waiver requests shall state whether the energy storage device is currently:</text>
+      <para>
+        <num>(1)</num>
+        <text>Operational, including the in-service date;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Under construction, including the projected in-service date; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Proposed, including the expected construction start date and projected in-service date.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>All waiver requests shall describe the energy storage device’s technical and operational characteristics and explain why those characteristics, or other factors, make a requirement of the regulation inapplicable or would result in undue hardship.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>All waiver requests shall be served on the electric company with jurisdiction over the electric system to which the energy storage device seeks to enroll or register in an initiative or submits an application for Commission Energy Storage Construction Approvals and Waivers for energy storage devices not seeking to enroll in an initiative.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>For waiver requests for front-of-the-meter energy storage devices equal to or greater than 20 megawatt-hours per parcel, the waiver request shall be subject to state agency review pursuant to <cite path="|20|50|14|.11|C.">Regulation .11C of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>For waiver requests for front-of-the-meter energy storage devices under 20 megawatt-hours per parcel, the Commission shall either approve, approve with modifications, or deny the waiver request after notice and an opportunity for public comment. The Commission may set a date for consideration of the waiver request at a hearing in the Commission’s Administrative Docket.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>An energy storage device that is approved in a Certificate of Public Convenience and Necessity (CPCN) proceeding conducted pursuant to <cite doc="Md. Code" path="gpu|7-207">Public Utilities Article, §7-207, Annotated Code of Maryland</cite> shall be enrolled by an administrator in the Maryland Energy Storage Program upon Commission approval of the CPCN and shall be registered by the Maryland Energy Storage Program Manager upon being placed in-service. The energy storage device is otherwise exempt from the engagement, safety, environmental, and siting regulations in Regulations .09, .10, .11 and .12 of this chapter that are replicated in the CPCN review process.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>A waiver request may cover multiple energy storage devices provided that all applicable sections of this regulation are followed.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-037-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="20|50|14|.09">
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Stakeholder Engagement and Participation Requirements for Front-Of-The-Meter Energy Storage Devices.</heading>
+    <para>
+      <num>A.</num>
+      <text>General Stakeholder Engagement and Participation Requirements Under <cite doc="Md. Code" path="gpu|7-219">Public Utilities Article, §7-219(c) </cite>and (d), Annotated Code of Maryland.</text>
+      <para>
+        <num>(1)</num>
+        <text>The applicant or electric company, for a utility-owned energy storage device, shall provide immediate notice to affected communities on submission of an application for approval of the construction of a front-of-the-meter energy storage device to:</text>
+        <para>
+          <num>(a)</num>
+          <text>The governing body of each county or municipal corporation in which any portion of the energy storage device is to be constructed;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The governing body of each county or municipal corporation within 1 mile of the proposed location of the energy storage device;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Each member of the General Assembly representing any part of a county in which any portion of the energy storage device is proposed to be constructed;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Each member of the General Assembly representing any part of a county within 1 mile of the proposed location of the energy storage device; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The affected communities that are within 1 mile of the proposed location of the energy storage device.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The applicant or electric company, for a utility-owned energy storage device, shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Hold at least two public meetings in the affected community if the proposed location of the front-of-the-meter energy storage device is in an area considered to be an overburdened community or underserved community.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Be exempt from meeting the requirements of <cite path="20|50|14|.09|A.|(2)|(a)">§A(2)(a) of this regulation</cite> if an owner of a proposed front-of-the-meter energy storage device is located within the boundaries of an existing electricity generating station.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Stakeholder Engagement and Participation for Proposed Energy Storage Devices with 20 Megawatt-Hours or Greater Energy Storage Device Capacity Total Sited Per Parcel.</text>
+      <para>
+        <num>(1)</num>
+        <text>This section applies to an applicant or electric company, for a utility-owned energy storage device, with proposed energy storage devices greater than or equal to 20 megawatt-hours storage capacity total sited per parcel regardless of energy storage device technology.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A minimum of 90 days prior to submitting an application for enrolling in an initiative or prior to filing for a zoning variance or permits, whichever is earlier, an applicant or electric company, for a utility-owned energy storage device, shall take the following steps to engage and consult with the county or municipal corporation in which any portion of the energy storage device is proposed to be located.</text>
+        <para>
+          <num>(a)</num>
+          <text>Submit to the affected county or municipal corporation and each owner of land on which the energy storage device is located and owner of adjacent land, a conceptual site plan for the energy storage device.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Submit to the affected county or municipal corporation a request for a meeting. The applicant shall make a good faith effort to meet with the staff of the affected county or municipal corporation.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Submit to the affected county or municipal corporation a request for a preliminary report containing the following:</text>
+          <para>
+            <num>(i)</num>
+            <text>A statement or finding whether the proposed energy storage device is consistent with the current comprehensive plan of the county or municipal corporation;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A statement or finding whether the proposed energy storage device is consistent with the current zoning ordinance of the county or municipal corporation; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Suggestions for improving or modifying the application prior to submission of the application to the initiative administrator.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If the applicant or electric company, for a utility-owned energy storage device, makes any material changes to the energy storage device as submitted to the administrator under this regulation, the applicant shall provide notice of the changes to the county or municipal corporation in which any portion of the energy storage device is proposed to be located.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The applicant shall submit to the Department of Natural Resources Power Plant Research Program any report or other information received on their energy storage device from the county or municipal corporation in which any portion of the energy storage device is proposed to be located before filing an application for enrollment in an initiative or submits an application for Commission Energy Storage Construction Approvals and Waivers for energy storage devices not seeking to enroll in an initiative.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The applicant or electric company, for a utility-owned energy storage device, shall, a minimum of 60 days prior to filing an application for enrollment, submitting an application for Commission Energy Storage Construction Approvals and Waivers for energy storage devices not seeking to enroll in an initiative, or prior to filing for a zoning variance or permits, whichever is earlier, meet with affected communities for the purposes of public engagement and participation. The applicant or electric company, for a utility-owned energy storage device, shall provide 14 days’ notice to affected communities and:</text>
+        <para>
+          <num>(a)</num>
+          <text>If the proposed location of the front-of-the-meter energy storage device is in an area considered to be an overburdened community or underserved community, the applicant or electric company, for a utility-owned energy storage device, shall hold at least two public meetings in the affected community; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An owner of a proposed front-of-the-meter energy storage device that is located within the boundaries of an existing electricity generating station shall be exempt from meeting the requirements of <cite path="20|50|14|.09|B.|(3)|(a)">§B(3)(a) of this regulation</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The applicant or electric company, for a utility-owned energy storage device, shall submit to the Commission any report received on their energy storage device from the affected communities in which any portion of the energy storage device is proposed to be located including the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>A description of the time, place, and manner in which the applicant held the public meeting with members of the affected communities;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A description of the manner in which the applicant provided notice to the affected communities of the proposed public meeting with members of the affected communities;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A copy of any meeting sign-in sheet voluntarily indicating persons of interest; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A description of any terms, incentives, or resolutions reached between the applicant and the affected communities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Affected communities including residential individuals, organizations, affected county or municipal corporations may also file information with the Commission on their position supporting, opposing, or requesting modifications to a front-of-the-meter energy storage device.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The applicant or electric company, for a utility-owned energy storage device, may respond within 30 days of the Commission’s receipt of such information from affected communities, residential individuals, organizations, affected counties or municipal corporations.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-037-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Safety, Siting, and Environmental Requirements for Front-Of-The-Meter Energy Storage Devices.</heading>
+    <para>
+      <num>A.</num>
+      <text>Applicability.  This regulation applies to all front-of-the meter energy storage devices unless exempted pursuant to <cite path="|20|50|14|.08">Regulation .08 of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Minimum Safety, Siting, and Environmental Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>An energy storage device that will not be constructed at an electricity generating station, electric substation, or commercial or industrial location shall meet the site requirements of <cite doc="Md. Code" path="gpu|7-219">Public Utilities Article, §7-219(e), Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An energy storage device shall adhere to the design, construction, operation, and maintenance standards in NFPA 855, if applicable, which is incorporated by reference in this chapter. The scope of NFPA 855 applies only to the technologies and energy storage devices of certain size thresholds whether owned and operated by an applicant or registrant.</text>
+        <para>
+          <num>(a)</num>
+          <text>The applicant or registrant shall include an attestation from a professional engineer licensed in Maryland that its proposed energy storage device shall comply with the standards in NFPA 855, if applicable.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If an applicant or registrant states that NFPA 855 is not applicable to the energy storage device technology utilized, the applicant or registrant shall include an attestation that the energy storage device shall be designed, constructed, installed, operated, and maintained in accordance with any applicable standards, regulations, and codes, in addition to complying with all state and local building, fire, and zoning requirements, and shall include a copy of the applicable standards, regulations, and codes with its application.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In cases where the adherence with NFPA 855 or other applicable standards, regulations, and codes are not applicable, the applicant or registrant may seek a waiver pursuant to <cite path="|20|50|14|.08">Regulation .08 of this chapter</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An energy storage device shall have hazard mitigation and firefighting preparedness plans that include hazard mitigation, firefighting water needs, and fire tests.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An energy storage device shall have emergency preparedness plans and procedures including pre-incident plans, emergency procedures, periodic safety inspections, first responder response, and training.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>An energy storage device shall comply with all applicable codes and standards.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-037-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Department of Natural Resources Power Plant Research Program Review on Behalf of the State Agencies for Front-Of-The-Meter Energy Storage Devices.</heading>
+    <para>
+      <num>A.</num>
+      <text>State Agency Application Review Coordinated by the Power Plant Research Program.</text>
+      <para>
+        <num>(1)</num>
+        <text>An applicant with proposed energy storage devices 20 megawatt-hours storage capacity or greater total sited per parcel, regardless of energy storage device technology, shall no later than 45 days prior to filing an application for enrollment in an initiative, submitting an application for Commission Energy Storage Construction Approvals and Waivers for energy storage devices not seeking to enroll in an initiative, or prior to filing for a zoning variance or permits, whichever is earlier, consult with the staff of the Department of Natural Resources Power Plant Research Program to provide an overview of the proposed energy storage device.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department of Natural Resources Power Plant Research Program review shall include the minimum safety, siting, and environmental requirements in <cite path="|20|50|14|.10">Regulation .10 of this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Other potential factors for which the Department of Natural Resources Power Plant Research Program may request information include the following.</text>
+        <para>
+          <num>(a)</num>
+          <text>Environmental information required under <cite path="20.79.03.02">COMAR 20.79.03.02</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Natural Resources information required under <cite path="20.79.03.03">COMAR 20.79.03.03</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Socioeconomic information required under <cite path="20.79.03.04">COMAR 20.79.03.04</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>EJSCREEN Reports pursuant to <cite path="20.79.03.05">COMAR 20.79.03.05</cite>.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Plans for compliance which are subject to <cite path="26.02.03.02">COMAR 26.02.03.02</cite> noise assessment regulations.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Plans for compliance with all state and local building, fire, and zoning requirements.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Information on grid reliability impacts.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Decommissioning plans, if applicable, to ensure there is an appropriate financial surety instrument to cover the projected cost of decommissioning less projected salvage value at the end of projected project life. Electric companies are exempt from decommissioning requirements.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Any additional information required by the Department of Natural Resources Power Plant Research Program for state agency review which shall not be unreasonably denied.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>State Agency Application Recommendations.</text>
+      <para>
+        <num>(1)</num>
+        <text>The State agencies shall consider in its recommendation to the Commission, the information received from the applicant regarding stakeholder engagement and participation of counties, municipal corporations, or an affected community. The Department of Natural Resources Power Plant Research Program shall upon request, provide the Maryland Office of People’s Counsel the information it collected from the applicant.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An energy storage device owner may respond within 30 days of the Commission’s receipt of such information from the State agencies.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The State agencies shall file with the Commission within 4 months of receipt of all required information, a recommendation on whether the energy storage device enrollment in the Maryland Energy Storage Program or an application for Commission Energy Storage Construction Approvals and Waivers for energy storage devices not seeking to enroll in an initiative should be approved, approved with modifications, or denied.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The State agencies shall also include any recommended conditions.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>An applicant shall have 10 days to agree or disagree with these State agency recommended conditions in a filing to the Commission.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>State Agency Waiver Reviews. The State agencies shall also consider waiver requests for front-of-the-meter energy storage devices equal to or greater than 20 megawatt-hours per parcel pursuant to <cite path="|20|50|14|.08">Regulation .08 of this chapter</cite> and make recommendations to the Commission within 4 months of receipt of all required information to approve, approve with modifications, or deny the waiver request.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-037-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>Commission Approvals for Front-Of-The-Meter Energy Storage Devices.</heading>
+    <para>
+      <num>A.</num>
+      <text>Pursuant to <cite doc="Md. Code" path="gpu|7">Public Utilities Article, §7</cite>–219(B), Annotated Code of Maryland, a person may not begin construction of a front-of-the-meter energy storage device unless the construction has been approved by the Commission.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Hearings and Approvals.</text>
+      <para>
+        <num>(1)</num>
+        <text>State agency recommendations coordinated by the Department of Natural Resources Power Plant Research Program pursuant to <cite path="|20|50|14|.11">Regulation .11 of this chapter</cite> may be considered by the Commission in its Administrative Docket within 60 days of filing of the state agency recommendations unless there is a filing by any other state agency, county, municipal corporation, an affected community, or any other stakeholder opposing the state agency recommendations that necessitates an evidentiary hearing.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Commission may approve, deny, or approve modifications to an application or a waiver request within 30 days of a hearing in either the Commission’s Administrative Docket or at an evidentiary hearing as determined by the Commission.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Compliance and Revocation of Approval.  If an energy storage device enrolled in an initiative is found to be in violation of any conditions approved for its inclusion, its approval may be revoked by the administrator and the energy storage device removed from enrollment in the initiative pursuant to a Commission determination.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Appeals. Within 30 days of the filing of an appeal, the Commission may consider any motions to appeal any decisions. No change in an energy storage device’s application status, enrollment status, or registration status shall be made until the appeal is adjudicated by the Commission.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-037-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Annual Reporting.</heading>
+    <para>
+      <num>A.</num>
+      <text>Starting September 1 of the year after the Commission approves the first administrator’s initiative, an administrator shall file the following information for the prior delivery year with the Commission segregated by market segment, ownership, and operating model, technology type, and SDES, LDES, Multi-day ES durations:</text>
+      <para>
+        <num>(1)</num>
+        <text>The following information regarding applications, enrollments, registrations, awards, and removals from initiatives:</text>
+        <para>
+          <num>(a)</num>
+          <text>Total number of energy storage device initiative applications;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Total kilowatts of energy storage device applications;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Total kilowatt-hours of energy storage device applications;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Total number of energy storage devices enrolled for each delivery year;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Total kilowatts of energy storage devices enrolled for each delivery year;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Total kilowatt-hours of energy storage devices enrolled for each delivery year;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Total number of energy storage devices registered;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Total kilowatts of energy storage devices registered;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Total kilowatt-hours of energy storage devices registered;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Total number of denied energy storage device applications;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Total kilowatts of denied energy storage applications;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Total kilowatt-hours of denied energy storage applications;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Total number of energy storage devices removed from initiative enrollment or registration by delivery year for any reason;</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Total kilowatts of energy storage devices removed from an initiative enrollment or registration by delivery year for any reason;</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Total kilowatt-hours of energy storage devices removed from an initiative enrollment or registration by delivery year for any reason;</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Total kilowatts of energy storage device deployment incentives awarded in the prior delivery year;</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>Total kilowatt-hours of energy storage device deployment incentives awarded in the prior delivery year;</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>Total dollars for energy storage device deployment incentives awarded in the prior delivery year;</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>Total kilowatts for energy storage device procurement mechanisms awarded in the prior delivery year;</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>Total kilowatt-hours for energy storage device procurement mechanisms awarded in the prior delivery year; and</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text>Total dollars for energy storage device procurement mechanisms awarded in the prior delivery year;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The following information regarding pre-existing energy storage devices:</text>
+        <para>
+          <num>(a)</num>
+          <text>Total number of pre-existing energy storage devices discovered in the prior delivery year;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Total kilowatts of pre-existing energy storage devices discovered in the prior delivery year; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Total kilowatt-hours of pre-existing energy storage devices discovered in the prior delivery</text>
+        </para>
+      </para>
+    </para>
+    <aftertext>year;</aftertext>
+    <para>
+      <num proof="done">(3)</num>
+      <text>Initiative administrative costs in the prior delivery year;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Cumulative totals that include data from previous annual reports for the information in §§A(1), (2), and (3) of this regulation;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Initiative assessments containing the following information:</text>
+      <para>
+        <num>(a)</num>
+        <text>Initiative assessment regarding evaluation, measurement and verification benefit/costs expected and benefit/costs received in the prior delivery year; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Initiative assessment regarding equity impacts of the initiative in the prior delivery year, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>Total number, total kilowatts and kilowatt-hours of energy storage devices providing benefits to underserved communities;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Percentage of number, total kilowatts and kilowatt-hours of energy storage devices providing benefits to underserved communities; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>A description of actions taken to promote or incentivize initiative participation in underserved communities and any metrics used for monitoring underserved community participation; and</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Cumulative totals that include data from previous annual reports for the information in §A(2)(a) and (b) of this regulation.</text>
+    </para>
+    <para>
+      <num proof="done">B.</num>
+      <text>Maryland Energy Storage Program Annual Report. The Maryland Energy Storage Program Manager shall annually each October 1 file a report with the Commission that summarizes the information in §§A(1) and (2) of this regulation.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-037-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Public Utilities Article, §§<cite doc="Md. Code" path="gpu|1-101">1-101</cite>, <cite doc="Md. Code" path="gpu|2-113">2-113</cite>, <cite doc="Md. Code" path="gpu|2-121">2-121</cite>, <cite doc="Md. Code" path="gpu|7-207">7-207</cite>, <cite doc="Md. Code" path="gpu|7-216">7-216</cite>, <cite doc="Md. Code" path="gpu|7-216">7-216</cite>.1, 7-219, 7–1001, and 7-1005, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30">Effective date: March 30, 2026 (52:6 Md. R. 292)</annotation>
+  </annotations>
+  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-037-F" type="History" display="false"/>
+</container>

@@ -50,7 +50,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The Department shall administer the Account in such a manner that allowances allocated to the Account or transferred to it from the Limited Industrial Exemption Set-aside Account, the Long Term Contract Set-aside Account, the Voluntary Renewable Set-aside Account, the Clean Generation Set-aside Account, or the CO&lt;sub2 Allowance Contingency Account may be offered for sale in CO&lt;sub2 allowance auctions as described in <cite path="|26.09.02">COMAR 26.09.02</cite>.</text>
+      <text>The Department shall administer the Account in such a manner that allowances allocated to the Account or transferred to it from the Long Term Contract Set-aside Account, the Voluntary Renewable Set-aside Account, the Clean Generation Set-aside Account, or the CO<sub>2</sub> Allowance Contingency Account may be offered for sale in CO<sub>2</sub> allowance auctions as described in <cite path="|26.09.02">COMAR 26.09.02</cite>.</text>
     </para>
     <para>
       <num>C.</num>
@@ -60,7 +60,9 @@
       <num>D.</num>
       <text>The Department shall use the proceeds it receives from the Fund for climate change programs.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-206-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -134,27 +136,27 @@
         <text>The Department shall include the following information in the auction notice for each auction:</text>
         <para>
           <num>(a)</num>
-          <text>The number of CO<sub>2</sub> allowances offered for sale at the auction, not including any CO<sub>2</sub> CCR allowances;</text>
+          <text>The number of CO<sub>2</sub> allowances offered for sale at the auction, not including any CO<sub>2</sub> CCR tier 1 or CO<sub>2</sub> CCR tier 2 allowances;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The number of CO<sub>2</sub> CCR allowances that will be offered for sale at the auction if the condition of <cite path="26|09|04|.06|B.|(2)|(a)">§B(2)(a) of this regulation</cite> is met;</text>
+          <text>The number of CO<sub> 2</sub> CCR tier 1 allowances that will be offered for sale at the auction if the condition of <cite path="26|09|04|.06|B.|(2)|(a)">§B(2)(a) of this regulation</cite> is met;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>The minimum reserve price for the auction;</text>
+          <text>The number of CO<sub> 2</sub> CCR tier 2 allowances that will be offered for sale at the auction if the condition of <cite path="26|09|04|.06|B.|(2)|(c)">§B(2)(c) of this regulation</cite> is met;</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>The CCR trigger price for the auction;</text>
+          <text>The minimum reserve price for the auction;</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>The maximum number of CO<sub>2</sub> allowances that may be withheld from sale at the auction if the condition of <cite path="26|09|04|.06|B.|(4)|(a)">§B(4)(a) of this regulation</cite> is met; and</text>
+          <text>The CCR tier 1 trigger price for the auction; and</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>The ECR trigger price for the auction.</text>
+          <text>The CCR tier 2 trigger price for the auction.</text>
         </para>
       </para>
       <para>
@@ -162,23 +164,51 @@
         <text>The Department or its agent shall follow these rules for the sale of CO<sub>2</sub> CCR allowances:</text>
         <para>
           <num>(a)</num>
-          <text>CO<sub>2</sub> CCR allowances shall only be sold at an auction in which total demand for allowances, above the CCR trigger price, exceeds the number of CO<sub>2</sub> allowances available for purchase at the auction, not including any CO<sub>2</sub> CCR allowances;</text>
+          <text>CO<sub>2</sub> CCR tier 1 allowances shall only be sold at an auction in which total demand for allowances, above the CCR tier 1 trigger price, exceeds the number of CO<sub>2</sub> allowances available for purchase at the auction, not including any CO<sub>2</sub> CCR tier 1 or tier 2 allowances;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>If the condition of <cite path="26|09|04|.06|B.|(2)|(a)">§B(2)(a) of this regulation</cite> is met at an auction, then the number of CO<sub>2</sub> CCR allowances offered for sale by the Department at the auction shall be equal to the number of CO<sub>2</sub> CCR allowances in the Consumer Energy Efficiency Account at the time of the auction;</text>
+          <text>If the condition of <cite path="26|09|04|.06|B.|(2)|(a)">§B(2)(a) of this regulation</cite> is met at an auction, then the number of CO<sub>2</sub> CCR tier 1 allowances offered for sale by the Department at the auction shall be equal to the number of CO<sub>2</sub> CCR tier 1 allowances in the Consumer Energy Efficiency Account at the time of the auction;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>After all of the CO<sub>2</sub> CCR allowances in the Consumer Energy Efficiency Account have been sold in a given calendar year, no additional CO<sub>2</sub> CCR allowances will be offered for sale at any auction for the remainder of that calendar year, even if the condition of <cite path="26|09|04|.06|B.|(2)|(a)">§B(2)(a) of this regulation</cite> is met at an auction;</text>
+          <text>CO<sub>2</sub> CCR tier 2 allowances shall only be sold at an auction in which total demand for allowances, above the CCR tier 2 trigger price, exceeds the number of CO<sub>2</sub> allowances available for purchase at the auction, not including any CO<sub>2</sub> CCR tier 2 allowances;</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>At an auction in which CO<sub>2</sub> CCR allowances are sold, the reserve price for the auction shall be the CCR trigger price; and</text>
+          <text>If the condition of <cite path="26|09|04|.06|B.|(2)|(c)">§B(2)(c) of this regulation</cite> is met at an auction, then the number of CO<sub> 2</sub> CCR tier 2 allowances offered for sale by the Department at the auction shall be equal to the number of CO<sub> 2</sub> CCR tier 2 allowances in the Consumer Energy Efficiency Account at the time of the auction;</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>If the condition of <cite path="26|09|04|.06|B.|(2)|(a)">§B(2)(a) of this regulation</cite> is not satisfied, no CO<sub>2</sub> CCR allowances shall be offered for sale at the auction, and the reserve price for the auction shall be equal to the minimum reserve prices.</text>
+          <text>After all of the CO<sub>2</sub> CCR tier 1 allowances in the Consumer Energy Efficiency Account have been sold in a given calendar year, no additional CO<sub>2</sub> CCR tier 1 allowances will be offered for sale at any auction for the remainder of that calendar year, even if the condition of <cite path="26|09|04|.06|B.|(2)|(a)">§B(2)(a) of this regulation</cite> is met at an auction;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>After all of the CO<sub>2</sub> CCR tier 2 allowances in the Consumer Energy Efficiency Account have been sold in a given calendar year, no addition CO<sub>2 </sub>CCR allowances will be offered for sale at any auction for the remainder of that calendar year, even if the condition of <cite path="26|09|04|.06|B.|(2)|(c)">§B(2)(c) of this regulation</cite> is met at an auction;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>At an auction in which CO<sub>2</sub> CCR tier 1 allowances are sold, but no CO<sub>2</sub> CCR tier 2 allowances are sold, the reserve price for the auction shall be the CCR tier 1 trigger price;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>At an auction in which CO<sub> 2</sub> CCR tier 2 allowances are sold, the reserve price for the auction shall be the CCR tier 2 trigger price;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>If the condition of <cite path="26|09|04|.06|B.|(2)|(a)">§B(2)(a) of this regulation</cite> is not satisfied, no CO<sub>2</sub> CCR tier 1 or CO<sub>2</sub> CCR tier 2 allowances shall be offered for sale at the auction, and the reserve price for the auction shall be equal to the minimum reserve prices; and</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>If the condition of <cite path="26|09|04|.06|B.|(2)|(c)">§B(2)(c) of this regulation</cite> is not satisfied, no CO<sub> 2</sub> CCR tier 2 allowances shall be offered for sale at the auction, and the reserve price for the auction shall be determined as follows:</text>
+          <para>
+            <num>(i)</num>
+            <text>If the condition of <cite path="26|09|04|.06|B.|(2)|(a)">§B(2)(a) of this regulation</cite> is met, the reserve price shall be equal to the CCR tier 1 trigger price; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If the condition of <cite path="26|09|04|.06|B.|(2)|(a)">§B(2)(a) of this regulation</cite> is not met, the reserve price shall be equal to the minimum reserve price.</text>
+          </para>
         </para>
       </para>
       <para>
@@ -193,24 +223,10 @@
           <text>If the total demand for allowances at an auction is less than or equal to the total number of allowances made available for sale in that auction, then the auction clearing price for the auction shall be the reserve price.</text>
         </para>
       </para>
-      <para>
-        <num>(4)</num>
-        <text>The Department or its agent shall follow these rules for the withholding of CO2 ECR allowances from an auction:</text>
-        <para>
-          <num>(a)</num>
-          <text>CO2 ECR allowances shall only be withheld from an auction if the demand for allowances would result in an auction clearing price that is less than the ECR trigger price prior to the withholding from the auction of any ECR allowances;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>If the condition in <cite path="26|09|04|.06|B.|(4)|(a)">§B(4)(a) of this regulation</cite> is met at an auction, then the maximum number of CO<sub>2</sub> ECR allowances that may be withheld from that auction will be equal to the quantity described in <cite path="26.09.02.03|D.|(1)">COMAR 26.09.02.03D(1)</cite> minus the total quantity of CO<sub>2</sub> ECR allowances that have been withheld from any prior auction in that calendar year; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Any CO<sub>2</sub> ECR allowances withheld from an auction will be transferred into the Emission containment reserve account.</text>
-        </para>
-      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-206-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -559,6 +575,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-05-03"><cite path="|26|09|04|.08|B.">Regulation .08B</cite> amended as an emergency provision effective December 28, 2009 (37:4 Md. R. 336); amended permanently effective May 3, 2010 (37:9 Md. R. 674)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-05-03"><cite path="|26|09|04|.09|A.">Regulation .09A</cite> amended as an emergency provision effective December 28, 2009 (37:4 Md. R. 336); amended permanently effective May 3, 2010 (37:9 Md. R. 674)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-01-06" discontinuity="true">Chapter revised effective January 6, 2013 (40:26 Md. R. 2165)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-12-31"><cite path="|26|09|04|.06|B.">Regulation .06B</cite> amended effective December 31, 2018 (45:26 Md. R. 1249)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|26|09|04|.03|B.">Regulation .03B</cite> amended effective March 30, 2026 (53:6 Md. R. 292)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|26|09|04|.06|B.">Regulation .06B</cite> amended effective December 31, 2018 (45:26 Md. R. 1249); March 30, 2026 (53:6 Md. R. 292)</annotation>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-206-F-I" type="History" display="false"/>
   </annotations>
 </container>

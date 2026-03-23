@@ -144,25 +144,39 @@
     </para>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="08|18|21|.05">
     <prefix>Regulation</prefix>
     <num>.05</num>
     <heading>Potomac River Minimum Wake Zones.</heading>
     <para>
       <num>A.</num>
-      <text>Chicamuxen Creek is a tributary of the Potomac River located in Charles County, encompassing the area beginning at a point, at or near Lat. 38° 32.557'  N., Long. 77° 13.765' W., then running 347° (True) to a point, at or near Lat. 38° 32.620'  N., Long. 77° 13.783' W., and running to the head of the creek. This area has a minimum wake zone from March 1 through June 15.</text>
+      <text>Chicamuxen Creek is a tributary of the Potomac River located in Charles County, encompassing the area beginning at a point, at or near Lat. 38° 32.557'N., Long. 77° 13.765' W., then running 347° (True) to a point, at or near Lat. 38° 32.620'N., Long. 77° 13.783' W., and running to the head of the creek. This area has a minimum wake zone from March 1 through June 15.</text>
     </para>
     <para>
       <num>B.</num>
       <text>Pomonkey Creek is a tributary of the Potomac River located in Charles County, encompassing the area beginning at a point, at or near Lat. 38° 38.050' N., Long. 77º 6.3650' W., then running 299° (True) to a point, at or near Lat. 38° 38.062' N., Long. 77° 6.3920' W., and running to the head of the creek. This area has a minimum wake zone from March 1 through June 15.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>C.</num>
+      <text>Westmoreland State Park.</text>
+      <para>
+        <num>(1)</num>
+        <text>Area. All of the waters of the Potomac River enclosed by a line beginning at a point at or near Lat. 38°10.447' N., Long. 76°52.746' W., then running 34° True to a point defined by Lat. 38°10.495' N., Long. 76°52.705' W., then running 113° True to a point defined by Lat. 38°10.340' N., Long. 76°52.248' W., then running 204° True to a point at or near Lat. 38°10.295' N., Long. 76°52.273' W., then running along the shore to the point of beginning.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The area described in <cite path="08|18|21|.05|C.|(1)">§C(1) of this regulation</cite> is a minimum wake zone during the boating season.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-253-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.06</num>
     <heading>Woodrow Wilson Bridge.</heading>
-    <text>All of the Maryland waters of the Potomac River, downstream of the Woodrow Wilson (I-95) Bridge, south of a line beginning at a point on the north side of the Woodrow Wilson (I-95) Bridge, at or near Lat. 38° 47.600'  N., Long. 77° 2.263' W., then running 88° (True) to a point, at or near Lat. 38° 47.617' N., Long. 77°1.532' W., and upstream of a line beginning at the Maryland-District of Columbia Line Pile "DC1A", at or near Lat. 38° 47.480' N.,, Long. 77° 2.360' W., then running 89° (True) to a point on the Maryland shore, at or near Lat. 38° 47.495'  N., Long. 77°1.448' W. This area has a 6-knot speed limit all year.</text>
+    <text>All of the Maryland waters of the Potomac River, downstream of the Woodrow Wilson (I-95) Bridge, south of a line beginning at a point on the north side of the Woodrow Wilson (I-95) Bridge, at or near Lat. 38° 47.600'  N., Long. 77° 2.263' W., then running 88° (True) to a point, at or near Lat. 38° 47.617' N., Long. 77°1.532' W., and upstream of a line beginning at the Maryland-District of Columbia Line Pile “DC1A”, at or near Lat. 38° 47.480' N.,, Long. 77° 2.360' W., then running 89° (True) to a point on the Maryland shore, at or near Lat. 38° 47.495'  N., Long. 77°1.448' W. This area has a 6-knot speed limit all year.</text>
     <annotations/>
   </section>
   <section cache:ref-path="08|18|21|.07">
@@ -207,9 +221,11 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-05-25"><cite path="|08|18|21|.04|B.">Regulation .04B</cite> amended effective March 22, 2010 (37:6 Md. R. 477); May 25, 2015 (42:10 Md. R. 684)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-05-24"><cite path="|08|18|21|.05">Regulation .05</cite> adopted effective May 24, 1993 (20:10 Md. R. 850)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-07-07"><cite path="|08|18|21|.05">Regulation .05</cite> amended effective July 7, 2014 (41:13 Md. R. 751)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|08|18|21|.05|C.">Regulation .05C</cite> adopted effective February 16, 2026 (53:3 Md. R. 121)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-04-29"><cite path="|08|18|21|.06">Regulation .06</cite> adopted as an emergency provision effective January 31, 2002 (29:4 Md. R. 411); adopted permanently effective April 29, 2002 (29:8 Md. R. 697)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-07-07"><cite path="|08|18|21|.06">Regulation .06</cite> amended effective July 7, 2014 (41:13 Md. R. 751)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-12-22"><cite path="|08|18|21|.07">Regulation .07</cite> adopted as an emergency provision effective December 22, 2020 (48:2 Md. R. 46); emergency provision withdrawn (48:7 Md. R. 260)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-05-31"><cite path="|08|18|21|.07">Regulation .07</cite> adopted effective May 31, 2021 (48:11 Md. R. 428)</annotation>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-253-F" type="History" display="false"/>
   </annotations>
 </container>

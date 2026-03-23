@@ -86,7 +86,7 @@
         <text>Cannabis agent fees:</text>
         <para>
           <num>(a)</num>
-          <text>Registration fee to be paid every 2 years — $50; and</text>
+          <text>Registration fee to be paid every 2 years —$25; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -98,11 +98,11 @@
         <text>Independent testing laboratory fees:</text>
         <para>
           <num>(a)</num>
-          <text>Laboratory registration fee to be paid every 2 years — $5,000;</text>
+          <text>Laboratory registration fee to be paid every 2 years — $500;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Employee registration fee to be paid every 2 years — $50; and</text>
+          <text>Employee registration fee to be paid every 2 years —$25; and</text>
         </para>
         <para>
           <num>(c)</num>
@@ -118,7 +118,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Agent registration fee to be paid every 2 years — $50; and</text>
+          <text>Agent registration fee to be paid every 2 years —$25; and</text>
         </para>
         <para>
           <num>(c)</num>
@@ -141,7 +141,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>Academic research representative registration fee — $50; and</text>
+            <text>Academic research representative registration fee —$25; and</text>
           </para>
           <para>
             <num>(iv)</num>
@@ -161,7 +161,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>Research and development representative registration fee — $50; and</text>
+            <text>Research and development representative registration fee — $25; and</text>
           </para>
           <para>
             <num>(iv)</num>
@@ -256,15 +256,7 @@
     </para>
     <para>
       <num>F.</num>
-      <text>Edible cannabis product permit fees:</text>
-      <para>
-        <num>(1)</num>
-        <text>Application fee — $1,000; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Annual permit fee — $500.</text>
-      </para>
+      <text>Edible cannabis product permit application fee —$1,000.</text>
     </para>
     <para>
       <num>G.</num>
@@ -298,7 +290,9 @@
       <num>H.</num>
       <text>At its discretion, the Administration may waive or reduce the fees established in this regulation.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Alcoholic Beverages and Cannabis Article, §§36-202, 36-205, and 36-403, Annotated Code of Maryland</annotation>
@@ -306,6 +300,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-01">Regulations <cite path="|14|17|21|.01">.01</cite>—<cite path="|14|17|21|.02">.02</cite> adopted as an emergency provision effective July 1, 2023 (50:14 Md. R. 559); emergency status expired June 30, 2024</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-07">Regulations <cite path="|14|17|21|.01">.01</cite>—<cite path="|14|17|21|.02">.02</cite> adopted as an emergency provision effective June 7, 2024 (51:14 Md. R. 676)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22">Regulations <cite path="|14|17|21|.01">.01</cite>—<cite path="|14|17|21|.02">.02</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|14|17|21|.02|C.">Regulation .02C</cite>, G amended effective May 26, 2025 (52:10 Md. R. 436)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|21|.02|C.">Regulation .02C</cite> amended effective May 26, 2025 (52:10 Md. R. 436); March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|21|.02|F.">Regulation .02F</cite> amended effective March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|14|17|21|.02|G.">Regulation .02G</cite> amended effective May 26, 2025 (52:10 Md. R. 436)</annotation>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
   </annotations>
 </container>

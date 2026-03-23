@@ -1,0 +1,527 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>General Provisions</heading>
+  <section cache:ref-path="09|42|01|.01">
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this subtitle, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Administration” means the Maryland Insurance Administration.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Adverse determination” means a disqualification of an individual or denial, in full or in part, of Family and Medical Leave Insurance (FAMLI) leave or benefits to a claimant made under the Division’s reconsideration process.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Anchor date” has the meaning as defined in <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-101(a-2), Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Application year” means the 12-month period beginning on the Sunday of the calendar week of which FAMLI leave begins.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Assistant Secretary” means the Assistant Secretary for the FAMLI Division established by <cite path="09.42.01.02">COMAR 09.42.01.02</cite>.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Business day” means a day that the State is open for the transaction of business and begins at 12 a.m. and ends at 11:59.59 p.m.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Carrier” means an insurer authorized to sell insurance by the Administration.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Claim” means an application for FAMLI leave and benefits under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-101 et seq., Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Claimant” means an individual who applies for FAMLI leave and benefits under this subtitle.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Commercially insured EPIP” means an EPIP in which the employer purchases an insurance policy from an insurance company approved to sell paid FAMLI products by the Administration and the benefits related to the plan are administered through the insurance policy.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>“Continuing treatment” means any one or more of the following.</text>
+        <para>
+          <num>(a)</num>
+          <text>Incapacity and treatment.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Pregnancy or prenatal care. Any period of incapacity due to pregnancy, childbirth, miscarriage or stillbirth, or period of absence for prenatal care.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Chronic conditions. Any period of incapacity or treatment for the incapacity due to a chronic serious health condition that:</text>
+          <para>
+            <num>(i)</num>
+            <text>Requires periodic visits (defined as at least twice a year) for treatment ordered by a licensed health care provider;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Continues over an extended period of time (including recurring episodes of a single underlying condition); and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>May cause episodic rather than a continuing period of incapacity (e.g., asthma, diabetes, epilepsy, etc.).</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Permanent or Long-Term Conditions. A period of incapacity which is permanent or long-term due to a condition that treatment may not be effective and requires continuing supervision, but need not be receiving active treatment by, a licensed health care provider.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Conditions Requiring Multiple Treatments. Any period of absence to receive multiple treatments (including any period of recovery therefrom) ordered by a licensed health care provider, for:</text>
+          <para>
+            <num>(i)</num>
+            <text>Restorative surgery after an accident or other injury; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A condition that would likely result in a period of incapacity of more than 3 full, consecutive days in the absence of medical intervention or treatment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Absences attributable to incapacity under §B(11)(b) or (c) of this regulation qualify for FAMLI leave even though the claimant or the family member does not receive treatment from a licensed health care provider during the absence, and even if the absence does not last more than 3 full, consecutive days.</text>
+        </para>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Contribution” means the payments made to the Division under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-601 et seq., Annotated Code of Maryland and Chapter 2 of this subtitle.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>“Covered employee” means an employee who has worked at least 680 hours performing qualified employment located in the State over the four most recently completed calendar quarters for which quarterly reports have been required immediately preceding the anchor date.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“Covered individual” means a covered employee.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>“Department” means the Maryland Department of Labor.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>“Deployment” has the meaning as defined in <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-101(g), Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>“Division” means the FAMLI Division established by <cite path="09.42.01.02">COMAR 09.42.01.02</cite>.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>“Domestic partner” means the person with whom someone is in a domestic partnership.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>“Domestic partnership” means a relationship between two individuals who:</text>
+        <para>
+          <num>(a)</num>
+          <text>Are at least 18 years old;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Are not related to each other by blood or marriage within 4 degrees of consanguinity under civil law rule;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Are not married or in a civil union or a relationship described in this subsection with another individual; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Agree to be in a relationship of mutual interdependence in which each individual contributes to the maintenance and support of the other individual and the relationship, even if both individuals are not required to contribute equally to the relationship.</text>
+        </para>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>Employee.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Employee” means an individual who performs work for compensation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Employee” does not mean an individual who meets the following requirements:</text>
+          <para>
+            <num>(i)</num>
+            <text>The individual who performs the work is free from control and direction over its performance both in fact and under a contract;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The individual customarily is engaged in an independent business or occupation of the same nature as that involved in the work; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The work is outside of the usual course of business of the person for whom the work is performed or it is performed outside of any place of business of the person for whom the work is performed.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>Employer.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Employer” means a person or governmental entity that employs at least one individual who performs qualified employment.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Employer” does not mean:</text>
+          <para>
+            <num>(i)</num>
+            <text>An individual who is the sole owner of a sole proprietorship, limited liability company, C Corporation or S Corporation; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Is the only individual employed by the sole proprietorship, limited liability company, C corporation or S Corporation.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>“EPIP administrator” means:</text>
+        <para>
+          <num>(a)</num>
+          <text>An employer self-administering an approved self-insured EPIP;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A third-party administrator or payroll company acting on behalf of an employer to provide administration and oversight of an approved self-insured EPIP; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A carrier administering an approved commercially insured EPIP.</text>
+        </para>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>“Equivalent-private insurance plan (EPIP)” means a Division approved commercially insured or self-insured insurance plan provided by an employer to employees that meets or exceeds the State plan, whether it is administered by the employer, a third-party administrator, or a carrier.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>“The Family and Medical Leave Act (FMLA)” means the Family and Medical Leave Act of 1993, 29 U.S.C. §§2601-2654.</text>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>“Family leave” means leave used:</text>
+        <para>
+          <num>(a)</num>
+          <text>To care for or bond with a child of the covered individual during the first year after the child’s birth;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>During the process through which a child is being placed with the covered individual through foster care, kinship care, or adoption and to care for or bond with the child during the first year after the placement;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>To care for a family member with a serious health condition; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>To care for a service member with a serious health condition for whom the covered individual is next of kin.</text>
+        </para>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>“Family member” means:</text>
+        <para>
+          <num>(a)</num>
+          <text>A biological child, an adopted child, a foster child, or a stepchild of the covered individual;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A child for whom the covered individual has legal or physical custody or guardianship;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A child for whom the covered individual stands in loco parentis, regardless of the child’s age;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A biological parent, an adoptive parent, a foster parent, or a stepparent of the covered individual or of the covered individual’s spouse;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The legal guardian of the covered individual or the ward of the covered individual or of the covered individual’s spouse;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>An individual who acted as a parent or stood in loco parentis to the covered individual or the covered individual’s spouse when the covered individual or the covered individual’s spouse was a minor;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The spouse of the covered individual;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>A domestic partner of the covered individual;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>A biological grandparent, an adopted grandparent, a foster grandparent, or a stepgrandparent of the covered individual;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>A biological grandchild, an adopted grandchild, a foster grandchild, or a stepgrandchild of the covered individual; or</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>A biological sibling, an adopted sibling, a foster sibling, or a stepsibling of the covered individual.</text>
+        </para>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text>“FAMLI benefits” means the money payable under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-101, et seq., Annotated Code of Maryland, and this subtitle.</text>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text>“FAMLI leave” means family leave, medical leave, and/or qualified exigency leave that a covered individual is entitled to under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-101 et seq., Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text>“Incapacity” means the inability to perform at least one essential job function, attend school, or perform regular daily activities.</text>
+      </para>
+      <para>
+        <num>(30)</num>
+        <text>Incapacity and Treatment.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Incapacity and treatment” means a period of incapacity of more than 3 full, consecutive days, and any subsequent treatment or period of incapacity relating to the same condition, that also involves:</text>
+          <para>
+            <num>(i)</num>
+            <text>Treatment two or more times, within 30 days of the first day of incapacity, unless extenuating circumstances exist, by a licensed health care provider; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Treatment ordered by a licensed health care provider on at least one occasion, which results in a regimen of continuing treatment, including home care administered by a competent individual under the direction of a licensed health care provider.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The requirement in <cite path="09|42|01|.01|B.|(30)|(a)|(i)">§B(30)(a)(i) of this regulation</cite> for treatment by a licensed health care provider means an in-person visit or synchronous tele-health appointment with a licensed health care provider.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The first (or only) in-person treatment visit or synchronous tele-health appointment shall take place within 7 days of the first day of incapacity.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Whether additional treatment visits or a regimen of continuing treatment is necessary within the 30-day period shall be determined by the licensed health care provider.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The term extenuating circumstances in <cite path="09|42|01|.01|B.|(30)|(a)|(i)">§B(30)(a)(i) of this regulation</cite> means circumstances beyond the claimant’s control that prevent the follow-up visit from occurring as planned by the licensed health care provider.</text>
+        </para>
+      </para>
+      <para>
+        <num>(31)</num>
+        <text>“Inpatient care” means an overnight stay in a hospital, as defined in Health General Article, §19-301, Annotated Code of Maryland, or related institution, as defined in Health General Article, §19-301, Annotated Code of Maryland, or a hospice facility, as defined in Health General Article, §19-901, Annotated Code of Maryland, or any subsequent treatment in connection with inpatient care.</text>
+      </para>
+      <para>
+        <num>(32)</num>
+        <text>“Kinship care” means informal kinship care as stated in the <cite doc="Md. Code" path="ged|4-122">Education Article, §4-122</cite>.1(a)(2), Annotated Code of Maryland and formal kinship care as stated in the <cite doc="Md. Code" path="gfl|5-501">Family Law Article, §5-501(e), Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(33)</num>
+        <text>Licensed Health Care Provider.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Licensed health care provider” means a doctor of medicine or osteopathy who is authorized to practice medicine or surgery in a state and performing within the scope of their practice as defined under the state’s law.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Licensed health care provider” means a podiatrist, dentist, clinical psychologist, optometrist, or chiropractor (limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X ray to exist) authorized to practice in a state and performing within the scope of their practice as defined under the state’s law.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Licensed health care provider” means a nurse practitioner, nurse midwife, clinical social worker, or physician assistant authorized to practice in a state and performing within the scope of their practice as defined under the state’s law.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>“Licensed health care provider” means any health care provider listed above who practices in a country other than the United States, who is authorized to practice in accordance with the law of that country, and who is performing within the scope of their practice as defined under such law.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The phrase “authorized to practice in a state” as used in this section means that the provider must be authorized to diagnose and treat physical or mental health conditions.</text>
+        </para>
+      </para>
+      <para>
+        <num>(34)</num>
+        <text>“Maximum weekly benefit amount” means the amount established under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-703, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(35)</num>
+        <text>“Medical leave” means leave taken because the covered individual has a serious health condition that results in the covered individual being unable to perform the functions of the covered individual’s position.</text>
+      </para>
+      <para>
+        <num>(36)</num>
+        <text>“Qualified employment” means the provision of services localized within the State under <cite path="09.42.02.04">COMAR 09.42.02.04</cite> by an employee to an employer.</text>
+      </para>
+      <para>
+        <num>(37)</num>
+        <text>“Qualified exigency leave” means leave taken when a qualifying exigency as defined in <cite doc="Md. Code" path="gle|8">Labor and Employment Article §8</cite>.3-101(m), Annotated Code of Maryland arises out of the deployment of a service member who is a family member of the covered individual.</text>
+      </para>
+      <para>
+        <num>(38)</num>
+        <text>“Secretary” means the Secretary of Labor.</text>
+      </para>
+      <para>
+        <num>(39)</num>
+        <text>“Self-insured EPIP” means an EPIP in which the employer offers a private plan for which the employer assumes all financial risk associated with the benefits and administration of the EPIP, whether it is administered by the employer or a third-party administrator.</text>
+      </para>
+      <para>
+        <num>(40)</num>
+        <text>“Serious health condition” means an illness, injury, impairment, or physical or mental condition of a claimant or their family member that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Requires inpatient care;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Requires continuing treatment by a licensed health care provider; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Involves the donation of a body part, organ, or tissue, including preoperative or diagnostic services, surgery, post-operative treatment, and recovery.</text>
+        </para>
+      </para>
+      <para>
+        <num>(41)</num>
+        <text>“Service member’s next of kin” means the nearest blood relative other than the service member’s spouse, parent, son, or daughter, in the following order of priority: blood relatives who have been granted legal custody of the service member by court decree or statutory provisions, brothers and sisters, grandparents, aunts and uncles, and first cousins, unless the service member has specifically designated in writing another blood relative as their nearest blood relative for purposes of military caregiver leave under FMLA.</text>
+        <para>
+          <num>(a)</num>
+          <text>When no such designation is made, and there are multiple family members with the same level of relationship to the service member, all such family members shall be considered the service member’s next of kin and may take FAMLI leave to provide care to the service member, either consecutively or simultaneously.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>When such designation has been made, the designated individual shall be deemed to be the service member’s only next of kin.</text>
+        </para>
+      </para>
+      <para>
+        <num>(42)</num>
+        <text>“State plan” means the State-provided FAMLI plan including the fund from which benefits are paid.</text>
+      </para>
+      <para>
+        <num>(43)</num>
+        <text>“Treatment” includes, with the exception of routine physical examinations, eye examinations, or dental examinations, examinations to determine if a serious health condition exists and evaluations of a serious health condition.</text>
+      </para>
+      <para>
+        <num>(44)</num>
+        <text>“Wages” has the meaning as defined in <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-101(r), Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>General Regulations.</heading>
+    <para>
+      <num>A.</num>
+      <text>There is a FAMLI Division within the Department.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The FAMLI Division shall administer the FAMLI program.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Assistant Secretary has been delegated by the Secretary powers and duties reasonable and proper for the administration of <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-101, et seq., Annotated Code of Maryland and this subtitle.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Required Templates and Forms.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Division may mandate the use of approved templates and forms by EPIPs, employers, and claimants including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Employer notice to employee templates;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Claims:</text>
+        <para>
+          <num>(a)</num>
+          <text>Claim application form;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Certification of qualifying event forms;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Proof of relationship template;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Good cause exemption form; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Intermittent leave use template; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Dispute Resolution:</text>
+        <para>
+          <num>(a)</num>
+          <text>Request forms;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Reconsideration scheduling template;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Decision templates; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Good cause exemption form.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Division shall make mandated templates and forms available for download from its website.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Any changes to the fields on the templates or forms mandated by the Division shall be provided to the Division no less than 30 days before the changed template or form would go into effect.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Labor and Employment Article, §§8.3-101, 401, 402 and 403, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30">Effective date: March 30, 2026 (53:6 Md. R. 289)</annotation>
+  </annotations>
+  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+</container>

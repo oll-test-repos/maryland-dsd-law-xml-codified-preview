@@ -2,13 +2,15 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>03</num>
-  <heading>Grant Programs for the Law Enforcement Cadet Apprenticeship Program and the Apprenticeship Career Training Pilot Program for Formerly Incarcerated Individuals</heading>
+  <heading>Grant Programs for the Public Safety Apprenticeship Program and the Apprenticeship Career Training Pilot Program for Formerly Incarcerated Individuals<annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Purpose.</heading>
-    <text>These regulations prescribe the policies, procedures, and authorizations for administering the Law Enforcement Cadet Apprenticeship Program and the Apprenticeship Career Training Pilot Program for Formerly Incarcerated Individuals.</text>
-    <annotations/>
+    <text>These regulations prescribe the policies, procedures, and authorizations for administering the Public Safety Apprenticeship Program and the Apprenticeship Career Training Pilot Program for Formerly Incarcerated Individuals.</text>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -43,18 +45,20 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>“Law enforcement agency” has the meaning set forth in <cite doc="Md. Code" path="gle|11-603">Labor and Employment Article, §11-603(a)(3), Annotated Code of Maryland</cite>.</text>
+        <text>“Program” means the grant programs for the Public Safety Apprenticeship Program and the Apprenticeship Career Training Pilot Program for Formerly Incarcerated Individuals.</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>“Program” means the grant programs for the Law Enforcement Cadet Apprenticeship Program and the Apprenticeship Career Training Pilot Program for Formerly Incarcerated Individuals.</text>
+        <text>“Public safety agency” has the meaning set forth in <cite doc="Md. Code" path="gle|11-603">Labor and Employment Article, §11-603(a)(4), Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(8)</num>
         <text>“Secretary” means the Secretary of Labor.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -115,13 +119,15 @@
     <heading>Retention of Grant Records.</heading>
     <para>
       <num>A.</num>
-      <text>Grantees shall retain and maintain all records regarding the application for at least 3 years after the final disbursement of grant funds.</text>
+      <text>Grantees shall retain and maintain all records regarding the application for at least 3 years after the final disbursement of grnt funds.</text>
     </para>
     <para>
       <num>B.</num>
       <text>The records shall be open to the inspections of representatives of the Department during reasonable working hours.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -140,9 +146,18 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.08</num>
-    <heading>Amount of Law Enforcement Cadet Apprenticeship Program Grant.</heading>
-    <text>The maximum amount that a Law Enforcement Agency may be awarded during a fiscal year may not exceed $400,000.</text>
-    <annotations/>
+    <heading>Amount of Public Safety Apprenticeship Program Grant.</heading>
+    <para>
+      <num>A.</num>
+      <text>The maximum amount that a Public Safety Agency may be awarded for a Start Up grant may not exceed $200,000.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The maximum amount that a Public Safety Agency may be awarded for a Stabilization grant may not exceed $5,000 per registered apprentice.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -161,5 +176,9 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Labor and Employment Article, §§<cite doc="Md. Code" path="gle|11-603">11-603</cite> and <cite doc="Md. Code" path="gle|11-604">11-604</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-04-19">Effective date: April 19, 2021 (48:8 Md. R. 309)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|09|37|03|.01">Regulation .01</cite> amended effective March 30, 2026 (53:6 Md. R. 289)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|09|37|03|.02|B.">Regulation .02B</cite> amended effective March 30, 2026 (53:6 Md. R. 289)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|09|37|03|.08">Regulation .08</cite> amended effective March 30, 2026 (53:6 Md. R. 289)</annotation>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" type="History" display="false"/>
   </annotations>
 </container>

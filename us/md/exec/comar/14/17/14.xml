@@ -539,7 +539,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>The Administration may fine, suspend, restrict, revoke, or otherwise sanction any cannabis licensee or registrant for:</text>
+      <text>The Administration may fine, suspend, restrict, revoke, or otherwise sanction any cannabis licensee, registrant, or agent for:</text>
       <para>
         <num>(1)</num>
         <text>Any violation of Alcoholic Beverages and Cannabis Article, Title 36, Annotated Code of Maryland;</text>
@@ -573,7 +573,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|17|14|.05">
     <prefix>Regulation</prefix>
@@ -870,6 +872,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-07">Regulations <cite path="|14|17|14|.01">.01</cite>—<cite path="|14|17|14|.06">.06</cite> adopted as an emergency provision effective June 7, 2024 (51:14 Md. R. 676)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22">Regulations <cite path="|14|17|14|.01">.01</cite>—<cite path="|14|17|14|.06">.06</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|14|.02">Regulation .02</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|14|.04|D.">Regulation .04D</cite> amended effective March 16, 2026 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|14|.06|B.">Regulation .06B</cite>, D amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
   </annotations>
 </container>

@@ -85,7 +85,15 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>In a primary election, the party affiliation the voter indicated on the provisional ballot application is the party affiliation of the voter’s record;</text>
+        <text>In a primary election:</text>
+        <para>
+          <num>(a)</num>
+          <text>The party affiliation indicated by the voter on the provisional ballot application is the party affiliation of the voter’s record; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The party affiliation indicated by the voter on the provisional ballot application is not the party affiliation of the voter’s record and the ballot has a nonpartisan Board of Education contest.</text>
+        </para>
       </para>
       <para>
         <num>(5)</num>
@@ -109,18 +117,20 @@
       <text>Full or Partial Count of Provisional Ballot. If the local board accepts the provisional ballot application, the local board shall count:</text>
       <para>
         <num>(1)</num>
-        <text>The entire provisional ballot if the ballot is the correct ballot style for the voter based on the address on the provisional ballot application; or</text>
+        <text>The entire provisional ballot if the ballot is the correct ballot style for the voter based on the address and party on the provisional ballot application; or</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Only votes for the specific contests for which the voter is entitled to vote based on the address on the provisional ballot application, if the ballot is not the correct ballot style for the voter based on the address on the provisional ballot application.</text>
+        <text>Only votes for the specific contests for which the voter is entitled to vote based on the address and party on the provisional ballot application, if the ballot is not the correct ballot style for the voter based on the address on the provisional ballot application.</text>
       </para>
     </para>
     <para>
       <num>E.</num>
       <text>Rejection of Provisional Ballot Application. If the local board does not accept the provisional ballot application as provided in §§B and C of this regulation, the local board shall reject the provisional ballot application.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -182,8 +192,10 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-11-19">Regulations <cite path="|33|16|05|.05">.05</cite>—<cite path="|33|16|05|.07">.07</cite> recodified to Regulations <cite path="|33|16|05|.06">.06</cite>—<cite path="|33|16|05|.08">.08</cite> and new Regulation .05 adopted effective November 19, 2007 (34:23 Md. R. 2027)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-10-19" discontinuity="true">Chapter revised and recodified from <cite path="|33.16.04">COMAR 33.16.04</cite> effective October 19, 2009 (36:21 Md. R. 1595)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|33|16|05|.02|A.">Regulation .02A</cite> amended effective August 19, 2013 (40:16 Md. R. 1347)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-02"><cite path="|33|16|05|.03|C.">Regulation .03C</cite> amended effective June 25, 2012 (39:12 Md. R. 746); February 29, 2016 (43:4 Md. R. 338); November 23, 2017 (44:23 Md. R. 1079); December 2, 2019 (46:24 Md. R. 1104)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|33|16|05|.03|C.">Regulation .03C</cite> amended effective June 25, 2012 (39:12 Md. R. 746); February 29, 2016 (43:4 Md. R. 338); November 23, 2017 (44:23 Md. R. 1079); December 2, 2019 (46:24 Md. R. 1104); March 2, 2026 (53:4 Md. R. 186)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|33|16|05|.03|D.">Regulation .03D</cite> amended effective March 2, 2026 (53:4 Md. R. 186)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-10"><cite path="|33|16|05|.04|A.">Regulation .04A</cite> amended effective November 23, 2017 (44:23 Md. R. 1079); July 10, 2023 (50:13 Md. R. 514)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-06-25"><cite path="|33|16|05|.05|B.">Regulation .05B</cite> amended effective June 25, 2012 (39:12 Md. R. 746)</annotation>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
   </annotations>
 </container>

@@ -377,49 +377,65 @@
         <num>(3)</num>
         <text>An Administration investigator is not subject to the visitor requirements in this section.</text>
       </para>
+      <para>
+        <num>(4)</num>
+        <text>A firefighter, a rescue squad member, law enforcement officer, or emergency medical services personnel who is actively responding to a call for emergency services is not subject to §N(1)(a)—(c) of this regulation.</text>
+      </para>
     </para>
     <para>
       <num>O.</num>
-      <text>To provide drive-through dispensing services, a standard dispensary shall:</text>
+      <text>Drive-through or Walk-up Dispensing Services.</text>
       <para>
         <num>(1)</num>
-        <text>Dispense through a window or other opening in the exterior wall of a dispensary that enables a registered dispensary agent to serve an adult-use consumer, a qualifying patient, or a registered caregiver who drives a vehicle to the dispensary without a:</text>
+        <text>A dispensary providing drive-through or walk-up dispensing services shall:</text>
         <para>
           <num>(a)</num>
-          <text>Registered dispensary agent leaving the dispensary service area; or</text>
+          <text>Dispense through a window or other opening in the exterior wall of a dispensary that enables a registered dispensary agent to serve an adult-use consumer, a qualifying patient, or a registered caregiver without a:</text>
+          <para>
+            <num>(i)</num>
+            <text>Registered dispensary agent leaving the dispensary service area; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If applicable, qualifying patient, registered caregiver, or adult-use consumer leaving their vehicle;</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>Qualifying patient, registered caregiver, or adult-use consumer leaving their vehicle;</text>
+          <text>Pass a pre-operation inspection before use;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Meet all other requirements for a dispensary service area, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>The window or opening in the exterior wall shall be constructed to prevent unauthorized entry;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Security lighting, alarms systems, and video surveillance, as described in this regulation;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Displaying the licensed dispensary’s license and hours of operation at the entrance to the drive-through dispensing zone; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Secured doors and other access points between public and operations zones; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Adhere to its standard operating procedures and requirements for dispensing cannabis established in <cite path="|14|17|12|.04">Regulation .04 of this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Fulfill pre-orders in compliance with <cite path="|14|17|12|.08">Regulation .08 of this chapter</cite> through the drive-through or walk-up dispensing method.</text>
         </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>Pass a pre-operation inspection before use;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Meet all other requirements for a dispensary service area, including:</text>
-        <para>
-          <num>(a)</num>
-          <text>The window or opening in the exterior wall shall be constructed to prevent unauthorized entry;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Security lighting, alarms systems, and video surveillance, as described in this regulation;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Displaying the licensed dispensary’s license and hours of operation at the entrance to the drive-through dispensing zone; and</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Secured doors and other access points between public and operations zones; and</text>
-        </para>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Adhere to its standard operating procedures and requirements for dispensing cannabis established in <cite path="|14|17|12|.04">Regulation .04 of this chapter</cite>.</text>
+        <text>A dispensary that provides both drive-through and walk-up dispensing services shall designate separate windows or openings for each type of service.</text>
       </para>
     </para>
     <para>
@@ -435,18 +451,18 @@
       </para>
       <para>
         <num>(3)</num>
+        <text>Fulfill pre-orders in compliance with <cite path="|14|17|12|.08">Regulation .08 of this chapter</cite>; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
         <text>Adhere to:</text>
         <para>
           <num>(a)</num>
-          <text>Its standard operating procedures;</text>
+          <text>Its standard operating procedures; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Dispensing requirements in <cite path="|14|17|12|.04">Regulation .04 of this chapter</cite>; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>If fulfilling an online order, <cite path="|14|17|12|.08">Regulation .08 of this chapter</cite>.</text>
+          <text>Dispensing requirements in <cite path="|14|17|12|.04">Regulation .04 of this chapter</cite>.</text>
         </para>
       </para>
     </para>
@@ -482,7 +498,9 @@
         <text>Cannabis used for display is recorded in accordance with seed-to-sale tracking system procedures.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|17|12|.03">
     <prefix>Regulation</prefix>
@@ -490,22 +508,38 @@
     <heading>Micro Dispensary.</heading>
     <para>
       <num>A.</num>
-      <text>A micro dispensary may store its inventory in:</text>
+      <text>A micro dispensary may store its inventory in up to three storage facilities:</text>
       <para>
         <num>(1)</num>
-        <text>A storage facility that it controls and operates, in accordance with <cite path="14|17|12|.03|C.">§C of this regulation</cite>;</text>
+        <text>That it controls and operates, in accordance with <cite path="14|17|12|.03|D.">§D of this regulation</cite>;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>A storage facility controlled and operated by a licensed grower, processor, or incubator space, in accordance with <cite path="14|17|12|.03|C.">§C of this regulation</cite>; or</text>
+        <text>Controlled and operated by a licensed grower, processor, or incubator space, in accordance with <cite path="14|17|12|.03|D.">§D of this regulation</cite>; or</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>A storage facility controlled and operated by a licensed standard dispensary, in accordance with <cite path="|14|17|12|.02">Regulation .02 of this chapter</cite>.</text>
+        <text>Controlled and operated by a licensed standard dispensary, in accordance with <cite path="|14|17|12|.02">Regulation .02 of this chapter</cite>.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
+      <text>A micro dispensary storing inventory in a storage facility controlled and operated by another licensee shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Ensure each licensee’s cannabis inventory is physically separated and only accessible to the licensee’s agents and owners;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Have equal, independent, and unique control over access to its cannabis inventory, including the ability to add or remove its badged agents to access any area or container in which their cannabis or cannabis products are stored; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Have equal independent and unique access to its video surveillance recordings, which shall be recorded and saved as required by <cite path="14|17|12|.03|K.">§K of this regulation</cite> or <cite path="14.17.12.02|L.">COMAR 14.17.12.02L</cite>, whichever applies.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
       <text>A micro dispensary shall ensure any cannabis or cannabis product has been transferred within the seed-to-sale tracking system to the control of the micro dispensary as prescribed in <cite path="14.17.09.03">COMAR 14.17.09.03</cite> prior to:</text>
       <para>
         <num>(1)</num>
@@ -521,8 +555,8 @@
       </para>
     </para>
     <para>
-      <num>C.</num>
-      <text>If a micro dispensary operates its own storage facility, the micro dispensary shall adhere to the following requirements:</text>
+      <num>D.</num>
+      <text>Except as specified in <cite path="14|17|12|.03|A.|(3)">§A(3) of this regulation</cite>, a micro dispensary storage facility shall adhere to the following requirements:</text>
       <para>
         <num>(1)</num>
         <text>The storage facility shall:</text>
@@ -653,11 +687,11 @@
       </para>
     </para>
     <para>
-      <num>D.</num>
+      <num>E.</num>
       <text>Delivery Operations.</text>
       <para>
         <num>(1)</num>
-        <text>A micro dispensary shall verify that the individual placing the order is a consumer is at least 21 years old, a qualifying patient, or a registered caregiver prior to order placement, using an ordering system that complies with <cite path="|14|17|12|.08">Regulation .08 of this chapter</cite>.</text>
+        <text>A micro dispensary shall verify that the individual placing the order is a consumer who is at least 21 years old, a qualifying patient, or a registered caregiver prior to order placement, using an ordering system that complies with <cite path="|14|17|12|.08">Regulation .08 of this chapter</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -689,26 +723,22 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Agents conducting deliveries shall wear a body camera that records surveillance for the duration of the time they are operating a delivery vehicle that contains cannabis or cannabis products.</text>
-      </para>
-      <para>
-        <num>(6)</num>
         <text>While in transit, delivery agents may not wear any clothing or symbols that may indicate ownership or possession of cannabis.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(6)</num>
         <text>Each secure cannabis transport vehicle shall be operated by at least one registered agent.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(7)</num>
         <text>Only registered agents may occupy the delivery vehicle while the vehicle contains cannabis or cannabis products.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(8)</num>
         <text>All cannabis shall be transported in one or more locked and secure storage containers which may not be accessible while in transit.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(9)</num>
         <text>A micro dispensary agent shall transport cannabis or cannabis products in an enclosed vehicle that:</text>
         <para>
           <num>(a)</num>
@@ -745,23 +775,23 @@
       </para>
     </para>
     <para>
-      <num>E.</num>
-      <text>When purchasing cannabis from another licensee, a micro dispensary shall coordinate with the licensee to create an electronic manifest to record the chain of custody for each cannabis shipment in accordance with <cite path="14.17.09.03|E.">COMAR 14.17.09.03E</cite> and F.</text>
-    </para>
-    <para>
       <num>F.</num>
       <text>A micro dispensary shall:</text>
       <para>
         <num>(1)</num>
-        <text>Ensure that its stock of cannabis is timely and accurately tracked in the seed-to-sale tracking system from the time it is acquired by the micro dispensary to the time it is delivered and dispensed to a qualifying patient, registered caregiver, or adult-use consumer;</text>
+        <text>Timely and accurately track its stock of cannabis in the seed-to-sale tracking system from the time it is acquired by the micro dispensary to the time it is delivered and dispensed to a qualifying patient, registered caregiver, or adult-use consumer;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>At least daily, monitor video surveillance recorded by the delivery agent’s body camera and the camera installed inside the delivery vehicle; and</text>
+        <text>Ensure that all cannabis other than that being packaged or dispensed during hours of operation is kept in the storage facility;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>At least daily, monitor the GPS records of all delivery vehicles, including stops made along the delivery route.</text>
+        <text>Follow its standard operating procedure for examining at specified regular interval the GPS records of all delivery vehicles, including stops made along the delivery route.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>When purchasing cannabis from another licensee, coordinate with the licensee to create an electronic manifest to record the chain of custody for each cannabis shipment in accordance with <cite path="14.17.09.03|E.">COMAR 14.17.09.03E</cite> and F.</text>
       </para>
     </para>
     <para>
@@ -794,14 +824,14 @@
     </para>
     <para>
       <num>I.</num>
-      <text>A micro dispensary owner shall be a registered agent.</text>
+      <text>A micro dispensary owner shall be a registered agent if they work or volunteer in any operational areas of the premises, including delivery vehicles.</text>
     </para>
     <para>
       <num>J.</num>
-      <text>Video Surveillance Requirements.</text>
+      <text>Global Positioning System (GPS) and Video Surveillance Record Requirements.</text>
       <para>
         <num>(1)</num>
-        <text>Recordings of security video surveillance as required in this regulation shall be:</text>
+        <text>GPS and video surveillance recordings required in this regulation shall be:</text>
         <para>
           <num>(a)</num>
           <text>Access-limited;</text>
@@ -824,7 +854,7 @@
         <text>Violation.</text>
         <para>
           <num>(a)</num>
-          <text>Failure to provide the Administration with any recording of video surveillance within 48 hours of a request from the Administration is a violation of <cite path="14.17.14.04">COMAR 14.17.14.04</cite>.</text>
+          <text>Failure to provide the Administration with any GPS or video surveillance record within 48 hours of a request from the Administration is a violation of <cite path="14.17.14.04">COMAR 14.17.14.04</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -832,7 +862,45 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>K.</num>
+      <text>Visitors.</text>
+      <para>
+        <num>(1)</num>
+        <text>When a visitor is admitted to the operations zone of the premises, a registered dispensary agent shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Log the visitor in and out;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Retain with the log a photocopy of the visitor’s government-issued identification;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Continuously, physically supervise the visitor while they are on the premises; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Ensure that the visitor does not touch any cannabis.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The dispensary shall maintain a log of all visitors to the operations zone for 2 years.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An Administration investigator is not subject to the visitor requirements in this section.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A firefighter, a rescue squad member, or emergency services personnel who is actively responding to a call for emergency services is not subject to §K(1)(a)—(c) of this regulation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|17|12|.04">
     <prefix>Regulation</prefix>
@@ -1412,11 +1480,15 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Drive-through dispensing; and</text>
+          <text>Drive-through or walk-up window dispensing;</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>Curbside dispensing.</text>
+          <text>Curbside dispensing; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Examining at a specified regular interval GPS records of all delivery vehicles, including stops made along the delivery route.</text>
         </para>
       </para>
     </para>
@@ -1436,7 +1508,9 @@
         <text>Accurately reflect the procedures used at the premises.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Alcoholic Beverages and Cannabis Article, §§36-202, 36-203, 36-401, and 36-410, Annotated Code of Maryland</annotation>
@@ -1444,11 +1518,15 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-01">Regulations <cite path="|14|17|12|.01">.01</cite>—<cite path="|14|17|12|.09">.09</cite> adopted as an emergency provision effective July 1, 2023 (50:14 Md. R. 559); emergency status expired June 30, 2024</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-07">Regulations <cite path="|14|17|12|.01">.01</cite>—<cite path="|14|17|12|.11">.11</cite> adopted as an emergency provision effective June 7, 2024 (51:14 Md. R. 676)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22">Regulations <cite path="|14|17|12|.01">.01</cite>—<cite path="|14|17|12|.11">.11</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|12|.02|M.">Regulation .02M</cite>, P amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|12|.02|M.">Regulation .02M</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|12|.02|N.">Regulation .02N</cite> amended effective March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|12|.02|O.">Regulation .02O</cite> amended effective March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|12|.02|P.">Regulation .02P</cite> amended effective April 14, 2025 (52:7 Md. R. 324); March 16, 2026 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|12|.02|Q.">Regulation .02Q</cite> adopted effective April 14, 2025 (52:7 Md. R. 324)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|12|.04|E.">Regulation .04E</cite> adopted effective April 14, 2025 (52:7 Md. R. 324)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|14|17|12|.06|B.">Regulation .06B</cite>, D amended effective May 26, 2025 (52:10 Md. R. 436)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|12|.10|A.">Regulation .10A</cite>, B amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|12|.10|D.">Regulation .10D</cite>  adopted effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|12|.10|D.">Regulation .10D</cite> adopted effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
   </annotations>
 </container>

@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>02</num>
+  <heading>Contributions</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Small employer” means a person or governmental entity that meets the definition of employer and employs fewer than 15 employees, as calculated using the method under <cite path="09.42.02.06">COMAR 09.42.02.06</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Social security wage base” means the maximum wage subject to tax under the Federal Insurance Contributions Act, 26 U.S.C. §3101, et seq. for any particular year, as published by the Social Security Administration.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Total rate of contribution” means the percent of wages published by the Department for any particular year, under the Division’s authority under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-601, Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Employer Registration Requirements.</heading>
+    <text>An employer shall create and maintain an online account necessary to make required information reports, remit contribution payments, and both receive and communicate with the Division regarding reporting and contribution obligations under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-101, et seq., Annotated Code of Maryland.</text>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Registration of New Employers After Contributions Begin.</heading>
+    <text>An employer who commences operations after contributions begin shall, within 20 days of their first payment of wages to a qualified employee, create and maintain an online account necessary to make required information reports, remit contribution payments, and both receive and provide any necessary communication with the Division regarding reporting and contribution obligations under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-101, et seq., Annotated Code of Maryland.</text>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Qualified Employment.</heading>
+    <para>
+      <num>A.</num>
+      <text>All wages paid by each employer to an employee for performing qualified employment are subject to contributions up to the amount of the social security wage base each calendar year.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Employment is qualified employment if:</text>
+      <para>
+        <num>(1)</num>
+        <text>The employment obligates the employer to pay contributions to the Unemployment Insurance Fund under <cite doc="Md. Code" path="gle|8-101">Labor and Employment Article, §8-101, </cite>et seq., Annotated Code of Maryland; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The employment does not obligate the employer to pay unemployment insurance fund contributions to any jurisdiction but:</text>
+        <para>
+          <num>(a)</num>
+          <text>The employment is performed in the State, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>Employment performed on land that the United States government holds or owns; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Employment performed in interstate commerce; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The employment is performed partly in this State and:</text>
+          <para>
+            <num>(i)</num>
+            <text>The employment that is performed outside this State is incidental to the employment that is performed in this State, including employment that is temporary or transitory or that consists of isolated transactions; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The employment that is performed in this State is not incidental to employment that is performed in any other state and the base of operations or the place from which the employment is controlled or directed is in this State or the employment is performed by an individual who is a resident of this State and is not performed in part in a state in which the employment is controlled or directed or in which the base of operations is located.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Employment is not qualified employment if the employment of an employee obligates the employer to pay unemployment insurance fund contributions to any jurisdiction other than this State for that employee and not this State.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="09|42|02|.05">
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Employer Contributions.</heading>
+    <para>
+      <num>A.</num>
+      <text>Employers are responsible for remitting 100 percent of contributions due each quarter.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-601, Annotated Code of Maryland, an employer may withhold from the pay of an employee an amount up to 50 percent of the total rate of contribution.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An employer may elect to pay their employees’ contribution amounts required under <cite path="09|42|02|.05|B.">§B of this regulation</cite>, in whole or in part, and shall notify employees of the election to pay employee contributions or not, in writing, using the Division’s template.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>An employer shall provide written notice to all of its employees of the commencement of contribution withholding and any changes to employee contributions at least 1 pay period prior to the commencement or change.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Contribution payments to the Division will be applied in the following order, starting with the oldest quarter to the most recent past calendar quarter in which a balance is owed:</text>
+      <para>
+        <num>(1)</num>
+        <text>Penalties;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Interest; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Contributions.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Contributions from an employer whose status is changed by cessation of business are due and shall be paid within 5 days of the cessation.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Employer Size.</heading>
+    <para>
+      <num>A.</num>
+      <text>The number of employees shall be counted by using the total number of employees within and without the State to whom the employer paid any wages regardless of whether the employee is performing qualified employment.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An annual determination of employer size shall be made by averaging the number of employees to whom the employer paid any wages each quarter for the previous calendar year.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Until an employer has 4 quarters of reports and contributions in 1 calendar year, employer size shall be determined quarterly by counting the total number of employees to whom the employer paid any wages in that calendar quarter.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The employer is only responsible for remitting 50 percent of the total rate of contribution if the employer size determined under §§A, B, and C of this regulation is below 15.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Failure to Deduct from Payroll.</heading>
+    <para>
+      <num>A.</num>
+      <text>If an employer fails to make the proper deduction from an employee’s pay, that employer is considered to have elected to pay the employee’s portion for each pay period the employer fails to make the deduction.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The employer is liable to pay the portion of the employee share and may not recoup the employee share attributable to a past pay cycle on future pay cycles.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Notwithstanding §§A and B of this regulation, within the immediately following 6 pay cycles, an employer may recoup the employee share attributable to a past pay cycle if there are insufficient paycheck funds due to other required federal, state and local withholdings that take precedence.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Wage Reporting and Payment Schedule.</heading>
+    <para>
+      <num>A.</num>
+      <text>An employer shall remit contributions for each employee every quarter equal to the total rate of contribution multiplied by the total wages up to the social security wage base paid to each employee performing qualified employment in the State. For payment of contributions, a fractional part of a cent that is less than one-half cent shall be disregarded. A fractional part of a cent that is one-half cent or more shall be increased to 1 cent.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Quarterly informational wage and hour reports, which shall include the amount of wages and hours worked for each employee performing qualified employment in the immediately preceding quarter, shall be due on or before the quarterly contribution payment due date.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If the employer wants to be considered for classification as a small employer, the informational report shall include the number of employees performing employment for the employer outside the State to whom wages were paid in the quarter.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If the employer fails to provide a number of employees performing employment for the employer outside the State, the employer will be deemed to not be a small employer.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Contributions are due and shall be paid on or before the last day of the month immediately following each calendar quarter. Payment will be considered timely if received on or before the due date. If the due date falls on a Saturday, Sunday, or legal holiday, payment will be considered timely if received on the next business day.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Amendments by employers to quarterly wage and hour reports shall be submitted to the Division within 1 year of the initial due date.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Contribution and Wage Report Delinquencies.</heading>
+    <para>
+      <num>A.</num>
+      <text>If an employer fails to pay the required contributions in the prescribed manner, the employer shall be given 30 days to cure any deficiencies and may be required to pay interest, in the amount of 1.5 percent per month or part of a month from the date on which it is due to the Division, on unpaid contributions.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If contribution deficiencies are not cured, penalties under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-903, Annotated Code of Maryland, may be imposed as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Assess the amount of contributions and interest, in the amount of 1.5 percent per month or part of a month from the date on which it is due to the Division;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Make an additional assessment in an amount not to exceed two times the contributions delinquent to the Division, as a penalty for failure to pay the contributions due; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Order an audit of the employer for the immediately following fiscal year to investigate and determine compliance with <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-101, et seq., Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If wage and hour report deficiencies are not cured the Division may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Use the information and knowledge available to the Division to estimate the wages paid by an employer during the contribution period or periods;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The amount of wages so determined will be deemed to have been paid by the employer;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Assess the employer for contributions calculated on the basis of the estimated wages;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Issue a subpoena duces tecum to compel an employer to release books and records to the Division for use in obtaining the required information; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Order an audit of the employer for the immediately following fiscal year to investigate and determine compliance with <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-101, et seq., Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="09|42|02|.10">
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Contribution Overpayments.</heading>
+    <para>
+      <num>A.</num>
+      <text>An employer may request from the Division reimbursement of overpayment of contributions no later than 1 year from the due date of the alleged overpayment.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An employer who receives a reimbursement under <cite path="09|42|02|.10|A.">§A of this regulation</cite> shall return employee contributions to the employees from whom they were withheld within 90 days of receipt of the reimbursement.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If a former employee owed reimbursed contributions from their employer cannot be located via reasonable effort, including making use of all contact information the employer has on file, within 90 days as required under <cite path="09|42|02|.10|B.">§B of this regulation</cite>, the employee’s contributions shall be remitted to the State for safekeeping.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Labor and Employment Article, §§8.3-101, 201, and 601, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30">Effective date: March 30, 2026 (53:6 Md. R. 289)</annotation>
+  </annotations>
+  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+</container>

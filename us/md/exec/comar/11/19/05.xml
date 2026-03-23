@@ -45,9 +45,39 @@
     </para>
     <para>
       <num>G.</num>
-      <text>A copy of the medical examination report and certificate shall be retained by the employer or owner of a school vehicle. If the owner of the school vehicle is under contract to provide services by the local board of education, a copy of the report and certificate shall be retained by the local board of education. These copies shall be available for inspection.</text>
+      <text>For drivers who do not hold a Maryland license the employer or owner of the school vehicle shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Maintain and keep on file a copy of the driving record that has been issued within the past 12 months; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Record the issuance date of the medical examiner’s certificate to ensure that a medical exam has occurred as required under <cite path="11|19|05|.01|A.">§A of this regulation</cite>; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Monitor the driver in a license monitoring system, if available, in the state where their license is issued.</text>
+      </para>
     </para>
-    <annotations/>
+    <para>
+      <num>H.</num>
+      <text>For drivers who hold a Maryland license, the employer or owner of the school vehicle shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Maintain and keep on file a copy of the driving record that has been issued within the past 12 months;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Record the issuance date of the medical examiner’s certificate to ensure that a medical exam has occurred as required under <cite path="11|19|05|.01|A.">§A of this regulation</cite>; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Monitor the driver in a license monitoring system approved by the Administration.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-256-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -62,5 +92,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-01-23">Chapter revised effective January 23, 1981 (8:2 Md. R. 116)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-04-04">Regulations .01 amended and .01-1 adopted as an emergency provision effective November 20, 1987 (14:25 Md. R. 2656); emergency status expired March 18, 1988; adopted permanently effective April 4, 1988 (15:7 Md. R. 850)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-07-22" discontinuity="true">Chapter revised effective July 22, 2002 (29:14 Md. R. 1075)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|11|19|05|.01|G.">Regulation .01G</cite> amended effective March 2, 2026 (53:4 Md. R. 185)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|11|19|05|.01|H.">Regulation .01H</cite> adopted effective March 2, 2026 (53:4 Md. R. 185)</annotation>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-256-F" type="History" display="false"/>
   </annotations>
 </container>

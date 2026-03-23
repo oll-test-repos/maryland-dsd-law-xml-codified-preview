@@ -255,7 +255,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Failing PT scores in two of three consecutive testing events in a subdiscipline, specialty, subspecialty, or individual constituent or analyte, for example, Na, RBC, cholesterol, and the next PT report for the test states "test not performed"; or</text>
+          <text>Failing PT scores in two of three consecutive testing events in a subdiscipline, specialty, subspecialty, or individual constituent or analyte, for example, Na, RBC, cholesterol, and the next PT report for the test states “test not performed”; or</text>
         </para>
         <para>
           <num>(c)</num>
@@ -265,7 +265,7 @@
     </para>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="10|10|05|.02">
     <prefix>Regulation</prefix>
     <num>.02</num>
     <heading>Discipline, Specialty, and Subspecialty.</heading>
@@ -394,26 +394,18 @@
       <text>Discipline Standards.</text>
       <para>
         <num>(1)</num>
-        <text>General. A licensee operating under a permit shall ensure that the laboratory meets the applicable PT standards set forth in this chapter and in 42 CFR §§493.821 — 493.865.</text>
+        <text>General. A licensee operating under a permit shall ensure that the laboratory meets the applicable PT standards set forth in this chapter and in 42 CFR §§493.821493.865.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Gynecologic Cytology. A licensee operating under a permit to perform gynecologic cytology shall ensure that the laboratory enrolls and maintains successful participation in:</text>
-        <para>
-          <num>(a)</num>
-          <text>A cytology PT program operated by the Secretary if the laboratory is located inside this State; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>A cytology PT program approved by CMS if the laboratory is located outside this State.</text>
-        </para>
+        <text>Gynecologic Cytology. A licensee operating under a permit to perform gynecologic cytology shall ensure that the laboratory enrolls and maintains successful participation in a cytology PT program approved by CMS.</text>
       </para>
       <para>
         <num>(3)</num>
         <text>Job-Related Testing.</text>
         <para>
           <num>(a)</num>
-          <text>A licensee operating under a permit to perform job-related testing for alcohol or controlled dangerous substances shall ensure that the laboratory enrolls and continues to participate satisfactorily, when applicable, in one or more of the programs listed in §B(3)(b)—(e) of this regulation.</text>
+          <text>A licensee operating under a permit to perform job-related testing for alcohol or controlled dangerous substances shall ensure that the laboratory enrolls and continues to participate satisfactorily, when applicable, in one or more of the programs listed in <cite path="10|10|05|.02|B.|(3)|(b)|(e)" proof="needed">§B(3)(b)(e) of this regulation</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -473,7 +465,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -507,53 +501,15 @@
     <heading>Cytology — Departmental Requirements.</heading>
     <para>
       <num>A.</num>
-      <text>The Secretary may not issue a license to operate a laboratory that examines gynecologic cytology specimens if the laboratory does not enroll and participate satisfactorily in a cytology PT program operated or approved by the Secretary.</text>
+      <text>The Secretary may not issue a license to operate a laboratory that examines gynecologic cytology specimens if the laboratory does not enroll and participate satisfactorily in a cytology PT program approved by CMS.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>The OHCQ shall conduct annual PT for each pathologist and cytotechnologist who examines gynecological cytology slides acquired in the State.</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>The OHCQ or an agent of the Department shall hand carry test materials for first-event testing in a PT cycle to a laboratory and shall conduct and supervise all testing.</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>The OHCQ shall:</text>
-      <para>
-        <num>(1)</num>
-        <text>Conduct announced and unannounced on-site testing for individuals during an annual PT cycle; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Schedule and conduct a retesting event for an individual who has failed the annual PT testing event not more than 45 days after receipt of the notification of the PT testing event failure by the:</text>
-        <para>
-          <num>(a)</num>
-          <text>Individual who failed the annual PT testing event; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Laboratory director of the individual who failed the annual PT testing event.</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>The OHCQ may conduct unannounced PT at any time during normal laboratory working hours when the testing is conducted as part of routine PT, a complaint investigation, a follow-up certification, or a regulatory compliance survey.</text>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>The OHCQ shall conduct announced retesting within an annual PT cycle at a site selected by the Department.</text>
-    </para>
-    <para>
-      <num>G.</num>
-      <text>The OHCQ shall schedule an individual who misses a laboratory's annual PT event to make up the missed test.</text>
-    </para>
-    <para>
-      <num>H.</num>
       <text>The OHCQ shall evaluate an individual's PT performance as set forth in 42 CFR §493.945.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|10|05|.05">
     <prefix>Regulation</prefix>
@@ -561,25 +517,17 @@
     <heading>Cytology — Laboratory and Individual Standards.</heading>
     <para>
       <num>A.</num>
-      <text>Primary Standard. A pathologist or cytotechnologist who examines gynecological cytology specimens from individuals in this State shall participate satisfactorily in an annual cytology PT program approved by the Secretary.</text>
+      <text>Primary Standard. A pathologist or cytotechnologist who examines gynecological cytology specimens from individuals in this State shall participate satisfactorily in an annual cytology PT program approved by CMS.</text>
     </para>
     <para>
       <num>B.</num>
       <text>Laboratory Standards.</text>
       <para>
         <num>(1)</num>
-        <text>A licensee operating under a permit to examine gynecologic cytology specimens shall ensure that each pathologist and cytotechnologist who examines gynecologic cytology specimens participates in a cytology PT program conducted by the Department or approved by the Secretary.</text>
+        <text>A licensee operating under a permit to examine gynecologic cytology specimens shall ensure that each pathologist and cytotechnologist who examines gynecologic cytology specimens participates in a cytology PT program conducted by the Department or approved by CMS.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>An in-State laboratory shall participate in the Department's PT program.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>An out-of-State laboratory shall participate in either the Department's PT program or another equivalently rigorous cytology PT program approved by the Secretary.</text>
-      </para>
-      <para>
-        <num>(4)</num>
         <text>A licensee employing an individual who has failed a second testing event in an annual PT cycle shall:</text>
         <para>
           <num>(a)</num>
@@ -587,11 +535,11 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Document the individual's completion of education and training using a form provided by the OHCQ.</text>
+          <text>Document the individual's completion of education and training.</text>
         </para>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(3)</num>
         <text>A licensee employing an individual who has failed a first or subsequent PT event and who does not obtain mandated retesting or retraining, or both, shall:</text>
         <para>
           <num>(a)</num>
@@ -707,18 +655,22 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§17-202 and 17-211, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-10-05">Effective date: October 5, 1998 (25:20 Md. R. 1529)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13" discontinuity="true">Chapter, Job-Related Alcohol and Controlled Dangerous Substances Testing, repealed and new chapter, Medical Laboratories—Proficiency Testing, adopted effective December 13, 1999 (26:25 Md. R. 1897)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13" discontinuity="true">Chapter, Job-Related Alcohol and Controlled Dangerous Substances Testing, repealed and new chapter, Medical Laboratories — Proficiency Testing, adopted effective December 13, 1999 (26:25 Md. R. 1897)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|05|.01">Regulation .01</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|05|.02|B.">Regulation .02B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|05|.02|B.">Regulation .02B</cite> amended effective June 1, 2009 (36:11 Md. R. 787); March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|05|.03">Regulation .03</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|05|.04">Regulation .04</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|05|.04">Regulation .04</cite> amended effective June 1, 2009 (36:11 Md. R. 787); March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-11-29"><cite path="|10|10|05|.04|D.">Regulation .04D</cite> amended effective November 29, 2010 (37:24 Md. R. 1658)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|05|.05|A.">Regulation .05A</cite>, B amended effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|05|.05|B.">Regulation .05B</cite>, C amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-11-29"><cite path="|10|10|05|.05|C.">Regulation .05C</cite> amended effective November 29, 2010 (37:24 Md. R. 1658)</annotation>
+    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
   </annotations>
 </container>

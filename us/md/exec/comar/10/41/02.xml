@@ -272,7 +272,43 @@
     </para>
     <para>
       <num>E.</num>
-      <text>The licensee may not discriminate on the basis of race, religion, gender, age, national origin, sexual orientation, or handicapping condition in the licensee's professional relationships with colleagues or individuals served professionally.</text>
+      <text>In the licensee’s professional relationships with colleagues or individuals served professionally, the licensee may not discriminate on the basis of:</text>
+      <para>
+        <num>(1)</num>
+        <text>Race;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Religion;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Color;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Age;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>National origin;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Marital status;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Sexual orientation;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Gender identity; or</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Disability.</text>
+      </para>
     </para>
     <para>
       <num>F.</num>
@@ -284,7 +320,35 @@
     </para>
     <para>
       <num>H.</num>
-      <text>The licensee shall maintain adequate records of professional services rendered and products dispensed, and shall allow access to these records when appropriately authorized.</text>
+      <text>The licensee shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Maintain adequate records of professional services rendered and products dispensed, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>A full written report outlining all diagnostic results and any recommendations;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Daily therapy notes such as subjective, objective, assessment, and plan (SOAP) log notes;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>License number on written client reports and evaluations;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Progress reports; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>All documents related to referrals; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Allow access to these records when appropriately authorized.</text>
+      </para>
     </para>
     <para>
       <num>I.</num>
@@ -302,7 +366,9 @@
       <num>L.</num>
       <text>The licensee may not construe the failure to specify a particular responsibility or practice in this chapter as indicating that the responsibility or practice is not equally as important as those specified. An act that is in violation of the spirit and purpose of the Code of Ethics constitutes unprofessional conduct and may result in disciplinary action against the licensee under <cite doc="Md. Code" path="gho|2-314">Health Occupations Article, §2-314, Annotated Code of Maryland</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-22" doc="Editor Action 2026-01-22" eff="2026-01-22" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-212">1-212</cite>, <cite doc="Md. Code" path="gho|2-205">2-205</cite> and <cite doc="Md. Code" path="gho|2-314">2-314</cite>, Annotated Code of Maryland</annotation>

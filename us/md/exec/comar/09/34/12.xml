@@ -1,0 +1,409 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>12</num>
+  <heading>Natural Organic Reduction—Inspections, Complaints, and Discipline</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <text>This chapter governs reduction facility inspections, the complaint process, investigations, grounds for discipline, and penalties.</text>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Inspection by the Office.</heading>
+    <para>
+      <num>A.</num>
+      <text>A reduction facility shall be available for inspection by a representative of the Office at any time during operating hours.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Each reduction facility shall be inspected:</text>
+      <para>
+        <num>(1)</num>
+        <text>On at least a biennial basis;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In furtherance of an investigation; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Upon the initial permitting, sale, or change of ownership of the reduction facility.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A reduction facility shall maintain the following minimum standards:</text>
+      <para>
+        <num>(1)</num>
+        <text>The premises shall be maintained in a safe and sanitary manner to comply with Centers for Disease Control's guidelines on universal precautions and the Maryland Occupational Safety and Health Act;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Except by express, written consent of the authorizing agents to perform simultaneous, multiple reductions, there shall be no more than one decedent in a single vessel at a time;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A vessel shall be cleaned after each natural organic reduction to prevent unauthorized co-mingling;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>There may not be co-mingling of human remains and pet remains in the holding facility;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Separate vessels shall be dedicated for the reduction of human remains and the reduction of pet remains;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>There may not be:</text>
+        <para>
+          <num>(a)</num>
+          <text>Co-mingling of one decedent’s soil remains with another decedent’s soil remains or reduced pet remains without written consent by the authorizing agent;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any form of misrepresentation in the return of soil remains;</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Human remains shall be properly identified before natural organic reduction by verifying that the documentation accompanying the human remains is consistent with a visual observation of the human remains;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A burial transit permit shall be an original document pertaining to the decedent;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Each reduction facility shall have:</text>
+        <para>
+          <num>(a)</num>
+          <text>A sink with hot and cold water in the room in which the vessel is housed; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The equipment necessary to thoroughly clean the floor within the room housing the vessel with water and an appropriate sanitizing agent;</text>
+        </para>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>The name of the decedent shall be visible on the outside of the vessel;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Human remains shall be properly stored prior to natural organic reduction;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Reduction facilities shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Use only mechanical pulverizing equipment meeting industry standards that are cleaned between each use; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Pulverize the soil remains with a mortar and pestle when the soil remains are not sufficient in amount for pulverizing in mechanical equipment;</text>
+        </para>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Separate pulverizing drums shall be dedicated for soil remains and reduced pet remains;</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>A reduction facility may not refuse to release soil remains pending payment of outstanding fees;</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>Portable fans may not be used in the area of the vessel, where curing occurs, or pulverizing equipment;</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>A registered reduction operator shall be present at the reduction facility during regular business hours;</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>Reduction facilities shall be capable of monitoring the status of each vessel’s progress during natural organic reduction; and</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>All individuals who operate the vessels in a reduction facility shall be certified by the Cremation Association of North America, International Cemetery, Cremation and Funeral Association, or other equivalent certification recognized by the Office and the Board. Individuals receiving training toward certification to operate a vessel shall be allowed to work under the supervision of a registered reduction operator with written permission from the Office.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The following completed forms shall be available at all times for inspection and copying and are subject to be pulled at random by the inspector:</text>
+      <para>
+        <num>(1)</num>
+        <text>Natural organic reduction authorization form;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Burial transit permit;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Delegation of authority form;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Receipt for human remains;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Record of each natural organic reduction, including evidence of all human remains reaching a minimum temperature of 131 degrees Fahrenheit for 72 consecutive hours during the natural organic reduction;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Certificate of natural organic reduction;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Return of soil remains certificate; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Reduction Facility Operations Plan (RFOP).</text>
+        <para>
+          <num>(a)</num>
+          <text>A reduction facility shall have and follow an RFOP that contains a high-level overview of the operational procedures for the reduction facility in order to comply with the requirements of these regulations, to include:</text>
+          <para>
+            <num>(i)</num>
+            <text>A description of the methods, equipment, and bulking agents to be used;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A description of the movement of materials throughout the reduction process, including a description of the locations to be used at the reduction facility for receipt, active reduction, curing, and storage phases.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Total amount of vessels;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>A plan for the prevention of nuisances, including odors;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>A plan for the prevention of harborage and infestation of vectors;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>A plan and procedure for monitoring temperature of each vessel, including a procedure for demonstrating that the pathogen reduction requirements of <cite path="|09|34|12|.11">Regulation .11 of this chapter</cite> are met;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>A plan and procedure for monitoring moisture during reduction;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>A plan for periodic inspection of the site by the reduction operator or personnel;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>A description of an ongoing testing program to ensure the safety of soil remains produced, compliant with <cite path="|09|34|12|.11">Regulation .11 of this chapter</cite>;</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>A procedure for recording instances where soil remains failed the testing program and actions taken by the registered reduction operator to bring the soil remains into compliance with <cite path="|09|34|12|.11">Regulation .11 of this chapter</cite>; and</text>
+          </para>
+          <para>
+            <num>(xi)</num>
+            <text>Establish any other reasonable prohibition, rule, or requirement the Director determines is necessary to protect the public health and safety during the process of natural organic reduction.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The registered reduction operator shall review the RFOP internally every 6 months and update the RFOP when there is a change in registered reduction operators, procedures, or bulking agents.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Inspection results shall be written on forms approved by the Office.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The representative of the Office performing the inspection shall, upon completion of the inspection:</text>
+      <para>
+        <num>(1)</num>
+        <text>Apprise the permit holder of the findings of the inspection; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide the permit holder or a representative of the permit holder with a copy of the inspection report.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The permit holder or representative of the permit holder shall sign and verify receipt of the inspection report.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>At the time of the Office's inspection, the permit holder shall provide written documentation to the Office’s inspector that:</text>
+      <para>
+        <num>(1)</num>
+        <text>The vessel has been inspected in accordance with manufacturer specifications;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In accordance with manufacturer specifications, it is not time for a manufacturer's inspection; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The permit holder has requested that the manufacturer conduct an inspection of the vessel.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Reports, Deficiencies, Violations, and Penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Director shall review the inspection report and make a determination as to whether a deficiency exists.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Office shall notify the permit holder of the results of the inspection by providing a copy of the inspection report to the permit holder.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If a permit holder passes an inspection, the permit holder shall prominently display, in public view on the premises, a statement issued by the Office that the reduction facility has successfully passed an inspection.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If the Director finds a deficiency, the Director shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Within 7 days notify the permit holder of the deficiency or failure to pass the inspection; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide a copy of the inspection report, notice of the deficiency, or failure to pass the inspection to the permit holder within 30 days of completion of the inspection.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Correction of Deficiency.</text>
+      <para>
+        <num>(1)</num>
+        <text>Except as provided in this section, a permit holder shall correct a deficiency within 30 days after receipt of notification or sooner as determined by the Office.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Office may require immediate correction of a deficiency if the Office considers the correction necessary in the interest of public health.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The permit holder may request an extension of time within which to correct a deficiency.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Office may approve an extension of time for correction of a deficiency.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Upon completion of the correction of all deficiencies, the permit holder shall notify the Office.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Upon notification by the permit holder, a representative of the Office shall re-inspect the reduction facility.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Office shall notify the permit holder, in writing, of the results of the re-inspection report by providing a copy of a new inspection report to the permit holder.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>If re-inspection reveals additional deficiencies not cited in the first report, the permit holder shall correct those deficiencies in the time period specified by the Office unless an extension of time for correction of the additional deficiencies is requested by the permit holder and approved by the Office.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Penalties. In the event that a permit holder fails to allow an inspection of the reduction facility or fails to comply with a notice to correct deficiencies or violations within the time specified, the Office shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Deem the failure to be a threat to the public health, safety, or welfare requiring immediate action;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Summarily suspend the permit as provided under <cite doc="Md. Code" path="gsg|10-226">State Government Article, §10-226(c)(2), Annotated Code of Maryland</cite>;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide notice of the Office's action to the permit holder; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Provide the permit holder a subsequent opportunity for a hearing pursuant to <cite doc="Md. Code" path="gbr|5-312">Business Regulation Article, §5-312, Annotated Code of Maryland</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Complaints.</heading>
+    <para>
+      <num>A.</num>
+      <text>A complaint regarding a reduction facility or a registered reduction operator under the jurisdiction of the Office shall be:</text>
+      <para>
+        <num>(1)</num>
+        <text>Filed by the complainant, on a form devised by the Office in compliance with the provisions of <cite doc="Md. Code" path="gbr|5-311">Business Regulation Article, §5-311(b), Annotated Code of Maryland</cite>; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Processed in accordance with the provisions of <cite doc="Md. Code" path="gbr|5-311">Business Regulation Article, §5-311(c)</cite>—(h), Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Office may initiate a complaint or investigation.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Investigations.</heading>
+    <text>The Office and the Board may share investigative information and conduct joint investigations.</text>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Grounds for Discipline.</heading>
+    <para>
+      <num>A.</num>
+      <text>Subject to the hearing provisions of Business Regulations Article, §5-312, Annotated Code of Maryland, the Office may deny a reduction facility permit or registered reduction operator permit to an applicant, reprimand any person required to obtain a reduction facility permit or registered reduction operator permit, or suspend or revoke a reduction facility permit or registered reduction operator permit of an applicant or permit holder, or an agent, employee, officer, director, or partner of the applicant or permit holder for the reasons set forth in <cite doc="Md. Code" path="gbr|5-310">Business Regulation Article, §5-310, Annotated Code of Maryland</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Office may seek the remedies and may impose the penalties set forth in <cite doc="Md. Code" path="gbr">Business Regulation Article, Title 5, Annotated Code of Maryland</cite>, for violations of that title.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gbr|5-204">Business Regulation Article, § 5-204, </cite>Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30">Effective date: March 30, 2026 (53:6 Md. R. 287)</annotation>
+  </annotations>
+  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+</container>

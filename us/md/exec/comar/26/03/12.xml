@@ -387,7 +387,7 @@
         <num>(1)</num>
         <text>Fees for a new plant and fees for an existing plant at which two or more new unit processes are to be constructed are as follows:</text>
         <text>
-          <table class="layout-table">
+          <table>
             <thead>
               <tr>
                 <th>Design Capacity</th>
@@ -423,7 +423,7 @@
         <num>(2)</num>
         <text>Fees for an existing plant at which only one new unit process is to be constructed are as follows:</text>
         <text>
-          <table class="layout-table">
+          <table>
             <thead>
               <tr>
                 <th>Design Capacity</th>
@@ -491,7 +491,7 @@
         <num>(2)</num>
         <text>Fees for distribution lines and appurtenances are as follows:</text>
         <text>
-          <table class="layout-table">
+          <table>
             <thead>
               <tr>
                 <th>Length in Feet, <br/>Excluding Pumping Stations <br/>and Storage Facilities</th>
@@ -531,7 +531,7 @@
         <num>(1)</num>
         <text>Fees for new pumping stations and for material alterations and material extensions to existing pumping stations are set forth in the following fee schedule in this section:</text>
         <text>
-          <table class="layout-table">
+          <table>
             <thead>
               <tr>
                 <th>Design Capacity</th>
@@ -589,7 +589,7 @@
         <num>(1)</num>
         <text>Fees for a new plant and fees for an existing plant at which two or more new unit processes are to be constructed are as follows:</text>
         <text>
-          <table class="layout-table">
+          <table>
             <thead>
               <tr>
                 <th>Design Capacity</th>
@@ -625,7 +625,7 @@
         <num>(2)</num>
         <text>Fees for an existing plant at which only one new unit process is to be constructed are as follows:</text>
         <text>
-          <table class="layout-table">
+          <table>
             <thead>
               <tr>
                 <th>Design Capacity</th>
@@ -693,7 +693,7 @@
         <num>(2)</num>
         <text>Fees for sewage collection lines and appurtenances are as follows:</text>
         <text>
-          <table class="layout-table">
+          <table>
             <thead>
               <tr>
                 <th>Length in Feet, Excluding Pumping Stations</th>
@@ -733,7 +733,7 @@
         <num>(1)</num>
         <text>Fees for new pumping stations and for material alterations and material extensions to existing pumping stations are set forth in the following fee schedule:</text>
         <text>
-          <table class="layout-table">
+          <table>
             <thead>
               <tr>
                 <th>Design Capacity</th>

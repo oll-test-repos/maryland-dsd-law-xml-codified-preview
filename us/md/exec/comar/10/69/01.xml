@@ -1,9 +1,772 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not yet effective">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>Licensure of Licensed Certified Midwives</heading>
-  <reason>Not yet effective</reason>
-  <text>Effective on February 22, 2026.</text>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Exceptions.</heading>
+    <text>This chapter does not apply to an individual who:</text>
+    <para>
+      <num>A.</num>
+      <text>Assists at a birth in an emergency;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Is licensed as a health care practitioner in accordance with the <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite> whose scope of practice allows the individual to practice certified midwifery; or</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Is a student practicing certified midwifery while engaged in an approved clinical midwifery education experience under the supervision of an individual licensed by the Board as a licensed certified midwife or a licensed nurse certified as a nurse midwife.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Accreditation Commission for Midwifery (ACME)” means the accrediting agency for midwifery education programs and institutions, or a successor organization, which is approved by the United States Department of Education.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“American College of Nurse Midwives (ACNM)” means the national professional association, or a successor organization, that represents advanced practice midwives, including certified nurse-midwives and certified midwives in the United States</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“American Midwifery Certification Board (AMCB)” means the national certifying body for candidates in nurse-midwifery and midwifery, or a successor organization, which is approved by the National Commission for Certifying Agencies.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Board” means the Maryland Board of Nursing.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Central Repository” has the meaning stated in <cite doc="Md. Code" path="gho|8-303">Health Occupations Article, §8-303(a), Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Clinical practice guidelines” means written standards using guidelines established by:</text>
+        <para>
+          <num>(a)</num>
+          <text>The ACNM in Standards for the Practice of Midwifery, as amended or supplemented; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any other national certifying body recognized by the Board.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Licensed certified midwife (LCM)” means an individual who has been issued a license by the Board to practice certified midwifery.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Newborn” means an infant in the first 28 days after birth.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Practice certified midwifery” has the meaning stated in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>D-01(h), Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Physician” means an individual licensed to practice medicine in the State.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Qualifications for Applicants for Initial Licensure.</heading>
+    <text>An applicant for initial licensure as a certified midwife shall:</text>
+    <para>
+      <num>A.</num>
+      <text>Be of good moral character;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Submit to a criminal history records check in accordance with <cite doc="Md. Code" path="gho|8-303">Health Occupations Article, §8-303, Annotated Code of Maryland</cite>;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Hold a current, valid national certification as a certified midwife from the AMCB;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Have graduated from a graduate-level midwifery education program accredited by the ACME; and</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Have passed the AMCB certification examination.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|69|01|.04">
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Requirements for Application for Initial Licensure.</heading>
+    <para>
+      <num>A.</num>
+      <text>An applicant for initial licensure as a certified midwife shall submit to the Board:</text>
+      <para>
+        <num>(1)</num>
+        <text>A completed application on the form that the Board requires;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Written, verified evidence that the applicant has met the requirements of Regulation .03C—E of this chapter;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Written, verified evidence that the applicant has submitted to a criminal history records check as required by <cite path="|10|69|01|.03|B.">Regulation .03B of this chapter</cite> by submitting:</text>
+        <para>
+          <num>(a)</num>
+          <text>Two sets of fingerprints, as required by the Central Repository and the Federal Bureau of Investigation; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All fees required by the Central Repository and the FBI;</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any documentation requested from the applicant by the Board including, but not limited to, official certified or true test court documents and a signed, dated explanation written by the applicant, regarding the facts and circumstances, outcome, and current status of any criminal history record information received by the Board:</text>
+        <para>
+          <num>(a)</num>
+          <text>In accordance with <cite doc="Md. Code" path="gho|8-303">Health Occupations Article, §8-303, Annotated Code of Maryland</cite>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In an answer to a question on the Board’s application form; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>From any other source;</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Any additional documentation requested by the Board if the documentation received from the applicant under <cite path="10|69|01|.04|A.|(4)">§A(4) of this regulation</cite> is incomplete or insufficient; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A fee for initial licensure as specified under <cite path="|10|69|01|.13">Regulation .13 of this chapter</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If an application is not complete when initially submitted to the Board by the applicant, the applicant shall have no longer than 12 months from the date the application is received by the Board to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Complete the application; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide all information and documents required in <cite path="10|69|01|.04|A.">§A of this regulation</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If an applicant fails to provide to the Board a complete application and any additional documentation requested by the Board in <cite path="10|69|01|.04|A.">§A of this regulation</cite> within 12 months from the date the application is received by the Board, then the application:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall be considered abandoned; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>May be destroyed.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Once an application is deemed abandoned under <cite path="10|69|01|.04|C.">§C of this regulation</cite>, an individual seeking licensure shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Submit a new application;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Meet all of the requirements for licensure; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Pay the required fees in accordance with <cite path="|10|69|01|.13">Regulation .13 of this chapter</cite> in effect  at the time of re-application.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|69|01|.05">
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Practice Before Certification.</heading>
+    <para>
+      <num>A.</num>
+      <text>An individual who has graduated from a graduate level accredited program for midwifery education program approved by the ACME and who has taken the AMCB national certification examination but is waiting for results may practice as a certified midwife graduate before certification if the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Practice is under the supervision of a licensed certified midwife or certified nurse midwife who shall be physically present at the location of service and available to the certified midwife graduate;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Supervising midwife and certified midwife graduate execute a written supervision agreement on the form required by the Board; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Certified midwife graduate files with the Board a copy of the:</text>
+        <para>
+          <num>(a)</num>
+          <text>Admission slip to the Board-approved certification examination; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Signed supervision agreement.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A certified midwife graduate who has entered into a supervision agreement under this regulation shall immediately notify the Board and the supervising midwife of the results of the AMCB certification examination.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A certified midwife graduate may not continue to practice under a supervision agreement under this regulation for more than 1 year from the filing of all documents required under <cite path="10|69|01|.05|A.|(3)">§A(3) of this regulation</cite>, or after the denial of AMCB certification, whichever occurs first.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Term and Renewal of License.</heading>
+    <para>
+      <num>A.</num>
+      <text>A license issued under this regulation authorizes the licensee to practice licensed certified midwifery while the license is active.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Unless renewed, a license expires on October 28 of every even-numbered year, except that an initial license shall not expire within 180 days of the date of issuance.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Before a license expires, the licensed certified midwife may renew the license for an additional 2-year term if the licensed certified midwife:</text>
+      <para>
+        <num>(1)</num>
+        <text>Is otherwise entitled to be licensed;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Pays to the Board the renewal fee specified in <cite path="|10|69|01|.13">Regulation .13 of this chapter</cite>; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Submits to the Board:</text>
+        <para>
+          <num>(a)</num>
+          <text>A renewal application on the form that the Board requires;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Satisfactory evidence of current national certification as a certified midwife by AMCB; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If required to submit to a criminal history records check in accordance with § C of this regulation, evidence of submission to a criminal history records check as required by the Board.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A licensed certified midwife shall submit to a criminal history records check in order to renew a license in accordance with the following schedule:</text>
+      <para>
+        <num>(1)</num>
+        <text>In 2025—all applicants with an August or September birth month;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In 2026—all applicants with a September or October birth month;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In 2027—all applicants with an October or November birth month;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In 2028— all applicants with a November or December birth month;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>In 2029—all applicants with a December or January birth month;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>In 2030—all applicants with a January or February birth month;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>In 2031—all applicants with a February or March birth month;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>In 2032—all applicants with a March or April birth month;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>In 2033—all applicants with an April or May birth month;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>In 2034—all applicants with a May or June birth month; and</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>In 2035—all applicants with a June or July birth month.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>In 2036—all applicants with a July or August birth month;</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Board may grant a 30-day extension beyond a license’s expiration date so that the license may be renewed before it expires.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Change in Name or Address.</heading>
+    <text>A licensed certified midwife shall provide written notice to the Board, on the form required by the Board, within 60 days of a change of:</text>
+    <para>
+      <num>A.</num>
+      <text>Name, along with legal documentation of the change; or</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Address.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Required Documentation.</heading>
+    <para>
+      <num>A.</num>
+      <text>A licensed certified midwife who provides clinical midwifery services across the reproductive lifespan in accordance with this subtitle shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Maintain a health record for each client;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the case of a transfer of care to another provider or a facility, transfer the client’s health records with the client; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Comply with applicable State laws and regulations governing the creation and maintenance of health care records.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A licensed certified midwife who provides clinical midwifery services shall have available at all times for examination by the Board, written clinical practice guidelines that cover all aspects of care, practice, and quality assurance, including but not limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text>A plan for emergency consultation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A plan for transfer of care; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A plan for admission of the client or newborn to a hospital within the client’s geographic area.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Scope of Practice.</heading>
+    <para>
+      <num>A.</num>
+      <text>A licensed certified midwife may perform the following functions:</text>
+      <para>
+        <num>(1)</num>
+        <text>Independent management of clients appropriate to the skill and educational preparation of the licensed certified midwife and the licensed certified midwife's clinical practice guidelines;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Consultation or collaboration with a physician or other health care provider as needed; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Referral of clients with complications beyond the scope of practice of the licensed certified midwife to another licensed health care practitioner, including a licensed physician.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A licensed certified midwife shall keep a record of all cases attended.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A licensed certified midwife has the right and obligation to refuse to perform any delegated medical act, oral or written, if, in the licensed certified midwife’s judgment, it is unsafe or an invalidly prescribed medical act or beyond the competence of the licensed certified midwife, in which case the licensed certified midwife shall immediately notify the delegating physician.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Subject to the hearing provisions of <cite path="|10.01.03">COMAR 10.01.03</cite>, the Department may suspend or revoke a certificate if the individual:</text>
+      <para>
+        <num>(1)</num>
+        <text>Fraudulently or deceptively obtains or attempts to obtain a certificate for a community health worker or for another individual;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Fraudulently or deceptively uses a certificate;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Otherwise fails to meet substantially the standards for certification adopted under this chapter;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Is convicted of or pleads guilty or nolo contendere to a felony or to a crime involving moral turpitude, whether or not any appeal or other proceeding is pending to have the conviction or plea set aside;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Performs the duties of a community health worker while:</text>
+        <para>
+          <num>(a)</num>
+          <text>Under the influence of alcohol; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Using any narcotic or controlled dangerous substance, as defined in <cite doc="Md. Code" path="gcr|5">Criminal Law Article, §5</cite>–101, Annotated Code of Maryland, or other drug that is in excess of therapeutic amounts or without valid medical indication;</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Is disciplined by a licensing or disciplinary authority of any other state or country or convicted or disciplined by a court of any state, territory, or country for an act that would be grounds for suspension or revocation action under this title;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Performs the duties of a certified community health worker with an unauthorized person or supervises or aids an unauthorized person in performing the duties of a certified community health worker;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Willfully makes or files a false report or record while performing the duties of a certified community health worker;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Willfully fails to file or record any report as required under law, willfully impedes or obstructs the filing or recording of the report, or induces another to fail to file or record the report;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Commits an act of unprofessional conduct in performing the duties of a community health worker;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Refuses, withholds from, denies, or discriminates against an individual with regard to the provision of professional services for which the individual is certified and qualified to render because of the individual’s race, sex, creed, color, national origin, marital status, sexual orientation, age, gender identity, or disability; or</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Fails to maintain on file with the Department a current resident address or employment address or notify the Department when the residency or place of employment changes.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Department shall proceed with the suspension or revocation in accordance with the provisions in <cite path="|10.01.03">COMAR 10.01.03</cite>.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The Department shall send written notice of intent to suspend or revoke a certificate to the individual and identify the specific deficiencies.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Within 30 calendar days after receipt of written notice, the individual may submit to the Department:</text>
+      <para>
+        <num>(1)</num>
+        <text>A written plan by the individual to meet the applicable deficiencies; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A written response setting forth documentation that the individual is meeting and maintaining each of the applicable requirements as set forth in this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Based on deficiencies and the individual’s response, if any, the Department may suspend, revoke, or reinstate a certificate.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Appealing the Decision to Suspend or Revoke a Certificate.</text>
+      <para>
+        <num>(1)</num>
+        <text>An individual may appeal the decision to suspend or revoke a certificate by submitting a request in writing to the Department within 30 calendar days of the date on the notice of suspension or revocation of a certificate.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If an individual submits an appeal, the Department, within 60 calendar days, shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Grant or deny the appeal; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Send individual written notice:</text>
+          <para>
+            <num>(i)</num>
+            <text>Indicating whether the appeal has been granted or denied; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Providing an explanation of the decision.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Department may not refund a fee if a certification is suspended or revoked.</text>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>An individual may request a hearing within 10 calendar days after receipt of written notice.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>When the Department receives the request, it will follow hearing procedures in accordance with <cite path="|10.01.03">COMAR 10.01.03</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Compliance.</heading>
+    <text>The certified midwife shall develop and comply with clinical practice guidelines as defined in <cite path="|10|69|01|.01|B.">Regulation .01B of this chapter</cite>.</text>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|69|01|.11">
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Prescribing and Dispensing of Substances by a Licensed Certified Midwife.</heading>
+    <para>
+      <num>A.</num>
+      <text>Pursuant to <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>D-01, Annotated Code of Maryland, a licensed certified midwife may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Prescribe substances commonly used in the practice of midwifery; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Prescribe controlled dangerous substances on Schedules II-V under Criminal Law Article, §§<cite doc="Md. Code" path="gcr|5-403">5-403</cite>—<cite doc="Md. Code" path="gcr|5-406">5-406</cite>, Annotated Code of Maryland, commonly used in the practice of midwifery; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Dispense substances prescribed in accordance with §A(1)—(2)of this regulation in the course of treating a client at a:</text>
+        <para>
+          <num>(a)</num>
+          <text>Nonprofit medical facility or clinic;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Health center operating on the campus of an institution of higher education;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Public health facility;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Medical facility under contract with a State or local health department; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Facility funded with public funds.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A licensed certified midwife who personally prepares and dispenses a drug in the course of treating a client as authorized under <cite path="10|69|01|.11|A.|(3)">§A(3) of this regulation</cite> shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Comply with the labeling requirements of <cite doc="Md. Code" path="gho|12-505">Health Occupations Article, §12-505, Annotated Code of Maryland</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Record the dispensing of the prescription drug on the client's chart;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Allow the Office of Controlled Substances Administration to enter and inspect the licensed certified midwife's office at all reasonable hours in accordance with <cite doc="Md. Code" path="gho|8-508">Health Occupations Article, §8-508, Annotated Code of Maryland</cite> ; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Except for starter dosages or samples dispensed without charge:</text>
+        <para>
+          <num>(a)</num>
+          <text>Provide the client with a written prescription;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Maintain prescription files; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Maintain a separate file for Schedule II prescriptions for a period of at least 7 years.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A licensed certified midwife may personally prepare and dispense a starter dosage of any drug the licensed certified midwife is authorized to prescribe to a client if:</text>
+        <para>
+          <num>(a)</num>
+          <text>The starter dosage complies with the labeling requirements of <cite doc="Md. Code" path="gho|12-505">Health Occupations Article, §12-505, Annotated Code of Maryland</cite>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No charge is made for the starter dosage; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The licensed certified midwife enters an appropriate record in the client’s medical record.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>Unlawful Practices.</heading>
+    <text>Pursuant to <cite doc="Md. Code" path="gho">Health Occupations Article, Title 8, Subtitle 6D, Annotated Code of Maryland</cite>, an individual may not:</text>
+    <para>
+      <num>A.</num>
+      <text>Practice licensed certified midwifery unless licensed under this subtitle  or otherwise permitted by law to engage in those activities;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Use the title “certified midwife” or the abbreviation “CM” unless licensed by the Board with the intent to represent that the individual practices licensed certified midwifery in the State;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Represent to the public by title, description of service, method, procedure, or otherwise that the individual is authorized to practice licensed certified midwifery in this State unless licensed under this subtitle; or</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Advertise in a manner that is unreasonable, misleading, or fraudulent.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Licensure Fees.</heading>
+    <para>
+      <num>A.</num>
+      <text>The fees listed in this regulation are nonrefundable.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The fees are as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Initial application fee—$150;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Biennial renewal fee—$120;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Biennial reinstatement fee—$70;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Verification of licensure fee—$45; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Returned check fee—$30.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Health Care Practitioner User Fee.</text>
+      <para>
+        <num>(1)</num>
+        <text>In addition to a license fee, each licensed certified midwife shall pay a non-refundable health care practitioner user fee assessed by the Maryland Health Care Commission in accordance with Health-General Article, §19-111(b)(4), Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The health care practitioner user fee shall be:</text>
+        <para>
+          <num>(a)</num>
+          <text>In addition to the licensing fee paid to the Board; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Collected with the application for an initial or renewal license.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The amount of the assessed health care practitioner user fee shall be double the amount of the annual health care practitioner user fee for biennial licensure.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Board shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Account for the health care practitioner user fees; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Transfer the health care practitioner user fees to the Maryland Health Care Commission on a quarterly basis.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§ <cite doc="Md. Code" path="gho|8-101">8-101</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-208">8-208</cite>, <cite doc="Md. Code" path="gho|8-508">8-508</cite>, <cite doc="Md. Code" path="gho|8-601">8-601</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|02">02</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>D-01 through 8-6D-15, 8-701, 8-708, and 8-710, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-22">Effective date: February 22, 2026 (52:17 Md. R. 875)</annotation>
+  </annotations>
   <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
 </container>

@@ -3,16 +3,72 @@
   <prefix>Chapter</prefix>
   <num>01</num>
   <heading>General Regulations</heading>
-  <section>
+  <section cache:ref-path="03|01|01|.01">
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Inspection of Public Records.</heading>
     <para>
       <num>A.</num>
-      <text>All public records maintained by the Comptroller, other than those which the Comptroller is authorized or required to hold confidential under the Public Information Act, shall be open for inspection at any time during regular business hours. A person seeking the right to inspect a public record maintained by the Comptroller, other than by means of written request, who is advised by the custodian that the Comptroller is authorized or required to hold the record confidential under the Public Information Act, may pursue his request by making written application to the Comptroller of the Treasury, State Treasury Building, Annapolis, Maryland.AMEND CHANGE!</text>
+      <text>In this regulation, “sociological information” means:</text>
+      <para>
+        <num>(1)</num>
+        <text>Social Security number;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Individual taxpayer identification number;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Federal employer identification number;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Personal street address;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Personal phone number;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Personal e-mail address;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Date of birth;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Information regarding marital status, dependents, or relatives;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Information regarding employment status, including employment application;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Medical or psychiatric history;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Medical assistance;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Educational history; and</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Driver’s license number.</text>
+      </para>
     </para>
     <para>
       <num>B.</num>
+      <text>All public records maintained by the Comptroller, other than those which the Comptroller is authorized or required to hold confidential under the Public Information Act, the Tax-General Article, or other law, shall be open for inspection at any time during regular business hours. A person seeking the right to inspect a public record maintained by the Comptroller, other than by means of written request, who is advised by the custodian that the Comptroller is authorized or required to hold the record confidential under the Public Information Act, may pursue the request by making written application to the Comptroller of the Treasury, State Treasury Building, Annapolis, Maryland.</text>
+    </para>
+    <para>
+      <num>C.</num>
       <text>A person who makes a written request for a public record maintained by the Comptroller shall include in the request:</text>
       <para>
         <num>(1)</num>
@@ -24,7 +80,7 @@
       </para>
     </para>
     <para>
-      <num>C.</num>
+      <num>D.</num>
       <text>As soon as practicable, but not later than 30 days after receipt of the written request for access to any public record, the Comptroller shall either:</text>
       <para>
         <num>(1)</num>
@@ -40,15 +96,15 @@
       </para>
     </para>
     <para>
-      <num>D.</num>
-      <text>The grant of a request for public inspection includes the right to copy the public record or to have it copied by the Comptroller's Office. If the Comptroller grants a request to inspect a public record, in whole or in part, the notice mailed to the applicant shall include the date, time, and place of the inspection, and the name of the employee of his office to be contacted by the applicant for this purpose.</text>
-    </para>
-    <para>
       <num>E.</num>
-      <text>If the Comptroller denies, in whole or in part, a written request for the inspection of a public record in his possession, he shall provide the applicant, within 10 working days of the denial, with a written statement of the grounds for the denial and the remedies available to the applicant for review of his decision.</text>
+      <text>The grant of a request for public inspection includes the right to copy the public record or to have it copied by the Comptroller's Office. If the Comptroller grants a request to inspect a public record, in whole or in part, the notice mailed to the applicant shall include the date, time, and place of the inspection, and the name of the employee of the Comptroller’s office to be contacted by the applicant for this purpose.</text>
     </para>
     <para>
       <num>F.</num>
+      <text>If the Comptroller denies, in whole or in part, a written request for the inspection of a public record in his possession, the Comptroller shall provide the applicant, within 10 working days of the denial, with a written statement of the grounds for the denial and the remedies available to the applicant for review of his decision.</text>
+    </para>
+    <para>
+      <num>G.</num>
       <text>Any time limit set forth in this regulation:</text>
       <para>
         <num>(1)</num>
@@ -60,23 +116,55 @@
       </para>
     </para>
     <para>
-      <num>G.</num>
-      <text>Charges for Copies, Print-Outs, and Photographs.</text>
+      <num>H.</num>
+      <text>Charges for Copies, Print-Outs, Electronic Files and Photographs.</text>
       <para>
         <num>(1)</num>
-        <text>When the duplication is performed by the applicant or by an employee of the Comptroller's Office without supervision by a senior official, on conventional duplicating equipment located in an office of the Comptroller, the charge for copies or photographs of a public record provided pursuant to this regulation shall be 25 cents per page. A charge of 50 cents per page shall be made for copies which the Comptroller is required to make in order to delete privileged or confidential information from public records which an applicant will personally inspect and for copies which must be made under the supervision of a senior official.</text>
+        <text>When the duplication is performed by the applicant or by an employee of the Comptroller's Office without supervision by a senior official, on conventional duplicating equipment located in an office of the Comptroller, the charge for copies or photographs of a public record provided pursuant to this regulation shall be 50 cents per page. A charge of $1 per page shall be made for copies which the Comptroller is required to make in order to delete privileged or confidential information from public records which an applicant will personally inspect and for copies which must be made under the supervision of a senior official.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>If copies or photographs cannot be made on equipment located in the office where the public records are kept, the Comptroller shall cause the copies to be made at a location of his choosing, and shall charge for this service, in addition to charges incurred for duplication, an amount sufficient to reimburse the State for the cost of the time of an employee of his office in supervising this copying.</text>
+        <text>If copies or photographs cannot be made on equipment located in the office where the public records are kept, the Comptroller shall cause the copies to be made at a location of the Comptroller’s choosing, and shall charge for this service, in addition to charges incurred for duplication, an amount sufficient to reimburse the State for the cost of the time of an employee of  the Comptroller’s office in supervising this copying.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>If the Comptroller is required to provide a print-out pursuant to this regulation, he shall determine a reasonable charge for the print-out on a case-by-case basis, taking into account computer time, programming, and material costs.</text>
+        <text>If the Comptroller is required to provide a print-out or electronic file pursuant to this regulation, the Comptroller shall determine a reasonable charge for the print-out or electronic file on a case-by-case basis, taking into account computer time, programming, and material costs.</text>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Except as provided in <cite path="03|01|01|.01|J.">§J of this regulation</cite>, the custodian may not disclose and shall deny a request for inspection or copying of any part of a public record that contains sociological information relating to an individual.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Subject to <cite path="03|01|01|.01|B.">§B of this regulation</cite>, a custodian may disclose sociological information:</text>
+      <para>
+        <num>(1)</num>
+        <text>That is anonymized and aggregated;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To other public officials and employees in the performance of their public duties;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To the person in interest or the agent or representative of the person in interest;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>With the consent of the person in interest;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Pursuant to a duly issued subpoena; or</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Pursuant to a court order.</text>
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-01" doc="Editor Action 2026-01-01" eff="2026-01-01" path="" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-273-F" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -224,15 +312,15 @@
       <text>Definitions. In this regulation, the following terms have the meanings indicated:</text>
       <para>
         <num>(1)</num>
-        <text>"Comptroller" includes any employee of the Comptroller's Office designated as a hearing officer to conduct informal hearings in contested cases.</text>
+        <text>“Comptroller” includes any employee of the Comptroller's Office designated as a hearing officer to conduct informal hearings in contested cases.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>"Person" means an individual or entity that, as a result of action taken by the Comptroller's Office, is entitled to an informal hearing by law or regulation.</text>
+        <text>“Person” means an individual or entity that, as a result of action taken by the Comptroller's Office, is entitled to an informal hearing by law or regulation.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>"Written application" means a written request for a hearing that is submitted to the Hearings and Appeals Section of the Comptroller’s office via U.S. Mail, facsimile, email, or online appeal, or is delivered in person.</text>
+        <text>“Written application” means a written request for a hearing that is submitted to the Hearings and Appeals Section of the Comptroller’s office via U.S. Mail, facsimile, email, or online appeal, or is delivered in person.</text>
       </para>
     </para>
     <para>
@@ -398,7 +486,7 @@
           <text>Emergency Request for Postponement.</text>
           <para>
             <num>(i)</num>
-            <text>For purposes of this paragraph, "emergency" means a sudden, unforeseen occurrence requiring immediate attention which arises within 5 business days of the hearing.</text>
+            <text>For purposes of this paragraph, “emergency” means a sudden, unforeseen occurrence requiring immediate attention which arises within 5 business days of the hearing.</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -656,7 +744,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1979-02-09">Effective date: February 9, 1979 (6:3 Md. R. 148)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-01-31"><cite path="|03|01|01|.01|C.">Regulation .01C</cite>, D amended effective January 31, 1983 (10:2 Md. R. 104)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-01-31"><cite path="|03|01|01|.01|E.">Regulation .01E</cite>, F adopted effective January 31, 1983 (10:2 Md. R. 104)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-01-31" discontinuity="true"><cite path="|03|01|01|.01|C.">Regulation .01C</cite>, D amended effective January 31, 1983 (10:2 Md. R. 104)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-08-06" discontinuity="true">Chapter recodified from <cite path="|03.07.01">COMAR 03.07.01</cite> to <cite path="|03.01.01">03.01.01</cite> and new Regulations .02—.04 adopted effective August 6, 1990 (17:15 Md. R. 1853)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|03|01|01|.01">Regulation .01</cite> amended effective February 16, 2026 (53:3 Md. R. 121)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-05-02"><cite path="|03|01|01|.01|F.">Regulation .01F</cite> amended effective May 2, 2022 (49:9 Md. R. 529)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-01-20"><cite path="|03|01|01|.01|G.">Regulation .01G</cite> amended effective January 20, 1992 (19:1 Md. R. 23)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-01-14"><cite path="|03|01|01|.04">Regulation .04</cite> repealed and new Regulation .04 adopted effective January 14, 1998 (26:1 Md. R. 19)</annotation>
@@ -666,5 +756,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-10-09"><cite path="|03|01|01|.04|B.">Regulation .04B</cite>-1 adopted effective October 9, 2006 (33:20 Md. R. 1611)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-01-14"><cite path="|03|01|01|.05">Regulation .05</cite> adopted effective January 14, 1998 (26:1 Md. R. 19)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-07-01"><cite path="|03|01|01|.06">Regulation .06</cite> adopted as an emergency provision effective July 1, 2003 (30:19 Md. R. 1325); emergency status extended at 30:25 Md. R. 1841; 30:26 Md. R. 1912; emergency status expired June 30, 2004</annotation>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-273-F" type="History" display="false"/>
   </annotations>
 </container>

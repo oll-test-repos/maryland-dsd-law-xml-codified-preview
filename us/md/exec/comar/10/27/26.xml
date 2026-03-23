@@ -42,7 +42,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>“Certificate holder” means an individual who has been issued a certificate by the Board to practice as a certified nursing assistant, or a certified medication technician.</text>
+        <text>“Certificate holder” means an individual who has been issued a certificate by the Board to practice as a certified nursing assistant, a certified dialysis technician, or a certified medication technician.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -136,11 +136,15 @@
           </para>
           <para>
             <num>(iv)</num>
-            <text>An electrologist; or</text>
+            <text>An electrologist;</text>
           </para>
           <para>
             <num>(v)</num>
             <text>A licensed direct-entry midwife; or</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>A licensed certified midwife; or</text>
           </para>
         </para>
         <para>
@@ -154,7 +158,7 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>"Recklessly" means characterized by the creation of a substantial and unjustifiable risk of harm to others and by a conscious, sometimes deliberate, disregard for or indifference to that risk.</text>
+        <text>“Recklessly” means characterized by the creation of a substantial and unjustifiable risk of harm to others and by a conscious, sometimes deliberate, disregard for or indifference to that risk.</text>
       </para>
       <para>
         <num>(8)</num>
@@ -1033,26 +1037,26 @@
         <table>
           <thead>
             <tr>
-              <th rowspan="2" data-width="125000">Severity</th>
-              <th rowspan="2" data-width="375000">Tier/Conduct</th>
-              <th colspan="2" data-width="250000">Sanction Range</th>
-              <th colspan="2" data-width="250000">Monetary Penalty Range</th>
+              <th rowspan="2">Severity</th>
+              <th rowspan="2">Tier/Conduct</th>
+              <th colspan="2">Sanction Range</th>
+              <th colspan="2">Monetary Penalty Range</th>
             </tr>
             <tr>
-              <th data-width="125000">Minimum</th>
-              <th data-width="125000">Maximum</th>
-              <th data-width="125000">Minimum</th>
-              <th data-width="125000">Maximum</th>
+              <th>Minimum</th>
+              <th>Maximum</th>
+              <th>Minimum</th>
+              <th>Maximum</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td data-vertical-align="middle" data-width="125000">N/A</td>
-              <td data-width="375000">Is expelled from the Safe Practice Program established under <cite doc="Md. Code" path="gho|8-208">Health Occupations Article, §8-208, Annotated Code of Maryland</cite>, for failure to comply with the conditions of the program</td>
-              <td data-width="125000">Suspension for 1 year</td>
-              <td data-width="125000">Revocation</td>
-              <td data-width="125000">Licensee $3,000<br/>Certificate Holder $300</td>
-              <td data-width="125000">Licensee $5,000<br/>Certificate Holder $500</td>
+              <td data-vertical-align="middle">N/A</td>
+              <td>Is expelled from the Safe Practice Program established under <cite doc="Md. Code" path="gho|8-208">Health Occupations Article, §8-208, Annotated Code of Maryland</cite>, for failure to comply with the conditions of the program</td>
+              <td>Suspension for 1 year</td>
+              <td>Revocation</td>
+              <td>Licensee $3,000<br/>Certificate Holder $300</td>
+              <td>Licensee $5,000<br/>Certificate Holder $500</td>
             </tr>
           </tbody>
         </table>
@@ -1063,10 +1067,11 @@
     </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-606">1-606</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>(a)(<cite doc="Md. Code" path="gho|1">1</cite>), <cite doc="Md. Code" path="gho|8-316">8-316</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|10">10</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>B-18, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-606">1-606</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>(a)(<cite doc="Md. Code" path="gho|1">1</cite>), <cite doc="Md. Code" path="gho|8-316">8-316</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|10">10</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>B-<cite doc="Md. Code" path="gho|18">18</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>C-<cite doc="Md. Code" path="gho|20">20</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>D-10, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16">Effective date: April 16, 2012 (39:7 Md. R. 492)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-09-10"><cite path="|10|27|26|.02|B.">Regulation .02B</cite> amended effective September 10, 2018 (45:18 Md. R. 834)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-09-10"><cite path="|10|27|26|.07|M.">Regulation .07M</cite> amended effective September 10, 2018 (45:18 Md. R. 834)</annotation>
     <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    <annotation app="2026-02-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
   </annotations>
 </container>

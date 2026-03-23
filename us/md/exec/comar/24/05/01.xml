@@ -37,35 +37,35 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>"Area" means a geographic area within one or more political subdivisions within the State described by a closed perimeter boundary.</text>
+        <text>“Area” means a geographic area within one or more political subdivisions within the State described by a closed perimeter boundary.</text>
       </para>
       <para>
         <num>(2)</num>
         <text>Business Entity.</text>
         <para>
           <num>(a)</num>
-          <text>"Business entity" means a person operating or conducting a trade or business.</text>
+          <text>“Business entity” means a person operating or conducting a trade or business.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Except as provided in <cite doc="Md. Code" path="gtp|9-103">Tax-Property Article, §9-103, Annotated Code of Maryland</cite>, "business entity" does not include a person owning, operating, developing, constructing, or rehabilitating property intended for use primarily as a single or multifamily residential property located within an enterprise zone.</text>
+          <text>Except as provided in <cite doc="Md. Code" path="gtp|9-103">Tax-Property Article, §9-103, Annotated Code of Maryland</cite>, “business entity” does not include a person owning, operating, developing, constructing, or rehabilitating property intended for use primarily as a single or multifamily residential property located within an enterprise zone.</text>
         </para>
       </para>
       <para>
         <num>(3)</num>
-        <text>"Census" means the United States Census of Population.</text>
+        <text>“Census” means the United States Census of Population.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>"Chronic abandonment" means a condition where there is frequent giving up of land or buildings, or both, with no intent to return or reclaim.</text>
+        <text>“Chronic abandonment” means a condition where there is frequent giving up of land or buildings, or both, with no intent to return or reclaim.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>"Department" means the Department of Commerce.</text>
+        <text>“Department” means the Department of Commerce.</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>"Enterprise zone" means an area:</text>
+        <text>“Enterprise zone” means an area:</text>
         <para>
           <num>(a)</num>
           <text>Meeting certain specific requirements and so designated by the Secretary; or</text>
@@ -77,11 +77,11 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>"Enterprise zone incentives" means the financial incentives described in <cite doc="Md. Code" path="gec|5-707">Economic Development Article, §5-707, Annotated Code of Maryland</cite>, for a business entity locating, investing, or expanding in an enterprise zone.</text>
+        <text>“Enterprise zone incentives” means the financial incentives described in <cite doc="Md. Code" path="gec|5-707">Economic Development Article, §5-707, Annotated Code of Maryland</cite>, for a business entity locating, investing, or expanding in an enterprise zone.</text>
       </para>
       <para>
         <num>(8)</num>
-        <text>"Focus area" means an area:</text>
+        <text>“Focus area” means an area:</text>
         <para>
           <num>(a)</num>
           <text>Meeting the requirements of <cite doc="Md. Code" path="gec|5-706">Economic Development Article, §5-706, Annotated Code of Maryland</cite>, and this chapter; and</text>
@@ -93,19 +93,19 @@
       </para>
       <para>
         <num>(9)</num>
-        <text>"Fund" means the Enterprise Zone Venture Capital Guarantee Fund.</text>
+        <text>“Fund” means the Enterprise Zone Venture Capital Guarantee Fund.</text>
       </para>
       <para>
         <num>(10)</num>
-        <text>"Political subdivision" means any county or municipal corporation.</text>
+        <text>“Political subdivision” means any county or municipal corporation.</text>
       </para>
       <para>
         <num>(11)</num>
-        <text>"Secretary" means the Secretary of Commerce.</text>
+        <text>“Secretary” means the Secretary of Commerce.</text>
       </para>
       <para>
         <num>(12)</num>
-        <text>"Submission date" means April 15 and October 15 of any calendar year.</text>
+        <text>“Submission date” means April 15 and October 15 of any calendar year.</text>
       </para>
     </para>
     <annotations/>
@@ -159,21 +159,27 @@
     </para>
     <para>
       <num>G.</num>
-      <text>Within 60 days following any submission date, the Secretary may designate one or more enterprise zones from among the applications submitted.</text>
+      <text>The Secretary shall prioritize applications from political subdivisions that do not have an existing Enterprise Zone designation.</text>
     </para>
     <para>
       <num>H.</num>
-      <text>Before a designation of an enterprise zone, the Secretary shall consult with and ask the advice of the appropriate individuals and advisors.</text>
+      <text>Within 60 days following any submission date, the Secretary may designate one or more enterprise zones from among the applications submitted.</text>
     </para>
     <para>
       <num>I.</num>
-      <text>The designation of an enterprise zone by the Secretary shall constitute the State approval that may be required for designation as an enterprise zone under federal law.</text>
+      <text>Before a designation of an enterprise zone, the Secretary shall consult with and ask the advice of the appropriate individuals and advisors.</text>
     </para>
     <para>
       <num>J.</num>
+      <text>The designation of an enterprise zone by the Secretary shall constitute the State approval that may be required for designation as an enterprise zone under federal law.</text>
+    </para>
+    <para>
+      <num>K.</num>
       <text>With respect to any designated enterprise zone, a political subdivision may not, without the prior approval of the Secretary, modify the standards with which it requires a business entity located in that zone to comply as a precondition to receiving any incentives.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-271-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="24|05|01|.07">
     <prefix>Regulation</prefix>
@@ -250,14 +256,24 @@
       <text>The Secretary may grant an extraordinary expansion of an enterprise zone into any area that:</text>
       <para>
         <num>(1)</num>
-        <text>Meets the requirements of <cite doc="Md. Code" path="gec|5-704">Economic Development Article, §5-704, Annotated Code of Maryland</cite>, and this chapter; and</text>
+        <text>Meets the requirements of <cite doc="Md. Code" path="gec|5-704">Economic Development Article, §5-704, Annotated Code of Maryland</cite>, and this chapter;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>In the determination of the Secretary, has suffered a significant loss of economic base.</text>
+        <text>In the determination of the Secretary, has suffered a significant loss of economic base; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Merits inclusion as an Enterprise Zone for a compelling economic reason as determined by the Secretary.</text>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>F.</num>
+      <text>The Secretary shall prioritize applications for the expansion of an Enterprise Zone.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-271-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -330,7 +346,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>If the geographic area of a proposed expansion area does not exceed 50 percent of the existing geographic area of the enterprise zone, the application for expansion is not considered a new zone request and is not counted as an additional designation of area as an enterprise zone for the appropriate county or counties.</text>
+        <text>If the geographic area of a proposed expansion area does not exceed 25 percent of the existing geographic area of the enterprise zone, the application for expansion is not considered a new zone request and is not counted as an additional designation of area as an enterprise zone for the appropriate county or counties.</text>
       </para>
       <para>
         <num>(7)</num>
@@ -349,7 +365,9 @@
         <text>The Secretary may not grant more than one extraordinary expansion of an enterprise zone throughout the State in any calendar year.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-271-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -500,7 +518,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Are "aggregated categories" that include both violent crimes and crimes against property;</text>
+          <text>Are “aggregated categories” that include both violent crimes and crimes against property;</text>
         </para>
       </para>
       <para>
@@ -574,7 +592,7 @@
     <prefix>Regulation</prefix>
     <num>.18</num>
     <heading>Economically Disadvantaged Individual.</heading>
-    <text>The Secretary has designated the Maryland Department of Labor to certify persons as "economically disadvantaged individuals" for eligibility under <cite doc="Md. Code" path="gtg|10-702">Tax-General Article, §10-702(a)(5), Annotated Code of Maryland</cite>.</text>
+    <text>The Secretary has designated the Maryland Department of Labor to certify persons as “economically disadvantaged individuals” for eligibility under <cite doc="Md. Code" path="gtg|10-702">Tax-General Article, §10-702(a)(5), Annotated Code of Maryland</cite>.</text>
     <annotations/>
   </section>
   <section>
@@ -593,7 +611,12 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" discontinuity="true">Chapter recodified from <cite path="|05.04.04">COMAR 05.04.04</cite> to <cite path="|24.05.01">COMAR 24.05.01</cite></annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-08-03">Chapter revised effective August 3, 1992 (19:15 Md. R. 1394)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-06-26">Chapter revised effective June 26, 2000 (27:12 Md. R. 1142)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|24|05|01|.06">Regulation .06</cite> amended effective March 16, 2026 (53:5 Md. R. 246)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|24|05|01|.08|E.">Regulation .08E</cite> amended effective March 16, 2026 (53:5 Md. R. 246)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|24|05|01|.08|F.">Regulation .08F</cite> adopted effective March 16, 2026 (53:5 Md. R. 246)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-08-13"><cite path="|24|05|01|.10">Regulation .10</cite> amended effective August 13, 2007 (34:16 Md. R. 1433)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|24|05|01|.10|B.">Regulation .10B</cite> amended effective March 16, 2026 (53:5 Md. R. 246)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-12-25"><cite path="|24|05|01|.14|A.">Regulation .14A</cite> amended effective December 25, 2000 (27:25 Md. R. 2284)</annotation>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-271-F" type="History" display="false"/>
   </annotations>
 </container>

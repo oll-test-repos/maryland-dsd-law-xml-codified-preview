@@ -24,13 +24,15 @@
     <text>In this chapter, the following documents are incorporated by reference to the extent that they are referenced in this chapter:</text>
     <para>
       <num>A.</num>
-      <text>The ASTM International Standards on Amusement Rides and Devices: 7th Edition, F2374—04 Standard Practice for Design, Manufacture, Operation, and Maintenance of Inflatable Amusement Devices (2004) (ASTM F2374-04); and</text>
+      <text>The ASTM International Standards on Amusement Rides and Devices: F2374-22 Standard Practice for Design, Manufacture, Operation, and Maintenance of Inflatable Amusement Devices (2022) (ASTM F2374-22), excluding Sections 5.5.5.2(4), 5.12.7.2(2), 5.16.6, 7.5.4.1 reference to 7.9, 7.5.5.3(2), 7.7.4, 7.9, 7.10 &amp; 7.11.1; and</text>
     </para>
     <para>
       <num>B.</num>
-      <text>The National Electrical Code, ANSI/NFPA #70-2005, which is incorporated by reference in <cite path="20.50.02.02">COMAR 20.50.02.02</cite>.</text>
+      <text>The National Electrical Code, ANSI/NFPA #70-2020, which is incorporated by reference in <cite path="20.50.02.02">COMAR 20.50.02.02</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -38,7 +40,7 @@
     <heading>Definitions.</heading>
     <para>
       <num>A.</num>
-      <text>In addition to terms defined in <cite doc="Md. Code" path="gbr|3-101">Business Regulation Article, §3-101, Annotated Code of Maryland</cite>, in this chapter the following terms have the meanings indicated.</text>
+      <text>In addition to terms defined in <cite doc="Md. Code" path="gbr|3-101">Business Regulation Article, §3-101, Annotated Code of Maryland</cite>, in this chapter the following terms have the meanings indicated.</text>
     </para>
     <para>
       <num>B.</num>
@@ -57,11 +59,11 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>“Exit” means a doorway or other opening affording safe and unobstructed egress.</text>
+        <text>“Exit means a doorway or other opening affording safe and unobstructed egress.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>“Fire official” means the authority having jurisdiction in the locality over matters relating to fire prevention and explosion.</text>
+        <text>“Fire official” means the authority having jurisdiction in the locality over matters relating to fire prevention and explosion.</text>
       </para>
       <para>
         <num>(6)</num>
@@ -77,7 +79,7 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>“Inflatable Amusement Attraction Daily Inspection and Daily Pre-Opening Checklist” means the Commissioner of Labor and Industry’s form to be completed by the owner prior to the operation of an inflatable amusement attraction.</text>
+        <text>“Inflatable Amusement Attraction Daily Inspection and Daily Pre-Opening Checklist” means the Commissioner of Labor and Industry’s form to be completed by the owner prior to the operation of an inflatable amusement attraction.</text>
       </para>
       <para>
         <num>(8)</num>
@@ -89,7 +91,7 @@
       </para>
       <para>
         <num>(10)</num>
-        <text>“Qualified person” means a person who has successfully demonstrated the ability to solve or resolve problems related to the subject matter or the work:</text>
+        <text>“Qualified person” means a person who has successfully demonstrated the ability to solve or resolve problems related to the subject matter or the work:</text>
         <para>
           <num>(a)</num>
           <text>By possession of a recognized degree, certificate, or professional standing; or</text>
@@ -101,6 +103,10 @@
       </para>
       <para>
         <num>(11)</num>
+        <text>“Permanently erected inflatable amusement attraction” means an inflatable amusement attraction erected in the same location for more than 30 consecutive days.</text>
+      </para>
+      <para>
+        <num>(12)</num>
         <text>“Rated capacity” means a capacity:</text>
         <para>
           <num>(a)</num>
@@ -112,15 +118,19 @@
         </para>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(13)</num>
         <text>“Safety work order” means a written demand issued by an authorized representative of the Commissioner to perform work that has potential safety impact if not corrected.</text>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(14)</num>
         <text>“Special inflated amusement structure” means a fun house, dark ride, walk through, haunted house, or any other similar inflated amusement attraction that uses air pressure to support the walls and roof of the structure.</text>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(15)</num>
+        <text>“Sustained wind speed” means wind speed determined by averaging observed values over a two-minute period.</text>
+      </para>
+      <para>
+        <num>(16)</num>
         <text>User.</text>
         <para>
           <num>(a)</num>
@@ -128,11 +138,17 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>“User” does not include employees of the inflatable amusement attraction owner while engaged in the duties of their employment.</text>
+          <text>“User” does not include employees of the inflatable amusement attraction owner while engaged in the duties of their employment.</text>
         </para>
       </para>
+      <para>
+        <num>(17)</num>
+        <text>“Wind gust” means a rapid fluctuation of wind speed determined by averaging observed values over a two-minute period.</text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -380,9 +396,25 @@
     </para>
     <annotations/>
   </section>
-  <section cache:ref-path="09|12|66|.09">
+  <section>
     <prefix>Regulation</prefix>
     <num>.09</num>
+    <heading>Applicability of ASTM F2374-22.</heading>
+    <para>
+      <num>A.</num>
+      <text>For an inflatable amusement attraction manufactured after January 1, 2026, in addition to the requirements of this chapter, the requirements of ASTM F2374-22 shall apply.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>For an inflatable amusement attraction manufactured before January 1, 2026, in addition to the requirements of this chapter, ASTM F2374-22 shall apply except Sections 5.5.5, 5.5.5.1, 5.13, and 6.1.3.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="09|12|66|.10">
+    <prefix>Regulation</prefix>
+    <num>.10</num>
     <heading>Operation.</heading>
     <para>
       <num>A.</num>
@@ -402,14 +434,18 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Except as provided in <cite path="09|12|66|.09|C.">§C of this regulation</cite>, an owner shall ensure that an inflatable amusement attraction is operated in accordance with ASTM F2374-04.6.</text>
-    </para>
-    <para>
-      <num>C.</num>
       <text>The owner shall set up and operate an inflatable amusement attraction in accordance with the following:</text>
       <para>
         <num>(1)</num>
-        <text>Inflatable amusement attractions may not be operated when the wind speed is 25 mph or greater;</text>
+        <text>Owner requirements for setting up inflatables amusement attractions.</text>
+        <para>
+          <num>(a)</num>
+          <text>An inflatable amusement attraction shall not be operated when the maximum sustained wind speed is 15 mph or greater; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>When there are wind gusts lasting 3 seconds or longer with wind speed of 25 mph or greater in the immediate area where the inflatable attraction is being operated.</text>
+        </para>
       </para>
       <para>
         <num>(2)</num>
@@ -417,14 +453,10 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Blowers and inflation tubes shall be positioned to prevent kinks or bends in the inflation tube;</text>
+        <text>Blowers and inflation tubes shall be positioned to prevent kinks or bends in the inflation tube; and</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Blowers and inflation tubes may not impede the ingress to or egress from the inflatable amusement attraction; and</text>
-      </para>
-      <para>
-        <num>(5)</num>
         <text>Inflatable amusement attractions shall be anchored or secured in accordance with the manufacturer’s specifications or the following requirements:</text>
         <para>
           <num>(a)</num>
@@ -440,10 +472,22 @@
         </para>
         <para>
           <num>(d)</num>
+          <text>Each anchor must be:</text>
+          <para>
+            <num>(i)</num>
+            <text>At least 1 inch in diameter; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Solid in composition;</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
           <text>Anchors can be straight stakes, screw stakes, ground weights, or sandbag ground anchors, and must comply with the following:</text>
           <para>
             <num>(i)</num>
-            <text>If straight stakes are used, they must range from 30 inches to 42 inches in length with at least 75 percent or more of the length in the ground; and</text>
+            <text>If straight stakes are used, they must be at least 36 inches in length with at least 75 percent or more of the length in the ground; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -451,21 +495,77 @@
           </para>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(f)</num>
           <text>Tie-downs should be attached to a secure device or permanent structure and attached so that they cannot slip off the anchor during use;</text>
         </para>
         <para>
-          <num>(f)</num>
-          <text>Tie-downs should not be attached to motor vehicles; and</text>
+          <num>(g)</num>
+          <text>Tie-downs should not be attached to motor vehicles;</text>
         </para>
         <para>
-          <num>(g)</num>
-          <text>Tie-downs should comply with manufacturer’s specifications or have a minimum tensile strength of 3,700 pounds or 370 pounds safe working load.</text>
+          <num>(h)</num>
+          <text>Tie-downs should comply with manufacturer’s specifications or have a minimum tensile strength of 3,700 pounds or 370 pounds safe working load; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Permanently erected inflatable amusement attractions shall comply with the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>The manufacturer’s specifications;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The requirements of ASTM F2374-22.5.6.9.1;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The requirements in §B(1)—(4) of this regulation; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If erected with stakes or bolts, the stakes or bolts shall be inspected prior to each operation to ensure:</text>
+          <para>
+            <num>(i)</num>
+            <text>Secure anchorage;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>No corrosion of anchorage; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>No debris near anchorage.</text>
+          </para>
         </para>
       </para>
     </para>
     <para>
+      <num>C.</num>
+      <text>Weather conditions and forecast for the zip code area where the inflatable amusement attraction is operated shall be:</text>
+      <para>
+        <num>(1)</num>
+        <text>Set-up monitoring.</text>
+        <para>
+          <num>(a)</num>
+          <text>Monitored prior to set up of the inflatable amusement attraction; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Recorded in a written log as provided for in Regulation .12(D)(1)(b) of this regulation;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Monitored periodically during operations using a National Oceanic and Atmospheric Administration weather radio application or source similar in reliability<em>.</em></text>
+      </para>
+    </para>
+    <para>
       <num>D.</num>
+      <text>Wind speeds shall be monitored prior to the set up of an inflatable amusement attraction and periodically during operation using an anemometer or other reliable method.</text>
+    </para>
+    <para>
+      <num>E.</num>
       <text>Operator, Attendant, and User Operating Requirements.</text>
       <para>
         <num>(1)</num>
@@ -485,31 +585,35 @@
       </para>
     </para>
     <para>
-      <num>E.</num>
+      <num>F.</num>
       <text>General Owner Obligations.</text>
       <para>
         <num>(1)</num>
-        <text>The owner shall have a prohibition on the use of drugs and alcohol for operators and attendants during the performance of their duties.</text>
+        <text>An owner shall comply with ASTM F2374-22.7.4.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The owner shall prevent the use of an inflatable amusement attraction when the attraction is not in operation.</text>
-      </para>
-      <para>
-        <num>(3)</num>
         <text>The owner shall ensure that the amusement attraction is positioned at a location so that the operator has a clear view of the user loading and unloading areas.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(3)</num>
         <text>The owner shall ensure that a designated operator shall operate only one inflatable amusement attraction at a time.</text>
       </para>
     </para>
     <para>
-      <num>F.</num>
+      <num>G.</num>
       <text>Operators.</text>
       <para>
         <num>(1)</num>
-        <text>The owner shall ensure each inflatable amusement attraction is under the direct control of an operator who has been trained in the operation of the assigned inflatable amusement attraction.</text>
+        <text>The owner shall ensure each inflatable amusement attraction:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is under the direct control of an operator who has been trained in the operation of the assigned inflatable amusement attraction; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Has the appropriate number of operators in the appropriate locations as provided for by the manufacturer’s specifications.</text>
+        </para>
       </para>
       <para>
         <num>(2)</num>
@@ -532,16 +636,20 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>Has control of the inflatable amusement attraction at all times; and</text>
+          <text>Has control of the inflatable amusement attraction at all times;</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>Enforces applicable restrictions.</text>
+          <text>Enforces applicable restrictions; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Has no other distractions from the operator’s responsibilities.</text>
         </para>
       </para>
     </para>
     <para>
-      <num>G.</num>
+      <num>H.</num>
       <text>Operator and Attendant Identification.</text>
       <para>
         <num>(1)</num>
@@ -565,83 +673,35 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Before issuing any identification, the owner shall train the operator and the attendant in accordance with <cite path="09|12|66|.09|H.">§H of this regulation</cite>.</text>
-      </para>
-    </para>
-    <para>
-      <num>H.</num>
-      <text>Operator and Attendant Training.</text>
-      <para>
-        <num>(1)</num>
-        <text>The owner shall provide training to each operator and attendant of an inflatable amusement attraction.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>An owner shall train operators and attendants in the following:</text>
-        <para>
-          <num>(a)</num>
-          <text>Specific inflatable amusement attraction operational policies and procedures consistent with the manufacturer’s instructions;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Specific duties and responsibilities of the operator and the attendant;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Emergency procedures in the event of an abnormal condition, interruption of power, or severe environmental conditions;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Instructions on general safety procedures; and</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Additional instructions considered necessary by the owner.</text>
-        </para>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>As part of the training, the owner shall observe and document each operator’s and attendant’s ability to operate an inflatable amusement attraction.</text>
+        <text>Before issuing any identification, the owner shall train the operator and the attendant in accordance with <cite path="09|12|66|.10|I.">§I of this regulation</cite>.</text>
       </para>
     </para>
     <para>
       <num>I.</num>
-      <text>Daily Inspection Program.</text>
+      <text>Operator and Attendant Training.</text>
       <para>
         <num>(1)</num>
-        <text>The owner shall ensure that each inflatable amusement attraction is inspected and tested by a qualified person each day before operation, with a daily preopening inspection program that complies with this subsection.</text>
+        <text>An owner shall comply with the requirements of ASTM F2374-22.7.8 regarding operator and attendant training;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The daily preopening inspection program shall include, but not be limited to, the following:</text>
-        <para>
-          <num>(a)</num>
-          <text>Inspection and testing of all user-carrying devices, including tie-downs, anchors, blowers, and electrical systems;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Inspection and testing of all automatic and manual safety devices;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Inspection and testing of control devices, and other equipment provided for safety;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Visual inspection of all fencing, gates, and guardrails;</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Visual inspection of the inflatable amusement attraction structure, supports, electrical components, and wiring;</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>Inspection of entrances, exits, stairways, ramps, and the area surrounding the inflatable amusement attraction; and</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>Confirmation of functioning communication system and, where necessary, testing of all communication equipment.</text>
-        </para>
+        <text>An operator or attendant shall be trained on how to monitor the local weather including assessing the wind speeds using an anemometer or other reliable method; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The owner of an inflatable amusement attraction shall ensure that the Inflatable Amusement Attraction Daily Inspection and Daily Pre-Opening Checklist is properly filled out and signed at the completion of the daily pre-opening program.</text>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Daily Inspection Program.</text>
+      <para>
+        <num>(1)</num>
+        <text>An owner shall comply with the requirements of ASTM F2374-22.7.7, except §7.7.4.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Worn and damaged components shall be repaired or replaced immediately and before operation.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -651,26 +711,24 @@
         <num>(4)</num>
         <text>A copy of the Inflatable Amusement Attraction Daily Inspection and Daily Pre-Opening Checklist shall be provided to the Commissioner on request.</text>
       </para>
-      <para>
-        <num>(5)</num>
-        <text>Worn and damaged components shall be repaired or replaced immediately and before operation.</text>
-      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="09|12|66|.10">
+  <section cache:ref-path="09|12|66|.11">
     <prefix>Regulation</prefix>
-    <num>.10</num>
+    <num>.11</num>
     <heading>Injury Reporting and Recording.</heading>
     <para>
       <num>A.</num>
       <text>Injury Reporting.</text>
       <para>
         <num>(1)</num>
-        <text>Whenever a death, in-patient hospitalization, amputation, compound fracture, broken tooth, or loss of an eye occurs during the use of an amusement attraction:</text>
+        <text>Whenever a death, in-patient hospitalization, amputation, compound fracture, broken tooth, or loss of an eye occurs during the use of an inflatable amusement attraction:</text>
         <para>
           <num>(a)</num>
-          <text>The person who directly controls the operation of the amusement attraction shall immediately close the amusement attraction until it has been inspected by the Commissioner; and</text>
+          <text>The person who directly controls the operation of the inflatable amusement attraction shall immediately close the inflatable amusement attraction until it has been inspected by the Commissioner; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -689,7 +747,7 @@
           </para>
           <para>
             <num>(iv)</num>
-            <text>Name and manufacturer of the amusement attraction;</text>
+            <text>Name and manufacturer of the inflatable amusement attraction;</text>
           </para>
           <para>
             <num>(v)</num>
@@ -701,13 +759,13 @@
           </para>
           <para>
             <num>(vii)</num>
-            <text>Name, address, and phone number of the amusement attraction operator and attendants.</text>
+            <text>Name, address, and phone number of the inflatable amusement attraction operator and attendants.</text>
           </para>
         </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>If an owner is unaware of the condition of a member of the public injured during the operation of an amusement attraction who was transported away from the premises by an emergency response vehicle, the owner shall report verbally to the Commissioner within 24 hours the information required in <cite path="09|12|66|.10|A.|(1)|(b)">§A(1)(b) of this regulation</cite>.</text>
+        <text>If an owner is unaware of the condition of a member of the public injured during the operation of an inflatable amusement attraction who was transported away from the premises by an emergency response vehicle, the owner shall report verbally to the Commissioner within 24 hours the information required in <cite path="09|12|66|.11|A.|(1)|(b)">§A(1)(b) of this regulation</cite>.</text>
       </para>
     </para>
     <para>
@@ -715,7 +773,7 @@
       <text>Injury Recording.</text>
       <para>
         <num>(1)</num>
-        <text>In addition to the reporting requirements of <cite path="09|12|66|.10|A.">§A of this regulation</cite>, all owners shall maintain an injury log of all injuries to the public that occur during use of amusement attractions that require medical treatment by a physician other than one-time first aid and does not include:</text>
+        <text>In addition to the reporting requirements of <cite path="09|12|66|.11|A.">§A of this regulation</cite>, all owners shall maintain an injury log of all injuries to the public that occur during use of inflatable amusement attractions that require medical treatment by a physician other than one-time first aid and does not include:</text>
         <para>
           <num>(a)</num>
           <text>An injury that does not ordinarily require medical treatment, such as a minor burn, splinter, contusion, scratch, or cut not requiring stitches; or</text>
@@ -746,7 +804,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>Type of amusement attraction;</text>
+          <text>Type of inflatable amusement attraction;</text>
         </para>
         <para>
           <num>(f)</num>
@@ -771,34 +829,36 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Each injury required under this section and <cite path="09|12|66|.10|A.">§A of this regulation</cite>, shall be recorded on the injury log within 7 calendar days and updated as additional required information becomes available.</text>
+        <text>Each injury required under this section and <cite path="09|12|66|.11|A.">§A of this regulation</cite>, shall be recorded on the injury log within 7 calendar days and updated as additional required information becomes available.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>A copy of a sample injury log is available on the Department’s webpage.</text>
+        <text>A copy of a sample injury log is available on the Department's webpage.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>An owner shall maintain injury logs on a calendar year basis beginning January 1, 2023.</text>
+        <text>An owner shall maintain injury logs on a calendar year basis.</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>Beginning January 1, 2024, an owner shall certify the completeness and accuracy of the information contained on the injury log by January 15 of the following calendar year.</text>
+        <text>An owner shall certify the completeness and accuracy of the information contained on the injury log by January 15 of the following calendar year.</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>Beginning January 1, 2023, an owner shall provide access to prior years’, and the portion completed for the current year, injury log to the Commissioner.</text>
+        <text>An owner shall provide access to prior years', and the portion completed for the current year, injury log to the Commissioner.</text>
       </para>
       <para>
         <num>(8)</num>
         <text>Each owner shall maintain, and make available for inspection by the Commissioner, an injury log for 5 years.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.11</num>
+    <num>.12</num>
     <heading>Records and Reports.</heading>
     <para>
       <num>A.</num>
@@ -860,29 +920,61 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>Written Logs.</text>
+      <para>
+        <num>(1)</num>
+        <text>An owner shall ensure that a written log is maintained and:</text>
+        <para>
+          <num>(a)</num>
+          <text>Written log requirements:</text>
+          <para>
+            <num>(i)</num>
+            <text>Contain any reports from riders complaining of adverse physical effects or operating inconsistencies occurring during the operation of an amusement attraction; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Are submitted to the Commissioner when multiple reports of a particular nature may indicate a pattern are shown in the log; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Contains weather reports that reflect review of the weather forecast prior to each set up of the inflatable amusement attraction including the date, time, location of operation, and description of weather conditions.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A copy of the written logs required by this section shall be made available to the Commissioner upon request.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="09|12|66|.12">
+  <section cache:ref-path="09|12|66|.13">
     <prefix>Regulation</prefix>
-    <num>.12</num>
+    <num>.13</num>
     <heading>Design Criteria.</heading>
     <para>
       <num>A.</num>
-      <text>An owner shall ensure that an inflatable amusement attraction is designed and manufactured in accordance with the criteria set forth in ASTM F2374-04.5.</text>
+      <text>An owner shall ensure that an inflatable amusement attraction is designed and manufactured in accordance with <cite path="|09|12|66|.09">Regulation .09 of this chapter</cite>.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Upon request, an owner shall provide the Commissioner with information to document compliance with <cite path="09|12|66|.12|A.">§A of this regulation</cite>.</text>
+      <text>Upon request, an owner shall provide the Commissioner with information to document compliance with <cite path="09|12|66|.13|A.">§A of this regulation</cite>.</text>
     </para>
     <para>
       <num>C.</num>
       <text>Copies of all documents provided to the Commissioner shall be in English.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.13</num>
+    <num>.14</num>
     <heading>Access, Egress, and Walking Surfaces.</heading>
     <para>
       <num>A.</num>
@@ -896,56 +988,45 @@
       <num>C.</num>
       <text>If there is the potential for exposure to a fall distance exceeding 30 inches, the owner shall take steps to prevent such falls.</text>
     </para>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.14</num>
-    <heading>Signage.</heading>
-    <para>
-      <num>A.</num>
-      <text>When a manufacturer or the Commissioner requires a restriction on the use of an inflatable amusement attraction, such as the age or weight of a user, a legible sign indicating the restriction shall be posted in full view of individuals seeking admission to the inflatable amusement attraction.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>The location of the sign shall be:</text>
-      <para>
-        <num>(1)</num>
-        <text>At the location specified by the manufacturer;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>At the entrance of the inflatable amusement attraction; or</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Close to the inflatable amusement attraction.</text>
-      </para>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.15</num>
+    <heading>Signage.</heading>
+    <text>An owner shall comply with the signage requirements of ASTM F2374-22.7.5.4 excluding “such as, but not limited to, those listed in 7.9” in Section 7.5.4.1.</text>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="09|12|66|.16">
+    <prefix>Regulation</prefix>
+    <num>.16</num>
     <heading>General Environment.</heading>
     <para>
       <num>A.</num>
-      <text>All manufacturer wind-related and weather-related restrictions shall be complied with.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>In the event of lightning, winds gusting in excess of 25 mph, a tornado watch, a severe storm predicted within a 5 mile radius, fire, or other disturbance, an owner shall implement the following:</text>
+      <text>Weather-Related and Environmental Condition Restrictions.</text>
       <para>
         <num>(1)</num>
-        <text>Users shall be unloaded or evacuated safely from the inflatable amusement attraction immediately; and</text>
+        <text>Except as provided in <cite path="09|12|66|.16|A.|(2)">§A(2) of this regulation</cite>, all manufacturer weather-related and environmental condition restrictions shall be complied with; and.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The inflatable amusement attraction shall be closed and secured immediately.</text>
+        <text>In the event of lightning, maximum sustained wind speed in excess of 15 mph, or wind gusts lasting 3 seconds or longer with wind speed of 25 mph or greater in the immediate area where the inflatable amusement attraction is operating, a tornado watch, a severe storm predicted within a 5 mile radius, fire, or other disturbance, an owner shall implement the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Users shall be unloaded or evacuated safely from the inflatable amusement attraction immediately; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The inflatable amusement attraction shall be closed and secured immediately.</text>
+        </para>
       </para>
     </para>
     <para>
-      <num>C.</num>
+      <num>B.</num>
       <text>Illumination.</text>
       <para>
         <num>(1)</num>
@@ -956,11 +1037,13 @@
         <text>For the assembly and disassembly of inflatable amusement attractions, all work areas shall be illuminated to provide adequate visibility.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.16</num>
+    <num>.17</num>
     <heading>Fire Protection.</heading>
     <para>
       <num>A.</num>
@@ -983,7 +1066,7 @@
       <text>Fire Extinguishers.</text>
       <para>
         <num>(1)</num>
-        <text>An owner shall provide at least one portable fire extinguisher listed and labeled with a 10-B:C rating.</text>
+        <text>An owner shall provide at least one portable fire extinguisher listed and labeled with a ABC rating, as defined by the National Electrical Code, ANSI/NFPA #70, of not less than 10 pound capacity rating.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -998,11 +1081,13 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="09|12|66|.17">
+  <section cache:ref-path="09|12|66|.18">
     <prefix>Regulation</prefix>
-    <num>.17</num>
+    <num>.18</num>
     <heading>Equipment and Materials.</heading>
     <para>
       <num>A.</num>
@@ -1061,7 +1146,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>If a portable electric generator does not comply with <cite path="09|12|66|.17|B.|(1)">§B(1) of this regulation</cite>, the owner shall ensure that a grounding electrode, such as a ground rod, is used for any fault current.</text>
+        <text>If a portable electric generator does not comply with <cite path="09|12|66|.18|B.|(1)">§B(1) of this regulation</cite>, the owner shall ensure that a grounding electrode, such as a ground rod, is used for any fault current.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1080,31 +1165,17 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.18</num>
+    <num>.19</num>
     <heading>Location and Operation.</heading>
     <para>
       <num>A.</num>
-      <text>Assembly and Disassembly.</text>
-      <para>
-        <num>(1)</num>
-        <text>The assembly and disassembly of an inflatable amusement attraction shall be performed:</text>
-        <para>
-          <num>(a)</num>
-          <text>In accordance with the manufacturer’s procedures and specifications; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Using only manufacturer specified components, fasteners, tools, replacement parts, and materials.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>During assembly, parts shall be closely inspected to discover excessively worn or damaged parts.</text>
-      </para>
+      <text>In addition to the requirements set forth in this section, an owner shall comply with the installation requirements set forth in ASTM F2374.22.7562-7.5.6.10.</text>
     </para>
     <para>
       <num>B.</num>
@@ -1114,19 +1185,19 @@
         <text>Placement of the inflatable amusement attraction at the location where it is to be operated shall ensure that:</text>
         <para>
           <num>(a)</num>
-          <text>The inflatable amusement attraction will be on a level and stable surface;</text>
-        </para>
-        <para>
-          <num>(b)</num>
           <text>The inflatable amusement attraction is compliant with manufacturer specifications;</text>
         </para>
         <para>
+          <num>(b)</num>
+          <text>The inflatable amusement attraction is on a level and stable surface after consideration of slope, topography and surface type;</text>
+        </para>
+        <para>
           <num>(c)</num>
-          <text>There is continuous pedestrian traffic flow; and</text>
+          <text>The inflatable amusement attraction is not placed in a public right of way and away from motor vehicle traffic; and</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>It is accessible by emergency personnel.</text>
+          <text>The inflatable amusement attraction is accessible by emergency personnel.</text>
         </para>
       </para>
       <para>
@@ -1145,7 +1216,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>Trash; and</text>
+            <text>Free from debris; and</text>
           </para>
           <para>
             <num>(iii)</num>
@@ -1163,53 +1234,23 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Except for conductors supplying power to the device, an inflatable amusement attraction may not operate under or within 15 feet of any power lines.</text>
+        <text>Except for conductors supplying power to the device, an inflatable amusement attraction may not operate under or within 15 feet of any power lines, utilities, roads, cliffs, or bodies of water.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.19</num>
+    <num>.20</num>
     <heading>Electrical Requirements.</heading>
     <para>
       <num>A.</num>
-      <text>Electrical systems, conductors, and equipment installed on or used in conjunction with inflatable amusement attractions shall conform to the requirements of the National Electrical Code, ANSI/NFPA #70-2005.</text>
+      <text>In addition to the requirements set forth in this section, an owner shall comply with the installation requirements set forth in ASTM F2374-22.2.16.4.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Each owner shall ensure that electrical systems required to operate the inflatable amusement attractions are maintained by a qualified person.</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>Wiring Methods.</text>
-      <para>
-        <num>(1)</num>
-        <text>Flexible cords used with temporary and portable lights and extension cord sets used in conjunction with inflatable amusement attractions shall be:</text>
-        <para>
-          <num>(a)</num>
-          <text>Suitable for location (physical damage);</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Suitable for use (outdoor);</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Suitable for voltage (insulation rating); and</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Adequate for ampacity (conductor size).</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Flexible cords and extension cord sets shall be continuous without splice or tap between connectors.</text>
-      </para>
-    </para>
-    <para>
-      <num>D.</num>
       <text>Lighting systems. Lighting systems, including fluorescent lighting systems, shall be:</text>
       <para>
         <num>(1)</num>
@@ -1224,18 +1265,22 @@
         <text>Capable of containing the pieces of a broken light should breakage occur.</text>
       </para>
     </para>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.20</num>
-    <heading>Rules of Procedure for Hearings.</heading>
-    <text>All contested case hearings before the Commissioner shall be governed by <cite path="|09.01.02">COMAR 09.01.02</cite>.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.21</num>
+    <heading>Rules of Procedure for Hearings.</heading>
+    <text>All contested case hearings before the Commissioner shall be governed by <cite path="|09.01.02">COMAR 09.01.02</cite>.</text>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.22</num>
     <heading>Variances.</heading>
     <para>
       <num>A.</num>
@@ -1353,13 +1398,18 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Business Regulation Article, §§<cite doc="Md. Code" path="gbr|3-204">3-204</cite>(c), <cite doc="Md. Code" path="gbr|3-307">3-307</cite>—<cite doc="Md. Code" path="gbr|3-313">3-313</cite> and <cite doc="Md. Code" path="gbr|3-402">3-402</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Emergency Action" dest="container">53:6  26-005-E  (Regulations .02, .03, .09 — .22) EMERGENCY ACTION IN EFFECT 3/4/2026 — 8/31/2026</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-01-21">Effective date: January 21, 2013 (40:1 Md. R. 20)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-11-01"><cite path="|09|12|66|.01|B.">Regulation .01B</cite> amended effective November 1, 2022 (49:21 Md. R. 951)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-11-01"><cite path="|09|12|66|.03|B.">Regulation .03B</cite> amended effective November 1, 2022 (49:21 Md. R. 951)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-11-01"><cite path="|09|12|66|.10">Regulation .10</cite> amended effective November 1, 2022 (49:21 Md. R. 951)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-04" discontinuity="true">Chapter revised as an emergency provision effective March 4, 2026 (53:6 Md. R. 285)</annotation>
+    <annotation app="2026-03-04" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|emergency|26-005-E-I" type="History" display="false"/>
   </annotations>
 </container>

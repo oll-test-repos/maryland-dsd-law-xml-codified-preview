@@ -328,7 +328,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Expires 18 months after the day that conditional license was issued or at the end of an extension granted by the Administration.</text>
+          <text>Expires 24 months after the day that conditional license was issued or at the end of an extension granted by the Administration.</text>
         </para>
       </para>
       <para>
@@ -452,7 +452,7 @@
         <text>Fails to become licensed and operational within:</text>
         <para>
           <num>(a)</num>
-          <text>18 months after the day the conditional license was issued; or</text>
+          <text>24 months after the day the conditional license was issued; or</text>
         </para>
         <para>
           <num>(b)</num>
@@ -526,7 +526,7 @@
     </para>
     <para>
       <num>F.</num>
-      <text>The Administration may suspend, fine, restrict, or revoke a license if:</text>
+      <text>The Administration may suspend, fine, restrict, or revoke a license, including a conditional license, if:</text>
       <para>
         <num>(1)</num>
         <text>A licensee has fraudulently or deceptively submitted written documentation to the Administration;</text>
@@ -544,7 +544,9 @@
         <text>It is determined that a licensee has not complied with statements in the application, including statements about standards of operation or employment practices related to diversity, equity, and inclusion.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|17|05|.06">
     <prefix>Regulation</prefix>
@@ -674,6 +676,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-01">Regulations <cite path="|14|17|05|.01">.01</cite>—<cite path="|14|17|05|.08">.08</cite> adopted as an emergency provision effective July 1, 2023 (50:14 Md. R. 559); emergency status expired June 30, 2024</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-07">Regulations <cite path="|14|17|05|.01">.01</cite>—<cite path="|14|17|05|.08">.08</cite> adopted as an emergency provision effective June 7, 2024 (51:14 Md. R. 676)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22">Regulations <cite path="|14|17|05|.01">.01</cite>—<cite path="|14|17|05|.08">.08</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|05|.05">Regulation .05</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|05|.05">Regulation .05</cite> amended effective April 14, 2025 (52:7 Md. R. 324); March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
   </annotations>
 </container>

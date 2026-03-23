@@ -9,7 +9,7 @@
     <heading>Initial Registration as Broker-Dealer.</heading>
     <para>
       <num>A.</num>
-      <text>Scope. This regulation governs applications for initial registration as a broker-dealer in Maryland. APPENDED CHANGE!</text>
+      <text>Scope. This regulation governs applications for initial registration as a broker-dealer in Maryland.</text>
     </para>
     <para>
       <num>B.</num>
@@ -75,11 +75,7 @@
         <text>The applicant has submitted any other information the Commissioner has requested.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
-      <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
-      <annotation app="2026-01-21" doc="Editor Action 2026-01-21" eff="2026-01-21" path="" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -170,7 +166,7 @@
         <text>The application shall contain:</text>
         <para>
           <num>(a)</num>
-          <text>A statement or certificate showing compliance with or exemption from the examination requirement of <cite path="|02|02|02|.06" proof="needed">Regulation .06 of this chapter</cite>;</text>
+          <text>A statement or certificate showing compliance with or exemption from the examination requirement of <cite path="|02|02|02|.06">Regulation .06 of this chapter</cite>;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -187,7 +183,7 @@
       <text>Completion of Filing. An application for initial registration as an agent is not considered filed for purposes of the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-405">Corporations and Associations Article, §11-405, Annotated Code of Maryland</cite>, until:</text>
       <para>
         <num>(1)</num>
-        <text>The applicant has complied with the examination requirement of <cite path="|02|02|02|.06" proof="needed">Regulation .06 of this chapter</cite>;</text>
+        <text>The applicant has complied with the examination requirement of <cite path="|02|02|02|.06">Regulation .06 of this chapter</cite>;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -198,10 +194,7 @@
         <text>The applicant has submitted any other information the Commissioner has requested.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
-      <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -258,11 +251,11 @@
       <text>Examination Requirement. An applicant for registration as a broker-dealer or as a broker-dealer agent in Maryland shall:</text>
       <para>
         <num>(1)</num>
-        <text>Pass, with a score of 70 percent or better, the appropriate examination designated in <cite path="02|02|02|.06|B." proof="needed">§B of this regulation</cite> within 2 years before the date of application; or</text>
+        <text>Pass, with a score of 70 percent or better, the appropriate examination designated in <cite path="02|02|02|.06|B.">§B of this regulation</cite> within 2 years before the date of application; or</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Qualify for an exemption from the examination requirement under <cite path="02|02|02|.06|C." proof="needed">§C of this regulation</cite>.</text>
+        <text>Qualify for an exemption from the examination requirement under <cite path="02|02|02|.06|C.">§C of this regulation</cite>.</text>
       </para>
     </para>
     <para>
@@ -281,10 +274,7 @@
         <text>Has been continuously engaged in the securities business for a period of at least 2 years immediately preceding the date of application.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
-      <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -330,7 +320,7 @@
     <heading>Financial Requirements for Broker-Dealers.</heading>
     <para>
       <num>A.</num>
-      <text>Terms Defined. For purposes of the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-409">Corporations and Associations Article, §11-409, Annotated Code of Maryland</cite>, and this regulation, the terms "net capital" and "aggregate indebtedness" have the meanings stated in 17 CFR §240.15c3-1 (SEC Rule 15c3-1, Net Capital Requirements for Brokers and Dealers), which is incorporated by reference.</text>
+      <text>Terms Defined. For purposes of the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-409">Corporations and Associations Article, §11-409, Annotated Code of Maryland</cite>, and this regulation, the terms “net capital” and “aggregate indebtedness” have the meanings stated in 17 CFR §240.15c3-1 (SEC Rule 15c3-1, Net Capital Requirements for Brokers and Dealers), which is incorporated by reference.</text>
     </para>
     <para>
       <num>B.</num>
@@ -353,17 +343,14 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>A registered broker-dealer that deals exclusively in securities exempt under the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-601">Corporations and Associations Article, §11-601(1) </cite>or (2), Annotated Code of Maryland, is exempt from the requirement of <cite path="02|02|02|.08|C.|(1)|(b)" proof="needed">§C(1)(b) of this regulation</cite>.</text>
+        <text>A registered broker-dealer that deals exclusively in securities exempt under the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-601">Corporations and Associations Article, §11-601(1) </cite>or (2), Annotated Code of Maryland, is exempt from the requirement of <cite path="02|02|02|.08|C.|(1)|(b)">§C(1)(b) of this regulation</cite>.</text>
       </para>
     </para>
     <para>
       <num>D.</num>
       <text>Exemption. The Commissioner by order may exempt a registered broker-dealer from the requirements of this regulation.</text>
     </para>
-    <annotations>
-      <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
-      <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="02|02|02|.09">
     <prefix>Regulation</prefix>
@@ -386,7 +373,7 @@
       <text>Filing of Reports.</text>
       <para>
         <num>(1)</num>
-        <text>Time for Filing. A broker-dealer required to file a financial statement under <cite path="02|02|02|.09|C." proof="needed">§C of this regulation</cite> shall file the financial statement within 45 days after the end of the broker-dealer's fiscal year.</text>
+        <text>Time for Filing. A broker-dealer required to file a financial statement under <cite path="02|02|02|.09|C.">§C of this regulation</cite> shall file the financial statement within 45 days after the end of the broker-dealer's fiscal year.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -405,10 +392,7 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
-      <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -427,11 +411,9 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gca|11-203">Corporations and Associations Article, §11-203, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1965-06-01">Effective date: June 1, 19652</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-01-17">Regulations <cite path="|02|02|02|.01" proof="needed">.01</cite>—<cite path="|02|02|02|.06" proof="needed">.06</cite> and new Regulations <cite path="|02|02|02|.01" proof="needed">.01</cite>—<cite path="|02|02|02|.10" proof="needed">.10</cite> adopted effective January 17, 1994 (21:1 Md. R. 26)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-06-15"><cite path="|02|02|02|.01|B." proof="needed">Regulation .01B</cite>, D amended effective June 15, 1998 (25:12 Md. R. 944)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-06-15"><cite path="|02|02|02|.04|B." proof="needed">Regulation .04B</cite>, D amended effective June 15, 1998 (25:12 Md. R. 944)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-06-15"><cite path="|02|02|02|.08|B." proof="needed">Regulation .08B</cite>, C amended effective June 15, 1998 (25:12 Md. R. 944)</annotation>
-    <annotation app="2025-10-24" doc="Editor Action 2025-12-07" eff="2025-10-24" path="" type="History" display="false"/>
-    <annotation app="2025-12-19" doc="Maryland Register, Volume 50, Issue 01" eff="2025-12-19" path="regulations|final|101-25-F" type="History" display="false"/>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-01-17">Regulations <cite path="|02|02|02|.01">.01</cite>—<cite path="|02|02|02|.06">.06</cite> and new Regulations <cite path="|02|02|02|.01">.01</cite>—<cite path="|02|02|02|.10">.10</cite> adopted effective January 17, 1994 (21:1 Md. R. 26)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-06-15"><cite path="|02|02|02|.01|B.">Regulation .01B</cite>, D amended effective June 15, 1998 (25:12 Md. R. 944)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-06-15"><cite path="|02|02|02|.04|B.">Regulation .04B</cite>, D amended effective June 15, 1998 (25:12 Md. R. 944)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-06-15"><cite path="|02|02|02|.08|B.">Regulation .08B</cite>, C amended effective June 15, 1998 (25:12 Md. R. 944)</annotation>
   </annotations>
 </container>

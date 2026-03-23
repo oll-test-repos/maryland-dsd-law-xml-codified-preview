@@ -620,11 +620,11 @@
       <text>Standards — General.</text>
       <para>
         <num>(1)</num>
-        <text>Personnel Qualifications. An individual performing one or more laboratory tests shall meet the applicable qualifications set forth in 42 CFR §493.1489.</text>
+        <text>Personnel Qualifications. An individual performing one or more laboratory tests shall meet the applicable qualifications set forth in 42 CFR §493.1423.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Responsibilities. Testing personnel shall carry out the responsibilities set forth in 42 CFR §493.1495.</text>
+        <text>Responsibilities. Testing personnel shall carry out the responsibilities set forth in 42 CFR §493.1425.</text>
       </para>
     </para>
     <para>
@@ -641,7 +641,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Standards — Blood Gas Analysis—Personnel Qualifications. Personnel performing blood gas analyses shall:</text>
+      <text>Standards — Blood Gas Analysis — Personnel Qualifications. Personnel performing blood gas analyses shall:</text>
       <para>
         <num>(1)</num>
         <text>Meet the standards set forth in 42 CFR §493.1489; or</text>
@@ -651,7 +651,9 @@
         <text>Complete a 1-year certificate program in respiratory care.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§17-202, 17-203, 17-206, Annotated Code of Maryland</annotation>
@@ -660,5 +662,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|07|.03">Regulation .03</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|07|.05">Regulation .05</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|07|.05|B.">Regulation .05B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|07|.07|B.">Regulation .07B</cite> amended effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
+    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
   </annotations>
 </container>

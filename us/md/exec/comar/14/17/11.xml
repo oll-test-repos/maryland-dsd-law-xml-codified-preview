@@ -264,7 +264,15 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>A licensed processor shall follow the process for receiving cannabis established in this regulation.</text>
+          <text>A licensed processor shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>After placing an order to acquire hemp and before accepting delivery of hemp, submit a request for Administration approval to acquire hemp in the manner specified by the Administration.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Follow the process for receiving cannabis established in this regulation.</text>
+          </para>
         </para>
       </para>
     </para>
@@ -368,7 +376,9 @@
         <text>A processor shall maintain an accurate log of cleaning and sanitation required under <cite path="14|17|11|.03|E.|(1)">§E(1) of this regulation</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -522,7 +532,57 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>E.</num>
+      <text>Correction and Prevention Action.</text>
+      <para>
+        <num>(1)</num>
+        <text>If a processor’s test results indicate the confirmed presence of a pathogen more than once in a 60-day period, the processor shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Conduct environmental swab testing as required by the Administration’s Technical Authority;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Conduct an investigation to determine the root cause of contamination;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Decontaminate all areas, including rooms, equipment, and surfaces used for cannabis product processing;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Provide, in the manner designated by the Administration:</text>
+          <para>
+            <num>(i)</num>
+            <text>A report of the investigation; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The licensee’s corrective action plan; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>If applicable, update and implement standard operating procedures needed to ensure passing samples in the future.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Administration may require a processor to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Conduct further investigation; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Implement additional procedures to prevent future contamination.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2197,7 +2257,13 @@
       <num>C.</num>
       <text>The processor shall maintain a log of all visitors for 2 years.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>A firefighter, a rescue squad member, law enforcement officer, or emergency medical services personnel who is actively responding to a call for emergency services is not subject to §A(1)—(3) of this regulation.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2334,10 +2400,26 @@
       </para>
       <para>
         <num>(11)</num>
-        <text>If applicable, producing edible cannabis products, including receipt of ingredients, storage, equipment maintenance, sanitation, manufacture, and transport; and</text>
+        <text>Decontamination, including but not limited to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Preventing contamination;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Investigating decontaminating after presumptive positive pathogen detection; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Remediation steps and resulting environmental analysis.</text>
+        </para>
       </para>
       <para>
         <num>(12)</num>
+        <text>If applicable, producing edible cannabis products, including receipt of ingredients, storage, equipment maintenance, sanitation, manufacture, and transport; and</text>
+      </para>
+      <para>
+        <num>(13)</num>
         <text>If applicable, co-locating with another licensee, including:</text>
         <para>
           <num>(a)</num>
@@ -2365,7 +2447,9 @@
         <text>Accurately reflect the procedures used at the premises.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Alcoholic Beverages and Cannabis Article, §§36-202, 36-203, and 36-401, Annotated Code of Maryland</annotation>
@@ -2373,8 +2457,12 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-01">Regulations <cite path="|14|17|11|.01">.01</cite>—<cite path="|14|17|11|.07">.07</cite> adopted as an emergency provision effective July 1, 2023 (50:14 Md. R. 559); emergency status expired June 30, 2024</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-07">Regulations <cite path="|14|17|11|.01">.01</cite>—<cite path="|14|17|11|.19">.19</cite> adopted as an emergency provision effective June 7, 2024 (51:14 Md. R. 676)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22">Regulations <cite path="|14|17|11|.01">.01</cite>—<cite path="|14|17|11|.19">.19</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|11|.03|B.">Regulation .03B</cite> amended effective March 16, 2026 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|11|.04|C.">Regulation .04C</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|11|.04|E.">Regulation .04E</cite> adopted effective March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|11|.17|D.">Regulation .17D</cite> adopted effective March 16, 2026 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|11|.18|B.">Regulation .18B</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|14|17|11|.19|A.">Regulation .19A</cite> amended effective May 26, 2025 (52:10 Md. R. 436)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|11|.19|A.">Regulation .19A</cite> amended effective May 26, 2025 (52:10 Md. R. 436); March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
   </annotations>
 </container>

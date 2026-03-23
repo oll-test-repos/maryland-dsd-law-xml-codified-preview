@@ -16,7 +16,7 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>"Counting center" means the central location designated by the local board for the canvass of ballots.</text>
+        <text>“Counting center” means the central location designated by the local board for the canvass of ballots.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -81,11 +81,27 @@
         <text>Oath or Affirmation.</text>
         <para>
           <num>(a)</num>
-          <text>In an election where there is no early voting, each member of the local board shall, not later than 5 p.m. on election day, take and subscribe the following oath or affirmation: I, ........, do swear, (or affirm as the case may be,) that I will support the Constitution of the United States; and that I will be faithful and bear true allegiance to the State of Maryland, and support the Constitution and Laws thereof; and that I will, to the best of my skill and judgment, diligently and faithfully, without partiality or prejudice, execute the office of Board of Canvassers, according to the Constitution and Laws of this State.</text>
+          <text>Each member of the local board shall take and subscribe the following oath or affirmation: I, ........, do swear, (or affirm as the case may be,) that I will support the Constitution of the United States; and that I will be faithful and bear true allegiance to the State of Maryland, and support the Constitution and Laws thereof; and that I will, to the best of my skill and judgment, diligently and faithfully, without partiality or prejudice, execute the office of Board of Canvassers, according to the Constitution and Laws of this State.</text>
         </para>
         <para>
           <num>(b)</num>
           <text>The oath or affirmation shall be administered and recorded by the clerk of the circuit court.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The oath shall expire 35 days after election day.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Timing of Oath or Affirmation.</text>
+        <para>
+          <num>(a)</num>
+          <text>Each member of the local board shall take and subscribe the oath or affirmation not later than 9:00 a.m. 8 business days before the first day of early voting; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a local board of elections has obtained a waiver under <cite doc="Md. Code" path="gel|11-302">Election Law Article, §11-302(b)(1), Annotated Code of Maryland</cite>, each member of the local board shall take and subscribe the oath or affirmation, not later than 5:00 p.m. on election day.</text>
         </para>
       </para>
     </para>
@@ -101,7 +117,9 @@
         <text>The board shall be present in the counting center throughout each working session of the canvass.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="33|08|01|.02-1">
     <prefix>Regulation</prefix>
@@ -120,7 +138,19 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The oath or affirmation shall be administered on or before the day of the election but not later than 5 p.m. on that day.</text>
+        <text>The oath or affirmation shall be administered as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>Not later than 9:00 a.m. 8 business days before the first day of early voting; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a local board of elections has obtained a waiver under <cite doc="Md. Code" path="gel|11-302">Election Law Article, §11-302(b)(1), Annotated Code of Maryland</cite>, not later than 5:00 p.m. on election day.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The oath shall expire 35 days after election day.</text>
       </para>
     </para>
     <para>
@@ -139,7 +169,9 @@
       <num>C.</num>
       <text>The local board's counsel shall be present throughout all canvass sessions if it appears that absentee or provisional ballots could decide the outcome of a contest or a question.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="33|08|01|.03">
     <prefix>Regulation</prefix>
@@ -202,10 +234,10 @@
     <heading>Notice of Canvass.</heading>
     <para>
       <num>A.</num>
-      <text>Each election director shall provide notice of the first and second absentee canvasses and the provisional canvass by:</text>
+      <text>Each election director shall provide notice of all absentee canvasses and the provisional canvass by:</text>
       <para>
         <num>(1)</num>
-        <text>Mail sent directly to:</text>
+        <text>Mail or email sent directly to:</text>
         <para>
           <num>(a)</num>
           <text>The chairman of the county central committee of each political party;</text>
@@ -232,7 +264,9 @@
       <num>C.</num>
       <text>The election director may include the notice for the pre-election public demonstration required by Election Law Article, Subtitle 10, Annotated Code of Maryland, in the notice required under this regulation.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -289,8 +323,10 @@
     <prefix>Regulation</prefix>
     <num>.09</num>
     <heading>Voting System Verification.</heading>
-    <text>A local board shall verify the voting system as provided in <cite path="|33.10">COMAR 33.10</cite>.</text>
-    <annotations/>
+    <text>A local board shall test the voting system as provided in <cite path="|33.10">COMAR 33.10</cite> for accuracy.</text>
+    <annotations>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -368,30 +404,72 @@
     </para>
     <annotations/>
   </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Certification Deadlines.</heading>
+    <para>
+      <num>A.</num>
+      <text>A board of canvassers may not certify and transmit a copy of election results, pursuant to <cite doc="Md. Code" path="gel|11-401">Election Law Article, §11-401(a)(1), Annotated Code of Maryland</cite>, until after the deadline for receipt of timely mail-in ballots provided by <cite path="33.11.03.08|B.|(4)|(a)">COMAR 33.11.03.08B(4)(a)</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If a board of canvassers is unable to certify election results on the second Friday after election day, the board of canvassers, in consultation with the election director, shall notify in writing the State Board of Elections of the delay.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The notification shall contain:</text>
+      <para>
+        <num>(1)</num>
+        <text>Detailed plan on the continuation of the canvass including staffing figures, dates, and hours to be worked;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The number of outstanding ballots to be canvassed; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An anticipated end date for the canvass and certification of election results.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The State Board of Elections has the authority to modify the plan to ensure completion of the canvass and certification of election results in a timely manner for State certification and any post-election audits.</text>
+    </para>
+    <annotations>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" type="History" display="false"/>
+    </annotations>
+  </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), <cite doc="Md. Code" path="gel|8-103">8-103</cite>, <cite doc="Md. Code" path="gel|11-201">11-201</cite>, and <cite doc="Md. Code" path="gel|11-301">11-301</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), <cite doc="Md. Code" path="gel|11-201">11-201</cite>, <cite doc="Md. Code" path="gel|11-301">11-301</cite>, and <cite doc="Md. Code" path="gel|11-302">11-302</cite>(a), Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-10">Regulations <cite path="|33|08|01|.01">.01</cite>—<cite path="|33|08|01|.12">.12</cite> adopted as an emergency provision effective March 1, 2000 (27:6 Md. R. 636); adopted permanently effective July 10, 2000 (27:13 Md. R. 1213)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|33|08|01|.01|B.">Regulation .01B</cite> amended effective October 29, 2012 (39:21 Md. R. 1381); August 19, 2013 (40:16 Md. R. 1346)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-05-11"><cite path="|33|08|01|.02|B.">Regulation .02B</cite> amended as an emergency provision effective May 11, 2020 (47:12 Md. R. 593); emergency provision expired July 31, 2020</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-31"><cite path="|33|08|01|.02|A.">Regulation .02A</cite> amended effective April 19, 2010 (37:8 Md. R. 624); March 31, 2025 (52:6 Md. R. 267)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|33|08|01|.02|A.">Regulation .02A</cite> amended effective April 19, 2010 (37:8 Md. R. 624) March 31, 2025 (52:6 Md. R. 268); March 2, 2026 (53:4 Md. R. 186)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-09-04"><cite path="|33|08|01|.02|B.">Regulation .02B</cite> amended as an emergency provision effective September 4, 2020 (47:20 Md. R. 873); emergency provision expired December 31, 2020</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-31"><cite path="|33|08|01|.02|B.">Regulation .02B</cite> amended effective March 31, 2025 (52:6 Md. R. 268)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-10-19"><cite path="|33|08|01|.02-1">Regulation .02-1</cite> adopted effective October 19, 2009 (36:21 Md. R. 1595)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|33|08|01|.02-1">Regulation .02-1</cite> amended effective April 19, 2010 (37:8 Md. R. 624)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|33|08|01|.02-1A">Regulation .02-1A</cite> amended effective March 2, 2026 (53:4 Md. R. 186)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-29"><cite path="|33|08|01|.02-1B">Regulation .02-1B</cite> amended effective February 29, 2016 (43:4 Md. R. 335)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-29"><cite path="|33|08|01|.05|A.">Regulation .05A</cite> amended effective February 29, 2016 (43:4 Md. R. 335)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|33|08|01|.05|B.">Regulation .05B</cite> amended effective April 19, 2010 (37:8 Md. R. 624)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-10-14"><cite path="|33|08|01|.05|D.">Regulation .05D</cite> adopted as an emergency provision effective July 3, 2002 (29:18 Md. R. 1440); adopted permanently effective October 14, 2002 (29:20 Md. R. 1595)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-10-19"><cite path="|33|08|01|.05-1">Regulation .05-1</cite> adopted effective October 19, 2009 (36:21 Md. R. 1595)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|33|08|01|.05-1A">Regulation .05-1A</cite> amended effective November 24, 2025 (52:23 Md. R. 1140)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|33|08|01|.06">Regulation .06</cite> amended effective April 19, 2010 (37:8 Md. R. 624)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|33|08|01|.07">Regulation .07</cite> amended effective April 19, 2010 (37:8 Md. R. 624)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-10-19"><cite path="|33|08|01|.07-1">Regulation .07-1</cite> adopted effective October 19, 2009 (36:21 Md. R. 1595)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-29"><cite path="|33|08|01|.08|A.">Regulation .08A</cite> amended effective February 29, 2016 (43:4 Md. R. 335)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|33|08|01|.09">Regulation .09</cite> amended effective April 19, 2010 (37:8 Md. R. 624)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|33|08|01|.09">Regulation .09</cite> amended effective April 19, 2010 (37:8 Md. R. 624); November 24, 2025 (52:23 Md. R. 1140)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|33|08|01|.10">Regulation .10</cite> amended effective April 19, 2010 (37:8 Md. R. 624)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-01-16"><cite path="|33|08|01|.10|A.">Regulation .10A</cite> amended effective January 16, 2006 (33:1 Md. R. 41)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-10-29"><cite path="|33|08|01|.10">Regulation .10</cite> repealed and new Regulation .10 adopted effective October 29, 2012 (39:21 Md. R. 1381)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-10-14"><cite path="|33|08|01|.11">Regulation .11</cite> amended as an emergency provision effective July 3, 2002 (29:18 Md. R. 1440); amended permanently effective October 14, 2002 (29:20 Md. R. 1595)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|33|08|01|.12|B.">Regulation .12B</cite> amended effective April 19, 2010 (37:8 Md. R. 624)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|33|08|01|.13">Regulation .13</cite> adopted effective November 24, 2025 (52:23 Md. R. 1140)</annotation>
+    <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" type="History" display="false"/>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
   </annotations>
 </container>

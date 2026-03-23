@@ -184,7 +184,7 @@
         <num>(3)</num>
         <text>In constructing the underdrains, not more than 10 percent of the rock may be less than 12 inches in size and no single rock may be larger than 25 percent of the width of the drain. The minimum size of the main underdrain shall be:</text>
         <text>
-          <table class="layout-table">
+          <table>
             <thead>
               <tr>
                 <th>Total amount of fill material</th>
@@ -314,7 +314,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>"Hard rock spoil" means rock fill consisting of at least 80 percent by volume of sandstone, limestone, or other rocks that do not slake in water. Resistance of the hard rock spoil to slaking shall be determined by using the slake index and slake durability tests in accordance with guidelines and criteria established by the Bureau.</text>
+      <text>“Hard rock spoil” means rock fill consisting of at least 80 percent by volume of sandstone, limestone, or other rocks that do not slake in water. Resistance of the hard rock spoil to slaking shall be determined by using the slake index and slake durability tests in accordance with guidelines and criteria established by the Bureau.</text>
     </para>
     <para>
       <num>C.</num>
@@ -347,7 +347,7 @@
         <num>(3)</num>
         <text>The embankment which constitutes the valley fill or head-of-hollow fill shall be designed with the following factors of safety:</text>
         <text>
-          <table class="layout-table">
+          <table>
             <thead>
               <tr>
                 <th>Case</th>

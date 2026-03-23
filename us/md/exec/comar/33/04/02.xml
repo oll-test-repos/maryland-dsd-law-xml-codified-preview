@@ -135,6 +135,10 @@
     </para>
     <para>
       <num>E.</num>
+      <text>Participants in Address Confidentiality Programs. Subject to notification to the State or a local board of participation in the program described in <cite doc="Md. Code" path="gcj|3-2403">Courts and Judicial Proceedings Article, §3-2403, Annotated Code of Maryland</cite>, or the program described in <cite doc="Md. Code" path="gsg|7-303">State Government Article, §7-303, Annotated Code of Maryland</cite>, an individual’s information shall be designated as confidential.</text>
+    </para>
+    <para>
+      <num>F.</num>
       <text>Others. Subject to appropriate documentation satisfactory to the local board, an individual may request confidentiality on the grounds that the disclosure of the individual's residence address, telephone number, or email address:</text>
       <para>
         <num>(1)</num>
@@ -145,7 +149,9 @@
         <text>Is likely to lead to an unwarranted and serious invasion of privacy.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -188,6 +194,18 @@
         <para>
           <num>(b)</num>
           <text>At the State or local board at which the applicant filed the certificate of candidacy or statement of organization if the applicant wishes to keep the applicant's residence address, telephone number, or email address provided on a certificate of candidacy or statement of organization confidential.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person seeking confidentiality need not complete the form if:</text>
+        <para>
+          <num>(a)</num>
+          <text>A person is a participant in the program described in <cite doc="Md. Code" path="gcj|3-2403">Courts and Judicial Proceedings Article, §3-2403, Annotated Code of Maryland</cite>, and the Administrative Office of the Courts notifies the State Board; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A person is a participant in the program described in <cite doc="Md. Code" path="gsg|7-303">State Government Article, §7-303, Annotated Code of Maryland</cite>, and the Secretary of State notifies the State Board.</text>
         </para>
       </para>
     </para>
@@ -247,9 +265,11 @@
         <text>Swear or affirm, under the penalties of perjury, that the information in and accompanying the request is true.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="33|04|02|.04">
+  <section>
     <prefix>Regulation</prefix>
     <num>.04</num>
     <heading>Consideration of Request.</heading>
@@ -258,11 +278,23 @@
       <text>Discretion Required.</text>
       <para>
         <num>(1)</num>
-        <text>Except as provided in <cite path="33|04|02|.04|A.|(2)">§A(2) of this regulation</cite>, the appropriate board shall determine, in its discretion, whether to grant a request for confidentiality.</text>
+        <text>Except as provided in §§A(2) and (3) of this regulation, the appropriate board shall determine, in its discretion, whether to grant a request for confidentiality.</text>
       </para>
       <para>
         <num>(2)</num>
         <text>The appropriate board shall automatically grant a request made by the State on behalf of a victim or witness under <cite path="|33|04|02|.02|D.|(2)">Regulation .02D(2) of this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Exceptions to Discretion. Board review shall not be required to designate as confidential the identifying information of the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Participants in the program described in <cite doc="Md. Code" path="gcj|3-2403">Courts and Judicial Proceedings Article, §3-2403, Annotated Code of Maryland</cite>; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Participants in the program described in <cite doc="Md. Code" path="gsg|7-303">State Government Article, §7-303 Annotated Code of Maryland</cite>.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -325,7 +357,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -389,7 +423,13 @@
         <text>Request confirmation of the continuing need for confidentiality.</text>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>The provisions of this regulation shall not apply to designations of confidentiality for participants in the program described in <cite doc="Md. Code" path="gcj|3-2403">Courts and Judicial Proceedings Article, §3-2403, Annotated Code of Maryland</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -414,11 +454,12 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>) and <cite doc="Md. Code" path="gel|3-506">3-506</cite>(a)(<cite doc="Md. Code" path="gel|2">2</cite>); State Government Article, §§<cite doc="Md. Code" path="gsg|10-613">10-613</cite>(b) and <cite doc="Md. Code" path="gsg|10-615">10-615</cite>(<cite doc="Md. Code" path="gsg|2">2</cite>)(i); Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>) and <cite doc="Md. Code" path="gel|3-506">3-506</cite>(a)(<cite doc="Md. Code" path="gel|2">2</cite>); <cite doc="Md. Code" path="ggp|4-201">General Provisions Article, §4-201(b) </cite>and 4-301(a)(2)(i); State Government Article, §§<cite doc="Md. Code" path="gsg|7-309">7-309</cite> and <cite doc="Md. Code" path="gsg|7-310">7-310</cite>; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-04-17">Regulations <cite path="|33|04|02|.01">.01</cite>—<cite path="|33|04|02|.07">.07</cite> adopted as an emergency provision effective February 1, 2000 (27:5 Md. R. 580); adopted permanently effective April 17, 2000 (27:7 Md. R. 708)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-09-22"><cite path="|33|04|02|.01">Regulation .01</cite> amended as an emergency provision effective July 23, 2008 (35:17 Md. R. 1483); amended permanently effective September 22, 2008 (35:19 Md. R. 1718)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-06"><cite path="|33|04|02|.01">Regulation .01</cite> amended effective June 25, 2012 (39:12 Md. R. 746); October 29, 2012 (39:21 Md. R. 1381); January 6, 2025 (51:26 Md. R. 1187)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|33|04|02|.02">Regulation .02</cite> amended effective March 2, 2026 (53:4 Md. R. 186)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-06-25"><cite path="|33|04|02|.02|A.">Regulation .02A</cite>, E amended effective June 25, 2012 (39:12 Md. R. 746)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-06"><cite path="|33|04|02|.02|C.">Regulation .02C</cite> amended effective January 6, 2025 (51:26 Md. R. 1187)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-01-06"><cite path="|33|04|02|.02|D.">Regulation .02D</cite>, E amended as an emergency provision effective October 4, 2004 (31:20 Md. R. 1483); amended permanently effective January 6, 2005 (31:26 Md. R. 1867)</annotation>
@@ -426,13 +467,17 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-01-06"><cite path="|33|04|02|.03|A.">Regulation .03A</cite> amended as an emergency provision effective October 4, 2004 (31:20 Md. R. 1483); amended permanently effective January 6, 2005 (31:26 Md. R. 1867)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-09-22"><cite path="|33|04|02|.03|A.">Regulation .03A</cite> amended as an emergency provision effective July 23, 2008 (35:17 Md. R. 1483); amended permanently effective September 22, 2008 (35:19 Md. R. 1718)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-06-25"><cite path="|33|04|02|.03|A.">Regulation .03A</cite> amended effective June 25, 2012 (39:12 Md. R. 746)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|33|04|02|.03|B.">Regulation .03B</cite> amended effective March 2, 2026 (53:4 Md. R 186)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-01-06"><cite path="|33|04|02|.04">Regulation .04</cite> amended as an emergency provision effective October 4, 2004 (31:20 Md. R. 1483); amended permanently effective January 6, 2005 (31:26 Md. R. 1867)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-09-22"><cite path="|33|04|02|.04">Regulation .04</cite> amended as an emergency provision effective July 23, 2008 (35:17 Md. R. 1483); amended permanently effective September 22, 2008 (35:19 Md. R. 1718)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|33|04|02|.04|A.">Regulation .04A</cite> amended effective March 2, 2026 (53:4 Md. R 186)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-09-22"><cite path="|33|04|02|.05">Regulation .05</cite> amended as an emergency provision effective July 23, 2008 (35:17 Md. R. 1483); amended permanently effective September 22, 2008 (35:19 Md. R. 1718)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-01-06"><cite path="|33|04|02|.05|A.">Regulation .05A</cite> amended as an emergency provision effective October 4, 2004 (31:20 Md. R. 1483); amended permanently effective January 6, 2005 (31:26 Md. R. 1867)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-01-06"><cite path="|33|04|02|.06">Regulation .06</cite> amended as an emergency provision effective October 4, 2004 (31:20 Md. R. 1483); amended permanently effective January 6, 2005 (31:26 Md. R. 1867)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-09-22"><cite path="|33|04|02|.06">Regulation .06</cite> amended as an emergency provision effective July 23, 2008 (35:17 Md. R. 1483); amended permanently effective September 22, 2008 (35:19 Md. R. 1718)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|33|04|02|.06|D.">Regulation .06D</cite> adopted effective March 2, 2026 (53:4 Md. R 186)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-01-06"><cite path="|33|04|02|.07|A.">Regulation .07A</cite> amended as an emergency provision effective October 4, 2004 (31:20 Md. R. 1483); amended permanently effective January 6, 2005 (31:26 Md. R. 1867)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-09-22"><cite path="|33|04|02|.07|A.">Regulation .07A</cite> amended as an emergency provision effective July 23, 2008 (35:17 Md. R. 1483); amended permanently effective September 22, 2008 (35:19 Md. R. 1718)</annotation>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
   </annotations>
 </container>

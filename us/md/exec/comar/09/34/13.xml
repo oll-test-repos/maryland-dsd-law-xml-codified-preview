@@ -1,0 +1,1006 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>13</num>
+  <heading>Natural Organic Reduction—Inspections, Complaints, and Discipline</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <text>This chapter governs the procedures to be followed by a permit holder in performing natural organic reduction in this State.</text>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Removal, Identification, and Transportation of Human Remains.</heading>
+    <para>
+      <num>A.</num>
+      <text>Upon receipt of human remains, a registered reduction operator, in the presence of the authorizing agent or representative of the funeral establishment engaging reduction facility services, shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Verify that the information on the wrist tag of the human remains is consistent with the documentation accompanying the human remains and consistent with the visual observation of the human remains;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Verify with a hand magnet or metal detector wand that any battery operated, implanted devices including pacemakers, defibrillators, or pain relief devices are removed before the process may begin;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Refuse to accept human remains for natural organic reduction if human remains are confirmed to have or suspected of having one or more of the following conditions:</text>
+        <para>
+          <num>(a)</num>
+          <text>A radioactive seed implant within thirty days of death;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A nuclear pacemaker;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Perishing as a result of a radiologic incident or accident, unless a written release is provided by the Maryland Department of Environment Radiological Health Program or other local, state, or federal agency in charge of the response to the radiological incident or accident; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A presence of Creutzfeldt-Jakob disease or other prion disease, Ebola virus infection, mycobacterium tuberculosis infection, or any other infection, disease, or biological condition identified by the Director based on the reasonable recommendation of federal, state, or local health authority;</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Remove and properly dispose of any hazardous object or any other materials that the registered reduction operator deems should be removed from the human remains or vessel in order to prevent harm to the public health or damage to the vessel;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Remove any jewelry on the human remains or in the vessel;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Return any removed jewelry to the authorizing agent or representative of the funeral establishment engaging natural organic reduction services; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Obtain a signed, itemized receipt from the authorizing agent or representative of the funeral establishment engaging natural organic reduction services for the removed jewelry and retain the receipt as a permanent record.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Foreign objects removed from human remains:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall be treated as medical waste and disposed of accordingly; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>May not be donated until a sterilization process through a third party, recognized by the Office, to dispose properly of medical waste has been performed.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Materials identifying the human remains placed in the custody of a permit holder shall contain the following information:</text>
+      <para>
+        <num>(1)</num>
+        <text>Name;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Date of birth;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Date of death;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Name of funeral establishment or authorizing agent;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Gender; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Name and relationship to the decedent of authorizing agent.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A permit holder shall not accept unidentified human remains for reduction.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Vessels.</heading>
+    <text>Vessel requirements. The vessel shall:</text>
+    <para>
+      <num>A.</num>
+      <text>Be leak-proof, durable, noncorrosive, and fully sealed;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Enable accurate testing of temperature designed to measure from the interior of the vessel and the accurate collection of any other data required by the natural organic reduction process used by the reduction facility;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Prevent vectors from entering the vessel; and</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Control odor.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Holding Facilities.</heading>
+    <text>Holding facility requirements. A holding facility shall:</text>
+    <para>
+      <num>A.</num>
+      <text>Comply with applicable public health laws;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Preserve the dignity of human remains;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Recognize the integrity, health, and safety of reduction facility establishment personnel; and</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Be secure from access by unauthorized persons.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Holding Remains.</heading>
+    <para>
+      <num>A.</num>
+      <text>Unless prevented by emergency circumstances, human remains that have been designated for natural organic reduction shall be placed in a vessel and begin natural organic reduction services within 48 hours of receipt.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A registered reduction operator may not hold human remains for natural organic reduction unless the human remains are contained within a reduction container.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A registered reduction operator may not accept a reduction container from which there is any evidence of leakage of bodily fluids from the human remains therein.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Whenever a registered reduction operator is unable to perform natural organic reduction services on a decedent within 48 hours of taking custody thereof due to emergency circumstances, the registered reduction operator shall maintain the human remains in a refrigerated holding facility, either on or off site, at 44° F or less.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>If any remains exhibit an objectionable odor either at delivery or at any time thereafter, reduction of such remains shall commence as soon as possible after they have been accepted by the registered reduction operator or as soon as possible after the objectionable odor is first detected.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Identification of Human Remains Immediately Prior to Natural Organic Reduction.</heading>
+    <text>Immediately prior to being placed within the vessel, a registered reduction operator shall:</text>
+    <para>
+      <num>A.</num>
+      <text>Verify the identification of the human remains; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Place in the vessel the hard metal or plastic identification disc of the human remains receiving natural organic reduction services where it shall remain in place until the natural organic reduction process is complete.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Natural Organic Reduction Authorization.</heading>
+    <para>
+      <num>A.</num>
+      <text>Except as otherwise provided in this regulation, a registered reduction operator may not perform natural organic reduction on human remains until:</text>
+      <para>
+        <num>(1)</num>
+        <text>The human remains have been identified as required by <cite doc="Md. Code" path="gho|7-411">Health Occupations Article, §7-411, Annotated Code of Maryland</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The reduction facility has received:</text>
+        <para>
+          <num>(a)</num>
+          <text>A natural organic reduction authorization form on a form approved by the Office and signed by an authorizing agent;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If applicable, a written delegation document, paper or electronic;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any other documentation required by federal, State, or local law; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The registered reduction operator has documented that at least 12 hours have elapsed from the time of death of the individual whose remains are to receive natural organic reduction services.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The natural organic reduction authorization form shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be provided by the permit holder to the authorizing agent, and signed by the authorizing agent;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Contain the following information:</text>
+        <para>
+          <num>(a)</num>
+          <text>The identity of the decedent;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Date of death;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The name and address of the reduction facility where the natural organic reduction will occur;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The name and address of the authorizing agent and the relationship between the authorizing agent and the deceased;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Disclose that the authorizing agent may not use or dispose of soil remains:</text>
+          <para>
+            <num>(i)</num>
+            <text>On public or private property without the prior written permission of the owner or surviving owner of the property;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>By using the soil remains to grow food for consumption by humans or livestock;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>By selling or reselling the soil remains to a third party; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>By combining or incorporating the soil remains into compost offered for sale to consumers or for commercial or agricultural purchasers;</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Indicate whether the decedent is a veteran, as defined in § 9-901 of the State Government Article, or an eligible dependent, as defined in  §5-803 of the Business Regulation Article;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Authorization for the registered reduction operator to perform natural organic reduction services;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Authorization to verify that the following have been removed prior to perform natural organic reduction:</text>
+          <para>
+            <num>(i)</num>
+            <text>Implanted pacemaker or defibrillator; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Any other materials that the registered reduction operator deems should be removed to prevent harm to the public health or damage to equipment;</text>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>A representation by the authorizing agent that none of the following apply:</text>
+          <para>
+            <num>(i)</num>
+            <text>A radioactive seed implant within thirty days of death until such time that thirty days have elapsed or the organ containing the seed(s) has been removed;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Containing a nuclear pacemaker until such time that the nuclear pacemaker is removed;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Perishing as a result of a radiologic incident or accident, unless a written release is provided by the department of health office of radiation protection or other state or federal agency in charge of the response to the radiological incident or accident; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>There is a presence of Creutzfeldt-Jakob disease or other prion disease, Ebola virus infection,  mycobacterium tuberculosis  infection, or any other infection, disease, or biological condition identified by the Director based on the reasonable recommendation of federal, state, or local health authority;</text>
+          </para>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>A representation that the authorizing agent is aware of no objection to the decedent receiving natural organic reduction services by any person who has a right to control the disposition of the decedent;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The name and address of the person authorized to claim the soil remains from the reduction facility or accept the soil remains via certified mail;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Informs the authorizing agent of the procedures that will be followed if disposition instructions are not received within sixty days of the permit holder first attempts to contact the authorizing agent to notify the authorizing agent the natural organic reduction service is complete;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Informs the authorizing agent that recovery of the soil remains after the disposition may not be possible; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be signed by the authorizing agent.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If an authorizing agent is not available to execute the natural organic reduction authorization form, the authorizing agent may delegate that authority to another individual:</text>
+      <para>
+        <num>(1)</num>
+        <text>In writing; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If located outside the area, by transmitting to the permit holder:</text>
+        <para>
+          <num>(a)</num>
+          <text>A signed, notarized statement, electronically or by facsimile device, that contains the name, address, and relationship of the sender to the decedent and the name and address of the individual to whom authority is delegated; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Once the authorizing agent is located in the area, a notarized statement attesting to the delegation of authority.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Upon receipt of the written delegation document or a copy of the delegation statement transmitted electronically or by facsimile device, the permit holder shall allow the named individual to serve as the authorizing agent. The documents shall be signed by the authorizing agent in the presence of a notary.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A person signing a natural organic reduction authorization form is deemed to warrant the truthfulness of any facts set forth in the natural organic reduction authorization form, including the identity of the decedent whose remains are receiving natural organic reduction and the authority of that person to order natural organic reduction.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>A permit holder shall notify and obtain the written consent of the authorizing agent before the natural organic reduction of human remains at a location other than the location named on the reduction authorization form.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>A permit shall maintain a copy of every natural organic reduction authorization form required under this regulation as permanent records.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Natural organic reduction authorization records are subject to inspection and copying by the Office.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Record of Receipt of Remains.</heading>
+    <para>
+      <num>A.</num>
+      <text>A registered reduction operator shall provide to an individual who delivers human remains for natural organic reduction a receipt signed by both the registered reduction operator and the person who delivered the human remains, that includes the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Name of the individual from whom the human remains were received and the name of the individual’s employer, if any;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Name and address of the reduction facility;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Name and address of the decedent;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Gender of the decedent;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Date of death of decedent; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Verification of authorized burial transit permit.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The permit holder shall maintain a record of each natural organic reduction which shall include the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Name of the decedent;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Date of birth of the decedent;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Date of death of the decedent;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Gender of the decedent;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Name and address of the authorizing agent;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Relationship of the authorizing agent to the decedent;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Date, time, and location of the reduction facility; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Name of the registered reduction operator who performed the natural organic reduction.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The permit holder shall provide a certificate of disposition of soil remains to the authorizing agent or funeral establishment that arranged for the natural organic reduction that contains the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Name of the decedent;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Name of the authorizing agent;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Relationship of the authorizing agent to the decedent;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Date, time, and location where the natural organic reduction occurred;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Name of the registered reduction operator who performed the natural organic reduction;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Name and address of the person who received the soil remains from the permit holder; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>If ascertainable, the location, including the name of the cemetery and plot location if the soil remains are interred, the manner, and the date of the disposition of the soil remains.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The permit holder shall maintain a copy of every record and receipt required by this regulation as permanent records.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>All records required to be maintained by a permit holder by this chapter are subject to inspection and copying by the Office.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Reduction Procedures and Prohibited Acts.</heading>
+    <para>
+      <num>A.</num>
+      <text>Basic Operating Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>The permit holder shall keep a permanent record of:</text>
+        <para>
+          <num>(a)</num>
+          <text>The starting and ending date of each natural organic reduction; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The daily temperature data for each natural organic reduction, including records showing that the minimum temperature of 131 degrees Fahrenheit was reached for seventy-two consecutive hours.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Registered reduction operator shall ensure:</text>
+        <para>
+          <num>(a)</num>
+          <text>Only a vessel that is designed to promote aerobic reduction, minimizes odors and vectors, and is leak-proof, durable, noncorrosive, and fully sealed is used for natural organic reduction;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A registered reduction operator is on site during business hours;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A registered reduction operator is able to monitor active vessels at all times;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Compliance with all other applicable local, State, and federal laws and regulations; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Vessels reach an internal minimum temperature of 131 degrees Fahrenheit for seventy-two consecutive hours during natural organic reduction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The reduction facility shall be maintained in a clean and sanitary condition.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The reduction facility, including the bulking agent receipt area, bulking agent storage area, active vessel storage area, curing area, and soil remains storage areas, shall be maintained to prevent nuisances, odors and vectors.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Bulking agents shall be received in a timeframe and managed to prevent nuisance odors, unauthorized discharge of contact water, fire, and scavenging by vectors.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Veteran and Eligible Dependent Decedents.</text>
+        <para>
+          <num>(a)</num>
+          <text>Unless the authorizing agent directs otherwise, a permit holder in possession of human remains of a decedent veteran or a decedent eligible dependent shall, within 5 business days of the initiation of the natural organic reduction provide the decedent’s identifying information to a veterans service organization, as defined in § 5-803 of the Business Regulation Article.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The veterans service organization will notify the permit holder whether the decedent is a veteran or eligible dependent eligible for burial in a veterans cemetery.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The permit holder will notify the authorizing agent whether the decedent is eligible for burial in a veterans cemetery. The authorizing agent may authorize the permit holder to:</text>
+          <para>
+            <num>(i)</num>
+            <text>Transfer a portion of the soil remains to a veterans service organization that grants permission for the purpose of disposition; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Transfer the balance of the soil remains to a cemetery or the owner of a woodland protected under the Forest Conservation Act.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If a veterans service organization does not take possession of a portion of unclaimed soil remains under this regulation that qualifies for a plot in a State veterans cemetery under § 9-906 of the State Government Article, within 10 days after the reduction facility receives the notification, the reduction facility shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>notify the Department of Veterans and Military Families of the status of the soil remains for the purpose of the appropriate disposition of the soil remains;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>transfer the soil remains to the Department of Veterans and Military Families for the purpose of the appropriate disposition of the soil remains; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>if authorized by the cemetery or owner, transfer the balance of the soil remains to a cemetery or the owner of a woodland protected under the Forest Conservation Act.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Soil remains may not be stored on site for longer than 12 months, unless approved by the Office on a case-specific basis and addressed in the RFOP.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>General Restrictions.</text>
+      <para>
+        <num>(1)</num>
+        <text>A permit holder shall not engage in operating a reduction facility in a manner which will likely:</text>
+        <para>
+          <num>(a)</num>
+          <text>Create a nuisance;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Be conducive to insect and rodent infestation or the harborage of animals;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Cause nuisance odors or other air pollution in violation of state, local, or federal laws and regulations unless permitted by state, federal, or local authorities;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Cause a discharge of liquid or solid waste derived from human remains to waters of this State unless otherwise permitted by state, federal, or local authorities; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Create other hazards to the public health, safety, or comfort as may be determined by state, federal, or local authorities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A registered reduction operator may not:</text>
+        <para>
+          <num>(a)</num>
+          <text>Perform natural organic reduction on human remains which are known, or reasonably suspected, to have been embalmed or have an infection, disease, or other biological condition that renders the process of natural organic reduction or the soil remains unreasonably unsafe, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>Creutzfeldt-Jakob disease or other prion disease;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Ebola virus infection;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Mycobacterium tuberculosis infection;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The presence of diagnostic or therapeutic radioisotopes; or</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Any other infection, disease, or biological condition identified by the Director based on the reasonable recommendation of a federal, State, or local health authority;</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Use or dispose of soil remains on public or private property without the prior written permission of the owner or surviving owner of the property;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Knowingly use or sell the soil remains to grow food for consumption by humans or livestock;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Combining or incorporating the soil remains into compost offered for sale to consumers or for commercial or agricultural purchasers.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Office, in exercising its authority under these regulations with respect to granting or renewing permits or inspecting a reduction facility may consider any documentation required under these regulations to evaluate whether any of the conditions described in these regulations is likely to occur or has occurred.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Disposition of Soil Remains.</heading>
+    <para>
+      <num>A.</num>
+      <text>Upon completion of the natural organic reduction process, insofar as is possible:</text>
+      <para>
+        <num>(1)</num>
+        <text>All of the recoverable soil remains shall be:</text>
+        <para>
+          <num>(a)</num>
+          <text>Removed from the vessel;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Except for medical devices remaining after reduction, pulverized; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Placed in a soil remains container; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The identification disc required by <cite doc="Md. Code" path="gho|7-411">Health Occupations Article, §7-411, Annotated Code of Maryland</cite>, shall be:</text>
+        <para>
+          <num>(a)</num>
+          <text>Removed from the vessel; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Placed in the soil remains container with the soil remains.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Medical devices which remain after the completion of the natural organic reduction process shall be treated as medical waste and disposed of accordingly.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>After pulverization, all soil remains, together with the identification disc, shall be placed in a soil remains container or containers adequate to accommodate the soil remains.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A registered reduction operator is responsible for the label or labeling or providing on a written invoice or shipping statement indicating the soil remains containers, and a person may not use or dispose of soil remains produced by natural organic reduction:</text>
+      <para>
+        <num>(1)</num>
+        <text>On public or private property without the prior written permission of the owner or surviving owner of the property;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>By using the soil remains to grow food for consumption by humans or livestock;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>By selling or reselling the soil remains to a third party; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>By combining or incorporating the soil remains into compost offered for sale to consumers or for commercial or agricultural purchasers.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>If a soil remains container is to be shipped, the soil remains container shall have the name of the decedent contained therein legibly written on the outside of the soil remains container.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>If soil remains have been in the possession of a permit holder without instructions for disposition for a period of 90 days or more from the date of reduction, the permit holder may arrange for disposition in any legal manner, provided the entity:</text>
+      <para>
+        <num>(1)</num>
+        <text>Attempts to contact the authorizing agent for disposition instructions by certified mail to the last known address;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Informs the authorizing agent at the time of authorization the procedures that will be followed if disposition instructions are not received;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Informs the authorizing agent at the time of authorization that disposition will occur in a manner at the permit holder’s discretion if disposition instructions are not received within sixty days of the first attempt to notify the authorizing agent of the completion of natural organic reduction;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Informs the authorizing agent that recovery of the soil remains after disposition may not be possible; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Maintains a permanent record of the location of disposition.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>A permit holder making disposition arrangements of unclaimed soil remains will not be liable for the disposition or nonrecoverability of the soil remains.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Bodily fluids, blood, tissues, and waste removed from human remains must be kept with the body in the vessel.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>All containers and liners used to receive solid or fluid materials removed from human remains must be cleaned and disinfected immediately after use and disposed of in accordance with local ordinances and other applicable laws and rules for infectious waste.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="09|34|13|.11">
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Testing of Soil Remains.</heading>
+    <para>
+      <num>A.</num>
+      <text>A permit holder shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Upon initial receipt of permit from the Office, test, using a third-party laboratory, the reduction facility’s initial 20 instances of soil remains for the parameters identified in Table A, and any additional instances of soil remains necessary to achieve 20 reductions meeting the parameters identified in Table A;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>After 20 soil remains meet the limits outlined in Table A, analyze, at a minimum, 25 percent of a reduction facility’s monthly instances of soil remains for the parameters identified in Table A until 80 total instances have met the requirements in Table A;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Ensure the third-party laboratory described under <cite path="09|34|13|.11|A.|(1)">§A(1) of this regulation</cite>:</text>
+        <para>
+          <num>(a)</num>
+          <text>Uses a sampling method such as described in the U.S. Composting Council 2002 Test Methods for the Examination of Composting and Compost, Method 02.01-A through E, or its successor;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Confirms Soil remains have less than 0.01 mg/kg dry weight of physical contaminants which include, but are not limited to, intact bone, dental fillings, and medical implants; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Tests for arsenic, cadmium, lead, mercury, and selenium, and either fecal coliform or salmonella in soil remains to meet the testing parameters and limits identified in Table A.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Other local, State, or federal authorities may require tests of soil remains for additional parameters.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A permit holder may not release any soil remains that exceed the limits identified in Table A.</text>
+      <para>
+        <num proof="done">D.</num>
+        <text>Any soil remains that exceed the parameters identified in Table A must undergo additional pathogen treatment processes as described in Title 40 of the Code of Federal Regulations, Part 503, Appendix B until the soil tests within the limits identified in Table A.</text>
+        <text class="center">
+          <strong>Table A</strong>
+        </text>
+        <text class="center">
+          <strong>Testing Parameters</strong>
+        </text>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th class="text-indent-1">Metals and other testing parameters</th>
+                <th class="text-indent-1">Limit (mg/kg dry weight), unless otherwise specified</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="text-indent-1">Fecal coliform</td>
+                <td class="text-indent-1">&lt; 1,000 Most probable number per gram of total solids (dry weight)</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">or</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Salmonella</td>
+                <td class="text-indent-1">&lt; 3 Most probable number per 4 grams of total solids (dry weight)</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">and</td>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Arsenic</td>
+                <td class="text-indent-1">≤ 20 ppm</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Cadmium</td>
+                <td class="text-indent-1">≤ 10 ppm</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Lead</td>
+                <td class="text-indent-1">≤ 150 ppm</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Mercury</td>
+                <td class="text-indent-1">≤ 8 ppm</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Selenium</td>
+                <td class="text-indent-1">≤ 18 ppm</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>Tools.</heading>
+    <text>Permit holders providing natural organic reduction services shall maintain, at its own expense, the following tool inventory:</text>
+    <para>
+      <num>A.</num>
+      <text>Suitable tools for cleaning a vessel;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Suitable tools for cleaning pulverizers;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Mortar and pestle;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Hand magnet and metal detector wand to detect and remove metal from soil remains;</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Tweezers to remove nonmetal objects from soil remains;</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>National Institute for Occupational Safety &amp; Health certified N95 filtering facepiece respirators; and</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>An emergency eyewash unit meeting the criteria established under the American National Standards Institute and the International Safety Equipment Association Z358.1-2014 (R2020) or its successor.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Visitors.</heading>
+    <para>
+      <num>A.</num>
+      <text>Privacy. Entrances and exterior windows of the reduction facility shall be maintained at all times to secure privacy, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Doors shall be tight closing and rigid;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Windows shall be covered;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Entrances other than to the office or ceremony room shall be marked “private” or “authorized entry only” to preclude entry by unauthorized persons; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Entrances shall be locked and secured when not actively attended by one or more authorized persons.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Access. No persons except authorized persons shall be admitted into the holding facility while human remains are being stored and no persons except authorized persons shall be admitted into the area containing vessels for natural organic reduction while the decedents are receiving natural organic reduction. Authorized persons shall enter and remain in the holding facility or vessel area only as necessary to perform or assist with the performance of reduction facility business and operations. On admittance, authorized persons shall comply with all rules of the reduction facility and not infringe upon the privacy and dignity of the remains of decedents.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Dignity of ceremony room. A reduction facility may have a ceremony room available for viewings and ceremonies. The ceremony room shall be separated from the holding facility. The holding facility interior shall not be visible from the ceremony room. No persons except authorized persons shall be admitted into the ceremony room during the commencement of natural organic reduction.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Authorized Persons. The following are authorized persons:</text>
+      <para>
+        <num>(1)</num>
+        <text>Licensed funeral directors, morticians, and enrolled students of mortuary science;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Officers and directors of the reduction facility;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Authorized employees or agents of the reduction facility;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Public officers acting in the discharge of their duties;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Authorized instructors of funeral directing schools;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The person or persons in control of disposition;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Members of the immediate family of the decedent, their authorizing agent and designated representatives; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Other individuals authorized by the authorizing agent or accompanied by reduction facility staff.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gbr|5-204">Business Regulation Article, §5-204, </cite>Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30">Effective date: March 30, 2026 (53:6 Md. R. 287)</annotation>
+  </annotations>
+  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+</container>

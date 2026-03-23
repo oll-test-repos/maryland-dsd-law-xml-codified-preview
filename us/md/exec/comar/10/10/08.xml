@@ -150,7 +150,7 @@
       <text>Deficiency Posing Immediate Jeopardy.</text>
       <para>
         <num>(1)</num>
-        <text>If a laboratory's deficiency poses immediate jeopardy to personal or public health or safety, the Secretary shall take one or more of the actions listed in §A(2) and(3) of this regulation.</text>
+        <text>If a laboratory's deficiency poses immediate jeopardy to personal or public health or safety, the Secretary shall take one or more of the actions listed in §A(2) and (3) of this regulation.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -182,7 +182,7 @@
       <text>Deficiency Not Posing Immediate Jeopardy.</text>
       <para>
         <num>(1)</num>
-        <text>If a laboratory's deficiency does not pose immediate jeopardy to personal or public health or safety, the Secretary may take one or more of the actions listed in §B(2)—(4) of this regulation.</text>
+        <text>If a laboratory's deficiency does not pose immediate jeopardy to personal or public health or safety, the Secretary may take one or more of the actions listed in §B(2) — (4) of this regulation.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -190,7 +190,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Unsuccessful Proficiency Testing. If a laboratory exhibits unsuccessful proficiency testing, as set forth in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite>, the Secretary may impose the training and technical assistance requirements set forth in <cite path="|10|10|08|.04">Regulation .04 of this chapter</cite> as a directed plan of correction, as well as any other sanction.</text>
+        <text>Unsatisfactory Proficiency Testing. If a laboratory exhibits unsatisfactory proficiency testing performance, as set forth in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite>, the Secretary may impose the training and technical assistance requirements set forth in <cite path="|10|10|08|.04">Regulation .04 of this chapter</cite> as a directed plan of correction, as well as any other sanction.</text>
       </para>
       <para>
         <num>(4)</num>
@@ -249,7 +249,9 @@
         <text>If a laboratory does not correct all deficiencies within 30 days after imposition of a sanction, the Secretary may initiate action to suspend or revoke the license.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -526,7 +528,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13">Effective date: December 13, 1999 (26:25 Md. R. 1897)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|08|.01|B.">Regulation .01B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|08|.02|A.">Regulation .02A</cite>, B amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|08|.02|B.">Regulation .02B</cite> amended effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|08|.04|B.">Regulation .04B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-03-27"><cite path="|10|10|08|.05">Regulation .05</cite> adopted effective March 27, 2006 (33:6 Md. R. 578)</annotation>
+    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
   </annotations>
 </container>

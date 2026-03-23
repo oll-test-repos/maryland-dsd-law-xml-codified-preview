@@ -116,7 +116,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The Commission shall review the status of all municipal exemptions and modifications at the end of each decennial census to determine if any municipal exemption or modification will be reconsidered based on the information available at that time.</text>
+        <text>The Commission may review the status of all municipal exemptions and modifications at the end of each alternating decennial census to determine if any municipal exemption or modification will be reconsidered based on the information available at that time.</text>
       </para>
       <para>
         <num>(4)</num>
@@ -151,7 +151,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-268-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -197,6 +199,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-01-20"><cite path="|19A|04|03|.04|B.">Regulation .04B</cite> amended effective January 20, 1992 (19:1 Md. R. 34)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-04-18" discontinuity="true">Regulations <cite path="|19A|04|03|.01">.01</cite>—<cite path="|19A|04|03|.04">.04</cite> repealed and new Regulations <cite path="|19A|04|03|.01">.01</cite>—<cite path="|19A|04|03|.04">.04</cite> adopted effective April 18, 2011 (38:8 Md. R. 508)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-01-16"><cite path="|19A|04|03|.01|A.">Regulation .01A</cite> amended effective January 16, 2017 (44:1 Md. R. 12)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|19A|04|03|.03|B.">Regulation .03B</cite> amended effective February 16, 2026 (53:3 Md. R. 123)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-05-25"><cite path="|19A|04|03|.04">Regulation .04</cite> amended effective May 25, 2015 (42:10 Md. R. 685)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16">Appendixes A and B amended effective February 16, 2026 (53:3 Md. R. 123)</annotation>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-268-F" type="History" display="false"/>
   </annotations>
 </container>

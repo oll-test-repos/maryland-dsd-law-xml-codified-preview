@@ -1,0 +1,1101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>04</num>
+  <heading>Claims</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>General.</heading>
+    <text>Unless expressly provided otherwise, all requirements in this chapter apply to EPIPs.</text>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-198-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Alternative FAMLI purpose leave (AFPL)” means employer-provided leave specifically designated as a separate bank of time off for medical leave, family leave, qualified exigency leave, or under a disability policy and that is not leave provided under an EPIP.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Claim application” means a claimant’s submission to the Division or an EPIP for FAMLI leave and benefits.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Claimant’s average weekly wage” means the amount calculated in <cite path="|09|42|04|.06">Regulation .06 of this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Complete claim application” means an application submitted by a claimant with all required supporting documentation, including the response from an employer and any investigation, under <cite path="|09|42|04|.04">Regulation .04 of this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Fraud” means a misrepresentation or concealment of a material fact made by a claimant which induces the State plan or an EPIP to provide benefits when the claimant would have otherwise not qualified.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“General purpose leave” means employer-provided paid leave, such as general paid time off, personal leave, vacation leave, or sick leave, that is not AFPL or leave provided under an EPIP.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Good cause” means a demonstration by a claimant that a failure to file a complete claim application was due to:</text>
+        <para>
+          <num>(a)</num>
+          <text>A serious health condition that resulted in an unanticipated and prolonged period of incapacity and that prevented an individual from filing a claim in a timely manner;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A demonstrated inability to reasonably access a means to file a claim in a timely manner, such as due to a natural disaster, power outage, or a significant and prolonged Department system outage; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A demonstrated failure of the employer to provide the notification required under this subtitle to the claimant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Recipient” means a claimant whose application for FAMLI leave and benefits has been approved and is receiving benefits.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“State average weekly wage” means the wage calculated under <cite doc="Md. Code" path="gle|9-603">Labor and Employment Article, §9-603, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Weekly benefit amount” means the total weekly dollar amount provided to a recipient by the State plan or EPIP.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-198-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Qualifying Events.</heading>
+    <para>
+      <num>A.</num>
+      <text>Childcare or bonding is a qualifying event in the following circumstances:</text>
+      <para>
+        <num>(1)</num>
+        <text>To care for or bond with a child of the claimant during the first 12 months after the child’s birth; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>During the process through which a child is being placed with the claimant through foster care, kinship care, or adoption and to care for or bond with the child during the first 12 months after the placement.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Caring for a family member with a serious health condition is a qualifying event.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The diagnosis, occurrence, or tending to of one’s own serious health condition is a qualifying event.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Caring for a service member with a serious health condition is a qualifying event if:</text>
+      <para>
+        <num>(1)</num>
+        <text>The claimant is the service member’s next of kin; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The serious health condition resulted from, or was exacerbated by, uniformed service.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A qualifying exigency arising out of the deployment of a service member who is a family member of the claimant is a qualifying event.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-198-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="09|42|04|.04">
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Application Process.</heading>
+    <para>
+      <num>A.</num>
+      <text>Eligibility. A covered individual experiencing a qualifying event may file an application for benefits within 60 days before the anticipated start date of the leave for which benefits may be paid under this title, but not later than 60 days after the start date of the leave.</text>
+      <para>
+        <num>(1)</num>
+        <text>The 60 day filing deadline shall be waived for good cause, up to 1 year from the leave commencing.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>On or after the date on which applications for benefits may be submitted to the Division, applications may be accepted up to 60 days before the first day of FAMLI leave requested.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A covered individual shall file their application with their employer’s plan.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Required Documentation.</text>
+      <para>
+        <num>(1)</num>
+        <text>A claimant shall provide personal identifying information as required by the Division.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A claimant applying for uniformed services caregiving leave shall provide documentation from the United States government establishing that the service member is a member or veteran of the uniformed services as defined in in 37 U.S.C. § 101, including a member of the National Guard or Reserves;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A claimant shall provide information regarding the employer from which they intend to take FAMLI leave as required by the Division.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A claimant seeking FAMLI leave for bonding or to care for another shall provide any of the following as proof of relationship:</text>
+        <para>
+          <num>(a)</num>
+          <text>An affidavit signed by the claimant attesting to qualifying relationships as provided by the Division;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Copies of official orders, certifications, or registrations from a government entity; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Copies of documentation from licensed foster care and/or adoption providers.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Certification of Qualifying Event.</text>
+        <para>
+          <num>(a)</num>
+          <text>Care or Bonding with a Child. An application for FAMLI leave to care for or bond with a child of the claimant shall include:</text>
+          <para>
+            <num>(i)</num>
+            <text>A certification of live birth;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Documentation of placement from a licensed child placement agency or government agency responsible for child placement, and documentation of any court appearances, appointments, or travel in anticipation of placement, if applicable, including a court order or an affidavit of an informal kinship care arrangement; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Other reasonable documentation determined by the Division.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Family Member’s Serious Health Condition. An application for FAMLI leave to care for a family member with a serious health condition, shall include a complete certification form, approved by the Division, from a licensed health care provider, establishing:</text>
+          <para>
+            <num>(i)</num>
+            <text>The first date on which the covered individual took or intends to take FAMLI leave from employment and whether the FAMLI leave will or is intended to be taken for a continuous period of time or intermittently;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Date of diagnosis;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The date on which the serious health condition of the family member commenced;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The probable duration of the serious health condition;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>The appropriate facts related to the serious health condition within the knowledge of the licensed health care provider;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>A statement that the covered individual needs to care for a family member and an estimate of the amount of time required to provide the care; and</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>If intermittent FAMLI leave is requested, the expected frequency and duration of the intermittent FAMLI leave.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Own Serious Health Condition. An application for FAMLI leave for one’s own serious health condition, shall include a complete certification form, approved by the Division, from a licensed health care provider, establishing:</text>
+          <para>
+            <num>(i)</num>
+            <text>The first date on which the covered individual took or intends to take FAMLI leave from employment and whether the FAMLI leave will or is intended to be taken for a continuous period of time or intermittently;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The date on which the serious health condition of the covered individual commenced;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Treatment dates;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Period of incapacity;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>The probable duration of the serious health condition;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>The appropriate facts related to the serious health condition within the knowledge of the licensed health care provider;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>A statement that the covered individual is unable to perform the functions of the covered individual’s position; and</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>If intermittent FAMLI leave is requested, the expected frequency and duration of the intermittent FAMLI leave.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Uniformed Services Caregiving. An application for FAMLI leave to care for a service member for whom the claimant is next of kin with a serious health condition, shall include a complete certification form, approved by the Division, from a licensed health care provider, establishing:</text>
+          <para>
+            <num>(i)</num>
+            <text>That the serious health condition was caused, or exacerbated by, uniformed service;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The first date on which the covered individual took or intends to take FAMLI leave from employment and whether the FAMLI leave will or is intended to be taken for a continuous period of time or intermittently;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The date on which the serious health condition of the service member commenced or was exacerbated;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The probable duration of the serious health condition;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>The appropriate facts related to the serious health condition within the knowledge of the licensed health care provider; and</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>If intermittent FAMLI leave is requested, a statement that the covered individual needs to care for a service member and the expected frequency and duration of the intermittent FAMLI leave.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Qualified Exigency. An application for FAMLI leave for a qualifying exigency arising out of the deployment of a service member who is a family member, shall include a copy of the family member’s active duty orders or other documentation issued by the uniformed services that indicates that the service member is on covered active duty or call to covered active duty status, and the dates of the service member’s covered active duty service.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Attestations. The Division may require claimants to attest that information provided in their applications is true to the best of their knowledge and that there are no disqualifying criteria.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Employer Response to Claim Application.</text>
+        <para>
+          <num>(a)</num>
+          <text>An employer shall have 5 business days to respond to notice from the Division or an EPIP of an employee’s submitted claim application.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>At the conclusion of the 5 business day period in <cite path="09|42|04|.04|B.|(7)|(a)">§B(7)(a) of this regulation</cite>, if there is no employer response, the claim application is considered a complete claim application.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>At the conclusion of the 5 business day period in <cite path="09|42|04|.04|B.|(7)|(a)">§B(7)(a) of this regulation</cite>, if the employer has challenged the claimant’s eligibility, the Division or EPIP shall investigate which may include a request for a response from the claimant.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>At the conclusion of the investigation in <cite path="09|42|04|.04|B.|(7)|(c)">§B(7)(c) of this regulation</cite>, the claim application is considered a complete claim application.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Division may request supplemental data from the employer together with the notice in <cite path="09|42|04|.04|B.|(7)|(a)">§B(7)(a) of this regulation</cite>.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>If the Division makes a request pursuant to <cite path="09|42|04|.04|B.|(7)|(e)">§B(7)(e) of this regulation</cite>, and there is no employer response within the 5 business day period in <cite path="09|42|04|.04|B.|(7)|(a)">§B(7)(a) of this regulation</cite>, the Division may proceed with estimation under <cite path="09.42.02.09|C.">COMAR 09.42.02.09C</cite>.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>If benefits are approved and issued and job and anti-retaliation protections have thus attached and an employer provides a response after the time period provided in <cite path="09|42|04|.04|B.|(7)|(a)">§B(7)(a) of this regulation</cite>, the response may still be considered and if the information negates the recipient’s eligibility:</text>
+          <para>
+            <num>(i)</num>
+            <text>The recipient is still entitled to the benefits received;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Continuation of benefits will cease; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Job and anti-retaliation protections apply for the time period from approval of benefits to revocation of benefits.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>If FAMLI leave has been retroactively approved and additional information as described in <cite path="09|42|04|.04|B.|(7)|(e)">§B(7)(e) of this regulation</cite> has been provided then any benefits issued shall be considered an overpayment and job and anti-retaliation protections may not apply.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Updating a Claim Application.</text>
+      <para>
+        <num>(1)</num>
+        <text>This provision applies to applications a claimant may need to update as well as the incomplete application notification requirements in <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-703, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A claim shall be updated within 10 days, or as soon as practicable with good cause shown, of any changes to the following information provided on an application:</text>
+        <para>
+          <num>(a)</num>
+          <text>Basis for leave;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Start date of leave;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Duration of leave;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>End date of leave; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Whether the claimant has begun to receive Workers’ Compensation or Unemployment Insurance benefits.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Failure to update a claim with any changes to the information provided on an application for benefits may result in a delay, underpayment, overpayment, or denial of benefits.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Cancelation of a Claim.</text>
+      <para>
+        <num>(1)</num>
+        <text>If a claimant no longer requires FAMLI benefits, their application may be withdrawn.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the FAMLI leave period has already commenced, the total amount of FAMLI leave actually taken, not the total amount applied for, will be assessed against the claimant’s FAMLI leave balance for the application year.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-198-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="09|42|04|.05">
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Determination of Length of FAMLI Leave.</heading>
+    <para>
+      <num>A.</num>
+      <text>General.</text>
+      <para>
+        <num>(1)</num>
+        <text>Except as outlined in <cite path="09|42|04|.05|A.|(2)">§A(2) of this regulation</cite>, any claimant may receive up to 12 weeks of FAMLI benefits and leave per employer per application year.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A claimant may receive an additional 12 weeks of FAMLI benefits and leave if the claimant during the same application year:</text>
+        <para>
+          <num>(a)</num>
+          <text>Received medical leave and becomes eligible for bonding leave; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Received bonding leave and becomes eligible for medical leave.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For each claim, a claimant may be approved for the lesser of:</text>
+        <para>
+          <num>(a)</num>
+          <text>12 weeks;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The remaining FAMLI leave balance for the claimant for the application year;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The amount requested; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If applicable, the amount supported by any required documentation.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Family Leave.</text>
+      <para>
+        <num>(1)</num>
+        <text>Bonding Leave.</text>
+        <para>
+          <num>(a)</num>
+          <text>Birth of a Child. Any claimant seeking leave for bonding with a child may apply for up to 12 weeks of FAMLI leave within the first 12 months beginning on the date of the birth.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Adoption, Foster Care, or Kinship Care.</text>
+          <para>
+            <num>(i)</num>
+            <text>Any claimant seeking leave for bonding with a child placed through adoption, fostering, or kinship care may apply for up to 12 weeks of FAMLI leave within 12 months of the placement.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>FAMLI leave may also be used in anticipation of placement for court appearances, legal appointments, placement agency appointments, counseling appointments, medical appointments, and travel, provided they are substantiated by documentation required.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Caring for a Family Member.</text>
+        <para>
+          <num>(a)</num>
+          <text>A claimant seeking leave to care for a family member may apply for up to 12 weeks of FAMLI leave provided documentation from a licensed health care provider substantiating the time period requested is submitted with the application.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Death of Family Member. If the covered individual is on approved FAMLI leave and the person they are caring for dies, the reason for that leave has ended.</text>
+          <para>
+            <num>(i)</num>
+            <text>Benefits shall continue to be paid to the covered individual until 7 days after the death of the family member or the previously approved end date for the leave, whichever date is soonest.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The covered individual shall provide notice of the date of death of the family member for whom the covered individual was caring within 72 hours of the person’s passing.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Uniformed Services Caregiving. A claimant seeking leave to care for a service member may apply for up to 12 weeks of FAMLI leave provided documentation from a licensed health care provider substantiating the time period requested is submitted with the application.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Medical Leave. A claimant seeking leave for their own serious health condition may apply for up to 12 weeks of FAMLI leave provided documentation from a licensed health care provider substantiating the time period requested is submitted with the application.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Qualified Exigency Leave. A claimant seeking leave for a qualifying exigency may apply for up to 12 weeks of FAMLI leave provided documentation outlined in <cite path="09.42.04.04">COMAR 09.42.04.04(B)(5)(e)</cite> substantiating the time period requested is submitted with the application.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-198-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>FAMLI Benefit Calculation.</heading>
+    <para>
+      <num>A.</num>
+      <text>Claimant Average Weekly Wage.</text>
+      <para>
+        <num>(1)</num>
+        <text>A claimant’s average weekly wage shall be calculated by dividing the wages earned from the employer from whom the claimant is taking FAMLI leave over the highest of the previous 4 completed calendar quarters for which quarterly reports have been required prior to the anchor date by 13.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the Division does not have completed wage and hour reports for at least 2 quarters for an employed claimant with the employer from which they have requested leave, the Division will use the highest quarter of the most recent 4 quarters the claimant worked for any employer to calculate the employed claimant’s average weekly wage.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Continuous FAMLI Leave Benefit Calculation.</text>
+      <para>
+        <num>(1)</num>
+        <text>If the claimant’s average weekly wage is 65 percent or less of the State average weekly wage, benefits will be 90 percent of the claimant’s average weekly wage; or, if the claimant’s average weekly wage is greater than 65 percent of the State average weekly wage, benefits will be the sum of:</text>
+        <para>
+          <num>(a)</num>
+          <text>90 percent of the claimant’s average weekly wage up to 65 percent of the State average weekly wage; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>50 percent of the claimant’s average weekly wage that is greater than 65 percent of the State average weekly wage up to the maximum weekly benefit amount.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The benefit amount shall be calculated using the State average weekly wage and maximum weekly benefit amount in effect at the time the approved leave begins and that amount shall be set for the duration of the claim.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Intermittent FAMLI Leave Hours Calculation. For an intermittent leave claim, one week of benefits equals the quotient of the number of hours worked during the highest earning quarter of the previous 4 completed calendar quarters for which quarterly reports have been required prior to the anchor date divided by 13.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Intermittent FAMLI Leave Benefit Calculation.</text>
+      <para>
+        <num>(1)</num>
+        <text>For intermittent FAMLI leave an hourly benefit amount will be calculated by dividing the weekly benefit amount by the average number of hours worked per week during the highest earning of the previous 4 completed calendar quarters for which quarterly reports have been required prior to the anchor date.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The benefit amount to be disbursed will be calculated by multiplying the hourly benefit amount by the number of hours of intermittent FAMLI leave taken in a week.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The benefit amount shall be calculated using the State average weekly wage and maximum weekly benefit amount in effect on the anchor date.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>On or before the first day of January the benefit amount of every open and active claim for intermittent leave shall be readjusted based on the new maximum weekly benefit amount.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-198-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="09|42|04|.07">
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Intermittent FAMLI Leave Benefit Request Process.</heading>
+    <para>
+      <num>A.</num>
+      <text>Claimants approved for intermittent FAMLI leave shall submit requests for benefits within 5 business days of leave being taken unless good cause can be shown.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Intermittent FAMLI leave shall not be taken for less than 4 hours unless the claimant’s scheduled shift was fewer than 4 hours.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Benefits will not be issued for requests that significantly exceed the expected duration and frequency listed on the medical certification without an updated certification.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Approved intermittent leave applications expire after one year.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>If a claimant requires additional FAMLI leave for the qualifying event subject to the expiration period identified in <cite path="09|42|04|.07|D.">§D of this regulation</cite>, the employee will have to submit a new claim application.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-198-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="09|42|04|.08">
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Notice Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>Employer to Employee.</text>
+      <para>
+        <num>(1)</num>
+        <text>An employer shall give an employee notice about FAMLI leave and benefits in the following circumstances:</text>
+        <para>
+          <num>(a)</num>
+          <text>6 months prior to the commencement of benefits, either through an EPIP or with the State plan;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>At hire;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Annually;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>30 days before any changes to the employer’s FAMLI procedures or plan go into effect; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>When the employer knows that an employee’s leave or leave request may be eligible for FAMLI.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Division will publish prescribed forms and templates for employer use under <cite path="09.42.01.03">COMAR 09.42.01.03</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the employer collects an electronic or physical acknowledgement of receipt by the claimant (such as an electronic or wet signature) of the notice, the claimant is considered notified.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Employee to Employer.</text>
+      <para>
+        <num>(1)</num>
+        <text>FAMLI Leave.</text>
+        <para>
+          <num>(a)</num>
+          <text>Foreseeable FAMLI Leave. If the need for FAMLI leave is foreseeable, an employee shall provide 30 days notice to an employer.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Unforeseeable FAMLI Leave. If an employee did not or could not have known about the need for FAMLI leave 30 days before the FAMLI leave commencement date, the employee shall be required to provide notice as soon as practicable of the need for FAMLI leave to their employer.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An employer may waive the notice requirement.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>An employer is deemed to have waived the notice requirement under <cite path="09|42|04|.08|B.|(1)|(a)">§B(1)(a) of this regulation</cite> if the employer:</text>
+          <para>
+            <num>(i)</num>
+            <text>Did not invoke it when notified of the claim by the Division or the EPIP; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Failed to notify the claimant that the employer requires notice under <cite path="09|42|04|.08|B.|(1)|(a)">§B(1)(a) of this regulation</cite>.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Intermittent FAMLI Leave.</text>
+        <para>
+          <num>(a)</num>
+          <text>If FAMLI leave is to be taken on an intermittent schedule, the employee shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>Make a reasonable effort to schedule the intermittent FAMLI leave in a manner that does not cause significant difficulty or expense in relation to the resources and specific operations of the employer’s operations; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Provide the employer with reasonable and practicable prior notice of the reason, dates, and duration for which intermittent FAMLI leave is necessary.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notice of Intermittent Leave Schedule.</text>
+          <para>
+            <num>(i)</num>
+            <text>A recipient who is approved for intermittent FAMLI leave who fails to provide reasonable and practicable prior notice to their employer of the intermittent leave schedule may be subject to the employer’s established absence policy.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>An employer, whether enrolled in the State plan or an EPIP, shall notify the Division when a recipient approved for intermittent FAMLI leave fails to provide the notice detailed in <cite path="09|42|04|.08|B.|(2)|(a)">§B(2)(a) of this regulation</cite> before the employer takes action against the employee under the employer’s established absence policy.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>If a recipient’s utilization of intermittent FAMLI leave is inconsistent with the FAMLI leave approval, it may not be considered retaliation for an employer to request additional information related to the use of FAMLI leave.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>State Plan or EPIP to Claimant. Claimants shall be provided notice in the following circumstances:</text>
+      <para>
+        <num>(1)</num>
+        <text>When a claimant’s application is submitted.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>When an incomplete application is submitted, within 5 business days of application submission.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>When a notice is sent to the claimant’s employer (confidentiality restrictions).</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>When their employer’s response is submitted.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Whether their application is approved, within 10 business days of complete claim application submission including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Benefit amount;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>FAMLI benefits beginning date;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>FAMLI leave period beginning date;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>FAMLI benefits ending date;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>FAMLI leave period ending date;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Duration and frequency of intermittent FAMLI leave (if applied for); and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The claimant’s appeal rights.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Whether their application is denied (in full or in part) within 10 business days of complete claim application submission and the notice shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>State concisely and simply:</text>
+          <para>
+            <num>(i)</num>
+            <text>The reasons for denial;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The claimant’s appeal rights;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The facts that are asserted; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>If the facts cannot be stated in detail when the notice is given, the issues that are involved;</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>State the pertinent statutory and regulatory sections under which the action was taken;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>State that the party receiving the notice has the opportunity to request a reconsideration, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>What, if anything, a person must do to receive a reconsideration; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>All relevant time requirements; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>State the direct consequences, if any, or remedy of the party receiving the notice’s failure to exercise in a timely manner the opportunity for a reconsideration.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>State Plan or EPIP to Employer. An employer shall be provided notice of any of the following circumstances occurring:</text>
+      <para>
+        <num>(1)</num>
+        <text>An employee files an application;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An employee files a complete claim application;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A determination regarding a claim for benefits is made;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A reconsideration or an appeal of a determination regarding a claim for benefits is filed; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A change is made to a determination regarding a claim for benefits.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-198-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="09|42|04|.09">
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Coordination of Benefits.</heading>
+    <para>
+      <num>A.</num>
+      <text>FMLA. An employee’s annual maximum duration of FAMLI leave may be reduced by the employee’s use of FMLA if:</text>
+      <para>
+        <num>(1)</num>
+        <text>The employee’s FMLA leave was also eligible for FAMLI;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The employer notified the employee of their potential eligibility for FAMLI when the employee took FMLA; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The employee did not apply for FAMLI leave.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Employer-Provided Leave.</text>
+      <para>
+        <num>(1)</num>
+        <text>Alternative FAMLI Purpose Leave (AFPL).</text>
+        <para>
+          <num>(a)</num>
+          <text>An employer may require an employee to use AFPL concurrently or in coordination with FAMLI provided the AFPL is:</text>
+          <para>
+            <num>(i)</num>
+            <text>Specifically designed to fulfill a purpose of FAMLI;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Paid;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Not accrued;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Not subject to repayment if the employee leaves their position;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Not available for general purposes; and</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Available without a requirement to exhaust another form of leave.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If an employer chooses to require an employee to use AFPL concurrently or in coordination with FAMLI leave, the employer shall provide advanced written notice to its employees of this requirement.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>When an employer requires concurrent or coordinated usage of AFPL and FAMLI and has satisfied the written notice requirement, and the employee declines to apply for FAMLI benefits, the employee’s FAMLI eligibility is reduced by the amount of AFPL time taken.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If a recipient receives wage replacement from both FAMLI and AFPL concurrently, the FAMLI benefit is primary and the AFPL benefit may be used to supplement the recipient’s wage to equal no more than 100 percent of the recipient’s average weekly wage.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>An employer may deduct the full amount of time taken under both forms of leave from the recipient’s AFPL balance even if the recipient only received partial wage replacement from the AFPL.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>An employee’s decision to use AFPL concurrently or in coordination with FAMLI does not negate the job protection or retaliation provisions of Labor and Employment Article, §§8.3-706 and 904, Annotated Code of Maryland.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>General Purpose Leave.</text>
+        <para>
+          <num>(a)</num>
+          <text>Neither the employee nor the employer may require the substitution of general purpose leave for FAMLI leave.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An employer and an employee may agree to have general purpose leave wages supplement FAMLI benefits, up to 100 percent of the employee’s average weekly wage.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If general purpose leave is used to supplement FAMLI benefits, the employer may:</text>
+          <para>
+            <num>(i)</num>
+            <text>Convert the dollar amount of the supplement into the corresponding number of employer-provided general purpose leave hours; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Subtract those hours from the employee’s balance of accrued and unused employer-provided general purpose leave.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Documentation of use of general purpose leave.</text>
+          <para>
+            <num>(i)</num>
+            <text>The use of employer-provided general purpose leave to supplement FAMLI benefits requires mutual agreement in writing between the employer and the employee.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If either the employer or the employee does not so mutually agree, employer-provided general purpose leave may not be used to supplement FAMLI benefits.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Any agreement under <cite path="09|42|04|.09|B.|(2)|(d)|(ii)">§B(2)(d)(ii) of this regulation</cite> shall be documented and retained by the employer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Mutual agreement between the employer and the employee is not necessary in order for an employee to use paid sick leave prior to receiving FAMLI leave benefits.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Workers’ Compensation and Unemployment Benefits.</text>
+      <para>
+        <num>(1)</num>
+        <text>Under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-702(e), Annotated Code of Maryland, an individual receiving Unemployment Insurance benefits from the State may not be eligible for FAMLI benefits.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Except in the case of benefits for a permanent partial disability, under <cite doc="Md. Code" path="gle|8">Labor and Employment Article, §8</cite>.3-702(e), Annotated Code of Maryland, an individual receiving Workers’ Compensation wage replacement benefits may not be eligible for FAMLI benefits.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-198-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="09|42|04|.10">
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Benefit Payment Process.</heading>
+    <para>
+      <num>A.</num>
+      <text>Payment Schedule.</text>
+      <para>
+        <num>(1)</num>
+        <text>The first payment to a recipient shall be within 5 business days after the complete claim application is approved or the FAMLI leave has started, whichever is later.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subsequent benefit payments to recipients shall be made at least every 2 weeks until the benefit period ends.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In the event the recipient provides incorrect or erroneous payment information, additional time will be required for payment to be issued or reissued.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Overpayment.</text>
+      <para>
+        <num>(1)</num>
+        <text>On learning of overpayment of benefits, written notice will be sent to the recipient, including that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Repayment of the overpayment is being sought; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A waiver of the repayment is being offered.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In cases of seeking repayment, the recipient shall have 30 days to reply to the notice as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>The recipient agrees to repay; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The recipient requests a waiver under <cite path="09|42|04|.10|B.|(4)">§B(4) of this regulation</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Repayment. Repayment of benefits may be sought from an individual who received benefits under this subtitle if:</text>
+        <para>
+          <num>(a)</num>
+          <text>Benefits were paid erroneously or as a result of willful misrepresentation by the recipient; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A claim for benefits under this subtitle is rejected after the benefits were paid.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Waiver. Repayment of benefits may be waived if:</text>
+        <para>
+          <num>(a)</num>
+          <text>The error in payment was not due to any knowingly false statement, nondisclosure of material fact, or misrepresentation by a covered individual; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The repayment would be against equity and good conscience or administrative efficiency.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Denial of waiver. If a recipient requests a waiver and the request is denied, the recipient may file a request for reconsideration.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>If an EPIP seeks monetary reimbursement of an overpayment of benefits, the EPIP administrator shall notify the Division of its intent to seek reimbursement simultaneously with its notice to the recipient.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>If a recipient’s employer has terminated enrollment in the State plan and enrolled in an EPIP, any recipient who filed a valid claim for benefits under the State plan before the effective date of the employer’s EPIP enrollment shall be paid or continue to be paid benefits from and under the terms of the State plan until the total amount of the benefit claim is paid, the duration of leave ends, or the application year ends, whichever occurs first.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-198-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Finding of Fraud After Benefit Approval.</heading>
+    <text>If benefits are approved and issued and job and anti-retaliation protections have thus attached, and then fraud is proven:</text>
+    <para>
+      <num>A.</num>
+      <text>Any benefits issued will be treated as an overpayment; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Job and anti-retaliation protections will not apply.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-198-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>Special EPIP Provisions.</heading>
+    <para>
+      <num>A.</num>
+      <text>To the extent the claim procedures, including timelines and good cause, outlined in this chapter are more restrictive with respect to claimants than those claim procedures outlined by the Administration, the Administration’s procedures shall control.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>To the extent the claim procedures, including notice requirements and good cause, outlined in this chapter are less restrictive with respect to employers and carriers than those claim procedures outlined by the Administration, the Administration’s procedures shall control.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-198-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Labor and Employment Article, §§8.3-101, 403, 701, 702, and 902, et seq., Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30">Effective date: March 30, 2026 (53:6 Md. R. 290)</annotation>
+  </annotations>
+  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-198-F" type="History" display="false"/>
+</container>

@@ -42,27 +42,35 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>"Group practice" means a group of two or more health care practitioners legally organized as a partnership, professional corporation, limited liability company, foundation, not-for-profit corporation, faculty practice plan, or similar association:</text>
-        <para>
-          <num>(a)</num>
-          <text>In which each health care practitioner who is a member of the group as defined in this chapter provides substantially the full range of services which the practitioner routinely provides through the joint use of shared office space, facilities, equipment, and personnel;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>For which substantially all, that is, at least 75 percent, of the patient care services of all of the health care practitioners who are members of the group are provided through the group and are billed under a billing number assigned to the group and amounts so received are treated as receipts of the group; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>In which the overhead expenses of and the income from the practice are distributed in accordance with methods previously determined on an annual basis by members of the group.</text>
-        </para>
+        <text>“Group practice” has the meaning stated in <cite doc="Md. Code" path="gho|1-301">Health Occupations Article, §1-301, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>"Health care service" means medical procedures, tests, and services provided to a patient by or through a health care entity, including supplies, drugs, and items furnished to a patient by a health care entity.</text>
+        <text>Health Care Service.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Health care service” has the meaning stated in <cite doc="Md. Code" path="gho|1-301">Health Occupations Article, §1-301, Annotated Code of Maryland</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Health care service” includes but is not limited to:</text>
+          <para>
+            <num>(i)</num>
+            <text>Supplies;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Drugs; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Items furnished to a patient by a health care entity..</text>
+          </para>
+        </para>
       </para>
       <para>
         <num>(3)</num>
-        <text>"Members of the group" means health care practitioners:</text>
+        <text>“Members of the group” means health care practitioners:</text>
         <para>
           <num>(a)</num>
           <text>With an ownership interest in the group practice; or</text>
@@ -74,7 +82,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>"Patient care services" means the total patient care time spent on any task performed by a group practice member that addresses the medical needs of specific patients, regardless of whether they involve direct patient encounters, and including but not limited to time spent:</text>
+        <text>“Patient care services” means the total patient care time spent on any task performed by a group practice member that addresses the medical needs of specific patients, regardless of whether they involve direct patient encounters, and including but not limited to time spent:</text>
         <para>
           <num>(a)</num>
           <text>By a member of the group in consultation with other health care practitioners, whether or not they are members of the group; and</text>
@@ -86,18 +94,20 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>"Personally supervised" means the responsibility of a health care practitioner to exercise on-site supervision or immediately available direction for employees performing referred in-office ancillary services or tests.</text>
+        <text>“Personally supervised” means the responsibility of a health care practitioner to exercise on-site supervision or immediately available direction for employees performing referred in-office ancillary services or tests.</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>"Referring health care practitioner" means a health care practitioner, or group practice, who makes a referral.</text>
+        <text>“Referring health care practitioner” means a health care practitioner, or group practice, who makes a referral.</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>"Rental or lease of office space" means payments made for the rental or lease of utilities, use of equipment, and secretarial and support staff.</text>
+        <text>“Rental or lease of office space” means payments made for the rental or lease of utilities, use of equipment, and secretarial and support staff.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-310-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|01|15|.03">
     <prefix>Regulation</prefix>
@@ -112,50 +122,56 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>"Area of concentration" means a limitation of practice by demonstrable training and competence of a health care practitioner.</text>
+        <text>“Area of concentration” means a limitation of practice by demonstrable training and competence of a health care practitioner.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>"Essential" means a health care entity would not be able to exist but for the health care practitioner's beneficial interest in the health care entity.</text>
+        <text>“Department” means the Maryland Department of Health.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>"Health care entity" means a business entity that provides health care services for the:</text>
-        <para>
-          <num>(a)</num>
-          <text>Testing, diagnosis, or treatment of human disease or dysfunction; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Dispensing of drugs, medical devices, medical appliances, or medical goods for the treatment of human disease or dysfunction.</text>
-        </para>
+        <text>“Essential” means a health care entity would not be able to exist but for the health care practitioner's beneficial interest in the health care entity.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Health Care Practitioner.</text>
-        <para>
-          <num>(a)</num>
-          <text>"Health care practitioner" means a person who is licensed, certified, or otherwise authorized under the <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>, to provide health care services in the ordinary course of business or practice of a profession.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>"Health care practitioner" does not include a mortician or nursing home administrator, unless the mortician or nursing home administrator is licensed, certified, or otherwise authorized under the <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>, to provide health care services by any board other than the Board of Morticians or the Board of Nursing Home Administrators.</text>
-        </para>
+        <text>“Health care entity” has the meaning stated in <cite doc="Md. Code" path="gho|1-301">Health Occupations Article, §1-301, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>"MHCC" means the Maryland Health Care Commission.</text>
+        <text>Health Care Practitioner.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Health care practitioner has the meaning stated in <cite doc="Md. Code" path="gho|1-301">Health Occupations Article, §1-301, Annotated Code of Maryland</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Health care practitioner” does not include a mortician, an assisted living manager, or a nursing home administrator, unless the mortician, assisted living manager, or nursing home administrator is licensed, certified, or otherwise authorized under the <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>, to provide health care services by any board other than the Board of Morticians and Funeral Directors or the Board of Long-Term Care Administrators.</text>
+        </para>
       </para>
       <para>
         <num>(6)</num>
-        <text>"Secretary" means the Secretary of Health.</text>
+        <text>“Maryland Health Care Commission (MHCC)” means the Maryland Health Care Commission.</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>"Specialty" means "area of concentration" as defined in <cite path="10|01|15|.03|B.|(1)">§B(1) of this regulation</cite>.</text>
+        <text>“Referral” has the meaning stated in Health Occupation Article, §1-301, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Requestor” means an individual other than the health care practitioner who is an attorney admitted to the Maryland Bar or specially admitted to practice law in the State under Maryland Rules Title 19.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Secretary” means the Secretary of the Maryland Department of Health or their designee.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Specialty” means “area of concentration” as defined in <cite path="10|01|15|.03|B.|(1)">§B(1) of this regulation</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-310-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -164,17 +180,17 @@
     <text>The Secretary may exempt a health care practitioner from the prohibition on self-referral pursuant to <cite doc="Md. Code" path="gho|1-302">Health Occupations Article, §1-302(d)(5), Annotated Code of Maryland</cite>, in accordance with this chapter.</text>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="10|01|15|.05">
     <prefix>Regulation</prefix>
     <num>.05</num>
     <heading>Request for Exemption.</heading>
     <para>
       <num>A.</num>
-      <text>A health care practitioner who has or wishes to have a beneficial interest in a health care entity may request an exemption from the self-referral laws.</text>
+      <text>A health care practitioner who has or wishes to have a beneficial interest in a health care entity may request from the Secretary an exemption from the self-referral laws.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>In order for a health care practitioner to obtain an exemption by the Secretary from the self-referral laws, the health care practitioner shall make a request to the Secretary that:</text>
+      <text>In order for a health care practitioner to obtain an exemption by the Secretary from the self-referral laws, the health care practitioner shall make a request to the Secretary in the manner specified by the Department that:</text>
       <para>
         <num>(1)</num>
         <text>Identifies the street address, political subdivision, and area of concentration of both the health care practitioner and the entity in which the practitioner has or wishes to have a beneficial interest;</text>
@@ -184,11 +200,11 @@
         <text>Demonstrates to the Secretary's satisfaction that the health care practitioner's beneficial interest is:</text>
         <para>
           <num>(a)</num>
-          <text>Essential to finance and to provide the health care entity, and</text>
+          <text>Essential to finance and to provide the health care entity; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Needed to ensure appropriate access for the community to the services provided at the health care entity.</text>
+          <text>Needed to ensure appropriate access for the community to the services provided at the health care entity;</text>
         </para>
       </para>
       <para>
@@ -197,10 +213,38 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>Includes an agreement that, if the health care practitioner seeks renewal of an exemption from the Secretary and the Secretary no longer deems the beneficial interest to be essential, the practitioner will:</text>
+        <text>Provides the health care practitioner’s:</text>
         <para>
           <num>(a)</num>
-          <text>Pledge in writing to the Secretary that the health care entity shall immediately cease accepting any referrals from sources prohibited under <cite doc="Md. Code" path="gho|1-301">Health Occupations Article, §1-301 </cite>et seq., Annotated Code of Maryland, or</text>
+          <text>Name;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Licensing board;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>License number;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>License expiration date;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Business address; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Business telephone number;</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Includes an attestation in writing that, if the health care practitioner seeks renewal of an exemption from the Secretary and the Secretary no longer deems the beneficial interest to be essential, the practitioner shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Immediately cease accepting any referrals from sources prohibited under <cite doc="Md. Code" path="gho|1-301">Health Occupations Article, §1-301 </cite>et seq., Annotated Code of Maryland; or</text>
         </para>
         <para>
           <num>(b)</num>
@@ -210,13 +254,39 @@
     </para>
     <para>
       <num>C.</num>
-      <text>The Secretary shall request, in writing, the advice of the Executive Director of the MHCC concerning whether the beneficial interest is needed to ensure appropriate access for the community to the services provided at the health care entity.</text>
+      <text>Request to MHCC.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Secretary shall request, in writing, the advice of the Executive Director of the MHCC concerning whether the beneficial interest is needed to ensure appropriate access for the community to the services provided at the health care entity.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Secretary shall provide, with the request to the Executive Director of the MHCC, a copy of any materials submitted to the Department in accordance with <cite path="10|01|15|.05|B.">§B of this regulation</cite> and any additional items which may be pertinent to the MHCC’s review.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Secretary shall follow the timetable set forth in <cite path="|10|01|15|.06">Regulation .06 of this chapter</cite>.</text>
+      </para>
     </para>
     <para>
       <num>D.</num>
       <text>The Executive Director of the MHCC shall advise the Secretary in accordance with the timetable in <cite path="|10|01|15|.06">Regulation .06 of this chapter</cite> as to whether the health care entity is needed to ensure appropriate access for the community to the services provided at the health care entity.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>E.</num>
+      <text>If additional information is needed by the Secretary or the Executive Director of MHCC for their determination, the Department may ask the health care practitioner to provide additional information to establish that the practitioner’s beneficial interest is:</text>
+      <para>
+        <num>(1)</num>
+        <text>Essential to finance and to provide the health care entity; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Needed to ensure appropriate access for the community to the services provided at the health care entity.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-310-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -224,13 +294,19 @@
     <heading>Timetable for the Secretary's Action.</heading>
     <para>
       <num>A.</num>
-      <text>The Secretary shall make the required determinations within 90 days following receipt of a health care practitioner's request for exemption.</text>
+      <text>The Secretary shall make the required determinations within 90 calendar days following receipt of a health care practitioner's request for exemption.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>The Executive Director of the MHCC shall advise the Secretary as to whether the health care entity is needed to ensure appropriate access for the community to the services provided at the health care entity within 60 days after receipt of the Secretary's letter.</text>
+      <text>The Secretary shall request advice from the Executive Director of the MHCC as to whether the health care entity is needed to ensure appropriate access for the community to the services provided at the health care entity within 30 calendar days of receipt of the health care practitioner’s request for exemption.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>C.</num>
+      <text>The Executive Director of the MHCC shall advise the Secretary as to whether the health care entity is needed to ensure appropriate access for the community to the services provided at the health care entity within 60 calendar days after receipt of the Secretary's letter.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-310-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -242,7 +318,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The exemption expires at the end of its term, unless the exemption is renewed as provided by this chapter.</text>
+      <text>The exemption expires at the end of its term, unless the exemption is renewed in accordance with this regulation.</text>
     </para>
     <para>
       <num>C.</num>
@@ -250,26 +326,46 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Each health care practitioner who has been exempted by the Secretary from the prohibition on self-referral as an essential health care entity needed for access to health care shall renew the health care practitioner's exemption status on a form provided by the Secretary or the Secretary's designee at the time of licensure, certification, or other form of practice renewal authorized under the <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>, within the time period specified on the form.</text>
+      <text>Each health care practitioner who has been exempted by the Secretary from the prohibition on self-referral as an essential health care entity needed for access to health care shall renew the health care practitioner's exemption status in the manner provided by the Department at the time of licensure, certification, or other form of practice renewal authorized under the <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>, within the time period specified on the form.</text>
     </para>
     <para>
       <num>E.</num>
-      <text>Each exempted health care practitioner shall keep the appropriate licensing, certification, or other practice authorizing board apprised of a current mailing address.</text>
+      <text>At a minimum, the health care practitioner shall provide, at the time of renewal, to the Department:</text>
+      <para>
+        <num>(1)</num>
+        <text>A copy of the initial exemption request;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A copy of the Secretary’s approval of the initial exemption;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The items specified in <cite path="|10|01|15|.05|B.">Regulation .05B of this chapter</cite>; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any additional pertinent information as requested by the Secretary.</text>
+      </para>
     </para>
     <para>
       <num>F.</num>
-      <text>On request by the Secretary or the Secretary's designee, the relevant board or boards shall supply the current mailing addresses of exempted health care practitioners.</text>
+      <text>Each exempted health care practitioner shall keep the appropriate licensing, certification, or other practice authorizing board apprised of the health care practitioner’s current business address.</text>
     </para>
     <para>
       <num>G.</num>
-      <text>The Secretary or the Secretary's designee shall mail a notice of the required renewal to the health care practitioner at the current mailing address supplied by the appropriate board.</text>
+      <text>On request by the Department, the relevant board or boards shall supply the current business addresses of exempted health care practitioners.</text>
     </para>
     <para>
       <num>H.</num>
-      <text>If an exempted health care practitioner does not receive notice of renewal, it is the exempted health care practitioner's responsibility to notify the Secretary or the Secretary's designee so that the Secretary or the Secretary's designee may renew the exemption before the expiration of the current exemption.</text>
+      <text>The Department shall mail a notice of the required renewal to the health care practitioner at the current business address supplied by the appropriate board.</text>
     </para>
     <para>
       <num>I.</num>
+      <text>If an exempted health care practitioner does not receive notice of renewal, it is the exempted health care practitioner's responsibility to notify the Department so that the Secretary may renew the exemption before the expiration of the current exemption.</text>
+    </para>
+    <para>
+      <num>J.</num>
       <text>Failure to Renew Exemption.</text>
       <para>
         <num>(1)</num>
@@ -277,13 +373,21 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>If an exempted health care practitioner fails to renew the exemption, and fails to carry out the agreed requirements set forth in <cite path="|10|01|15|.05|B.|(4)">Regulation .05B(4) of this chapter</cite>, the practitioner shall be subject to disciplinary action as set forth in <cite doc="Md. Code" path="gho|1-306">Health Occupations Article, §1-306, Annotated Code of Maryland</cite>, for violation of the self-referral laws.</text>
+        <text>If an exempted health care practitioner fails to renew the exemption, and fails to carry out the agreed requirements set forth in <cite path="|10|01|15|.05|B.|(6)">Regulation .05B(6) of this chapter</cite>, the practitioner shall be subject to disciplinary action as set forth in <cite doc="Md. Code" path="gho|1-307">Health Occupations Article, §1-307, Annotated Code of Maryland</cite>, for violation of the self-referral laws.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-310-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gho|1-301">Health Occupations Article, §1-301 </cite>et seq., Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §2-104(b); <cite doc="Md. Code" path="gho|1-301">Health Occupations Article, §1-301 </cite>et seq., Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-06-25">Effective date: June 25, 2001 (28:12 Md. R. 1106)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|10|01|15|.02|B.">Regulation .02B</cite> amended effective March 30, 2026 (53:6 Md. R. 290)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|10|01|15|.03|B.">Regulation .03B</cite> amended effective March 30, 2026 (53:6 Md. R. 290)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|10|01|15|.05">Regulation .05</cite> amended effective March 30, 2026 (53:6 Md. R. 290)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|10|01|15|.06">Regulation .06</cite> amended effective March 30, 2026 (53:6 Md. R. 290)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|10|01|15|.07">Regulation .07</cite> amended effective March 30, 2026 (53:6 Md. R. 290)</annotation>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-310-F" type="History" display="false"/>
   </annotations>
 </container>

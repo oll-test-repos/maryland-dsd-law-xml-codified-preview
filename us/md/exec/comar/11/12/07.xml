@@ -33,12 +33,46 @@
     </para>
     <para>
       <num>B.</num>
-      <text>For submission of titling and registration data, fees, and taxes, in addition to <cite path="11|12|07|.01|A.">§A of this regulation</cite>, the Administration shall consider the degree of lateness.</text>
+      <text>Failure to submit title and registration data, fees, and taxes may result in a standard fine which is assessed at a rate of:</text>
+      <para>
+        <num>(1)</num>
+        <text>For a tag and title service that submits transaction information later than required by the contract between the tag and title service and the Administration, the standard fine shall be:</text>
+        <para>
+          <num>(a)</num>
+          <text>For the first late day after the requirement to submit by contract, $30; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Increased by $1 per day thereafter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For a dealership that submits transaction information later than 30 days after the transaction date, the standard fine shall be:</text>
+        <para>
+          <num>(a)</num>
+          <text>For the first day after 30 days, $30; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Increased by $1 per day thereafter.</text>
+        </para>
+      </para>
     </para>
-    <annotations/>
+    <para>
+      <num>C.</num>
+      <text>Fines levied in <cite path="11|12|07|.01|B.">§B of this regulation</cite> are the standard fines and can be adjusted as determined by the Administration based on circumstance.  Nothing in this section limits additional administrative action as determined by the Administration including license suspension and revocation.</text>
+      <text>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-252-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Transportation Article, §§<cite doc="Md. Code" path="gtr|12-104">12-104</cite>(b), <cite doc="Md. Code" path="gtr|15-110">15-110</cite>.1, 15-212, 15-315, 15-514, 15-607, 15-710, and 15-807, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-03-20">Effective date: March 20, 2000 (27:5 Md. R. 585)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|11|12|07|.01|B.">Regulation .01B</cite> amended effective March 30, 2026 (53:6 Md. R. 291)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|11|12|07|.01|C.">Regulation .01C</cite> adopted effective March 30, 2026 (53:6 Md. R. 291)</annotation>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-252-F" type="History" display="false"/>
   </annotations>
 </container>

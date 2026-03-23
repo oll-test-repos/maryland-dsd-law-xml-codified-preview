@@ -20,7 +20,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Term Defined. "Board" means the State Board of Acupuncture.</text>
+      <text>Term Defined. “Board” means the State Board of Acupuncture.</text>
     </para>
     <annotations/>
   </section>
@@ -65,7 +65,7 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>Cooperate with a lawful investigation conducted by the Board, including:</text>
+        <text>Cooperate with an investigation conducted by the Board, including:</text>
         <para>
           <num>(a)</num>
           <text>Furnishing information requested,</text>
@@ -124,7 +124,9 @@
         <text>Discriminate against a patient or a health care provider based on race, religion, age, gender, sexual orientation, national origin, or disability.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-261-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -321,13 +323,15 @@
     </para>
     <para>
       <num>G.</num>
-      <text>Effective January 1, 2006, maintain all patients' records in English; and</text>
+      <text>Maintain all patients' records in English; and</text>
     </para>
     <para>
       <num>H.</num>
-      <text>If requested by the Board, effective January 1, 2006, provide an English language translation of the records by a Board approved translator, at the licensee's expense.</text>
+      <text>If requested by the Board, provide an English language translation of the records by a Board approved translator, at the licensee's expense.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-261-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -411,7 +415,8 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1A-205">1A-205</cite> and <cite doc="Md. Code" path="gho|1A-206">1A-206</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-10-18">Effective date: October 18, 1999 (26:21 Md. R. 1630)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-10-01"><cite path="|10|26|03|.03|C.">Regulation .03C</cite> amended effective October 1, 2001 (28:19 Md. R. 1685)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-04-11"><cite path="|10|26|03|.06|G.">Regulation .06G</cite>, H adopted effective April 11, 2005 (32:7 Md. R. 681)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|10|26|03|.03|C.">Regulation .03C</cite> amended effective October 1, 2001 (28:19 Md. R. 1685); February 16, 2026 (53:3 Md. R. 122)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|10|26|03|.06|G.">Regulation .06G</cite>, H adopted effective April 11, 2005 (32:7 Md. R. 681); February 16, 2026 (53:3 Md. R. 122)</annotation>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-261-F" type="History" display="false"/>
   </annotations>
 </container>

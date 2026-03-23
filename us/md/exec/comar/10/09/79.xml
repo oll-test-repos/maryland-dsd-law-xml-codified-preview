@@ -43,7 +43,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>“Department” means the Department of Health and Mental Hygiene, which is the single State agency designated to administer the Maryland Medical Assistance Program pursuant to Title XIX of the Social Security Act, 42 U.S.C. §1396 et seq.</text>
+        <text>“Department” means the Department of Health, which is the single State agency designated to administer the Maryland Medical Assistance Program pursuant to Title XIX of the Social Security Act, 42 U.S.C. §1396 et seq.</text>
       </para>
       <para>
         <num>(5)</num>
@@ -102,7 +102,9 @@
         <text>“Presumptive eligibility” means temporary eligibility for Medical Assistance as determined by an eligibility worker at a participating qualified correctional facility in accordance with this chapter.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -310,7 +312,8 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §15-103(b), Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-12-18">Effective date: December 18, 2017 (44:25 Md. R. 1180)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-30"><cite path="|10|09|79|.02|B.">Regulation .02B</cite> amended effective December 30, 2019 (46:26 Md. R. 1164)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|10|09|79|.02|B.">Regulation .02B</cite> amended effective December 30, 2019 (46:26 Md. R. 1164); March 30, 2026 (53:6 Md. R. 291)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-30"><cite path="|10|09|79|.03">Regulation .03</cite> amended effective December 30, 2019 (46:26 Md. R. 1164)</annotation>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
   </annotations>
 </container>

@@ -35,7 +35,7 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>"Child placement worker" means an individual licensed in Maryland as a social worker and employed by a licensed child placement agency to:</text>
+        <text>“Child placement worker” means an individual licensed in Maryland as a social worker and employed by a licensed child placement agency to:</text>
         <para>
           <num>(a)</num>
           <text>Perform intake services;</text>
@@ -58,11 +58,11 @@
         <text>Foster Care.</text>
         <para>
           <num>(a)</num>
-          <text>"Foster care" means continuous 24-hour care and support services provided for a minor child by an individual or individuals certified by a licensed child placement agency as foster parents.</text>
+          <text>“Foster care” means continuous 24-hour care and support services provided for a minor child by an individual or individuals certified by a licensed child placement agency as foster parents.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>"Foster care" includes:</text>
+          <text>“Foster care” includes:</text>
           <para>
             <num>(i)</num>
             <text>Services to the child's parent or legal guardian, siblings, and relatives to achieve a safe, permanent placement for the child;</text>
@@ -79,19 +79,27 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>"Foster parent" means an individual certified by a licensed child placement agency to provide 24-hour care for a foster child in the home where the individual resides.</text>
+        <text>“Foster parent” means an individual certified by a licensed child placement agency to provide 24-hour care for a foster child in the home where the individual resides.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>"Infant" means a child younger than 24 months old.</text>
+        <text>“Household” means the home where the applicant or licensed foster parent lives.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>"Least restrictive setting" means the setting most consistent with the best interests and special needs of the child.</text>
+        <text>“Household member” means an individual who lives in or is regularly present in a household.</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>"Long-term care" means care provided for a child for whom:</text>
+        <text>“Infant” means a child younger than 24 months old.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Least restrictive setting” means the setting most consistent with the best interests and special needs of the child.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Long-term care” means care provided for a child for whom:</text>
         <para>
           <num>(a)</num>
           <text>A local department holds commitment or guardianship; and</text>
@@ -110,15 +118,17 @@
         </para>
       </para>
       <para>
-        <num>(7)</num>
-        <text>"Staffing" means a meeting with caregivers, child placement workers, or other involved service providers to discuss a particular case and agree on methods for achieving case plan goals.</text>
+        <num>(9)</num>
+        <text>“Staffing” means a meeting with caregivers, child placement workers, or other involved service providers to discuss a particular case and agree on methods for achieving case plan goals.</text>
       </para>
       <para>
-        <num>(8)</num>
-        <text>"Treatment foster care" means a 24-hour substitute care program, operated by a licensed child placement agency or local department of social services, for children with a serious emotional, behavioral, medical, or psychological condition as described in <cite path="|07.02.21">COMAR 07.02.21</cite>.</text>
+        <num>(10)</num>
+        <text>“Treatment foster care” means a 24-hour substitute care program, operated by a licensed child placement agency or local department of social services, for children with a serious emotional, behavioral, medical, or psychological condition as described in <cite path="|07.02.21">COMAR 07.02.21</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-244-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1364,7 +1374,7 @@
     </para>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="07|05|02|.13">
     <prefix>Regulation</prefix>
     <num>.13</num>
     <heading>Recommendation for Certification.</heading>
@@ -1389,7 +1399,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Deny certification if an applicant for foster parent certification:</text>
+        <text>Deny the certification of an applicant as a foster parent or a certified foster parent’s ability to maintain their certification if the applicant, foster parent, or any of the applicant’s or foster parent’s household members aged 18 or older:</text>
         <para>
           <num>(a)</num>
           <text>Refuses to consent to the child protective service clearance and the criminal background check;</text>
@@ -1400,20 +1410,32 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Has a felony conviction for child abuse or neglect, spousal abuse, a crime against children, rape, sexual assault, human trafficking, or homicide;</text>
+          <text>Has a conviction:</text>
+          <para>
+            <num>(i)</num>
+            <text>For child abuse or neglect, a domestically related assault or battery, any crime against children, including child pornography, rape, sexual assault, sexual offense, homicide, human trafficking, or a crime of violence as defined in <cite doc="Md. Code" path="gfl|5-101">Family Law Article, §5-101, Annotated Code of Maryland</cite>; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Within the 5 years before the application date, for misdemeanor assault or battery that is not domestically related or a felony offense related to a controlled dangerous substance; or</text>
+          </para>
         </para>
         <para>
           <num>(d)</num>
-          <text>In the 5 years before the date of application for foster parent certification, has a felony conviction for physical assault, battery, or a drug-related offense; or</text>
-        </para>
-        <para>
-          <num>(e)</num>
           <text>Refuses to consent to the Motor Vehicle Administration clearance;</text>
         </para>
       </para>
       <para>
         <num>(4)</num>
-        <text>If a child abuse or neglect investigation is in process, postpone the decision on certification until the investigation is complete;</text>
+        <text>Deny foster parent certification if an applicant has:</text>
+        <para>
+          <num>(a)</num>
+          <text>A child abuse or neglect investigation that remains unresolved 120 days after the date on the signed application; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any pending criminal charge listed in <cite path="07|05|02|.13|A.|(3)|(c)">§A(3)(c) of this regulation</cite> that remains unresolved 120 days after the date on the signed application;</text>
+        </para>
       </para>
       <para>
         <num>(5)</num>
@@ -1443,19 +1465,19 @@
           <text>For the foster parent:</text>
           <para>
             <num>(i)</num>
-            <text>A pledge to serve as foster parent for at least 6 months,</text>
+            <text>A pledge to serve as foster parent for at least 6 months;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>Those foster parent's actions which require agency staff authorization,</text>
+            <text>Those foster parent's actions which require agency staff authorization;</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>The extent of liability for damage or risk resulting from foster children living with the foster parent,</text>
+            <text>The extent of liability for damage or risk resulting from foster children living with the foster parent;</text>
           </para>
           <para>
             <num>(iv)</num>
-            <text>An understanding that certification expires 1 year from the date on the signed agreement, and</text>
+            <text>An understanding that certification expires 1 year from the date on the signed agreement; and</text>
           </para>
           <para>
             <num>(v)</num>
@@ -1467,11 +1489,11 @@
           <text>For the agency:</text>
           <para>
             <num>(i)</num>
-            <text>An understanding that the foster parent shall be reimbursed financially commensurate with the care needs of the child as specified in the service plan and in a timely manner,</text>
+            <text>An understanding that the foster parent shall be reimbursed financially commensurate with the care needs of the child as specified in the service plan and in a timely manner;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>A pledge that the foster parent shall be treated with dignity, respect, and consideration as a professional member of the agency's child treatment team, and</text>
+            <text>A pledge that the foster parent shall be treated with dignity, respect, and consideration as a professional member of the agency's child treatment team; and</text>
           </para>
           <para>
             <num>(iii)</num>
@@ -1488,7 +1510,9 @@
       <num>C.</num>
       <text>An individual or couple not certified as a foster parent by an agency may not provide care for a foster child.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-244-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2681,12 +2705,14 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Family Law Article, §§<cite doc="Md. Code" path="gfl|5-501">5-501</cite>—<cite doc="Md. Code" path="gfl|5-503">5-503</cite>, <cite doc="Md. Code" path="gfl|5-313">5-313</cite>, <cite doc="Md. Code" path="gfl|5-524">5-524</cite>—<cite doc="Md. Code" path="gfl|5-534">5-534</cite>, <cite doc="Md. Code" path="gfl|5-560">5-560</cite>, and <cite doc="Md. Code" path="gfl|5-701">5-701</cite> et seq.;<br/><cite doc="Md. Code" path="gcj|3-801">Courts and Judicial Proceedings Article, §3-801 </cite>et seq.; Annotated Code of Maryland<br/>Agency Note: Federal Regulatory Reference: 42 U.S.C. §621 et seq.; 45 CFR 1355—1357</annotation>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ghu|2-209">Human Services Article, §2-209, Annotated Code of Maryland</cite><br/>Agency Note: Federal Regulatory Reference: 42 U.S.C. §621 et seq.; 45 CFR 1355—1357</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-01-12">Effective date: January 12, 2001 (27:26 Md. R. 2357)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-02"><cite path="|07|05|02|.02|B.">Regulation .02B</cite> amended effective February 2, 2026 (53:2 Md. R. 61)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-09-30"><cite path="|07|05|02|.09|C.">Regulation .09C</cite> amended effective September 30, 2013 (40:19 Md. R. 1543)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-09-30"><cite path="|07|05|02|.13|A.">Regulation .13A</cite> amended effective September 30, 2013 (40:19 Md. R. 1543)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-02"><cite path="|07|05|02|.13|A.">Regulation .13A</cite> amended effective September 30, 2013 (40:19 Md. R. 1543); February 2, 2026 (53:2 Md. R. 61)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-09-30"><cite path="|07|05|02|.14|A.">Regulation .14A</cite> amended effective September 30, 2013 (40:19 Md. R. 1543)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-09-30"><cite path="|07|05|02|.15|A.">Regulation .15A</cite>, D amended effective September 30, 2013 (40:19 Md. R. 1543)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-09-30"><cite path="|07|05|02|.17|B.">Regulation .17B</cite> amended effective September 30, 2013 (40:19 Md. R. 1543)</annotation>
+    <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-244-F" type="History" display="false"/>
   </annotations>
 </container>

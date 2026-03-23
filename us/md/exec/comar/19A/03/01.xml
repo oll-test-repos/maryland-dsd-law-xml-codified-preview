@@ -78,11 +78,11 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>"Regulated by" the member's board or commission does not include the mere act of approval or authorization of a corporate or business name by a board or commission.</text>
+        <text>“Regulated by” the member's board or commission does not include the mere act of approval or authorization of a corporate or business name by a board or commission.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>"Reporting period" means the period of time covered by a financial disclosure statement.</text>
+        <text>“Reporting period” means the period of time covered by a financial disclosure statement.</text>
       </para>
     </para>
     <annotations/>
@@ -93,11 +93,15 @@
     <heading>Exemptions.</heading>
     <para>
       <num>A.</num>
-      <text>A board or commission may request in writing that the Commission grant the board or commission an exemption from the requirement that members of the board or commission file financial disclosure statements with the Commission.</text>
+      <text>The Commission may grant a board or commission a preliminary exemption from the requirement that members of the board or commission file financial disclosure statements if the Commission determines that the criteria in <cite path="19A|03|01|.03|C.">§C of this regulation</cite> are met.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>The Commission may grant a board or commission an exemption requested under <cite path="19A|03|01|.03|A.">§A of this regulation</cite> if:</text>
+      <text>A board or commission that does not receive a preliminary exemption under <cite path="19A|03|01|.03|A.">§A of this regulation</cite> may request in writing that the Commission grant the board or commission an exemption from the requirement that members of the board or commission file financial disclosure statements with the Commission.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Commission may grant a board or commission an exemption requested under <cite path="19A|03|01|.03|B.">§B of this regulation</cite> if:</text>
       <para>
         <num>(1)</num>
         <text>The Commission finds that requiring members of the board or commission to file financial disclosure statements:</text>
@@ -120,8 +124,8 @@
       </para>
     </para>
     <para>
-      <num>C.</num>
-      <text>When considering an exemption request under this regulation, the Commission shall consider:</text>
+      <num>D.</num>
+      <text>When considering a preliminary exemption request under §A or an exemption request under <cite path="19A|03|01|.03|B.">§B of this regulation</cite>, the Commission shall consider:</text>
       <para>
         <num>(1)</num>
         <text>The duration of the board or commission;</text>
@@ -136,10 +140,12 @@
       </para>
     </para>
     <para>
-      <num>D.</num>
+      <num>E.</num>
       <text>The records of the Commission related to an exemption are public documents.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-268-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="19A|03|01|.04">
     <prefix>Regulation</prefix>
@@ -316,7 +322,7 @@
           <text>An individual shall disclose the information specified in <cite path="19A|03|01|.04|B.|(9)|(b)">§B(9)(b) of this regulation</cite> for each:</text>
           <para>
             <num>(i)</num>
-            <text>Place of salaried employment of the individual and each member of the individual’s immediate family held at any time during the reporting period;</text>
+            <text>Source of compensated employment of the individual and each member of the individual’s immediate family held at any time during the reporting period;</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -332,7 +338,7 @@
           <text>A disclosure required under this subsection shall include:</text>
           <para>
             <num>(i)</num>
-            <text>The name and address of the place of salaried employment or business entity owned;</text>
+            <text>The name and address of the source of compensated employment or business entity owned;</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -425,7 +431,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-268-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">General Provisions Article, §§<cite doc="Md. Code" path="ggp|5-206">5-206</cite> and <cite doc="Md. Code" path="ggp|5-208">5-208</cite> and Title 5, Subtitle 6, Annotated Code of Maryland</annotation>
@@ -436,8 +444,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-04-13"><cite path="|19A|03|01|.04">Regulation .04</cite> adopted effective April 13, 1992 (19:7 Md. R. 746)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-10-15" discontinuity="true">Chapter revised effective October 15, 2012 (39:20 Md. R. 1309)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-02-07"><cite path="|19A|03|01|.01|B.">Regulation .01B</cite> amended February 7, 2022 (49:3 Md. R. 138)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-05-25"><cite path="|19A|03|01|.03">Regulation .03</cite> amended effective May 25, 2015 (42:10 Md. R. 685)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|19A|03|01|.03">Regulation .03</cite> amended effective May 25, 2015 (42:10 Md. R. 685); February 16, 2026 (53:3 Md. R. 123)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-05-25"><cite path="|19A|03|01|.04|A.">Regulation .04A</cite> amended effective May 25, 2015 (42:10 Md. R. 685)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-02-07"><cite path="|19A|03|01|.04|B.">Regulation .04B</cite> amended effective May 25, 2015 (42:10 Md. R. 685); February 7, 2022 (49:3 Md. R. 138)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|19A|03|01|.04|B.">Regulation .04B</cite> amended effective May 25, 2015 (42:10 Md. R. 685); February 7, 2022 (49:3 Md. R. 138); February 16, 2026 (53:3 Md. R. 123)</annotation>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-268-F" type="History" display="false"/>
   </annotations>
 </container>

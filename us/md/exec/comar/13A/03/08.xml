@@ -7,8 +7,10 @@
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
-    <text>These regulations establish the screening for all kindergarten students and identified first grade, second grade, and third grade students who may be at risk for reading difficulties; provision of supplemental reading instruction for identified students; annual reporting requirements; and evaluation of the screening program.</text>
-    <annotations/>
+    <text>These regulations establish the screening of students enrolled in kindergarten through third grade who may be at risk for reading difficulties, the provision of supplemental reading instruction for identified students, and annual reporting requirements.</text>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -23,108 +25,156 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>“Fluency” means reading accuracy and rate and includes oral accuracy, prosody, intonation, and automaticity.</text>
+        <text>“Department” means the Maryland State Department of Education.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>“Phonemic awareness” means the ability to distinguish, segment, blend, and manipulate phonemes in words.</text>
+        <text>“Diagnostic survey” means an assessment tool that identifies areas of need within a student’s mastery of reading skills, foundational skills, or both to guide intervention.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>“Phonics” means the study of letters and letter combinations and the relationship between the sounds that they represent.</text>
+        <text>“Evidence-based” means a program or practice that has demonstrated a statistically significant effect on improving student outcomes or other relevant outcomes based on well-designed and well-implemented studies, quasi-experimental studies, or correlational studies with statistical control for selection bias.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>“Phonological awareness” means a child’s ability to recognize and manipulate parts of oral language, including syllables, onset-rime, and phonemes.</text>
+        <text>“Fluency” means reading accuracy and rate, including oral accuracy, prosody, intonation, and automaticity.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>“Progress monitoring” means a measurement procedure used at specified time intervals to measure a student’s response to instruction or intervention.</text>
+        <text>“IEP” means an individualized education program as defined and developed in accordance with COMAR 13A.05.01.03.</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>“Rapid automatic naming” means how quickly individual students can name letters, digits, or symbols.</text>
+        <text>“IEP team” has the meaning stated in COMAR 13A.05.01.03.</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>“Screening instrument” means a brief, valid, and reliable measurement used to identify or predict whether a student may be at risk for poor learning outcomes.</text>
+        <text>Multi-Tiered System of Supports.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Multi-tiered system of supports” means a proactive framework that aims to foster growth by ensuring that all students receive academic, behavioral, and social-emotional supports that they need to be successful.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Multi-tiered system of supports” utilizes multiple data points to identify students requiring intervention through three tiers of support.</text>
+        </para>
       </para>
       <para>
         <num>(8)</num>
-        <text>“Student” means a student who does not have a current individualized education program or an individualized family service plan with reading goals.</text>
+        <text>“Phonemic awareness” means the ability to distinguish, segment, blend, and manipulate phonemes in words.</text>
       </para>
       <para>
         <num>(9)</num>
-        <text>“Supplemental reading instruction” means evidence-based, sequential, systematic, explicit, and cumulative instruction or intervention for mastery of foundational reading skills, including phonological or phonemic awareness and processing, phonics, and vocabulary to support development of decoding, spelling, fluency, and reading comprehension skills to meet grade level curriculum.</text>
+        <text>“Phonics” means the study of letters and letter combinations and the relationship between the sounds that they represent.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Phonological awareness” means a child’s ability to recognize and manipulate parts of oral language including syllables, onset-rime, and phonemes.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>“Progress monitoring” means a measurement procedure used at specified time intervals to measure a student’s response to instruction or intervention.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Rapid automatic naming” means how quickly individual students can name letters, digits, or symbols.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>“Reading difficulties” means a student’s challenges with decoding, language comprehension, or both, which affect their ability to achieve grade-level reading proficiency.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“Screening instrument” means a brief, valid, and reliable measurement used to identify or predict whether a student may be at risk for poor learning outcomes.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>“Student reading improvement plan” means a personalized plan to help students improve their reading skills that includes assessments, goals, instruction, and monitoring.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>“Supplemental reading instruction” means evidence-based, sequential, systematic, explicit, and cumulative instruction or intervention to mastery of foundational reading skills, including phonological or phonemic awareness and processing, phonics, and vocabulary to support development of decoding, spelling, fluency, and reading comprehension skills to meet grade level curriculum.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>“Tier I” means core instruction aligned with grade level standards.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>“Tier II” means supplemental instruction intended for students who have not made sufficient progress through Tier I instruction.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>“Tier III” means intensive supplemental instruction that is individualized based on severe and persistent learning or social-emotional needs.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+    </annotations>
   </section>
-  <section>
+  <section cache:ref-path="13A|03|08|.03">
     <prefix>Regulation</prefix>
     <num>.03</num>
-    <heading>General Requirements.</heading>
+    <heading>Student Screening.</heading>
     <para>
       <num>A.</num>
-      <text>All local school systems shall ensure that each student enrolled in a public kindergarten is screened to identify if the student is at risk for reading difficulties and provided supplemental reading instruction aligned to the results of the screener.</text>
+      <text>Each local school system shall ensure that all students enrolled in kindergarten, first grade, second grade, and third grade are screened to identify if the student is at risk for reading difficulties and provided supplemental reading instruction aligned to the results of the screening instrument.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Beginning in the 2021—2022 school year, §§C and D of this regulation apply to students in the second and third grades.</text>
+      <text>The local school system shall screen the students identified in <cite path="13A|03|08|.03|A.">§A of this regulation</cite> three times each school year including once in the fall, winter, and spring.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>Students in first, second, and third grade shall be included in the screening and the supplemental reading instruction program established by the local school system if the students:</text>
-      <para>
-        <num>(1)</num>
-        <text>Were not previously screened;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Demonstrated difficulty mastering grade-level reading in the previous grade; or</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Entered or transferred to a public elementary school.</text>
-      </para>
+      <text>The local school system shall establish the screening schedule and require the first screening identified in <cite path="13A|03|08|.03|B.">§B of this regulation</cite> to occur within the first 60 calendar days of the beginning of the school year.</text>
     </para>
-    <para>
-      <num>D.</num>
-      <text>Screening is not required for students in first, second, or third grade if the local school system can demonstrate that students who entered or transferred to public elementary schools have already been screened and demonstrate mastery of grade-level reading.</text>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>Students shall be screened in accordance with the guidance of the selected screener.</text>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>The screening schedule shall be established by the local school system, with initial screening taking place within the first 2 months of the beginning of the school year.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.04</num>
-    <heading>Screening Process.</heading>
+    <heading>Screening Instrument and Delivery.</heading>
     <para>
       <num>A.</num>
       <text>Upon registration of a student or identification of a student at risk for reading difficulties, the local school system shall provide to the parent or guardian of the student the following:</text>
       <para>
         <num>(1)</num>
-        <text>A written description of the screening and supplemental instruction process in the school system; and</text>
+        <text>A written description of the screening and supplemental instruction process in the local school system; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Any checklists or screener-specific forms needed to support the screening protocol and supplemental instruction process.</text>
+        <text>Any checklists or screening instrument-specific forms required to support the screening protocol and supplemental instruction process.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>The Department shall provide a sample of a checklist on their website.</text>
+      <text>The Department will provide a list of approved screening instruments for the local school systems.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>The screening required under this regulation shall be conducted by any of the following school personnel:</text>
+      <text>The approved screening instruments shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Accurately and reliably identify students at risk for poor learning outcomes;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be developmentally appropriate;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be economical to administer based on time and cost; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Use norm-referenced or criterion-based scores.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The screening required under this regulation shall be conducted by any of the following trained school personnel:</text>
       <para>
         <num>(1)</num>
         <text>Classroom teacher;</text>
@@ -155,45 +205,47 @@
       </para>
     </para>
     <para>
-      <num>D.</num>
-      <text>A local school system shall select one or more appropriate screening instruments that meet the following criteria:</text>
+      <num>E.</num>
+      <text>The appropriate grade-level screening instrument shall measure, at minimum:</text>
       <para>
         <num>(1)</num>
-        <text>Accurately and reliably identifies students at risk for poor learning outcomes;</text>
+        <text>Phonological and phonemic awareness;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Are developmentally appropriate;</text>
+        <text>Sound-symbol recognition;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Are economical to administer in time and cost; and</text>
+        <text>Decoding;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Use norm-referenced or criterion-based scores.</text>
+        <text>Fluency; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Rapid automatic naming.</text>
       </para>
     </para>
-    <para>
-      <num>E.</num>
-      <text>The appropriate grade level screening instrument shall be based on foundational reading skills that include phonological and phonemic awareness and processing, including rapid automatic naming.</text>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>Local school systems shall provide school staff with professional learning on age-appropriate, evidence-based, sequential, systematic, explicit, and cumulative instruction or intervention for student mastery of foundational reading skills, including phonological and phonemic awareness and processing, phonics, and vocabulary to support development of decoding, spelling, fluency, and reading comprehension skills to meet grade level curriculum.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+    </annotations>
   </section>
-  <section>
+  <section cache:ref-path="13A|03|08|.05">
     <prefix>Regulation</prefix>
     <num>.05</num>
-    <heading>Screening Results and Supplemental Reading Instruction.</heading>
+    <heading>Screening Data and Supplemental Reading Instruction.</heading>
     <para>
       <num>A.</num>
-      <text>If the screening results indicate that a student is at risk of reading difficulties:</text>
+      <text>For only the 2025—2026 school year, §§B—E of this regulation shall apply to the local school systems.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If the results of screening conducted under Regulations .03 and .04 of this chapter indicate that a student is at risk of reading difficulties:</text>
       <para>
         <num>(1)</num>
-        <text>Within 30 calendar days of the screening, the local school system shall notify the parent or guardian of the student in writing of the screening results and a description of the supplemental reading instruction that shall be provided to the student; and</text>
+        <text>Within 30 calendar days of the screening, the local school system shall notify the parent or guardian of the student in writing of the screening results and a description of the supplemental reading instruction that will be provided to the student; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -201,18 +253,152 @@
       </para>
     </para>
     <para>
-      <num>B.</num>
+      <num>C.</num>
       <text>The supplemental instruction shall take place within the school day.</text>
     </para>
     <para>
-      <num>C.</num>
+      <num>D.</num>
       <text>Evidence-based supplemental instruction shall be based on data and aligned with the specific areas of deficit for students identified at risk.</text>
     </para>
     <para>
-      <num>D.</num>
-      <text>The local school system may revise supplemental instruction based upon progress monitoring and the student’s placement in an appropriate multi-tiered system of support.</text>
+      <num>E.</num>
+      <text>The local school system may revise supplemental instruction based upon progress monitoring and the student’s placement in an appropriate multi-tiered system of supports.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>F.</num>
+      <text>Beginning in the 2026—2027 school year, §§G—K of this regulation shall apply to the local school systems.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>If the results of a screening conducted under Regulations .03 and .04 of this chapter indicate that a student is at risk of reading difficulties, the local school system shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Administer a diagnostic survey to determine the best targeted instruction;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notify the parent or guardian of the student, consistent with  <cite path="13A|03|08|.05|H.">§H of this regulation</cite>; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Subject to <cite path="13A|03|08|.05|K.">§K of this regulation</cite>, develop a Student Reading Improvement Plan to document the student’s identified areas of need and appropriate supplemental reading instruction, consistent with §§I and J of this regulation.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Parent or Guardian Notification.</text>
+      <para>
+        <num>(1)</num>
+        <text>Within 30 days of the screening, the local school system shall provide written notification to the parent or guardian that includes:</text>
+        <para>
+          <num>(a)</num>
+          <text>An explanation that their child has been identified as having difficulties in reading; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An invitation to collaborate on the development of a Student Reading Improvement Plan with the teacher, principal or designee, and/or other pertinent school personnel.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The notification must be provided in family-friendly language.</text>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Student Reading Improvement Plan.</text>
+      <para>
+        <num>(1)</num>
+        <text>The local school system shall develop a student reading improvement plan no later than 30 days after identifying a student at risk of reading difficulties.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The student reading improvement plan shall be created in partnership with the parent or guardian by the teacher, principal or designee, or other pertinent school personnel.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The student reading improvement plan shall be documented on a template that meets the requirements set by the Department to include:</text>
+        <para>
+          <num>(a)</num>
+          <text>The evidence-based reading intervention program the student will receive to remedy the reading deficit;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The necessary frequency and intensity of interventions to remediate the identified areas of need and accelerate learning; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A description of how the student will receive intensive reading intervention until the student no longer demonstrates difficulty in reading as determined by the LEA’s approved system of assessment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The student reading improvement plan shall be reviewed and updated at least once annually with the parent or guardian of the student.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The local school system shall provide a copy of the student reading improvement plan to the parent or guardian.</text>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Supplemental Instruction and Multi-Tiered System of Supports.</text>
+      <para>
+        <num>(1)</num>
+        <text>Each local school system shall develop a multi-tiered system of supports consistent with guidance issued by the Department.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The multi-tiered system of supports shall include:</text>
+        <para>
+          <num>(a)</num>
+          <text>Program-specific progress monitoring system and tools to collect and analyze intervention data to make instructional decisions;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Home partnerships with parents or guardians as an integral part of the decision-making team; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Supports that address a student’s identified needs with varying intensity and duration across the three tiers.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The supplemental instruction shall be provided within the local school system’s multi-tiered system of supports.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In addition to Tier I instruction, supplemental instruction shall be provided through Tier II and Tier III interventions utilizing a reading program aligned with the science of reading.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>All students, including multilingual learners and students with disabilities, must be provided with access to all levels of tiered instruction.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The supplemental instruction shall take place within the school day.</text>
+      </para>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Students with an IEP.</text>
+      <para>
+        <num>(1)</num>
+        <text>If a student has an IEP, the IEP team should review the results of the screening instrument and diagnostic survey to determine whether the student’s IEP will be updated.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If an update is necessary, the IEP team shall incorporate the data and information that would have been used to develop a Student Reading Improvement Plan.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>This chapter may not delay or deny a student who may be suspected of having a disability from the appropriate evaluation under the Individuals with Disabilities Education Act.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -220,76 +406,65 @@
     <heading>Progress Monitoring.</heading>
     <para>
       <num>A.</num>
-      <text>Local school systems shall set an individualized review schedule of the supplemental reading instruction for each student at intervals of not more than 30 days for progress monitoring.</text>
+      <text>The local school system shall set an individualized review schedule of the supplemental reading instruction for each student at intervals of not more than 30 days for progress monitoring.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>The student’s parent or guardian shall receive written progress reports quarterly or upon revisions to supplemental instruction.</text>
+      <text>The student’s parent or guardian will receive written progress reports quarterly or upon revisions to supplemental instruction.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>The local school system may determine the supplemental reading instruction plan is completed when the student has achieved grade level reading standards based upon age-appropriate rescreening.</text>
+      <text>The local school system may determine the student reading improvement plan is completed when the student has achieved grade level reading standards based upon age-appropriate re-screening.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="13A|03|08|.07">
+  <section>
     <prefix>Regulation</prefix>
     <num>.07</num>
     <heading>Reporting Requirements.</heading>
     <para>
       <num>A.</num>
-      <text>Each local school system shall provide resources on the school system website that include:</text>
+      <text>Each local school system shall provide resources on the school system website that includes:</text>
       <para>
         <num>(1)</num>
         <text>Reading screening instruments used in the local school system; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>A checklist of early warning signs of reading difficulties and dyslexia by age.</text>
+        <text>A checklist of early warning signs by age of reading difficulties and dyslexia.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>Beginning in the 2021—2022 school year, <cite path="13A|03|08|.07|C.">§C of this regulation</cite> shall apply to students in the second and third grades.</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>On or before July 1, each year, all local school systems shall provide a report to the Maryland State Department of Education with the following information for the previous school year:</text>
+      <text>On or before September 1, each year, all local school systems shall provide a report to the Maryland State Department of Education with the following information from the previous school year:</text>
       <para>
         <num>(1)</num>
-        <text>The total number of students in kindergarten through third grade, by grade level;</text>
+        <text>The total number of students in kindergarten through third grade, by grade level disaggregated by grade level, race, disability status, multilingual learner status, and students eligible for free and reduced meals;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The number of students in kindergarten through third grade, by grade level, who were screened at each level;</text>
+        <text>The number of students in kindergarten through third grade, by grade level, who were screened at each level disaggregated by grade level, race, disability status, multilingual learner status, and students eligible for free and reduced meals;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>The number of students in kindergarten through third grade, by grade level, identified through a screening instrument as at risk for reading difficulties; and</text>
+        <text>The number of students in kindergarten through third grade identified through a screening instrument as at risk for reading difficulties, disaggregated by grade level, race, disability status, multilingual learner status, and students eligible for free and reduced meals; and</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>The number of students in kindergarten through third grade, by grade level, identified as at risk for reading difficulties who received supplemental reading instruction.</text>
+        <text>The number of students in kindergarten through third grade, by grade level, identified as at risk for reading difficulties who received supplemental reading instruction disaggregated by grade level, race, disability status, multilingual learner status, and students eligible for free and reduced meals.</text>
       </para>
     </para>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.08</num>
-    <heading>Evaluation of Reading Screeners and Reading Interventions.</heading>
-    <para>
-      <num>A.</num>
-      <text>Local school systems shall evaluate the effectiveness of the screeners and the reading interventions annually.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>The Department shall provide professional learning to local school systems on effective evaluation procedures.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ged|4-136">Education Article, §4-136(i), </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-07-26">Effective date: July 26, 2021 (48:15 Md. R. 593)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30">Regulations <cite path="|13A|03|08|.01">.01</cite> — <cite path="|13A|03|08|.08">.08</cite> repealed and new Regulations <cite path="|13A|03|08|.01">.01</cite> — <cite path="|13A|03|08|.07">.07</cite> adopted effective March 30, 2026 (53:6 Md. R. 291)</annotation>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
   </annotations>
+  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
 </container>

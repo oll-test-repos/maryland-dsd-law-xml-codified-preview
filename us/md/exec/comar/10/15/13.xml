@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>13</num>
+  <heading>Automatic External Defibrillators at Grocery Stores and Restaurants</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <para>
+      <num>A.</num>
+      <text>This chapter establishes guidelines for periodic inspections and annual maintenance of AEDs at grocery stores and restaurants.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>This chapter does not apply to:</text>
+      <para>
+        <num>(1)</num>
+        <text>A grocery store that has an annual gross income of $10,000,000 or less in a calendar year; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A restaurant with:</text>
+        <para>
+          <num>(a)</num>
+          <text>An annual gross income of $1,000,000 or less in a calendar year, exclusive of sales for off-premises consumption; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A seating capacity of less than 100 individuals based on a fire marshal’s determination.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“AED” means automated external defibrillator as defined in <cite path="30.06.01.01">COMAR 30.06.01.01</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Department” means the Maryland Department of Health.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Grocery store” means a store that has:</text>
+        <para>
+          <num>(a)</num>
+          <text>All major food departments, including produce, meat, seafood, dairy, and canned and packaged goods; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>At least one of the major food departments and at least 12,000 square feet of floor space.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“MIEMSS” means the Maryland Institute for Emergency Medical Services Systems.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Restaurant” means a food service facility licensed under <cite path="|10.15.03">COMAR 10.15.03</cite> that prepares food for on-site consumption.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>AED Requirements.</heading>
+    <text>Beginning January 1, 2025, each owner and operator of a grocery store or restaurant subject to this chapter shall:</text>
+    <para>
+      <num>A.</num>
+      <text>Place an AED in a prominent area, accessible to employees and customers; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Maintain the functionality of the AED.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Registration.</heading>
+    <text>Each grocery store or restaurant subject to this chapter shall register with MIEMSS using a form prescribed by MIEMSS in order to:</text>
+    <para>
+      <num>A.</num>
+      <text>Make its location publicly available to emergency dispatchers; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Receive maintenance and recall notices from MIEMSS.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Quality Assurance, Maintenance, and Reporting.</heading>
+    <text>An owner or operator of a grocery store or restaurant subject to this chapter shall:</text>
+    <para>
+      <num>A.</num>
+      <text>Maintain:</text>
+      <para>
+        <num>(1)</num>
+        <text>Each AED and all related equipment and supplies in accordance with the standards established by the device manufacturer and the U.S. Food and Drug Administration; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Supplemental equipment with the AED at all times, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Two sets of defibrillator chest pads that are compatible with the AED;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Disposable gloves; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Maryland Facility AED Report Forms for Cardiac Arrest; and</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Submit to MIEMSS:</text>
+      <para>
+        <num>(1)</num>
+        <text>A report for each incident of suspected cardiac arrest at the restaurant or grocery store on the Maryland Facility AED Report Form for Cardiac Arrests, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Contact information for any necessary follow-up; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If created by the AED, any available event code, summary code, recording, or tape; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the AED fails when operated, in addition to submitting the required report to the federal Food and Drug Administration, a copy of the report provided to the federal Food and Drug Administration.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Inspections.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Monitor a grocery store or restaurant subject to this chapter for compliance with this chapter; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Inspect the grocery store or restaurant as necessary for the enforcement of this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Right to Inspect.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department may enter, at reasonable times, the property of a grocery store or restaurant for the purposes of inspecting, monitoring, and verifying information relative to the enforcement of this chapter.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A person may not deny or interfere with the Department’s entry into a grocery store or restaurant under this chapter.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An operator shall permit a representative of the Department to examine and copy records of the grocery store or restaurant to verify information relative to the enforcement of this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Report of Inspection. During a grocery store or restaurant inspection, the Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Record the inspection results on an inspection form provided by the Department;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Identify on the inspection form the conditions found that violate the provisions of this chapter;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Notify the grocery store or restaurant operator on the inspection form to correct violations by a specific date;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Provide one copy of the inspection report to the grocery store or restaurant operator; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Provide one copy of the inspection report to MIEMSS.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The completed inspection report is a public document that is available for public disclosure in accordance with General Provisions Article, §§<cite doc="Md. Code" path="ggp|4-101">4-101</cite>—<cite doc="Md. Code" path="ggp|4-601">4-601</cite>, Annotated Code of Maryland.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§2-104 and 21-330.3, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16">Effective date: February 16, 2026 (53:3 Md. R. 122)</annotation>
+  </annotations>
+  <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" type="History" display="false"/>
+</container>

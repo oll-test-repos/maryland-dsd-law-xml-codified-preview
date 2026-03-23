@@ -6,16 +6,38 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
-    <heading>Purpose and Effective Date.</heading>
+    <heading>Purpose.</heading>
     <para>
       <num>A.</num>
-      <text>Effective July 1, 2021, there is an income tax credit for nurse practitioners, physicians, and physician assistants that serve as preceptors in health care workforce shortage areas.</text>
+      <text>The purpose of this chapter is to establish regulatory provisions related to the State income tax credit program for the following qualified health care practitioners who serve as preceptors without compensation in health care workforce shortage areas:</text>
+      <para>
+        <num>(1)</num>
+        <text>Physicians;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Advanced practice registered nurses;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Physician assistants;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Registered nurses; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Licensed practical nurses.</text>
+      </para>
     </para>
     <para>
       <num>B.</num>
-      <text>This chapter describes the procedures used by the Secretary of Health to monitor, evaluate eligibility for, and issue income tax credits for nurse practitioners, physicians, and physician assistants that serve as preceptors without compensation in health care workforce shortage areas.</text>
+      <text>This chapter describes the procedures used by the Maryland Department of Health to assess eligibility of applicants, process applications, and certify income tax credits for approved applications.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-232-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -33,39 +55,39 @@
         <text>“Applicant” means an individual:</text>
         <para>
           <num>(a)</num>
-          <text>Who has submitted an application to the Department for an income tax credit for serving as a preceptor; and</text>
+          <text>Who has submitted an application to the Department requesting State income tax credit; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Whose status for receipt of a tax credit has not yet been determined.</text>
+          <text>Whose status for receipt of a tax credit certification has not yet been determined.</text>
         </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>“Board” means the State Board of Nursing.</text>
-      </para>
-      <para>
-        <num>(3)</num>
         <text>“Department” means the Maryland Department of Health.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(3)</num>
         <text>“Health Care Practitioner” means an individual who is:</text>
         <para>
           <num>(a)</num>
-          <text>Licensed to practice medicine under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 14, Annotated Code of Maryland</cite>;</text>
+          <text>A health care practitioner, as defined in <cite doc="Md. Code" path="gtg|10">Tax-General Article, §10</cite>–752, Annotated Code of Maryland;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>A physician assistant, as defined in <cite doc="Md. Code" path="gho|15-101">Health Occupations Article, §15-101, </cite>Annotated Code Maryland; or</text>
+          <text>An advanced practice registered nurse as defined in <cite doc="Md. Code" path="gho|8-101">Health Occupations Article, §8-101, Annotated Code of Maryland</cite>;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>A registered nurse practitioner, as defined in <cite doc="Md. Code" path="gho|8-101">Health Occupations Article, §8-101, Annotated Code of Maryland</cite>.</text>
+          <text>A registered nurse as defined in <cite doc="Md. Code" path="gho|8-101">Health Occupations Article, §8-101, Annotated Code of Maryland</cite>; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A licensed practical nurse as defined in <cite doc="Md. Code" path="gho|8-101">Health Occupations Article, §8-101, Annotated Code of Maryland</cite>.</text>
         </para>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(4)</num>
         <text>“Health care workforce shortage area” means:</text>
         <para>
           <num>(a)</num>
@@ -97,231 +119,96 @@
         </para>
       </para>
       <para>
-        <num>(6)</num>
-        <text>“Health Personnel Shortage Incentive Grant Program” means grants to eligible institutions offering educational programs leading to licensure or certification in health occupations determined to be in short supply.</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>“Health professional shortage area” means an area designated by the Health Resources and Services Administration of the United States Department of Health and Human Services as having a shortage of primary medical care providers, dental care providers, or mental health care providers based on shortages that are geographic or demographic, or based on shortages of institutional comprehensive health centers, federally qualified health centers, or public facilities;</text>
-      </para>
-      <para>
-        <num>(8)</num>
+        <num>(5)</num>
         <text>“Income tax credit” means a nonrefundable credit against State income tax.</text>
       </para>
       <para>
+        <num>(6)</num>
+        <text>“Preceptor” means a health care practitioner participating in a preceptorship program.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Preceptorship program” has the meaning as stated in Tax-General Article, §§<cite doc="Md. Code" path="gtg|10">10</cite>–<cite doc="Md. Code" path="gtg|738">738</cite>, and <cite doc="Md. Code" path="gtg|10-752">10-752</cite>, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Rotation” means a minimum of:</text>
+        <para>
+          <num>(a)</num>
+          <text>100 hours of community-based clinical training between a:</text>
+          <para>
+            <num>(i)</num>
+            <text>Medical student and a licensed physician preceptor;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Physician assistant student and a licensed physician, nurse practitioner, or physician assistant preceptor in family medicine, general internal medicine, or general pediatrics practice or setting; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>90 hours of community-based clinical training between a:</text>
+          <para>
+            <num>(i)</num>
+            <text>Nurse practitioner student and a licensed physician or nurse practitioner preceptor;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A registered nurse student and an advanced practice registered nurse or registered nurse preceptor; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A licensed practical nurse student and an advanced practice registered nurse, registered nurse, or licensed practical nurse preceptor.</text>
+          </para>
+        </para>
+      </para>
+      <para>
         <num>(9)</num>
-        <text>“Licensed physician” means an individual who is licensed to practice medicine under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 14, Annotated Code of Maryland</cite>.</text>
-      </para>
-      <para>
-        <num>(10)</num>
-        <text>“Medically Underserved Area” means an area designated by the Health Resources and Services Administration of the United States Department of Health and Human Services as having:</text>
-        <para>
-          <num>(a)</num>
-          <text>Too few primary care providers;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>High infant mortality;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>High poverty;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>High elderly population; or</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>A combination of §B(9)(a)—(d) of this regulation.</text>
-        </para>
-      </para>
-      <para>
-        <num>(11)</num>
-        <text>“Medically underserved population” means a population designated by the Health Resources and Services Administration of the United States Department of Health and Human Services as having:</text>
-        <para>
-          <num>(a)</num>
-          <text>Too few primary care providers;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>High infant mortality;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>High poverty;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>High elderly population; or</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>A combination of §B(10)(a)—(d) of this regulation.</text>
-        </para>
-      </para>
-      <para>
-        <num>(12)</num>
-        <text>“Nurse practitioner” has the meaning stated in <cite doc="Md. Code" path="gho|8-101">Health Occupations Article, §8-101, Annotated Code of Maryland</cite>.</text>
-      </para>
-      <para>
-        <num>(13)</num>
-        <text>“Nurse Practitioner Preceptorship Tax Credit Fund” means a special nonlapsing fund created by a $15 fee for the renewal of a nurse practitioner certification, regardless of the number of certifications held by the nurse practitioner.</text>
-      </para>
-      <para>
-        <num>(14)</num>
-        <text>“Office of Student Financial Assistance” means the office in the Maryland Higher Education Commission that administers the Health Personnel Shortage Incentive Grant Program.</text>
-      </para>
-      <para>
-        <num>(15)</num>
-        <text>“Physician Assistant Preceptorship Tax Credit Fund” means a special, nonlapsing fund that is not subject to <cite doc="Md. Code" path="gsf|7-302">State Finance and Procurement Article, §7-302, Annotated Code of Maryland</cite>, and created by a $15 fee for the renewal of licenses.</text>
-      </para>
-      <para>
-        <num>(16)</num>
-        <text>“Preceptor” means a licensed physician, a nurse practitioner, or a physician assistant who meets the qualifications of a preceptor and provides instruction, training, and supervision to a medical, nurse practitioner, or physician assistant student within a preceptorship program.</text>
-      </para>
-      <para>
-        <num>(17)</num>
-        <text>“Preceptorship program” means an organized system of clinical experience that, for the purpose of attaining specified learning objectives, pairs:</text>
-        <para>
-          <num>(a)</num>
-          <text>An enrolled student of a liaison committee on medical education-accredited medical school in the State or an individual in a postgraduate medical training program in the State with a licensed physician who meets the qualifications as a preceptor;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>A nurse practitioner student enrolled in a nursing education program that is recognized by the Board with a nurse practitioner or licensed physician who meets the qualifications as a preceptor; or</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>An enrolled student of a physician assistant program in the State with a health care practitioner who meets the qualifications of a preceptor.</text>
-        </para>
-      </para>
-      <para>
-        <num>(18)</num>
-        <text>“Rotation” means a period of preceptorship greater than or equal to:</text>
-        <para>
-          <num>(a)</num>
-          <text>100 hours between a nurse practitioner student and a licensed physician or nurse practitioner;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>100 hours between a medical student and a licensed physician; or</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>100 hours between a physician assistant student and a licensed physician, nurse practitioner, or physician assistant in family medicine, general internal medicine, or general pediatrics.</text>
-        </para>
-      </para>
-      <para>
-        <num>(19)</num>
         <text>“Taxable year” means the annual accounting period for keeping records and reporting income and expenses that starts on January 1 and ends on December 31 of the same year.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-232-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.03</num>
-    <heading>Eligibility.</heading>
+    <heading>Program Eligibility.</heading>
+    <text>A healthcare practitioner preceptor in a preceptorship program is eligible for an income tax credit if the individual served:</text>
     <para>
       <num>A.</num>
-      <text>A licensed physician is eligible for an income tax credit if the individual served without compensation as a:</text>
-      <para>
-        <num>(1)</num>
-        <text>Physician preceptor in a physician preceptorship program authorized by an accredited medical school in the State and worked:</text>
-        <para>
-          <num>(a)</num>
-          <text>A minimum of three rotations, each consisting of 100 hours of community-based clinical training; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>In a health care workforce shortage area;</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Preceptor in a Board-approved nurse practitioner program and worked:</text>
-        <para>
-          <num>(a)</num>
-          <text>A minimum of three rotations, each consisting of 100 hours of community-based clinical training; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>In a health care workforce shortage area; or</text>
-        </para>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Preceptor in a physician assistant preceptorship program in the State and worked:</text>
-        <para>
-          <num>(a)</num>
-          <text>A minimum of three rotations, each consisting of 100 hours of community-based clinical training in family medicine, general internal medicine, or general pediatrics; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>In a health care workforce shortage area.</text>
-        </para>
-      </para>
+      <text>Without compensation for a minimum of three rotations; and</text>
     </para>
     <para>
       <num>B.</num>
-      <text>A nurse practitioner is eligible for an income tax credit if the individual served without compensation as a:</text>
-      <para>
-        <num>(1)</num>
-        <text>Nurse practitioner preceptor in a Board-approved nurse practitioner program and worked:</text>
-        <para>
-          <num>(a)</num>
-          <text>A minimum of three rotations, each consisting of 100 hours of community-based clinical training; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>In a health care workforce shortage area; or</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Preceptor in a physician assistant preceptorship program in the State and worked:</text>
-        <para>
-          <num>(a)</num>
-          <text>A minimum of three rotations, each consisting of 100 hours of community-based clinical training in family medicine, general internal medicine, or general pediatrics; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>In a health care workforce shortage area.</text>
-        </para>
-      </para>
+      <text>In a health care workforce shortage area.</text>
     </para>
-    <para>
-      <num>C.</num>
-      <text>A physician assistant is eligible for an income tax credit if the individual served without compensation as a physician assistant preceptor in a preceptorship program approved by the Department and worked:</text>
-      <para>
-        <num>(1)</num>
-        <text>A minimum of three rotations, each consisting of at least 100 hours of community-based clinical training in family medicine, general internal medicine, or general pediatrics; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>In a health care workforce shortage area.</text>
-      </para>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-232-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|01|01|.04">
     <prefix>Regulation</prefix>
     <num>.04</num>
-    <heading>Application and Application Process.</heading>
+    <heading>Application Procedures.</heading>
     <para>
       <num>A.</num>
       <text>Applicant.</text>
       <para>
         <num>(1)</num>
-        <text>An applicant shall submit:</text>
+        <text>By the published deadlines, on the form designated by the Department, an applicant shall:</text>
         <para>
           <num>(a)</num>
-          <text>A completed application to the Department on the form designated by the Department; and</text>
+          <text>Submit a complete application to the Department;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Supporting documentation required by the Department.</text>
+          <text>Facilitate submission of application components by all contributors; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Provide any supporting documentation as requested by the Department.</text>
         </para>
       </para>
       <para>
@@ -330,54 +217,108 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>An applicant may submit a new application subject to <cite path="10|01|01|.04|C.">§C of this regulation</cite>.</text>
+        <text>An applicant may submit a new application subject to §B of this regulation.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
+      <text>The Department shall receive applications by January 5 for the previous taxable year during which rotations were completed.</text>
+    </para>
+    <para>
+      <num>C.</num>
       <text>The Department shall:</text>
       <para>
         <num>(1)</num>
-        <text>Approve applications during the application period;</text>
+        <text>Accept applications received during the application period for Department review;</text>
       </para>
       <para>
         <num>(2)</num>
         <text>Approve the application if the:</text>
         <para>
           <num>(a)</num>
-          <text>Application is complete; and</text>
+          <text>Application is complete;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Applicant is determined to be eligible;</text>
+          <text>Applicant is determined to be eligible; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Funds are available in the appropriate Fund based on precepted student type;</text>
         </para>
       </para>
       <para>
         <num>(3)</num>
-        <text>Disapprove the application if the:</text>
+        <text>Disapprove an application if the application:</text>
         <para>
           <num>(a)</num>
-          <text>Application is incomplete;</text>
+          <text>Fails to provide sufficient information or comply with requested documentation to determine eligibility;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Applicant fails to provide sufficient information or documentation to determine eligibility; or</text>
+          <text>Has the appropriate documentation but is determined to be ineligible; or</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Applicant provides the appropriate documentation but is determined ineligible; and</text>
+          <text>Does not satisfy the requirements established by law or the Department; and</text>
         </para>
       </para>
       <para>
         <num>(4)</num>
-        <text>Provide the applicant with written notice of the final disposition of the application within 45 calendar days.</text>
+        <text>Provide the applicant with written notice of the final disposition of the application within 45 calendar days of receipt of an application.</text>
       </para>
     </para>
     <para>
-      <num>C.</num>
-      <text>The Department shall receive applications by January 5 for the previous taxable year during which the rotation was completed.</text>
+      <num>D.</num>
+      <text>Appeal of Disapproval of Application.</text>
+      <para>
+        <num>(1)</num>
+        <text>An applicant may appeal the decision to disapprove an application by submitting an appeal request in writing to the Department within 30 calendar days of the date on the notice of the disapproved application.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If an applicant submits an appeal, the Department, within 60 calendar days of receipt of the appeal, shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Sustain or reverse the decision on the application; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Provide written notice to the applicant:</text>
+          <para>
+            <num>(i)</num>
+            <text>Indicating whether the decision on the application has been sustained or reversed; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Providing an explanation of the decision.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An applicant may request a hearing within 10 calendar days after the date of written notice of the Department’s disapproval of an application as stated in <cite path="10|01|01|.04|D.|(2)">§D(2) of this regulation</cite>. Following receipt of the request, the Department shall follow hearing procedures in accordance with <cite path="|10.01.03">COMAR 10.01.03</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Failure to be present for the hearing without prior notice, communication, or approval from the Department may result in:</text>
+        <para>
+          <num>(a)</num>
+          <text>The appeal nullified and decision sustained;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The hearing on the appeal not being rescheduled; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Appropriate sanctions as determined by the Department.</text>
+        </para>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-232-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -388,7 +329,7 @@
       <text>The Department may:</text>
       <para>
         <num>(1)</num>
-        <text>Request from an applicant or preceptor additional information to verify statements in an application for an income tax credit; and</text>
+        <text>Request from an applicant additional information to verify statements in an application; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -399,7 +340,9 @@
       <num>B.</num>
       <text>The Comptroller shall retain its audit authority under <cite doc="Md. Code" path="gtg">Tax-General Article, Annotated Code of Maryland</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-232-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -407,62 +350,18 @@
     <heading>Income Tax Credits.</heading>
     <para>
       <num>A.</num>
-      <text>On approval of an application, the Department shall issue an income tax credit certificate to the approved licensed physician in the amount of $1,000 for each medical student rotation for which the physician served as a preceptor:</text>
-      <para>
-        <num>(1)</num>
-        <text>For a minimum of three rotations, each consisting of 100 hours of community-based clinical training;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Without compensation; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>In a health care workforce shortage area.</text>
-      </para>
+      <text>On approval of an application, the Department shall issue an income tax credit certificate to the approved healthcare practitioner in the amount of $1,000 for each qualifying student rotation for which the healthcare practitioner served as a preceptor.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>On approval of an application, the Department shall issue an income tax credit certificate to the approved nurse practitioner or licensed physician in the amount of $1,000 for each nurse practitioner student rotation for which the nurse practitioner or licensed physician served as a preceptor:</text>
-      <para>
-        <num>(1)</num>
-        <text>For a minimum of three rotations, each consisting of 160 hours of community-based clinical training;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Without compensation; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>In a health care workforce shortage area.</text>
-      </para>
+      <text>Income tax credits shall be issued for the taxable year of the application during which the health care practitioner served without compensation.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>On approval of an application, the Department shall issue an income tax credit certificate to a physician assistant in the amount of $1,000 for each physician assistant student rotation for which the physician assistant served as a preceptor:</text>
-      <para>
-        <num>(1)</num>
-        <text>For a minimum of three rotations, each consisting of at least 100 hours of community-based clinical training in family medicine, general internal medicine, or general pediatrics;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Without compensation; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>In a health care workforce shortage area.</text>
-      </para>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Income tax credits shall be issued for the taxable year during which the nurse practitioner, licensed physician, or physician assistant served as a preceptor without compensation.</text>
-    </para>
-    <para>
-      <num>E.</num>
       <text>The total amount of an income tax credit allowed for an individual in a taxable year may not exceed the:</text>
       <para>
         <num>(1)</num>
-        <text>Maximum credit amount of $10,000; or</text>
+        <text>Maximum credit amount as indicated in Tax-General Article, §§<cite doc="Md. Code" path="gtg|10">10</cite>–<cite doc="Md. Code" path="gtg|738">738</cite>, <cite doc="Md. Code" path="gtg|10-739">10-739</cite>, <cite doc="Md. Code" path="gtg|10-739">10-739</cite>.1, and 10-752, Annotated Code of Maryland; or</text>
       </para>
       <para>
         <num>(2)</num>
@@ -470,188 +369,52 @@
       </para>
     </para>
     <para>
-      <num>F.</num>
-      <text>Any unused amount of an income tax credit for a taxable year may not be carried over to any other taxable year.</text>
+      <num>D.</num>
+      <text>Any unused amount of an income tax credit for a taxable year may not be carried over to any other taxable year by the preceptor, as referenced in Tax-General Article, §§<cite doc="Md. Code" path="gtg|10">10</cite>–<cite doc="Md. Code" path="gtg|738">738</cite>, <cite doc="Md. Code" path="gtg|10-739">10-739</cite>, <cite doc="Md. Code" path="gtg|10-739">10-739</cite>.1, and 10-752, Annotated Code of Maryland.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-232-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.07</num>
-    <heading>Nurse Practitioner Preceptorship Tax Credit Fund.</heading>
-    <para>
-      <num>A.</num>
-      <text>The purpose of the Nurse Practitioner Preceptorship Tax Credit Fund is to offset the costs of the income tax credit for preceptors of nurse practitioner students.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>The Fund is:</text>
-      <para>
-        <num>(1)</num>
-        <text>A special continuing, nonlapsing fund pursuant to <cite doc="Md. Code" path="gtg|10-738">Tax-General Article, §10-738, Annotated Code of Maryland</cite>; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Not subject to <cite doc="Md. Code" path="gsf|7-302">State Finance and Procurement Article, §7-302, Annotated Code of Maryland</cite>.</text>
-      </para>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>The Fund consists of:</text>
-      <para>
-        <num>(1)</num>
-        <text>Revenue distributed to the Fund under <cite doc="Md. Code" path="gho|8-206">Health Occupations Article, §8-206, Annotated Code of Maryland</cite>;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Money appropriated in the State budget to the Fund; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Any other money from any other source accepted for the benefit of the Fund.</text>
-      </para>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Except when the Comptroller transfers an amount equal to an income tax credit certificate issued from the Fund to the General Fund of the State, pursuant to <cite doc="Md. Code" path="gtg|10-738">Tax-General Article, §10-738, Annotated Code of Maryland</cite>, money credited or appropriated to the Fund will remain in the Fund.</text>
-    </para>
-    <annotations/>
+    <heading>Responsibilities of the Comptroller.</heading>
+    <text>On notification that an income tax credit certificate has been issued by the Department, the Comptroller shall transfer an amount equal to the income tax credit amount stated in the income tax credit certificate from the Nurse Practitioner Preceptorship Tax Credit Fund, the Physician Assistant Preceptorship Tax Credit Fund, or Licensed Practical Nurse and Registered Nurse Preceptorship Tax Credit Fund, to the General Fund.</text>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-232-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.08</num>
-    <heading>Physician Assistant Preceptorship Tax Credit Fund.</heading>
-    <para>
-      <num>A.</num>
-      <text>The purpose of the Physician Assistant Preceptorship Tax Credit Fund is to offset the costs of the income tax credit available to approved preceptors of physician assistant students.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>The Fund is:</text>
-      <para>
-        <num>(1)</num>
-        <text>A special, nonlapsing fund pursuant to <cite doc="Md. Code" path="gtg|10-738">Tax-General Article, §10-738, Annotated Code of Maryland</cite>; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Not subject to <cite doc="Md. Code" path="gsf|7-302">State Finance and Procurement Article, §7-302, Annotated Code of Maryland</cite>.</text>
-      </para>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>The Fund consists of:</text>
-      <para>
-        <num>(1)</num>
-        <text>Revenue distributed to the Fund under <cite doc="Md. Code" path="gho|15-206">Health Occupations Article, §15-206, Annotated Code of Maryland</cite>;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Money appropriated in the State budget to the Fund; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Any other money from any other source accepted for the benefit of the Fund.</text>
-      </para>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Except when the Comptroller transfers an amount equal to an income tax credit certificate issued from the Fund to the General Fund of the State, pursuant to <cite doc="Md. Code" path="gtg|15-206">Tax-General Article, §15-206, Annotated Code of Maryland</cite>, money credited or appropriated to the Fund will remain in the Fund.</text>
-    </para>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.09</num>
-    <heading>Physician Preceptorship Income Tax Credits.</heading>
-    <text>Each year an amount not exceeding $100,000 of the unspent portion of the money that is transferred to the Office of Student Financial Assistance for use for the Health Personnel Shortage Incentive Grant Program may be transferred to or revert to the General Fund of the State in order to offset the costs of the income tax credit for physician preceptors.</text>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.10</num>
-    <heading>Limits and Excess Amounts.</heading>
-    <para>
-      <num>A.</num>
-      <text>The amount of income tax credit stated in the income tax credit certificate may not exceed $10,000 for any individual in any taxable year.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Physician Preceptorship Program.</text>
-      <para>
-        <num>(1)</num>
-        <text>The Department may not issue more than $100,000 in income tax credit certificates for each taxable year.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>If the aggregate amount of income tax credit certificates issued during a taxable year totals less than $100,000, the excess amount may be issued for income tax credit certificates in the next taxable year.</text>
-      </para>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>Nurse Practitioner Preceptorship Program.</text>
-      <para>
-        <num>(1)</num>
-        <text>The total amount of income tax credit certificates issued by the Department shall be the lesser of:</text>
-        <para>
-          <num>(a)</num>
-          <text>The total funds in the Nurse Practitioner Preceptorship Tax Credit Fund for that year; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>$100,000.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Any excess amount of income tax credits for a taxable year may be issued under income tax credit certificates in the next taxable year.</text>
-      </para>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Physician Assistant Preceptorship Tax Credit Fund. For each taxable year, the total amount of tax credit certificates issued by the Department may not exceed the lesser of:</text>
-      <para>
-        <num>(1)</num>
-        <text>The total amount of funds in the Physician Assistant Preceptorship Tax Credit Fund for that year; or</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>$100,000.</text>
-      </para>
-    </para>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.11</num>
-    <heading>Responsibilities of the Comptroller.</heading>
-    <text>On notification that an income tax credit certificate has been issued by the Department, the Comptroller shall transfer an amount equal to the income tax credit amount stated in the income tax credit certificate from the Nurse Practitioner Preceptorship Tax Credit Fund or the Physician Assistant Preceptorship Tax Credit Fund, or both, to the General Fund.</text>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.12</num>
     <heading>Expiration of Program.</heading>
     <para>
       <num>A.</num>
-      <text>This chapter remains in effect until the earlier of:</text>
+      <text>The Department shall issue final income tax credits based on available funds.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>This chapter remains in effect until:</text>
       <para>
         <num>(1)</num>
         <text>The date that funding for income tax credits ceases to be available; or</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>June 30, 2026.</text>
+        <text>Sunset on June 30, 2030.</text>
       </para>
     </para>
-    <para>
-      <num>B.</num>
-      <text>The Department shall issue final income tax credits based on available funds.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-232-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Tax-General Article, §§<cite doc="Md. Code" path="gtg|10-738">10-738</cite> and <cite doc="Md. Code" path="gtg|10-739">10-739</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Tax-General Article, §§<cite doc="Md. Code" path="gtg|10-738">10-738</cite>, <cite doc="Md. Code" path="gtg|10-739">10-739</cite>, <cite doc="Md. Code" path="gtg|10-739">10-739</cite>-<cite doc="Md. Code" path="gtg|1">1</cite>, and <cite doc="Md. Code" path="gtg|10">10</cite>.752, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-01-29">Effective date: January 29, 2018 (45:2 Md. R. 68)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-09-19" discontinuity="true">Chapter revised effective September 19, 2022 (49:19 Md. R. 868)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02" discontinuity="true">Chapter revised effective March 2, 2026 (53:4 Md. R. 184)</annotation>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-232-F" type="History" display="false"/>
   </annotations>
+  <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-232-F" type="History" display="false"/>
 </container>

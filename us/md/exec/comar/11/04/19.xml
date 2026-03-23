@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>19</num>
+  <heading>Vehicle Equipment—Portable Variable Messaging Signs—Authorization</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined:</text>
+      <para>
+        <num>(1)</num>
+        <text>“MdMUTCD” means the Maryland Manual on Uniform Traffic Control Devices for Streets and Highways adopted in <cite doc="Md. Code" path="gtr|25-104">Transportation Article, §25-104, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Portable variable messaging sign”, also referred to as a “portable changeable message sign” in the MdMUTCD, means a sign that is capable of displaying more than one message, of which one message may be a blank display, and that is changeable manually, by remote control, or by automatic control.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Tow truck” has the meaning stated in <cite doc="Md. Code" path="gtr|13-920">Transportation Article, §13-920, Annotated Code of Maryland</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-237-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Tow Truck-mounted Portable Variable Messaging Signs.</heading>
+    <text>All tow truck-mounted portable variable messaging signs shall be:</text>
+    <para>
+      <num>A.</num>
+      <text>Permanently affixed to a tow truck;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Installed at a height of at least 7 feet measured from the surface of the roadway to the bottom of the sign; and</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In conformance with the requirements of the MdMUTCD.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-237-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Message Display.</heading>
+    <para>
+      <num>A.</num>
+      <text>A message may be displayed only while at the scene of a crash or a disabled vehicle.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The message that may be displayed is “SLOW DOWN”, displayed as two lines in all upper-case letters.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Any tow truck-mounted portable variable messaging sign shall only display static text that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Is colored yellow or amber, on an opaque black background;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Is one consistent letter height of at least 10 inches; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Contains words within which the letter spacing is between 25 and 40 percent of the letter height.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The vertical spacing between the lines of text shall be between 50 and 75 percent of the letter height.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The message shall not include animation, flashing, dissolving, exploding, scrolling, or other dynamic display elements.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-237-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Transportation Article, §§ <cite doc="Md. Code" path="gtr|22">22</cite>–<cite doc="Md. Code" path="gtr|218">218</cite>(c)(<cite doc="Md. Code" path="gtr|7">7</cite>) and <cite doc="Md. Code" path="gtr|22">22</cite>–<cite doc="Md. Code" path="gtr|218">218</cite>.2(a), Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16">Effective date: March 16, 2026 (53:5 Md. R. 244)</annotation>
+  </annotations>
+  <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-237-F" type="History" display="false"/>
+</container>

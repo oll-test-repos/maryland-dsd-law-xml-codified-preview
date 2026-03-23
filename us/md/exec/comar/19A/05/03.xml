@@ -3,12 +3,21 @@
   <prefix>Chapter</prefix>
   <num>03</num>
   <heading>Review Procedures</heading>
-  <section>
+  <section cache:ref-path="19A|05|03|.01">
     <prefix>Regulation</prefix>
     <num>.01</num>
-    <heading>Submission of Regulations.</heading>
-    <text>A board of education shall submit promptly a copy of any ethics regulations or amendments or additions to the Commission for the Commission’s review and approval.</text>
-    <annotations/>
+    <heading>Certification and Submission to the Commission.</heading>
+    <para>
+      <num>A.</num>
+      <text>On or before October 1 of each year, a board of education shall certify to the Commission on the form provided by the Commission that the Board of Education is in compliance with COMAR 19A.05.01.03 and <cite doc="Md. Code" path="ggp|5-816">General Provisions Article, §5-816, Annotated Code of Maryland</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In addition to the annual certification required by <cite path="19A|05|03|.01|A.">§A of this regulation</cite>, a board of education shall submit promptly a copy of any ethics regulations or amendments or additions to the Commission, for the Commission’s review and approval.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-268-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="19A|05|03|.02">
     <prefix>Regulation</prefix>
@@ -110,7 +119,10 @@
     <annotation managed="false" type="Authority" dest="container">General Provisions Article, §§<cite doc="Md. Code" path="ggp|5-811">5-811</cite>—<cite doc="Md. Code" path="ggp|5-820">5-820</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-10-24">Effective date: October 24, 1983 (10:21 Md. R. 1903)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-04-18" discontinuity="true">Regulations <cite path="|19A|05|03|.01">.01</cite>—<cite path="|19A|05|03|.03">.03</cite> repealed and new Regulations <cite path="|19A|05|03|.01">.01</cite>—<cite path="|19A|05|03|.02">.02</cite> adopted effective April 18, 2011 (38:8 Md. R. 509)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|19A|05|03|.01">Regulation .01</cite> amended effective February 16, 2026 (53:3 Md. R. 123)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-05-25"><cite path="|19A|05|03|.02">Regulation .02</cite> amended effective May 25, 2015 (42:10 Md. R. 685)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-05-25"><cite path="|19A|05|03|.03">Regulation .03</cite> adopted effective May 25, 2015 (42:10 Md. R. 685)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-04-18">Regulations <cite path="|19A|05|03|.01">.01</cite>—<cite path="|19A|05|03|.03">.03</cite> repealed and new Regulations <cite path="|19A|05|03|.01">.01</cite>—<cite path="|19A|05|03|.02">.02</cite> adopted effective April 18, 2011 (38:8 Md. R. 509)</annotation>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-268-F" type="History" display="false"/>
   </annotations>
 </container>

@@ -43,17 +43,23 @@
       <text>Applicability.</text>
       <para>
         <num>(1)</num>
-        <text>The model law in Appendix A may be viewed as a guide for larger counties and municipalities.</text>
+        <text>The model law in <cite path="19A|04|04|attachments|19A.04.00-Appendix-A">Appendix A</cite> may be viewed as a guide for larger counties and municipalities.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The model law in Appendix B may be viewed as a guide for smaller counties and municipalities.</text>
+        <text>The model law in <cite path="19A|04|04|attachments|19A.04.00-Appendix-B">Appendix B</cite> may be viewed as a guide for smaller counties and municipalities.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-268-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">General Provisions Article, §§<cite doc="Md. Code" path="ggp|5-205">5-205</cite> and <cite doc="Md. Code" path="ggp|5-206">5-206</cite>, and Title 5, Subtitle 8, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-04-18">Effective date: April 18, 2011 (38:8 Md. R. 508)</annotation>
   </annotations>
+  <attachments>
+    <attachment name="19A.04.00-Appendix-A" url="/us/md/exec/register/53/3/attachments/19A.04.00-Appendix-A.pdf"/>
+    <attachment name="19A.04.00-Appendix-B" url="/us/md/exec/register/53/3/attachments/19A.04.00-Appendix-B.pdf"/>
+  </attachments>
 </container>

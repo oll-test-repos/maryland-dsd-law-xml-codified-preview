@@ -102,11 +102,11 @@
           <text>Complies with the following applicable federal Occupational Safety and Health Administration standards:</text>
           <para>
             <num>(i)</num>
-            <text>"Occupational Exposure to Hazardous Chemicals in Laboratories", contained in 29 CFR §1910.1450; and</text>
+            <text>“Occupational Exposure to Hazardous Chemicals in Laboratories”, contained in 29 CFR §1910.1450; and</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>"Bloodborne Pathogens," contained in 29 CFR §1910.1030; and</text>
+            <text>“Bloodborne Pathogens,” contained in 29 CFR §1910.1030; and</text>
           </para>
         </para>
       </para>
@@ -181,19 +181,25 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Is authorized to order tests to detect the presence of controlled dangerous substances on patients enrolled in the substance abuse treatment program; and</text>
+          <text>Is authorized to order tests to detect the presence of controlled dangerous substances on patients enrolled in the substance abuse treatment program;</text>
         </para>
       </para>
       <para>
         <num>(7)</num>
-        <text>A pharmacist, for tests that qualify for a letter of exception under <cite path="10.10.03.02|B.">COMAR 10.10.03.02B</cite> and for glucose, A1c, lipids (including total cholesterol, HDL, LDL, and triglycerides), AST, and ALT.</text>
+        <text>A pharmacist, for tests that qualify for a letter of exception under <cite path="10.10.03.02|B.">COMAR 10.10.03.02B</cite> and for glucose, A1c, lipids (including total cholesterol, HDL, LDL, and triglycerides), AST, and ALT; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A naturopathic physician consistent with <cite doc="Md. Code" path="gho|14">Health Occupations Article, §14</cite>–5F–01 through §14–5F–32, Annotated Code of Maryland and <cite path="|10.32.21">COMAR 10.32.21</cite>.</text>
       </para>
     </para>
     <para>
       <num>C.</num>
       <text>Standards. A licensee shall ensure that the laboratory meets the applicable standards concerning test requisition contained in 42 CFR §493.1241.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|10|06|.03">
     <prefix>Regulation</prefix>
@@ -666,184 +672,10 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.06</num>
-    <heading>Quality Control — Single-Use Test Devices.</heading>
-    <para>
-      <num>A.</num>
-      <text>Primary Standard. This regulation applies to test systems that use single-use test devices as defined in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite>.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Standards.</text>
-      <para>
-        <num>(1)</num>
-        <text>General. A licensee shall ensure that the test system is validated on a continuing basis and that the ongoing validation includes:</text>
-        <para>
-          <num>(a)</num>
-          <text>Calibration verification;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Parallel testing before or, when appropriate, instead of proficiency testing; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Proficiency testing.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Requirements of the Test System's Manufacturer. In addition to the standards set forth in this regulation, a licensee shall ensure that the laboratory meets the quality control and quality assurance requirements of the test system's manufacturer.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Test System Validation.</text>
-        <para>
-          <num>(a)</num>
-          <text>Initial. Before implementing patient testing, a licensee shall ensure that the test system is validated to assure consistency with the test system manufacturer's performance attributes for acceptable accuracy, precision, and functions that affect test reliability and the competency of the testing personnel by:</text>
-          <para>
-            <num>(i)</num>
-            <text>Performing and documenting at least 20 quality control tests for a period of at least 5 days of test system use in the environment and under the conditions that the test system will be used; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Having all testing personnel participate in the validation process.</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Prior Testing. A test system placed in service for patient testing before the effective date of this chapter does not require an initial validation if a licensee ensures that the laboratory has:</text>
-          <para>
-            <num>(i)</num>
-            <text>Maintained documented evidence of an established, comprehensive, and active quality assurance program; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Participated satisfactorily in and continues to participate satisfactorily in an approved proficiency testing program or, when appropriate, periodically has conducted documented, parallel testing with split samples and periodically continues to conduct documented parallel testing with split samples.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Validity Check. A licensee shall ensure that each time a test is performed the result of the validity check and any corrective action are documented when the result:</text>
-        <para>
-          <num>(a)</num>
-          <text>Shows a single-use test device or test system failure;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Indicates any substandard performance; or</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Requires operator intervention.</text>
-        </para>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>System Check.</text>
-        <para>
-          <num>(a)</num>
-          <text>Quantitative Test System. A licensee shall ensure that a system check for a quantitative test system is performed and documented:</text>
-          <para>
-            <num>(i)</num>
-            <text>As specified by the manufacturer or at least once each 8 hours of test system use; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>After a single-use test device is exposed to an environment or condition that could affect the accuracy or reliability of test results.</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Qualitative Test System. A licensee shall ensure that a system check for a qualitative test system, if available, is performed and documented:</text>
-          <para>
-            <num>(i)</num>
-            <text>As required by the manufacturer; or</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Each day the test system is used.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Quality Control Tests.</text>
-        <para>
-          <num>(a)</num>
-          <text>Quantitative Test Systems. A licensee shall ensure that quality control testing for a quantitative test system is performed and documented using at least two levels of control material before patient testing:</text>
-          <para>
-            <num>(i)</num>
-            <text>On each lot of a single-use test device received in a shipment;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>At least weekly for each lot of a single-use test device used for patient testing;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>After the test system undergoes maintenance, repair, adjustment, or an environmental exposure that could affect the accuracy and reliability of test results; and</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>Each day of use during the test system's validation.</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Qualitative Test System. A licensee shall ensure that quality control testing for a qualitative test system is performed and documented using known positive and negative control materials before patient testing:</text>
-          <para>
-            <num>(i)</num>
-            <text>On each lot of a single-use test device received in a shipment;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>At least weekly for each lot of a single-use test device used for patient testing;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>After a single-use test device is exposed to an environment or condition that could affect the accuracy or reliability of test results; and</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>Each day of use during test system validation.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>Calibration and Verifying Calibration.</text>
-        <para>
-          <num>(a)</num>
-          <text>Calibration. A licensee shall ensure that the test system is calibrated as directed by the manufacturer.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Verifying Calibration. A licensee shall ensure that calibration of the test system is verified as directed by the manufacturer or at least every 6 months.</text>
-        </para>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>Quality Assurance.</text>
-        <para>
-          <num>(a)</num>
-          <text>Activities and Documentation. In addition to following other appropriate quality assurance standards in this chapter, a licensee shall ensure that quality assurance activities and documentation include reviewing, monitoring, and evaluating:</text>
-          <para>
-            <num>(i)</num>
-            <text>Single-use test device lot number, expiration, and disposal; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Testing discrepancies, including failed or repeat quality control or patient tests, validity checks, and system checks.</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Comparison of Test Results. When a facility performs a test using more than one method or test system, has multiple testing sites, or has multiple licensees performing the same test within a facility, the facility's primary or central testing site shall establish and maintain a quality assurance system that twice a year evaluates and defines the relationship of test results using the different methods, test systems, or testing sites.</text>
-        </para>
-      </para>
-    </para>
-    <annotations/>
+    <heading>Quality Control — Single-Use Test Devices. — Repealed.</heading>
+    <annotations>
+      <annotation app="2025-08-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -865,7 +697,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Regulations <cite path="|10|10|06|.07">.07</cite>—<cite path="|10|10|06|.16">.16</cite> of this chapter.</text>
+          <text>Regulations <cite path="|10|10|06|.07">.07</cite>—<cite path="|10|10|06|.15">.15</cite> of this chapter.</text>
         </para>
       </para>
       <para>
@@ -873,9 +705,11 @@
         <text>Cholesterol. A licensee or approved plan holder of a laboratory that performs cholesterol tests shall ensure that the laboratory obtains and maintains control samples at two levels, near or bracketing the 200 and 240 micrograms/deciliter decision levels.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="10|10|06|.08">
+  <section>
     <prefix>Regulation</prefix>
     <num>.08</num>
     <heading>Quality Control — Job-Related Alcohol and Drug Testing.</heading>
@@ -908,14 +742,10 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>Single-use test devices;</text>
-      </para>
-      <para>
-        <num>(8)</num>
         <text>Reporting test results; and</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(8)</num>
         <text>Proficiency testing.</text>
       </para>
     </para>
@@ -1103,7 +933,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Urine. A laboratory testing urine shall use the cutoff levels set forth in 49 CFR §40.87.</text>
+          <text>Urine. A laboratory testing urine shall use the cutoff levels set forth in 49 CFR §40.85.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1132,10 +962,6 @@
       </para>
       <para>
         <num>(9)</num>
-        <text>Single-Use Test Devices. A laboratory that performs screening tests using single-use test devices, as defined in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite>, may meet the quality assurance and quality control standards set forth in <cite path="|10|10|06|.06">Regulation .06 of this chapter</cite> instead of the standards set forth at <cite path="10|10|06|.08|B.|(1)">§B(1) of this regulation</cite>.</text>
-      </para>
-      <para>
-        <num>(10)</num>
         <text>Reporting Test Results. A licensee shall ensure that a job-related laboratory test report includes:</text>
         <para>
           <num>(a)</num>
@@ -1183,7 +1009,7 @@
         </para>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(10)</num>
         <text>Proficiency Testing. A licensee shall ensure that the laboratory enrolls and continues to participate satisfactorily in a proficiency testing program that:</text>
         <para>
           <num>(a)</num>
@@ -1195,7 +1021,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1636,10 +1464,12 @@
       </para>
       <para>
         <num>(10)</num>
-        <text>Disposal of Special Medical Waste. A licensee operating a temporary or mobile laboratory shall dispose of special medical waste as required in <cite path="|10.06.06">COMAR 10.06.06</cite>.</text>
+        <text>Disposal of Special Medical Waste. A licensee operating a temporary or mobile laboratory shall dispose of special medical waste as required in <cite path="10.06.06.01">COMAR 10.06.06.01</cite>—<cite path="10.06.06.07">10.06.06.07</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1669,7 +1499,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Dispose of special medical waste as set forth in <cite path="|10.06.06">COMAR 10.06.06</cite>.</text>
+          <text>Dispose of special medical waste as set forth in <cite path="10.06.06.01">COMAR 10.06.06.01</cite>—<cite path="10.06.06.07">10.06.06.07</cite>.</text>
         </para>
       </para>
       <para>
@@ -1729,7 +1559,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1907,15 +1739,15 @@
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§17-202, 17-202.1, 17-214, and 17-504, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-11-18">Effective date: November 18, 1985 (12:23 Md. R. 2217)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-08-06">Regulations <cite path="|10|10|06|.01">.01</cite>—<cite path="|10|10|06|.06">.06</cite>, Physicians' Group Practice Laboratories in Maryland, repealed effective August 6, 1990 (17:15 Md. R. 1859)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-08-06" discontinuity="true">Regulations <cite path="|10|10|06|.01">.01</cite>—<cite path="|10|10|06|.28">.28</cite>, Physician Office and Other Point-of-Care Laboratories, adopted effective August 6, 1990 (17:15 Md. R. 1859)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-08-06" discontinuity="true">Regulations <cite path="|10|10|06|.01">.01</cite>—<cite path="|10|10|06|.28" proof="needed">.28</cite>, Physician Office and Other Point-of-Care Laboratories, adopted effective August 6, 1990 (17:15 Md. R. 1859)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.03|B.">Regulation .03B</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.08|C.">Regulation .08C</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.09|B.">Regulation .09B</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.25">Regulation .25</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.08|C." proof="needed">Regulation .08C</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.09|B." proof="needed">Regulation .09B</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-16"><cite path="|10|10|06|.25" proof="needed">Regulation .25</cite> amended effective September 16, 1991 (18:18 Md. R. 2005)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13" discontinuity="true">Chapter, Physician Office and Other Point-of-Care Laboratories, repealed and new chapter, Medical Laboratories—Quality Assurance, adopted effective December 13, 1999 (26:25 Md. R. 1897)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.01">Regulation .01</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.02|A.">Regulation .02A</cite> amended effective July 22, 2002 (29:14 Md. R. 1074); April 1, 2013 (40:6 Md. R. 473)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16"><cite path="|10|10|06|.02|B.">Regulation .02B</cite> amended effective April 16, 2012 (39:7 Md. R. 492)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.02|B.">Regulation .02B</cite> amended effective April 16, 2012 (39:7 Md. R. 492); March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.02|C.">Regulation .02C</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.03">Regulation .03</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-01-13"><cite path="|10|10|06|.03|B.">Regulation .03B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340); January 13, 2011 (38:1 Md. R. 11)</annotation>
@@ -1923,18 +1755,21 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16"><cite path="|10|10|06|.04|B.">Regulation .04B</cite> amended effective April 16, 2012 (39:7 Md. R. 492)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.05">Regulation .05</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.05-1">Regulation .05-1</cite> adopted effective June 1, 2009 (36:11 Md. R. 787)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.07|B.">Regulation .07B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.08">Regulation .08</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.06">Regulation .06</cite> repealed effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.07|B.">Regulation .07B</cite> amended effective June 1, 2009 (36:11 Md. R. 787); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.08">Regulation .08</cite> amended effective June 1, 2009 (36:11 Md. R. 787); March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|06|.08|B.">Regulation .08B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.09">Regulation .09</cite> repealed effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.10">Regulation .10</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|06|.10|B.">Regulation .10B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.12">Regulation .12</cite> amended effective July 22, 2002 (29:14 Md. R. 1074); April 1, 2013 (40:6 Md. R. 473)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16"><cite path="|10|10|06|.12|B.">Regulation .12B</cite> amended effective April 16, 2012 (39:7 Md. R. 492)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.12|B.">Regulation .12B</cite> amended effective April 16, 2012 (39:7 Md. R. 492); March 1, 2026 (52:24 Md. R. 1198)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|06|.13|B.">Regulation .13B</cite> amended effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.14|B.">Regulation .14B</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.15">Regulation .15</cite> amended effective June 1, 2009 (36:11 Md. R. 787); April 1, 2013 (40:6 Md. R. 473)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|06|.15|B.">Regulation .15B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.16">Regulation .16</cite> repealed effective April 1, 2013 (40:6 Md. R. 473)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.16|A.">Regulation .16A</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.16" proof="needed">Regulation .16</cite> repealed effective April 1, 2013 (40:6 Md. R. 473)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.16|A." proof="needed">Regulation .16A</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
   </annotations>
 </container>

@@ -122,14 +122,16 @@
       </para>
       <para>
         <num>(24)</num>
-        <text>“Secretary” means the Secretary of Health.</text>
+        <text>“Secretary” means the Secretary of Health or the Secretary’s designee.</text>
       </para>
       <para>
         <num>(25)</num>
         <text>“Telephone resource line” means toll-free telephone access to the Program inside Maryland through live voice or recorded message that is compatible with telecommunication relay services.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -475,5 +477,7 @@
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§13-601—13-605, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-01-20">Effective date: January 20, 1992 (19:1 Md. R. 32)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-06-22" discontinuity="true">Regulations <cite path="|10|11|02|.01">.01</cite>—<cite path="|10|11|02|.09">.09</cite> repealed and new Regulations <cite path="|10|11|02|.01">.01</cite>—<cite path="|10|11|02|.09">.09</cite> adopted effective June 22, 2015 (42:12 Md. R. 762)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|10|11|02|.03|B.">Regulation .03B</cite> amended effective March 30, 2026 (53:6 Md. R. 291)</annotation>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
   </annotations>
 </container>

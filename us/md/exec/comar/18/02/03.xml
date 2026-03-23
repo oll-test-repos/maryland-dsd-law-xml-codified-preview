@@ -16,43 +16,43 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>"Actively used land" means land that is actually and primarily used for a continuing farm or agricultural use.</text>
+        <text>“Actively used land” means land that is actually and primarily used for a continuing farm or agricultural use.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>"Actually devoted land" means that portion of actively used land which is engaged in an approved agricultural activity.</text>
+        <text>“Actually devoted land” means that portion of actively used land which is engaged in an approved agricultural activity.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>"Agricultural land unit (ALU)" means the combination, for the purpose of qualifying for agricultural use assessment, of not more than three parcels of land located in the same county and under the same ownership.</text>
+        <text>“Agricultural land unit (ALU)” means the combination, for the purpose of qualifying for agricultural use assessment, of not more than three parcels of land located in the same county and under the same ownership.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>"Approved agricultural activity" means those activities recognized as agricultural pursuits under <cite path="|18|02|03|.03">Regulation .03 of this chapter</cite>.</text>
+        <text>“Approved agricultural activity” means those activities recognized as agricultural pursuits under <cite path="|18|02|03|.03">Regulation .03 of this chapter</cite>.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>"Associated land" means that portion of actively used land which is not actually devoted land but is located on the same parcel as actually devoted land, including woodland under Regulation .06A—C of this chapter, and other vacant land which is devoted to passive use.</text>
+        <text>“Associated land” means that portion of actively used land which is not actually devoted land but is located on the same parcel as actually devoted land, including woodland under Regulation .06A—C of this chapter, and other vacant land which is devoted to passive use.</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>"FCMA" means a forest conservation and management agreement under <cite doc="Md. Code" path="gtp|8-211">Tax-Property Article, §8-211, Annotated Code of Maryland</cite>.</text>
+        <text>“FCMA” means a forest conservation and management agreement under <cite doc="Md. Code" path="gtp|8-211">Tax-Property Article, §8-211, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>"Gross income" means the actual income that is received in a calendar year that results directly from the farm or agricultural use of the land.</text>
+        <text>“Gross income” means the actual income that is received in a calendar year that results directly from the farm or agricultural use of the land.</text>
       </para>
       <para>
         <num>(8)</num>
-        <text>"Parcel" means a piece of land of any size in one ownership.</text>
+        <text>“Parcel” means a piece of land of any size in one ownership.</text>
       </para>
       <para>
         <num>(9)</num>
-        <text>"Ratio requirement" means the ratio of associated land to actually devoted land which determines the total amount of actively used land eligible for agricultural use assessment.</text>
+        <text>“Ratio requirement” means the ratio of associated land to actually devoted land which determines the total amount of actively used land eligible for agricultural use assessment.</text>
       </para>
       <para>
         <num>(10)</num>
-        <text>"Same ownership" means, in terms of the ownership of two or more parcels, that at least one common name appears as grantee in all deeds to those parcels.</text>
+        <text>“Same ownership” means, in terms of the ownership of two or more parcels, that at least one common name appears as grantee in all deeds to those parcels.</text>
       </para>
     </para>
     <annotations/>
@@ -141,22 +141,24 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>Raising ornamental shrubs, plants, and flowers, including aquatic plants;</text>
+        <text>Ornamental horticulture with the raising and marketing of ornamental trees, shrubs, plants, and flowers, including aquatic plants;</text>
       </para>
       <para>
         <num>(8)</num>
-        <text>Aquaculture; and</text>
+        <text>Aquaculture with the raising and marketing of aquatic organisms such as fish and shellfish; and</text>
       </para>
       <para>
         <num>(9)</num>
-        <text>Silvaculture.</text>
+        <text>Silviculture, as defined in Regulation .06 A(4) or (5) of this chapter.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
       <text>An activity not listed in <cite path="18|02|03|.03|A.">§A of this regulation</cite> may be recognized as an approved agricultural activity at the discretion of the Department.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-132-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="18|02|03|.04">
     <prefix>Regulation</prefix>
@@ -239,32 +241,41 @@
     <prefix>Regulation</prefix>
     <num>.06</num>
     <heading>Woodland.</heading>
-    <text>A woodland parcel of 5 acres or more shall receive agricultural use assessment only if it is:</text>
     <para>
       <num>A.</num>
-      <text>A part of a parcel of land which is determined to be actively used as defined in <cite path="|18|02|03|.01|B.|(1)">Regulation .01B(1) of this chapter</cite>:</text>
+      <text>A woodland parcel of 5 acres or more shall receive agricultural use assessment only if it is:</text>
+      <para>
+        <num>(1)</num>
+        <text>A part of a parcel of land which is determined to be actively used as defined in <cite path="|18|02|03|.01|B.|(1)">Regulation .01B(1) of this chapter</cite>:</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A parcel contiguous to a parcel qualifying for agricultural use assessment provided both parcels are in the same ownership;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A parcel separated from a parcel of land which qualifies for agricultural use assessment, provided both parcels were purchased at the same time by the same owner;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Subject to and in compliance with a forestry management plan prepared by a registered professional forester;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Subject to and in compliance with an FCMA; or</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Actually devoted land as defined in <cite path="|18|02|03|.01|B.|(2)">Regulation .01B(2) of this chapter</cite>.</text>
+      </para>
     </para>
     <para>
       <num>B.</num>
-      <text>A parcel contiguous to a parcel qualifying for agricultural use assessment provided both parcels are in the same ownership;</text>
+      <text>A woodland parcel less than 5 acres cannot be combined with another woodland parcel to establish an agricultural land unit as defined in <cite path="|18|02|03|.01|B.|(3)">Regulation .01B(3) of this chapter</cite> in order to meet the minimum parcel size of 5 acres.</text>
     </para>
-    <para>
-      <num>C.</num>
-      <text>A parcel separated from a parcel of land which qualifies for agricultural use assessment, provided both parcels were purchased at the same time by the same owner;</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Subject to and in compliance with a forestry management plan prepared by a registered professional forester;</text>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>Subject to and in compliance with an FCMA; or</text>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>Actually devoted land as defined in <cite path="|18|02|03|.01|B.|(2)">Regulation .01B(2) of this chapter</cite>.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-133-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="18|02|03|.07">
     <prefix>Regulation</prefix>
@@ -286,7 +297,7 @@
     <heading>Agricultural Use Value Rates.</heading>
     <text>The following ranges govern the valuation and assessment of land eligible for agricultural use assessment, based on the capitalization of Statewide farmland rentals:</text>
     <text>
-      <table class="layout-table">
+      <table>
         <tbody>
           <tr>
             <td/>
@@ -317,8 +328,12 @@
     <annotation managed="false" type="Authority" dest="container">Tax-Property Article, §§<cite doc="Md. Code" path="gtp|2-201">2-201</cite>, <cite doc="Md. Code" path="gtp|2-202">2-202</cite>, and <cite doc="Md. Code" path="gtp|8-209">8-209</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1982-01-07">Effective date: January 7, 1982 (8:26 Md. R. 2106)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-12-05">Chapter revised effective November 17, 1986 (13:23 Md. R. 2481); December 5, 1994 (21:24 Md. R. 1990)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|18|02|03|.03|A.">Regulation .03A</cite> amended effective February 16, 2026 (53:3 Md. R. 123)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-20"><cite path="|18|02|03|.04">Regulation .04</cite> amended effective January 20, 2014 (41:1 Md. R. 13)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-24"><cite path="|18|02|03|.05|D.">Regulation .05D</cite>, E adopted effective January 24, 2022 (49:2 Md. R. 78)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|18|02|03|.06">Regulation .06</cite> amended effective February 16, 2026 (53:3 Md. R. 123)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-10-16"><cite path="|18|02|03|.08">Regulation .08</cite> amended effective October 16, 2000 (27:20 Md. R. 1841)</annotation>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-133-F" type="History" display="false"/>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-132-F" type="History" display="false"/>
   </annotations>
 </container>

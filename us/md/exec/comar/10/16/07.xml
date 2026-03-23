@@ -62,12 +62,12 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Is appointed by a certificate for emergency epinephrine holder to administer auto–injectable epinephrine in an emergency situation.</text>
+          <text>Is appointed by a certificate for emergency epinephrine holder to administer emergency use epinephrine in an emergency situation.</text>
         </para>
       </para>
       <para>
         <num>(5)</num>
-        <text>“Anaphylaxis” means a sudden, severe, and potentially life–threatening allergic reaction that occurs when an individual is exposed to an allergen.</text>
+        <text>“Anaphylaxis” means a sudden, severe, and potentially life-threatening allergic reaction that occurs when an individual is exposed to an allergen.</text>
       </para>
       <para>
         <num>(6)</num>
@@ -75,43 +75,43 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>“Auto–injectable epinephrine” means a portable, disposable drug delivery device that contains a premeasured single dose of epinephrine that is used to treat anaphylaxis in an emergency situation.</text>
-      </para>
-      <para>
-        <num>(8)</num>
         <text>“Camp” means a youth camp as defined in <cite path="10.16.06.02">COMAR 10.16.06.02</cite>.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(8)</num>
         <text>“Camper” has the meaning stated in <cite path="10.16.06.02">COMAR 10.16.06.02</cite>.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(9)</num>
         <text>“Certificate” means a document showing the authority to operate a youth camp, issued by the Maryland Department of Health pursuant to <cite path="|10.16.06">COMAR 10.16.06</cite> and Health-General Article, §14-403, Annotated Code of Maryland, which displays the name of the person granted the authority.</text>
       </para>
       <para>
+        <num>(10)</num>
+        <text>“Certificate for emergency epinephrine” means a certificate or an endorsement on the operating certificate of a youth camp issued by the Maryland Department of Health to an individual who operates a youth camp under <cite path="|10.16.06">COMAR 10.16.06</cite> to obtain, store, and administer emergency use epinephrine.</text>
+      </para>
+      <para>
         <num>(11)</num>
-        <text>“Certificate for emergency epinephrine” means a certificate or an endorsement on the operating certificate of a youth camp issued by the Maryland Department of Health to an individual who operates a youth camp under <cite path="|10.16.06">COMAR 10.16.06</cite> to obtain, store, and administer auto–injectable epinephrine.</text>
+        <text>“Certificate for emergency epinephrine holder” means an individual who is authorized by the Maryland Department of Health to obtain, store, and administer emergency use epinephrine to be used in an emergency situation.</text>
       </para>
       <para>
         <num>(12)</num>
-        <text>“Certificate for emergency epinephrine holder” means an individual who is authorized by the Maryland Department of Health to obtain, store, and administer auto–injectable epinephrine to be used in an emergency situation.</text>
-      </para>
-      <para>
-        <num>(13)</num>
         <text>“Day” has the meaning stated in <cite path="10.16.06.02">COMAR 10.16.06.02</cite>.</text>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(13)</num>
         <text>“Department” has the meaning stated in <cite path="10.16.06.02">COMAR 10.16.06.02</cite>.</text>
       </para>
       <para>
-        <num>(15)</num>
+        <num>(14)</num>
         <text>“Director” has the meaning stated in <cite path="10.16.06.02">COMAR 10.16.06.02</cite>.</text>
       </para>
       <para>
-        <num>(16)</num>
+        <num>(15)</num>
         <text>“Emergency medication” means a medication, identified by a camper’s plan of action for use in case of a medical emergency, for a camper with an identified medical problem.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>“Emergency use epinephrine” means a portable, disposable drug delivery device or product approved by the federal Food and Drug Administration  that contains a premeasured single dose of epinephrine that is used to treat anaphylaxis in an emergency situation.</text>
       </para>
       <para>
         <num>(17)</num>
@@ -246,7 +246,9 @@
         <text>“Successfully completed” means to pass a written examination with a grade of 75 percent or higher.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-207-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -595,7 +597,7 @@
     </para>
     <para>
       <num>F.</num>
-      <text>A medication error or incident that required the administration of auto-injectable epinephrine is reported:</text>
+      <text>A medication error or incident that required the administration of emergency use epinephrine is reported:</text>
       <para>
         <num>(1)</num>
         <text>Immediately to the health supervisor and, in the case of a minor, to the minor’s parent or guardian; and</text>
@@ -617,7 +619,9 @@
         <text>Make available to the Department for review written documentation of the findings of the review of health log records.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-207-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1568,19 +1572,19 @@
         <text>Procedures to:</text>
         <para>
           <num>(a)</num>
-          <text>Store emergency auto-injectable epinephrine;</text>
+          <text>Store emergency use epinephrine;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Notify a parent or guardian that emergency auto-injectable epinephrine is available at camp;</text>
+          <text>Notify a parent or guardian that emergency use epinephrine is available at camp;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Maintain the emergency auto-injectable epinephrine in a secure manner;</text>
+          <text>Maintain the emergency use epinephrine in a secure manner;</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Report use of emergency auto-injectable epinephrine according to <cite path="|10|16|07|.06">Regulation .06 of this chapter</cite>;</text>
+          <text>Report use of emergency use epinephrine according to <cite path="|10|16|07|.06">Regulation .06 of this chapter</cite>;</text>
         </para>
         <para>
           <num>(e)</num>
@@ -1629,11 +1633,11 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Use of an emergency auto-injectable epinephrine pen;</text>
+        <text>Use of an emergency use epinephrine pen;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Follow-up procedures with a parent or guardian after an emergency auto-injectable epinephrine is administered;</text>
+        <text>Follow-up procedures with a parent or guardian after an emergency use epinephrine is administered;</text>
       </para>
       <para>
         <num>(4)</num>
@@ -1669,16 +1673,16 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>On or before January 31 of each year, publish a report summarizing the information obtained from the Reportable Incident Report Forms submitted to the Department related to the use of auto-injectable epinephrine at youth camps.</text>
+        <text>On or before January 31 of each year, publish a report summarizing the information obtained from the Reportable Incident Report Forms submitted to the Department related to the use of emergency use epinephrine at youth camps.</text>
       </para>
     </para>
     <para>
       <num>G.</num>
-      <text>A physician licensed to practice medicine in the State may prescribe auto-injectable epinephrine in the name of a certificate for emergency epinephrine holder.</text>
+      <text>A physician licensed to practice medicine in the State may prescribe emergency use epinephrine in the name of a certificate for emergency epinephrine holder.</text>
     </para>
     <para>
       <num>H.</num>
-      <text>A pharmacist licensed to practice pharmacy in the State or a physician may dispense auto-injectable epinephrine under a prescription issued to a certificate for emergency epinephrine holder.</text>
+      <text>A pharmacist licensed to practice pharmacy in the State or a physician may dispense emergency use epinephrine under a prescription issued to a certificate for emergency epinephrine holder.</text>
     </para>
     <para>
       <num>I.</num>
@@ -1694,9 +1698,11 @@
     </para>
     <para>
       <num>J.</num>
-      <text>In an emergency situation when physician or emergency medical services are not immediately available, a certificate for emergency epinephrine holder or agent may administer auto-injectable epinephrine to an individual who is experiencing or believed in good faith by the certificate for emergency epinephrine holder or agent to be experiencing anaphylaxis.</text>
+      <text>In an emergency situation when physician or emergency medical services are not immediately available, a certificate for emergency epinephrine holder or agent may administer emergency use epinephrine to an individual who is experiencing or believed in good faith by the certificate for emergency epinephrine holder or agent to be experiencing anaphylaxis.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-207-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|16|07|.16">
     <prefix>Regulation</prefix>
@@ -1736,8 +1742,12 @@
     <annotation managed="false" type="Authority" dest="container">Family Law Article, §§<cite doc="Md. Code" path="gfl|5-560">5-560</cite> — 5-568, 5-704, and 5-705; Health-General Article, §§2-104, 13-701 — 13-708, 14-402(d), 14-403, 18-318, and 18-403;<br/>Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|01">01</cite> — 8-6A-16 and 14-306; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-28">Regulations <cite path="|10|16|07|.01">.01</cite>—<cite path="|10|16|07|.13">.13</cite>, .15, and .16 adopted effective March 28, 2016 (43:6 Md. R. 408)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-12-26"><cite path="|10|16|07|.14">Regulation .14</cite> adopted as an emergency provision effective June 30, 2016 (43:15 Md. R. 861); emergency expired effective December 26, 2016</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|10|16|07|.02|B.">Regulation .02B</cite> amended effective February 16, 2026 (53:3 Md. R. 122)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-27"><cite path="|10|16|07|.03|A.">Regulation .03A</cite> amended effective February 27, 2017 (44:4 Md. R. 254)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|10|16|07|.06|F.">Regulation .06F</cite> amended effective February 16, 2026 (53:3 Md. R. 122)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-12-26"><cite path="|10|16|07|.14">Regulation .14</cite> adopted as an emergency provision effective June 30, 2016 (43:15 Md. R. 861); emergency expired effective December 26, 2016</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-27"><cite path="|10|16|07|.14">Regulation .14</cite> adopted effective February 27, 2017 (44:4 Md. R. 254)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|10|16|07|.15">Regulation .15</cite> amended effective February 16, 2026 (53:3 Md. R. 122)</annotation>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-207-F" type="History" display="false"/>
   </annotations>
 </container>

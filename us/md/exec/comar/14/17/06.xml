@@ -166,7 +166,13 @@
         <text>Incorporates any copyrighted material or trademark or service mark attributable to another entity.</text>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>L.</num>
+      <text>The Administration may specify the format and manner for all required licensee and conditional licensee submissions.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|17|06|.03">
     <prefix>Regulation</prefix>
@@ -251,24 +257,28 @@
       <text>The Administration shall deny transfer of an interest for any proposed transferee:</text>
       <para>
         <num>(1)</num>
-        <text>If the payment of taxes due in any jurisdiction is in arrears;</text>
-      </para>
-      <para>
-        <num>(2)</num>
         <text>If the transfer violates <cite path="|14.17.16">COMAR 14.17.16</cite>;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(2)</num>
         <text>If the transfer would convey a controlling interest in the license prior to the cannabis licensee being licensed and operational for a period of at least 5 years, and is not proposed due to death, disability, incapacity, bankruptcy, or receivership in accordance with a lending agreement of a cannabis licensee or court order; or</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(3)</num>
         <text>If, prior to the cannabis licensee being licensed and operational for a period of at least 5 years, the transfer would convey to the transferee the right or authority to obtain a controlling interest in the license at a later date.</text>
       </para>
     </para>
     <para>
       <num>E.</num>
-      <text>The Administration may deny transfer of an interest for any proposed transferee if the transferee or an individual with ownership or control of the transferee has been convicted of or pleaded nolo contendere to a crime involving moral turpitude, whether or not any appeal or other proceeding is pending to have the conviction or plea set aside.</text>
+      <text>The Administration may deny transfer of an interest for any proposed transferee if the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Transferee or an individual with ownership or control of the transferee has been convicted of or pleaded nolo contendere to a crime involving moral turpitude, whether or not any appeal or other proceeding is pending to have the conviction or plea set aside;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Payment of taxes due in any jurisdiction is in arrears.</text>
+      </para>
     </para>
     <para>
       <num>F.</num>
@@ -358,7 +368,9 @@
         <text>In the annual disclosure of ownership and control report required by <cite path="14.17.16.02">COMAR 14.17.16.02</cite>, a licensee shall disclose any employee incentive unit issuances or transfers that have occurred since the date of the licensee's last annual disclosure submission.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|17|06|.05">
     <prefix>Regulation</prefix>
@@ -366,14 +378,30 @@
     <heading>Management Agreements.</heading>
     <para>
       <num>A.</num>
-      <text>Definition.</text>
+      <text>Definitions.</text>
       <para>
         <num>(1)</num>
-        <text>In this regulation, the following term has the meaning indicated.</text>
+        <text>In this regulation, the following terms have the meaning indicated.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Term Defined. “Management company” means an entity that provides management services to a licensed entity.</text>
+        <text>Terms Defined. “Management company” means an entity that provides management services to a licensed entity.</text>
+        <para>
+          <num>(a)</num>
+          <text>Management Agreement.</text>
+          <para>
+            <num>(i)</num>
+            <text>“Management agreement” means an arrangement between a management company and a licensee for the provision of services, including but not limited to consulting, advisory, or marketing services related to the licensee’s operations.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>“Management agreement” does not include arrangements for legal, financial, or other services that do not delegate operational aspects of the business to the service provider.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Management company” means an entity that provides management services to a licensed entity.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -524,7 +552,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|17|06|.06">
     <prefix>Regulation</prefix>
@@ -741,7 +771,7 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>“Co-located licensee” means a licensee who has entered an agreement to share a licensed premises.</text>
+        <text>“Co-located licensee” means a grower or processor licensee who has entered an agreement to share a licensed premises.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -754,7 +784,15 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Two or more grower or processor licensees may enter an agreement to share a licensed premises, provided at least one of the licensees operates in the region in which they were awarded a license.</text>
+      <text>A maximum of three licensees may enter an agreement to share a licensed premises, provided:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provided at least one of the licensees operates in the region in which they were awarded a license; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The licensees are growers or processors.</text>
+      </para>
     </para>
     <para>
       <num>D.</num>
@@ -852,7 +890,9 @@
         <text>Fine, suspend, restrict, revoke, or otherwise sanction a co-locating licensee.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|17|06|.12">
     <prefix>Regulation</prefix>
@@ -1026,9 +1066,14 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-01">Regulations <cite path="|14|17|06|.01">.01</cite>—<cite path="|14|17|06|.10">.10</cite> adopted as an emergency provision effective July 1, 2023 (50:14 Md. R. 559); emergency status expired June 30, 2024</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-07">Regulations <cite path="|14|17|06|.01">.01</cite>—<cite path="|14|17|06|.10">.10</cite> adopted as an emergency provision effective June 7, 2024 (51:14 Md. R. 676)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22">Regulations <cite path="|14|17|06|.01">.01</cite>—<cite path="|14|17|06|.10">.10</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|06|.02|L.">Regulation .02L</cite> adopted effective March 16, 2026 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|14|17|06|.03|E.">Regulation .03E</cite>—G adopted effective May 26, 2025 (52:10 Md. R. 436)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|14|17|06|.04">Regulation .04</cite> amended effective May 26, 2025 (52:10 Md. R. 436)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-16"><cite path="|14|17|06|.04|D.">Regulation .04D</cite>, E amended effective March 16, 2025 (53:5 Md. R. 244)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-16"><cite path="|14|17|06|.05|A.">Regulation .05A</cite> amended effective March 16, 2025 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|14|17|06|.11">Regulation .11</cite> adopted effective May 26, 2025 (52:10 Md. R. 436)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-16"><cite path="|14|17|06|.11|B.">Regulation .11B</cite>, C amended effective March 16, 2025 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|06|.12">Regulation .12</cite> adopted effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
   </annotations>
 </container>

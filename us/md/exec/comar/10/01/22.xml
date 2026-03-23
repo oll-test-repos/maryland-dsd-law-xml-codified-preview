@@ -1,0 +1,628 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>22</num>
+  <heading>Maryland Loan Assistance Repayment Program for Physicians and Physician Assistants</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of the Maryland Loan Assistance Repayment Program for Physicians and Physician Assistants is to improve health care access for all Marylanders by recruiting and retaining health care providers in areas of Maryland with health care professional shortages through education loan repayments assistance to program participants.</text>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-217-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Department” means the Maryland Department of Health.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Education loan” has the meaning stated in Health-General Article, §24-1701, Annotated Code of Maryland.  ​</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Eligible field of employment” has the meaning stated in Health-General Article, §24–1704, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Full-time” means an individual’s work week consists of 40 or more hours at an eligible practice site.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Guidelines” means the Maryland Loan Repayment Programs Guidelines and any subregulatory guidance established by the Department.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Medical resident” means an individual who has completed medical school and is participating in a post-graduate residency education program accredited by the Accreditation Council for Graduate Medical Education, or its successor, or the American Osteopathic Association, or its successor, who is not licensed to practice medicine in the State.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Participant” means an individual who has been offered a Program award and is under a service obligation with the Program.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Part-time” means an individual’s work week consists of between 20 to 39 hours at an eligible practice site.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Physician” has the meaning stated in Health-Occupations Article, §14-101, Annotated Code of Maryland, who practices medicine either full-time or part-time.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Physician assistant” has the meaning stated in Health-Occupations Article, §15-101, Annotated Code of Maryland, who practices full-time or part-time.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>“Practice site” means a site where a participant provides clinical services and fulfills their service obligation.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Primary care” has the meaning stated in Health-General Article, §24-1701, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>“Program” means the Maryland Loan Assistance Repayment Program for Physicians and Physician Assistants.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“Promissory Note” means a contractual agreement between a participant and the Department describing disbursement methods, participant roles and responsibilities, compliance penalties, and other terms as determined by the Department.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>“Service Obligation Agreement” means a contractual agreement between a participant and the Department specifying participant service obligations, total and annual Program award amounts, required data and verifications, penalties for breach, and other terms as determined by the Department.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-217-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|01|22|.03">
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Program Eligibility.</heading>
+    <para>
+      <num>A.</num>
+      <text>Eligibility. To be eligible for the program the individual shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Meet the licensure requirements set forth in <cite path="10|01|22|.03|B.">§B of this regulation</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be a United States citizen or national;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be liable and personally owe educational debt;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Have a valid employment contract with an eligible practice site in the State that will be in effect by the start of any service obligation to be fulfilled;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Provide evidence of practice as either part-time or full-time at that eligible practice site;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Practice full-time or part-time providing health care services at an eligible practice site, with at least 80 percent of time spent in direct patient care for a minimum of 45 weeks per year; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Utilize Program funds for the repayment of eligible education loans.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Licensure Requirements. To be eligible for the program, an individual shall be one of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>A physician possessing active and valid licensure without restrictions or encumbrances to practice Allopathic Medicine in the State;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A physician possessing active and valid licensure without restrictions to or encumbrances to practice Osteopathic Medicine in the State;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A physician assistant possessing active and valid licensure without restriction or encumbrances in the State; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A final year medical resident who is specializing in primary care and overseen by a postgraduate training program in the State.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Eligibility Restrictions. An individual may not be eligible for the Program if they have:</text>
+      <para>
+        <num>(1)</num>
+        <text>A federal or state judgment lien;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Defaulted on any federal or state payment obligations even if the governmental creditor now considers them to be in good standing;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Breached a prior service obligation to federal, state, or local government or other entity, even if the obligation is subsequently satisfied;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any federal or non-federal debt written off as uncollectible or received a waiver of any service or payment obligation;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Any outstanding contractual obligations for a health care professional service to the federal government, another state loan repayment program, or other entity unless those service obligations are completely satisfied prior to the commencement of the Program service obligation; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Received the two maximum awards for service obligations to the Program.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Eligible Practice Sites. An eligible practice site shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be an eligible field of employment in accordance with Health-General Article, §24–1704, Annotated Code of Maryland;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be physically located in the State;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide services to all patients regardless of their ability to pay; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If the practice site charges for health care professional services:</text>
+        <para>
+          <num>(a)</num>
+          <text>Charge at the usual and customary prevailing rate;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Utilize a financial aid policy of discounts or sliding fee scale for individuals with limited incomes; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Accept reimbursement from Medicare, the Maryland Medical Assistance Program, and the Maryland Children’s Health Insurance Program, if applicable to the patient type.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-217-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Application Procedures.</heading>
+    <para>
+      <num>A.</num>
+      <text>By the published deadlines, on the form designated by the Department, an applicant shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Submit a complete application to the Department;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Facilitate submission of application components by all contributors; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Submit any supporting documentation as requested by the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department shall disapprove an application if the application:</text>
+      <para>
+        <num>(1)</num>
+        <text>Fails to provide sufficient information or comply with requested documentation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Has the appropriate documentation but is determined to be ineligible; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Does not satisfy the requirements established by law or the Department.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-217-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|01|22|.05">
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Participant Selection.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Assess applicant eligibility based on documentation received by the published deadline;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Require from an applicant additional documentation or use independent verification means to verify information in the application; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Score an eligible application based on priority criteria in accordance with:</text>
+        <para>
+          <num>(a)</num>
+          <text>Health-General Article, §24–1705, Annotated Code of Maryland; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The guidelines established by the Department.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An applicant shall respond to an award offer by submitting all required documentation to the Department within 90 calendar days of notice of award.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Failure of the applicant to provide required documentation shall result in:</text>
+      <para>
+        <num>(1)</num>
+        <text>An application determined as ineligible; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Cancellation of any offered awards.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Appeal of Disapproval of Application.</text>
+      <para>
+        <num>(1)</num>
+        <text>An applicant may appeal the decision to disapprove an application by submitting an appeal request in writing to the Department within 30 calendar days of the date on the notice of the disapproved application.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If an applicant submits an appeal, the Department, within 60 calendar days, shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Sustain or reverse the decision on the application; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Provide written notice to the applicant:</text>
+          <para>
+            <num>(i)</num>
+            <text>Indicating whether the decision on the application has been sustained or reversed; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Providing an explanation of the decision.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An applicant may request a hearing within 10 calendar days after the date of written notice of the Department’s disapproval of an application as stated in <cite path="10|01|22|.05|D.|(2)">§D(2) of this regulation</cite>. When the Department receives the request, it will follow hearing procedures in accordance with <cite path="|10.01.03">COMAR 10.01.03</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Failure to be present for the hearing without prior notice, communication, or approval from the Department may result in:</text>
+        <para>
+          <num>(a)</num>
+          <text>The appeal nullified and decision sustained;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Hearing on the appeal not rescheduled; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Appropriate sanctions taken as deemed by the Department.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-217-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Award Distribution.</heading>
+    <para>
+      <num>A.</num>
+      <text>The distribution of Program awards shall be based on the funding prioritization in accordance with Health-General Article, §24–1704(b), Annotated Code of Maryland.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department shall prioritize funding for the repayment of education loans in accordance with Health-General Article, §24–1705(b), Annotated Code of Maryland.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Department shall annually determine, based on the availability of funds:</text>
+      <para>
+        <num>(1)</num>
+        <text>The maximum number of participants for the Program in each priority area; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The minimum and maximum amount of loan repayment assistance awarded.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The amount of award offered and paid shall not exceed the lesser of:</text>
+      <para>
+        <num>(1)</num>
+        <text>The loan repayment amount specified in the Service Obligation Agreement; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A participant's total verified debt from eligible education loans.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-217-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|01|22|.07">
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Participant Obligation.</heading>
+    <para>
+      <num>A.</num>
+      <text>A participant shall provide the Department with required documentation including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Lender verification of education loan balance;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Documentation of employer verification;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A signed Promissory Note that includes:</text>
+        <para>
+          <num>(a)</num>
+          <text>The disbursement methods utilized by the Department in the repayment of education loans;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The roles and responsibilities of the participant in the disbursement of funds to the lender institution;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Penalties for failing to comply with terms and conditions of agreements with the Department; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Other terms as determined by the Department;</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A Service Obligation Agreement that includes:</text>
+        <para>
+          <num>(a)</num>
+          <text>Obligations of the participant;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Total and annual amounts of the Program award;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Completion of data and verifications required by the Department;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Penalties for breach of the Promissory Note and Service Obligation Agreements;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Incorporation of the Promissory Note and Program Guidelines; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Other appropriate terms as determined by the Department; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>All other documentations as requested by the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A participant shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Continue to meet the eligibility requirements as stated in Regulation .03A and B of this chapter; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Serve a minimum service obligation as stipulated in the Service Obligation Agreement with the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A final year medical resident shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Meet all requirements set forth in <cite path="10|01|22|.07|A.">§A of this regulation</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Complete residency training in primary care, and begin their service obligation without interruption; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Fulfill all requirements of <cite path="10|01|22|.07|B.">§B of this regulation</cite> once the service obligation commences.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-217-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Verification of Service Obligation Fulfillment.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall verify annually during Program participation, the participant’s compliance with:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Program Promissory Note;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Service Obligation Agreement; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any subregulatory guidelines developed by the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A participant shall respond to annual verification by submitting all required documentation to the Department within 180 calendar days of request.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Department shall annually receive confirmation from the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Approved practice site that the participant provided services in the previous year and continues to practice at the practice site; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Lender institution that the participant has an outstanding education loan balance that is not in default.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>For a medical resident in their final year of medical residence, prior to the disbursement of award payment for the first obligation cycle, the Department shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Receive confirmation from the residency training program that the participant is specializing in primary care; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Follow the same verification procedures stated in §§A and B of this regulation once service obligations by the participant commences.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Failure to provide required reverification documentation to the Department will constitute a breach of agreement with the Department.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-217-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Breach of Agreement and Penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>A participant's failure to comply with the Service Obligation Agreement and Promissory Note shall constitute a breach of agreement with the Department.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A final year medical resident who fails to begin a service obligation at the start of the next obligation cycle following the completion of primary care residency training, shall be in breach of the Service Obligation Agreement and Promissory Note.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Penalties for breach of agreement with the Department shall be stated in the Service Obligation Agreement and Promissory Note, and may include:</text>
+      <para>
+        <num>(1)</num>
+        <text>Financial penalties dependent on the funding source of the award provided to the participant;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The elimination of future eligibility for the Program; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Referral of the participant to the Maryland Board of Physicians for investigation of the participant's violation of breach of service obligation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-217-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Amendments to a Participant’s Service Obligation.</heading>
+    <para>
+      <num>A.</num>
+      <text>Practice Site Transfer.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department may consider practice site transfer requests during a participant’s service obligation period.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A participant shall submit a site transfer request to the Department for consideration and receive approval of the site transfer from the Department prior to a participant’s separation from an approved practice site.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A site transfer request may not be submitted until the second service obligation year.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department may consider deferment of a participant’s service obligation or payment obligation for up to 1 year, if determined by the Department that compliance by the participant with the terms and conditions of the Service Obligation Agreement would involve extreme hardship as evidenced through documentation provided to the Department.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Any request by a participant for service obligation amendments shall follow the written process and procedures as established by the Department in subregulatory guidance.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A decision made by the Department upon request for a service obligation amendment shall be final.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Department may consider cancellation of a participant service obligation with evidence under the following circumstances:</text>
+      <para>
+        <num>(1)</num>
+        <text>Illness or injury that prohibits future possibility of service; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Death as determined by a death certificate or other conclusive evidence of death under State law.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-217-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §24–1701—24-1708, ; and Health Occupations Article, §§<cite doc="Md. Code" path="gho|14">14</cite>–<cite doc="Md. Code" path="gho|207">207</cite> and <cite doc="Md. Code" path="gho|15">15</cite>–<cite doc="Md. Code" path="gho|206">206</cite>(c), Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02">Effective date: March 2, 2026 (53:4 Md. R. 184)</annotation>
+  </annotations>
+  <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-217-F" type="History" display="false"/>
+</container>

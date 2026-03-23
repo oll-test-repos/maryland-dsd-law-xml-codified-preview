@@ -9,7 +9,7 @@
     <heading>Scope.</heading>
     <para>
       <num>A.</num>
-      <text>This chapter governs the practice of athletic training.</text>
+      <text>This chapter governs the practice of athletic training including “dry needling” within the practice of athletic training.</text>
     </para>
     <para>
       <num>B.</num>
@@ -39,7 +39,9 @@
         <text>By providing athletic training services to individuals representing the entity at the event.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-212-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|32|08|.02">
     <prefix>Regulation</prefix>
@@ -110,34 +112,62 @@
       </para>
       <para>
         <num>(9)</num>
-        <text>“Evaluation and treatment protocol” means a document that is executed by a physician and an athletic trainer that meets the requirements in <cite path="|10|32|08|.06">Regulation .06 of this chapter</cite>.</text>
+        <text>“Dry needling” means an intramuscular therapy that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Involves the insertion of one or more solid needles into the muscle and related tissues to effect change in the muscle and related tissues;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Requires ongoing evaluation, assessment, and reevaluation of an impairment;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Is used only in parts of the body with neuromuscular or musculoskeletal links to an impairment; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Is not performed for:</text>
+          <para>
+            <num>(i)</num>
+            <text>The purpose of acupuncture as defined in <cite doc="Md. Code" path="gho|1A-101">Health Occupations Article, §1A-101, Annotated Code of Maryland</cite>; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Any purpose outside of the scope of practice of athletic trainers.</text>
+          </para>
+        </para>
       </para>
       <para>
         <num>(10)</num>
-        <text>“Immediately available instruction” means instruction provided by the supervising physician to the athletic trainer in person, by telephone, or by other electronic means.</text>
+        <text>“Evaluation and treatment protocol” means a document that is executed by a physician and an athletic trainer that meets the requirements in <cite path="|10|32|08|.06">Regulation .06 of this chapter</cite>.</text>
       </para>
       <para>
         <num>(11)</num>
-        <text>“Licensed athletic trainer” means an individual licensed by the Board to practice athletic training.</text>
+        <text>“Immediately available instruction” means instruction provided by the supervising physician to the athletic trainer in person, by telephone, or by other electronic means.</text>
       </para>
       <para>
         <num>(12)</num>
-        <text>“Licensed health care practitioner” means an individual licensed, certified, or otherwise authorized to practice a health occupation under <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>.</text>
+        <text>“Licensed athletic trainer” means an individual licensed by the Board to practice athletic training.</text>
       </para>
       <para>
         <num>(13)</num>
-        <text>“Nonsupervising physician” means a physician licensed by the Board who is not the supervising physician of the athletic trainer.</text>
+        <text>“Licensed health care practitioner” means an individual licensed, certified, or otherwise authorized to practice a health occupation under <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(14)</num>
-        <text>“Outside referral” means a request for treatment from a nonsupervising physician or licensed health care practitioner.</text>
+        <text>“Nonsupervising physician” means a physician licensed by the Board who is not the supervising physician of the athletic trainer.</text>
       </para>
       <para>
         <num>(15)</num>
-        <text>“Physician” means an individual licensed to practice medicine in Maryland under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 14, Annotated Code of Maryland</cite>.</text>
+        <text>“Outside referral” means a request for treatment from a nonsupervising physician or licensed health care practitioner.</text>
       </para>
       <para>
         <num>(16)</num>
+        <text>“Physician” means an individual licensed to practice medicine in Maryland under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 14, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(17)</num>
         <text>Practice Athletic Training.</text>
         <para>
           <num>(a)</num>
@@ -209,7 +239,7 @@
         </para>
       </para>
       <para>
-        <num>(17)</num>
+        <num>(18)</num>
         <text>“Setting” means a:</text>
         <para>
           <num>(a)</num>
@@ -233,15 +263,15 @@
         </para>
       </para>
       <para>
-        <num>(18)</num>
+        <num>(19)</num>
         <text>“Supervising physician” means a physician who has been approved by the Board to supervise one or more athletic trainers.</text>
       </para>
       <para>
-        <num>(19)</num>
+        <num>(20)</num>
         <text>“Supervision” means the responsibility of a physician to provide ongoing and immediately available instruction, in person, by telephone, or by other electronic means, that is adequate to ensure the safety and welfare of a patient and is appropriate to the setting.</text>
       </para>
       <para>
-        <num>(20)</num>
+        <num>(21)</num>
         <text>“Supervision mechanism” means continuous availability to the athletic trainer of a supervising physician by one or more of the following means:</text>
         <para>
           <num>(a)</num>
@@ -265,7 +295,7 @@
         </para>
       </para>
       <para>
-        <num>(21)</num>
+        <num>(22)</num>
         <text>Therapeutic Modalities.</text>
         <para>
           <num>(a)</num>
@@ -277,7 +307,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-212-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -571,11 +603,15 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>Bandaging for bleeding; and</text>
+          <text>Bandaging for bleeding;</text>
         </para>
         <para>
           <num>(g)</num>
           <text>Proper immobilization of spine or other body parts; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Dry needling; and</text>
         </para>
       </para>
       <para>
@@ -596,7 +632,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Applying braces, splints, or other assistive devices as identified by the evaluation and treatment protocols of the supervising physician; and</text>
+        <text>Applying braces, splints, or other assistive devices as identified by the evaluation and treatment protocols of the supervising physician;</text>
       </para>
       <para>
         <num>(4)</num>
@@ -607,8 +643,12 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Evaluate readiness to return to desired level of activity with respect to injuries, illnesses, or conditions.</text>
+          <text>Evaluate readiness to return to desired level of activity with respect to injuries, illnesses, or conditions; and</text>
         </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Administering dry needling therapy under the direction and guidance of a supervising physician who has training and experience in dry needling.</text>
       </para>
     </para>
     <para>
@@ -651,9 +691,11 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-212-F" type="History" display="false"/>
+    </annotations>
   </section>
-  <section>
+  <section cache:ref-path="10|32|08|.06">
     <prefix>Regulation</prefix>
     <num>.06</num>
     <heading>Evaluation and Treatment Protocol.</heading>
@@ -833,7 +875,81 @@
       <num>D.</num>
       <text>Emergency Evaluation and Treatment Protocol. In the event of a sudden departure, incapacity, or death of a supervising physician, a designated alternate may assume the role of the supervising physician by submitting a new evaluation and treatment protocol to the Board within 15 days.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>E.</num>
+      <text>Dry Needling Protocol.</text>
+      <para>
+        <num>(1)</num>
+        <text>The practice of dry needling by a licensed athletic trainer shall require approval from the Board as a specialized task.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Board shall issue approval to perform dry needling to a licensed athletic trainer who provides proof of completion of at least 80 hours of instruction in a continuing education course approved by:</text>
+        <para>
+          <num>(a)</num>
+          <text>The National Athletic Trainers’ Association;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Board of Certification for the Athletic Trainer; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The United States Armed Forces.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Course Requirements.</text>
+        <para>
+          <num>(a)</num>
+          <text>Of the 80 hours of instruction required under <cite path="10|32|08|.06|E.|(2)">§E(2) of this regulation</cite>, at least 40 hours of instruction shall be in the following content areas:</text>
+          <para>
+            <num>(i)</num>
+            <text>Theory and application of dry needling;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Dry needling technique, including spine and extremities;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Dry needling indications and contraindications;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Infection control, the Occupational Safety and Health Administration’s Bloodborne Pathogen Protocol, and safe handling of needles;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Emergency preparedness and response procedures related to complications associated with dry needling; and</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Appropriate documentation of dry needling.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Of the 80 hours of instruction required under <cite path="10|32|08|.06|E.|(2)">§E(2) of this regulation</cite>, at least 40 hours shall be practical, hands-on instruction in the application and technique of dry needling that is completed under the guidance of a licensed health care practitioner who:</text>
+          <para>
+            <num>(i)</num>
+            <text>Is approved to perform dry needling; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Has practiced dry needling for at least 5 years.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The instruction required under <cite path="10|32|08|.06|E.">§E of this regulation</cite> shall include an assessment of the licensed athletic trainer’s competency to perform dry needling that is performed by the instructor of the approved course.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-212-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|32|08|.07">
     <prefix>Regulation</prefix>
@@ -1153,11 +1269,15 @@
       </para>
       <para>
         <num>(27)</num>
-        <text>Fails to practice under the supervision of a physician or violates the approved evaluation and treatment protocol; or</text>
+        <text>Fails to practice under the supervision of a physician or violates the approved evaluation and treatment protocol;</text>
       </para>
       <para>
         <num>(28)</num>
-        <text>Violates an order of the Board, including any condition of probation.</text>
+        <text>Violates an order of the Board, including any condition of probation; or</text>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text>Performs dry needling without the approval of the Board issued under <cite path="|10|32|08|.06|E.">Regulation .06E of this chapter</cite>.</text>
       </para>
     </para>
     <para>
@@ -1172,7 +1292,9 @@
         <text>After completion of the appellate process, if the conviction has not been reversed or the plea has not been set aside with respect to a crime involving moral turpitude, the Board shall order the revocation of a license on the certification by the Office of the Attorney General.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-212-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1547,7 +1669,7 @@
               <td data-text-align="center">$1,000</td>
             </tr>
             <tr>
-              <td>(4) Incompetence.<br/>    (a) Is professionally incompetent;</td>
+              <td>(4) Incompetence.<br/>(a) Is professionally incompetent;</td>
               <td data-text-align="center">Revocation</td>
               <td data-text-align="center">Suspension until professional incompetence is addressed to the Board’s satisfaction</td>
               <td data-text-align="center">$5,000</td>
@@ -1582,7 +1704,7 @@
               <td data-text-align="center">0</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">(8) Provides professional services while:<br/>    (a) Under the influence of alcohol; or<br/>    (b) Using any narcotic or controlled dangerous substance as defined in <cite doc="Md. Code" path="gcr|5">Criminal Law Article, §5</cite>–101, Annotated Code of Maryland, or any other drug that is in excess of therapeutic amounts or without valid medical indication</td>
+              <td data-vertical-align="middle">(8) Provides professional services while:<br/>(a) Under the influence of alcohol; or<br/>(b) Using any narcotic or controlled dangerous substance as defined in <cite doc="Md. Code" path="gcr|5">Criminal Law Article, §5</cite>–101, Annotated Code of Maryland, or any other drug that is in excess of therapeutic amounts or without valid medical indication</td>
               <td data-text-align="center">Revocation</td>
               <td data-text-align="center">Suspension until professional is in treatment and abstinent for 6 months</td>
               <td data-text-align="center">$5,000</td>
@@ -1666,7 +1788,7 @@
               <td data-text-align="center">$500</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">(20) Has been subject to investigation or disciplinary action by a licensing or disciplinary authority or by a court of any state or country for an act that would be grounds for disciplinary action under the Board’s disciplinary statutes; and the licensed individual:<br/>    (a) Surrendered the license issued by the state or country; or<br/>    (b) Allowed the license issued by the state or country to expire or lapse</td>
+              <td data-vertical-align="middle">(20) Has been subject to investigation or disciplinary action by a licensing or disciplinary authority or by a court of any state or country for an act that would be grounds for disciplinary action under the Board’s disciplinary statutes; and the licensed individual:<br/>(a) Surrendered the license issued by the state or country; or<br/>(b) Allowed the license issued by the state or country to expire or lapse</td>
               <td data-text-align="center">Penalty comparable to what the Board imposes under equivalent Maryland ground for discipline</td>
               <td data-text-align="center">Penalty equivalent to that imposed by original licensing authority if this is less than the Board sanction would be</td>
               <td data-text-align="center">Fine comparable to what the Board imposes under equivalent Maryland ground for discipline</td>
@@ -1728,17 +1850,40 @@
               <td data-text-align="center">$5,000</td>
               <td data-text-align="center">$2,500</td>
             </tr>
+            <tr>
+              <td>(29) Failure to complete required criminal history records check</td>
+              <td data-text-align="center">Revocation</td>
+              <td data-text-align="center">Reprimand</td>
+              <td data-text-align="center">$5,000</td>
+              <td data-text-align="center">$500</td>
+            </tr>
+            <tr>
+              <td>(30) Performs dry needling without approval from the board</td>
+              <td data-text-align="center">Revocation</td>
+              <td data-text-align="center">Reprimand</td>
+              <td data-text-align="center">$5,000</td>
+              <td data-text-align="center">$2,500</td>
+            </tr>
           </tbody>
         </table>
       </text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-212-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-213">1-213</cite>, <cite doc="Md. Code" path="gho|1-606">1-606</cite>, <cite doc="Md. Code" path="gho|14-205">14-205</cite> and <cite doc="Md. Code" path="gho|14-5">14-5</cite>D-01—14-5D-20, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-07-22">Effective date: July 22, 2013 (40:14 Md. R. 1176)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|10|32|08|.01|A.">Regulation .01A</cite> amended effective January 19, 2026 (53:1 Md. R. 21)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|10|32|08|.02|B.">Regulation .02B</cite> amended effective January 19, 2026 (53:1 Md. R. 21)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|10|32|08|.05|C.">Regulation .05C</cite>, D amended effective January 19, 2026 (53:1 Md. R. 21)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-15"><cite path="|10|32|08|.06|A.">Regulation .06A</cite> amended effective August 15, 2016 (43:16 Md. R. 900)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-07-31"><cite path="|10|32|08|.06|B.">Regulation .06B</cite> amended effective July 31, 2017 (44:15 Md. R. 760)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|10|32|08|.06|E.">Regulation .06E</cite> adopted effective January 19, 2026 (53:1 Md. R. 21)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-01-02"><cite path="|10|32|08|.07">Regulation .07</cite> amended effective January 2, 2017 (43:26 Md. R. 1446)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|10|32|08|.09|A.">Regulation .09A</cite> amended effective January 19, 2026 (53:1 Md. R. 21)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|10|32|08|.12|B.">Regulation .12B</cite> amended effective January 19, 2026 (53:1 Md. R. 21)</annotation>
+    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-212-F" type="History" display="false"/>
   </annotations>
 </container>

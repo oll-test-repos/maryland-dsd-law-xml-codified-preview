@@ -178,22 +178,44 @@
       <text>Unless an individual possesses a valid and appropriate health occupation license issued by the Maryland Department of Health:</text>
       <para>
         <num>(1)</num>
-        <text>The use of lasers, microdermabrasion equipment, or any other mechanical device used to remove one or more layers of skin; and</text>
+        <text>The use of lasers, microdermabrasion equipment, or any other mechanical device used to remove one or more layers of skin;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The use of any product or method that causes tissue destruction or penetrates the blood fluid barrier, including:</text>
+        <text>The use of any product or method that causes tissue destruction or penetrates the blood fluid barrier;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Chemical peels that penetrate the skin beyond the epidermis;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Mechanical tissue alteration, including, but not limited to:</text>
         <para>
           <num>(a)</num>
-          <text>Chemical peels; and</text>
+          <text>Microdermabrasion; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Glycolic acids.</text>
+          <text>Electrotherapy;</text>
         </para>
       </para>
+      <para>
+        <num>(5)</num>
+        <text>Contouring or sculpting using cryotherapy, radio frequency, or liposuction;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Any procedure causing ablation of the dermis or hypodermis; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Any form of skin injections.</text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="09|22|02|.04">
     <prefix>Regulation</prefix>
@@ -382,7 +404,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Blood lancets shall be wrapped and discarded immediately after use.</text>
+        <text>Extraction lancets shall be cleaned and disinfected immediately after each use.</text>
       </para>
       <para>
         <num>(7)</num>
@@ -393,15 +415,33 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Changed every 1 to 2 hours, or immediately upon becoming dirty, cloudy, or contaminated with blood.</text>
+          <text>Changed after each use.</text>
         </para>
       </para>
       <para>
         <num>(8)</num>
         <text>Nondisposable drapings shall be laundered after each client.</text>
       </para>
+      <para>
+        <num>(9)</num>
+        <text>Microneedling.</text>
+        <para>
+          <num>(a)</num>
+          <text>New needles must be used for each client.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Needles must be discarded into a sharps container.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Reusable equipment must be cleaned and disinfected after each client.</text>
+        </para>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="09|22|02|.06">
     <prefix>Regulation</prefix>
@@ -564,6 +604,58 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.07</num>
+    <heading>Sanitation Requirements—Eyelash Extensions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In addition to the sanitation requirements in <cite path="|09|22|02|.04">Regulation .04 of this chapter</cite>, all establishments offering the services normally performed by eyelash extension technicians shall comply with the requirements of this regulation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Sanitation Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>If linens are used, clean linens must be used for each client.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Hands must be washed immediately before and after serving each client.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Chairs and beds, including headrests, must be cleaned and disinfected after providing services to each client. Chairs and beds must be made of or covered in a non-porous material that can be disinfected.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Adhesive palettes must be disposed of after each use.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>When a container of adhesive used for eyelash extensions is first opened, it must be labeled with the date of opening, and such containers must be disposed of within 30 days of opening.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Premade fans must not be reused.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Disposable tools must not be reused.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Gel pads and tape used to secure lower lashes must be disposed of after each use.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Tape used must be medical grade.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
     <heading>Citations to Beauty Salons.</heading>
     <text>Unless otherwise indicated, the following civil penalties are applicable to the following violations of the laws and regulations of the Board of Cosmetologists discovered by a Board inspector during an inspection of a beauty salon:</text>
     <para>
@@ -620,249 +712,11 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Sanitation:</text>
-      <para>
-        <num>(1)</num>
-        <text>Improper disinfection:</text>
-        <para>
-          <num>(a)</num>
-          <text>Failure to wash implements before disinfection — $150;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Failure to properly disinfect implements, bowls, basins, or other areas — $150;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Failure to properly store disinfected implements — $150;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Failure to keep clean disinfectant on esthetician tray or nail technician table — $150;</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Improper procedures for cut or blood-related incidents — formal hearing;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Other:</text>
-        <para>
-          <num>(a)</num>
-          <text>Poor lighting, heating, or ventilation — $50;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Unclean walls, curtains, or floor coverings — $50;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Absence of hot or cold running water — $50;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Presence of rodents or insects — $50;</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Use of salon (shop) for sleeping or living — $100;</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>Failure to promptly remove hair or debris — $50;</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>Unsanitary restroom — $50;</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>No soap dispenser and disposable towels — $50;</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>Unclean operator's garments — $50;</text>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>Failure to wash hands before each client — $50;</text>
-        </para>
-        <para>
-          <num>(k)</num>
-          <text>No wet sanitizer at station — $50;</text>
-        </para>
-        <para>
-          <num>(l)</num>
-          <text>No closed drawer or cabinet for disinfected implements at station — $100;</text>
-        </para>
-        <para>
-          <num>(m)</num>
-          <text>Use of neck duster, powder puff, sponge, septic pencil, or lump alum on more than one client — $100;</text>
-        </para>
-        <para>
-          <num>(n)</num>
-          <text>Improper application, removal, or discarding of lotions, oils, and other liquids — $100;</text>
-        </para>
-        <para>
-          <num>(o)</num>
-          <text>Improper application of creams — $100;</text>
-        </para>
-        <para>
-          <num>(p)</num>
-          <text>Improper maintenance of lotions, oils, and other liquids — $100;</text>
-        </para>
-        <para>
-          <num>(q)</num>
-          <text>Failure to properly cover head, foot rest, or manicuring cushion — $100;</text>
-        </para>
-        <para>
-          <num>(r)</num>
-          <text>Improper storage or disposal of towels — $50;</text>
-        </para>
-        <para>
-          <num>(s)</num>
-          <text>Improper sanitation of pressing combs or curling irons — $100;</text>
-        </para>
-        <para>
-          <num>(t)</num>
-          <text>Insufficient number of combs or brushes — $50;</text>
-        </para>
-        <para>
-          <num>(u)</num>
-          <text>Failure to use protective neck strip — $50;</text>
-        </para>
-        <para>
-          <num>(v)</num>
-          <text>Improperly washed or sanitized shampoo bowl — $50;</text>
-        </para>
-        <para>
-          <num>(w)</num>
-          <text>Improper cleansing or sanitation of retention rods — $100;</text>
-        </para>
-        <para>
-          <num>(x)</num>
-          <text>Failure to remove soiled items from top of work station after use — $50;</text>
-        </para>
-        <para>
-          <num>(y)</num>
-          <text>Placement of pins or clips in mouth — $50;</text>
-        </para>
-        <para>
-          <num>(z)</num>
-          <text>Use of implements dropped on floor without cleaning and disinfecting — $100;</text>
-        </para>
-        <para>
-          <num>(aa)</num>
-          <text>Failure to sharpen lip or eyebrow pencil after each use — $100;</text>
-        </para>
-        <para>
-          <num>(bb)</num>
-          <text>Failure to discard disposable implement or cosmetic after use — $100;</text>
-        </para>
-        <para>
-          <num>(cc)</num>
-          <text>Use of hair removal wax for more than one client — $300;</text>
-        </para>
-        <para>
-          <num>(dd)</num>
-          <text>Failure to launder nondisposable draping after each client — $50;</text>
-        </para>
-        <para>
-          <num>(ee)</num>
-          <text>Unsanitary manicuring table or surrounding area — $100;</text>
-        </para>
-        <para>
-          <num>(ff)</num>
-          <text>Improper paraffin wax procedures — $100;</text>
-        </para>
-        <para>
-          <num>(gg)</num>
-          <text>Improper use of electric files, bits, or sanding bands — $100;</text>
-        </para>
-        <para>
-          <num>(hh)</num>
-          <text>Improper procedures when working on acrylic nails — $100;</text>
-        </para>
-      </para>
+      <text>Sanitation, unauthorized services, prohibited practices, and interference with inspector. The civil penalties applicable to licensees under <cite path="09.22.01.17|C.">COMAR 09.22.01.17C</cite>-F apply to beauty salons.</text>
     </para>
-    <para>
-      <num>E.</num>
-      <text>Unauthorized services:</text>
-      <para>
-        <num>(1)</num>
-        <text>Massage — $300;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Microdermabrasion — formal hearing;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Lasers — formal hearing;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Glycolic acid — formal hearing;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Chemical peels — formal hearing;</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Practice causing tissue destruction or penetration to the blood fluid barrier — formal hearing;</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>Credo blade — $300;</text>
-      </para>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>Prohibited practices:</text>
-      <para>
-        <num>(1)</num>
-        <text>Services on client with infectious or contagious disease — formal hearing;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Operator with infectious or contagious disease performing services — formal hearing;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Services on inflamed skin or scalp without physician authorization — formal hearing;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Removal of corns, calluses, or other growths of skin by cutting — $300;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Use of electrical muscle stimulator devices — $300;</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Cosmetic tattooing — formal hearing;</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>Presence of an animal other than a designated service animal — $100;</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>Sale of used hairpieces — $300;</text>
-      </para>
-      <para>
-        <num>(9)</num>
-        <text>Methyl methacrylate liquid monomer (MMA) — formal hearing;</text>
-      </para>
-    </para>
-    <para>
-      <num>G.</num>
-      <text>Interference with inspector — formal hearing.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Business Occupations and Professions Article, Title 5, Annotated Code of Maryland</annotation>
@@ -952,13 +806,17 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-04-06"><cite path="|09|22|02|.02|B.">Regulation .02B</cite>, C amended effective April 6, 1998 (25:7 Md. R. 526)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-23"><cite path="|09|22|02|.03|G.">Regulation .03G</cite> amended effective March 23, 2020 (47:6 Md. R. 341)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-09-12"><cite path="|09|22|02|.03|H.">Regulation .03H</cite> amended and I—K adopted effective September 12, 2005 (32:18 Md. R. 1519)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|09|22|02|.03|J.">Regulation .03J</cite> amended effective March 2, 2026 (53:4 Md. R. 184)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-05-02"><cite path="|09|22|02|.03|J.">Regulation .03J</cite>, K amended effective May 2, 2011 (38:9 Md. R. 552)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-04-29"><cite path="|09|22|02|.04|B.">Regulation .04B</cite> amended effective April 6, 1998 (25:7 Md. R. 526); April 29, 2002 (29:8 Md. R. 699)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-04-29"><cite path="|09|22|02|.05|B.">Regulation .05B</cite> amended effective April 29, 2002 (29:8 Md. R. 699)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|09|22|02|.05|B.">Regulation .05B</cite> amended effective April 29, 2002 (29:8 Md. R. 699); March 2, 2026 (53:4 Md. R. 184)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-09-04"><cite path="|09|22|02|.06">Regulation .06</cite> amended effective September 4, 2000 (27:17 Md. R. 1618)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-03-09"><cite path="|09|22|02|.06|B.">Regulation .06B</cite> amended effective March 9, 1998 (25:5 Md. R. 368)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-04-29"><cite path="|09|22|02|.06">Regulation .06</cite> repealed and new Regulation .06 adopted effective April 29, 2002 (29:8 Md. R. 699)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-07-31"><cite path="|09|22|02|.07">Regulation .07</cite> adopted effective July 31, 2006 (33:15 Md. R. 1280)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-23"><cite path="|09|22|02|.07|F.">Regulation .07F</cite> amended effective March 23, 2020 (47:6 Md. R. 341)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|09|22|02|.07">Regulation .07</cite> adopted effective March 2, 2026 (53:4 Md. R. 184)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|09|22|02|.08">Regulation .08</cite> recodified from Regulation .07 and amended effective March 2, 2026 (53:4 Md. R. 184)</annotation>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
   </annotations>
 </container>

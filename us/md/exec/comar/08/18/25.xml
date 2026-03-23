@@ -174,7 +174,7 @@
     </para>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="08|18|25|.04">
     <prefix>Regulation</prefix>
     <num>.04</num>
     <heading>South River North Shore.</heading>
@@ -244,7 +244,15 @@
     </para>
     <para>
       <num>H.</num>
-      <text>Duvall Creek encompasses the area north of a line beginning at a point at or near Lat. 38° 55.733' N., Long. 76° 29.238' W., then running 115° (True) to a point at or near Lat. 38° 55.673' N., Long. 76° 29.073' W., and running to the head of the creek. This area has a 6-knot speed limit, during the boating season.</text>
+      <text>Duvall Creek.</text>
+      <para>
+        <num>(1)</num>
+        <text>Area. All of the waters north of a line beginning at a point at or near Lat. 38° 55.652' N., Long. 76° 29.425' W., then running 116° True to a point at or near Lat. 38° 55.542' N., Long. 76° 29.140' W.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The speed limit for the area described in <cite path="08|18|25|.04|H.|(1)">§H(1) of this regulation</cite> is 6 knots during the boating season.</text>
+      </para>
     </para>
     <para>
       <num>I.</num>
@@ -262,7 +270,9 @@
       <num>L.</num>
       <text>Little Aberdeen Creek encompasses the area upstream of a line beginning at a point at or near Lat. 38° 56.773' N., Long. 76° 31.740' W., then running 111° (True) to a point, at or near Lat. 38° 56.747' N., Long. 76° 31.652' W., and running to the head of the creek. This area has a 6-knot speed limit, during the boating season.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-246-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|8-703">8-703</cite> and <cite doc="Md. Code" path="gnr|8-704">8-704</cite>, Annotated Code of Maryland</annotation>
@@ -276,7 +286,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-06-24"><cite path="|08|18|25|.03">Regulation .03</cite> amended effective June 24, 2013 (40:12 Md. R. 1041)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-02-01"><cite path="|08|18|25|.03|B.">Regulation .03B</cite> amended effective February 1, 1993 (20:2 Md. R. 112)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-06-24"><cite path="|08|18|25|.04">Regulation .04</cite> amended effective June 24, 2013 (40:12 Md. R. 1041)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|08|18|25|.04|H.">Regulation .04H</cite> amended effective February 16, 2026 (53:3 Md. R. 121)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-28"><cite path="|08|18|25|.05">Regulation .05</cite> repealed effective March 28, 2016 (43:6 Md. R. 406)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-06-24"><cite path="|08|18|25|.05|B.">Regulation .05B</cite>, C amended effective June 24, 2013 (40:12 Md. R. 1041)</annotation>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-246-F" type="History" display="false"/>
   </annotations>
 </container>

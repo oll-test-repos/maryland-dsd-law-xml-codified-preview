@@ -84,7 +84,7 @@
         <num>(3)</num>
         <text>A person who in any 2-year period accumulates the number of points provided below shall be penalized in accordance with the following schedule:</text>
         <text>
-          <table class="layout-table">
+          <table>
             <thead>
               <tr>
                 <th>Number of Points Accumulated <br/>in Any 2-Year Period</th>
@@ -3389,11 +3389,11 @@
     </para>
     <para>
       <num>G.</num>
-      <text>The "Number of Late Reports" described in <cite path="08|02|13|.06|F.">§F of this regulation</cite> means the number of late reports the Department has recorded for each individual report required by <cite path="08|02|13|.06|C.">§C of this regulation</cite> in any 12-month period.</text>
+      <text>The “Number of Late Reports” described in <cite path="08|02|13|.06|F.">§F of this regulation</cite> means the number of late reports the Department has recorded for each individual report required by <cite path="08|02|13|.06|C.">§C of this regulation</cite> in any 12-month period.</text>
     </para>
     <para>
       <num>H.</num>
-      <text>The "Number of Late Reports" described in <cite path="08|02|13|.06|F.">§F of this regulation</cite> does not mean the total number of late reports the Department has recorded for all reports required by <cite path="08|02|13|.06|C.">§C of this regulation</cite>.</text>
+      <text>The “Number of Late Reports” described in <cite path="08|02|13|.06|F.">§F of this regulation</cite> does not mean the total number of late reports the Department has recorded for all reports required by <cite path="08|02|13|.06|C.">§C of this regulation</cite>.</text>
     </para>
     <para>
       <num>I.</num>
@@ -3407,7 +3407,9 @@
       <num>K.</num>
       <text>Before the Department imposes a suspension or revocation under this regulation, an individual is entitled to a contested case hearing upon request in accordance with <cite doc="Md. Code" path="gnr|4-701">Natural Resources Article, §4-701, Annotated Code of Maryland</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-15" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-044-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="08|02|13|.07">
     <prefix>Regulation</prefix>
@@ -6163,5 +6165,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-11-10"><cite path="|08|02|13|.10">Regulation .10</cite> adopted effective November 10, 2014 (41:22 Md. R. 1318)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-06-26"><cite path="|08|02|13|.10|F.">Regulation .10F</cite> amended effective June 26, 2023 (50:12 Md. R. 475)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-23"><cite path="|08|02|13|.10|F.">Regulation .10F</cite>, J amended effective March 23, 2020 (47:6 Md. R. 340)</annotation>
+    <annotation app="2026-07-15" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-044-F" type="History" display="false"/>
   </annotations>
 </container>

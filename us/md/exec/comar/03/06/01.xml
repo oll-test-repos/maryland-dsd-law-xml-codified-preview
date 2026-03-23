@@ -20,7 +20,31 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>A person providing taxable services shall pay tax on purchases of materials, supplies, tools, equipment, and digital codes or digital products used by the person but may issue a resale certificate for the purchase of tangible personal property, digital codes, or digital products transferred as part of a taxable service and taxable services resold in unchanged form. For example, a janitorial company may purchase paper towels tax-free by issuing a resale certificate if those towels are used to stock the bathroom of a customer receiving taxable cleaning services. The janitorial company shall pay tax on its purchase of cleaning agents which the janitorial company uses to clean the bathroom of a customer receiving taxable cleaning services.</text>
+        <text>A person providing taxable services shall pay tax on purchases of materials, supplies, tools, equipment, digital codes, digital products, and taxable services used by the person.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A person providing taxable services may, however, issue a resale certificate for the purchase of:</text>
+        <para>
+          <num>(a)</num>
+          <text>Tangible personal property, digital codes, or digital products transferred as part of a taxable service if the person has not used the tangible personal property, digital codes, or digital products and the tangible personal property, digital codes, or digital products are resold in unchanged form; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Taxable services that the person has not used and that are resold in unchanged form.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Examples.</text>
+        <para>
+          <num>(a)</num>
+          <text>A janitorial company may purchase paper towels tax-free by issuing a resale certificate if those towels are used to stock the bathroom of a customer receiving taxable cleaning services. The janitorial company shall pay tax on its purchase of cleaning agents which the janitorial company uses to clean the bathroom of a customer receiving taxable cleaning services.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A web hosting company may rent server space from a cloud storage company tax-free by issuing a resale certificate if the server space is used to provide cloud storage for a customer purchasing web hosting services and the web hosting company has made or makes no use of the server space being resold.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -28,14 +52,24 @@
       <text>Sales.</text>
       <para>
         <num>(1)</num>
-        <text>If a person providing services also makes independent sales of tangible personal property, digital codes, or digital products, that person shall collect and remit the sales and use tax on those sales unless a specific statutory exemption applies.</text>
+        <text>If a person providing personal, professional, or insurance services also makes independent sales of tangible personal property, digital codes, digital products, or taxable services, that person shall collect and remit the sales and use tax on those sales unless a specific statutory exemption applies.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Examples of sales subject to tax are sales of packaged cosmetics, hair tonics, and lotions by barbers and beauticians.</text>
+        <text>Examples of sales subject to tax are sales of:</text>
+        <para>
+          <num>(a)</num>
+          <text>Packaged cosmetics, hair tonics, and lotions sold by barbers and beauticians.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A web design service by a graphic design company that is sold independently from the sale of a nontaxable logo design service.</text>
+        </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -62,13 +96,13 @@
   <section cache:ref-path="03|06|01|.03">
     <prefix>Regulation</prefix>
     <num>.03</num>
-    <heading>Repairs of Tangible Personal Property, Digital Codes, and Digital Products.</heading>
+    <heading>Repairs of Tangible Personal Property, Digital Codes, Digital Products, and Taxable Services.</heading>
     <para>
       <num>A.</num>
       <text>General.</text>
       <para>
         <num>(1)</num>
-        <text>The charge for labor to repair or alter existing tangible personal property, a digital code, or a digital product belonging to another for the purpose of restoring the property, digital code, or digital product to its original condition or usefulness is not subject to tax.</text>
+        <text>The charge for labor to repair or alter existing tangible personal property, a digital code, or a digital product belonging to another for the purpose of restoring the property, digital code, or digital product to its original condition or usefulness is not subject to tax, unless the labor constitutes a taxable service described in Tax General Article, §11–101(m), Annotated Code of Maryland.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -77,14 +111,14 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Persons engaged in repairing tangible personal property, digital codes, or digital products of others for a consideration may handle the sales and use tax on their transactions in either of the following ways:</text>
+      <text>Persons engaged in repairing tangible personal property, digital codes, digital products, or taxable services of others for a consideration may handle the sales and use tax on their transactions in either of the following ways:</text>
       <para>
         <num>(1)</num>
-        <text>If separate charges are made for materials incorporated in the property, digital code, or digital product being repaired, the tax shall be applied to the charges for the materials. The resale exclusion may be claimed on purchases of materials transferred to customers under these circumstances.</text>
+        <text>If separate charges are made for materials incorporated in the property, digital code, digital product, or taxable service being repaired, the tax shall be applied to the charges for the materials. The resale exclusion may be claimed on purchases of materials transferred to customers under these circumstances, so long as the person transferring the materials made no use of them.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>If separate charges are not made for materials incorporated in the property, digital code, or digital product being repaired, that is, the repair is charged for on a lump-sum basis, the tax may not apply to any portion of the charge to the customer. The resale exclusion may not be claimed on purchases of materials transferred to customers under these circumstances. A person making a repair of tangible personal property, digital code, or digital product who charges for the repair on a lump-sum basis shall pay the tax on purchases of materials used in performing the repair. The taxability of purchases for lump-sum contracts is not affected by the fact that the person for whom the repair work is performed would not have been required to pay the tax on a separately stated charge for materials.</text>
+        <text>If separate charges are not made for materials incorporated in the property, digital code, digital product, or taxable service being repaired, that is, the repair and materials used in repair are charged for on a lump-sum basis, the tax may not apply to any portion of the charge to the customer. The resale exclusion may not be claimed on purchases of materials transferred to customers under these circumstances. A person making a repair of tangible personal property, a digital code, a digital product, or a taxable service who charges for the repair and materials used in repair on a lump-sum basis shall pay the tax on purchases of materials used in performing the repair. The taxability of purchases for lump-sum contracts is not affected by the fact that the person for whom the repair work is performed would not have been required to pay the tax on a separately stated charge for materials.</text>
       </para>
     </para>
     <para>
@@ -92,7 +126,7 @@
       <text>Maintenance Contracts.</text>
       <para>
         <num>(1)</num>
-        <text>The tax does not apply to a charge for a maintenance contract unless it is required to be purchased as a condition of a sale of other tangible personal property, digital code, or digital product.</text>
+        <text>The tax does not apply to a charge for a maintenance contract unless it is required to be purchased as a condition of a sale of other tangible personal property, digital code, digital product, or taxable service.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -109,17 +143,19 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Persons engaged in repairing tangible personal property, digital codes, or digital products shall pay the tax on all purchases of equipment, tools, consumables, and other materials used in performing the repair work which are not transferred to customers, without regard to the method of billing employed.</text>
+      <text>Persons engaged in repairing tangible personal property, digital codes, digital products, or taxable services shall pay the tax on all purchases of equipment, tools, consumables, taxable services, and other materials used in performing the repair work which are not transferred to customers, without regard to the method of billing employed.</text>
     </para>
     <para>
       <num>E.</num>
-      <text>The circumstances under which resale certificates may be issued by persons engaged in repairing tangible personal property, digital codes, or digital products who utilize both separately stated materials and lump-sum charge bases for those repairs are set forth in <cite path="|03|06|01|.07">Regulation .07 of this chapter</cite>.</text>
+      <text>The circumstances under which resale certificates may be issued by persons engaged in repairing tangible personal property, digital codes, digital products, or taxable services who utilize both separately stated materials and lump-sum charge bases for those repairs are set forth in <cite path="|03|06|01|.07">Regulation .07 of this chapter</cite>.</text>
     </para>
     <para>
       <num>F.</num>
       <text>The sales and use tax treatment of repairs to real property is described in <cite path="|03|06|01|.19">Regulation .19 of this chapter</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="03|06|01|.04">
     <prefix>Regulation</prefix>
@@ -137,11 +173,11 @@
         <text>Term Defined — Published Material.</text>
         <para>
           <num>(a)</num>
-          <text>"Published material" means any textual or graphic material disseminated to another person or persons through printed, electronic, or other media.</text>
+          <text>“Published material” means any textual or graphic material disseminated to another person or persons through printed, electronic, or other media.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>"Published material" includes a newspaper, magazine, periodical, chat room discussion, weblog, or any other similar product.</text>
+          <text>“Published material” includes a newspaper, magazine, periodical, chat room discussion, weblog, or any other similar product.</text>
         </para>
       </para>
     </para>
@@ -204,31 +240,31 @@
       <text>In this regulation, the following terms have the meanings indicated:</text>
       <para>
         <num>(1)</num>
-        <text>"Premises" means any building, grounds, parking lot, or other area that a food vendor owns or controls or another person makes available primarily for the use of the patrons of one or more food vendors.</text>
+        <text>“Premises” means any building, grounds, parking lot, or other area that a food vendor owns or controls or another person makes available primarily for the use of the patrons of one or more food vendors.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>"Facilities for food consumption" means items such as tables, chairs, booths, benches, counters, and stands set aside or made available for the consumption of food sold. The term does not include parking spaces for vehicles as the sole accommodation. If, however, any of the above-described equipment is located on a parking lot, this equipment constitutes "facilities for food consumption".</text>
+        <text>“Facilities for food consumption” means items such as tables, chairs, booths, benches, counters, and stands set aside or made available for the consumption of food sold. The term does not include parking spaces for vehicles as the sole accommodation. If, however, any of the above-described equipment is located on a parking lot, this equipment constitutes “facilities for food consumption”.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>"Substantial grocery or market business" means a business at which at least 10 percent of all sales of food are sales of grocery or market food items. Among other things, the sale of food that is of a type normally consumed on the premises of a restaurant, but which is packaged to carry out, does not constitute the sale of "grocery or market food items".</text>
+        <text>“Substantial grocery or market business” means a business at which at least 10 percent of all sales of food are sales of grocery or market food items. Among other things, the sale of food that is of a type normally consumed on the premises of a restaurant, but which is packaged to carry out, does not constitute the sale of “grocery or market food items”.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>"Food concessionaire under contract with the school or college or its designated contract agent" means a person who has been granted the right by a school or college to use school or college premises for the purpose of selling food.</text>
+        <text>“Food concessionaire under contract with the school or college or its designated contract agent” means a person who has been granted the right by a school or college to use school or college premises for the purpose of selling food.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>"Educationally related" means those events where the net proceeds are used for the benefit of the school or college or which provide educational benefit to the participants.</text>
+        <text>“Educationally related” means those events where the net proceeds are used for the benefit of the school or college or which provide educational benefit to the participants.</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>"Crabs" means hard and soft shell crabs, but does not include crab dishes, such as crab cakes and crab soup, which are, instead, "seafood".</text>
+        <text>“Crabs” means hard and soft shell crabs, but does not include crab dishes, such as crab cakes and crab soup, which are, instead, “seafood”.</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>"Food for immediate consumption" means:</text>
+        <text>“Food for immediate consumption” means:</text>
         <para>
           <num>(a)</num>
           <text>Food obtained from a salad, soup, or dessert bar;</text>
@@ -252,42 +288,18 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>"Snack food" means:</text>
+        <text>“Cannabis products” means products that are composed of cannabis, cannabis concentrate, cannabis extract, or other ingredients and are intended for use or consumption, including cannabinoid beverages, edible products, oils, and tinctures.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Food” does not include</text>
         <para>
           <num>(a)</num>
-          <text>Potato chips and sticks;</text>
+          <text>Cannabis as defined in the Alcoholic Beverages and Cannabis Article, §1–101, Annotated Code of Maryland; or</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Corn chips;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Pretzels;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Cheese puffs and curls;</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Pork rinds;</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>Extruded pretzels and chips;</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>Popped popcorn;</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>Nuts and edible seeds; or</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>Snack mixtures that contain one or more of the foods listed in §A(8)(a)—(h) of this regulation.</text>
+          <text>Cannabis products.</text>
         </para>
       </para>
     </para>
@@ -352,14 +364,10 @@
       </para>
       <para>
         <num>(11)</num>
-        <text>Sales of food by a nonprofit food vendor if there are no facilities for food consumption on the premises, unless the food is sold within an enclosure for which a charge is made for admission;</text>
+        <text>Sales of food by a nonprofit food vendor if there are no facilities for food consumption on the premises, unless the food is sold within an enclosure for which a charge is made for admission; or</text>
       </para>
       <para>
         <num>(12)</num>
-        <text>Sales of snack food through a vending machine; or</text>
-      </para>
-      <para>
-        <num>(13)</num>
         <text>Sales of milk, fresh fruit, fresh vegetables, or yogurt through a vending machine.</text>
       </para>
     </para>
@@ -371,7 +379,9 @@
       <num>D.</num>
       <text>The payment by a buyer of food or beverages for human consumption on the premises of the vendor of a separately stated and identified mandatory gratuity or service charge which is in the nature of a tip is not subject to tax if the food or beverages are served to a group of not more than 10 persons. Mandatory gratuities or service charges on sales of food or beverages to a group of more than 10 persons are subject to the tax whether or not separately stated.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -393,32 +403,38 @@
     <heading>Sales Where It Is Impractical to Establish the Amount of Property to Be Resold.</heading>
     <para>
       <num>A.</num>
-      <text>If, at the time of a sale, it is impractical for the buyer to establish the actual amount of the property, digital code, or digital product being purchased which is to be resold, the tax shall be paid on the entire amount of the sale, either if the buyer has reason to believe that a majority of the tangible personal property, digital code, or digital product will not be resold, or if the buyer cannot determine whether or not a majority of the tangible personal property, digital code, or digital product will be resold. If any portion of the property is later resold without having first been used by the buyer, the buyer may apply for a refund of the taxes attributable to this property, digital code, or digital product within 4 years of the date of purchase.</text>
+      <text>Except as provided in <cite path="03|06|01|.07|D.">§D of this regulation</cite>, if at the time of a sale, it is impractical for the buyer to establish the actual amount of the property, digital code, digital product, or taxable service being purchased which is to be resold, the tax shall be paid on the entire amount of the sale, either if the buyer has reason to believe that a majority of the tangible personal property, digital code, digital product, or taxable service will not be resold, or if the buyer cannot determine whether or not a majority of the tangible personal property, taxable service, digital code, or digital product will be resold. If any portion of the property is later resold without having first been used by the buyer, the buyer may apply for a refund of the taxes attributable to this property, digital code, digital product, or taxable service within 4 years of the date of purchase.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>If no tax is paid upon the purchase of tangible personal property, digital codes, or digital products pursuant to <cite path="03|06|01|.07|A.">§A of this regulation</cite>, the buyer shall include the cost of that portion converted to the buyer's personal use as a purchase subject to the sales and use tax on the return to be filed for the period in which the property was converted.</text>
+      <text>If no tax is paid upon the purchase of tangible personal property, digital codes, digital products, or taxable services pursuant to <cite path="03|06|01|.07|A.">§A of this regulation</cite>, the buyer shall include the cost of that portion converted to the buyer's personal use as a purchase subject to the sales and use tax on the return to be filed for the period in which the property was converted.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>The procedure described in §B shall also be followed by any person who purchases tangible personal property, digital codes, or digital products for resale without paying the tax, and who subsequently converts the property to personal use.</text>
+      <text>The procedure described in §B shall also be followed by any person who purchases tangible personal property, digital codes, digital products, or taxable services for resale without paying the tax, and who subsequently converts the property, digital codes, digital products, or taxable services to personal use.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>A buyer who provides a vendor with a multiple points of use certificate which includes a resale to a related entity as provided for in <cite path="|03|06|01|.49">Regulation .49 of this chapter</cite> may not apply for a refund based on a claim that it was impractical at the time of purchase to establish the amount of property to be resold.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="03|06|01|.08">
     <prefix>Regulation</prefix>
     <num>.08</num>
-    <heading>"Taxable Price" Defined.</heading>
+    <heading>“Taxable Price” Defined.</heading>
     <para>
       <num>A.</num>
-      <text>The sales and use tax is computed on the "taxable price" of a transaction subject to the tax. The term "taxable price" is broadly defined by statute to include, with certain specific exceptions, the total consideration for the transaction, which may be either in the form of money, rights, property, promises or anything else of value, or by exchange or barter. The total monetary value of the consideration, that is, of all those things which in fact are, or are promised to be, paid or delivered by or on behalf of the purchaser, to or on behalf of the vendor in the consummation and complete performance of a sale, whether or not the vendor receives any benefit from them, constitutes the "price" on which the tax is to be computed. Deductions are not permitted for any expense or cost, including the cost of any labor or service rendered, any material used or any property sold regardless of how any contract, invoice or other evidence of the transaction is stated or computed, except for those items specifically described in §D, or in Regulation .10 with respect to certain utilities or Regulation .28 with respect to leases.</text>
+      <text>The sales and use tax is computed on the “taxable price” of a transaction subject to the tax. The term “taxable price” is broadly defined by statute to include, with certain specific exceptions, the total consideration for the transaction, which may be either in the form of money, rights, property, promises, or anything else of value, or by exchange or barter. The total monetary value of the consideration, that is, of all those things which in fact are, or are promised to be, paid or delivered by or on behalf of the purchaser, to or on behalf of the vendor in the consummation and complete performance of a sale, whether or not the vendor receives any benefit from them, constitutes the “price” on which the tax is to be computed. Deductions are not permitted for any expense or cost, including the cost of any labor or service rendered, any material used or any property, digital code, or digital product sold regardless of how any contract, invoice or other evidence of the transaction is stated or computed, except for those items specifically described in §D, or in Regulation .10 with respect to certain utilities or Regulation .28 with respect to leases.</text>
     </para>
     <para>
       <num>B.</num>
       <text>Components of Taxable Price—Examples.</text>
       <para>
         <num>(1)</num>
-        <text>The following illustrate some items which might appear as a separate amount in the vendor's computation of a bill that nevertheless are a part of the "taxable price", and which therefore may not be deducted before computation of the tax:</text>
+        <text>The following illustrate some items which might appear as a separate amount in the vendor's computation of a bill that nevertheless are a part of the “taxable price”, and which therefore may not be deducted before computation of the tax:</text>
         <para>
           <num>(a)</num>
           <text>Any charges for any services to bring the subject of a sale to its finished state ready for delivery and in the condition specified by the buyer, including charges for assembly, fabrication, alteration, lubrication, engraving, monogramming, cleaning, or any other servicing, customizing or dealer preparation.</text>
@@ -441,11 +457,11 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>Any charges for warranties, maintenance or service agreements, or insurance coverage required by the vendor to be taken as a condition of the sale. If the sale could be consummated without the payment of these charges, the charges are not part of the taxable price if separately stated. For example, if the lessee of an automobile who has a contractual obligation to return the automobile undamaged may elect to purchase insurance protecting the lessee against the possibility of having to pay for damages, but need not purchase this insurance in order to lease the vehicle, a separately stated charge for this insurance is not part of the taxable price.</text>
+          <text>Any charges for warranties, maintenance or service agreements, or insurance coverage required by the vendor to be taken as a condition of the sale. If the sale could be consummated without the payment of these charges, the charges, unless for a taxable service as described in <cite doc="Md. Code" path="gtg|11-101">Tax-General Article, §11-101(m), Annotated Code of Maryland</cite>, are not part of the taxable price if separately stated. For example, if the lessee of an automobile who has a contractual obligation to return the automobile undamaged may elect to purchase insurance protecting the lessee against the possibility of having to pay for damages, but need not purchase this insurance in order to lease the vehicle, a separately stated charge for this insurance is not part of the taxable price.</text>
         </para>
         <para>
           <num>(g)</num>
-          <text>Any portion of the price described as a "donation", when the donation is in fact required by the vendor as a condition of the sale.</text>
+          <text>Any portion of the price described as a “donation”, when the donation is in fact required by the vendor as a condition of the sale.</text>
         </para>
         <para>
           <num>(h)</num>
@@ -454,10 +470,10 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The following illustrate some forms of consideration which might be tendered by or on behalf of the buyer, the values of which are a part of the "taxable price" and which therefore may not be deducted before computation of the tax:</text>
+        <text>The following illustrate some forms of consideration that might be tendered by or on behalf of the buyer, the values of which are a part of the “taxable price” and therefore may not be deducted before computation of the tax:</text>
         <para>
           <num>(a)</num>
-          <text>The transfer, whether in the nature of a "trade-in", return, exchange, or otherwise, of anything to the vendor, regardless of whether the buyer may have paid any tax on acquisition of the item transferred or whether, in the case of a return or exchange, the buyer may be entitled to any refund of tax previously paid.</text>
+          <text>The transfer, whether in the nature of a “trade-in”, return, exchange, or otherwise, of anything to the vendor, regardless of whether the buyer may have paid any tax on acquisition of the item or service transferred or whether, in the case of a return or exchange, the buyer may be entitled to any refund of tax previously paid.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -475,18 +491,18 @@
     </para>
     <para>
       <num>C.</num>
-      <text>"Taxable price" includes, for a short-term vehicle rental as defined under <cite doc="Md. Code" path="gtg|11-104">Tax-General Article, §11-104(c), Annotated Code of Maryland</cite>, all sales and charges made in connection with the short-term vehicle rental, including insurance, freight handling, equipment and supplies, delivery and pickup, cellular telephone, and other accessories, but not including sales of motor fuel subject to the motor fuel tax.</text>
+      <text>“Taxable price” includes, for a short-term vehicle rental as defined under <cite doc="Md. Code" path="gtg|11-104">Tax-General Article, §11-104(c), Annotated Code of Maryland</cite>, all sales and charges made in connection with the short-term vehicle rental, including insurance, freight handling, equipment and supplies, delivery and pickup, cellular telephone, and other accessories, but not including sales of motor fuel subject to the motor fuel tax.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>Each of the following items, if made in connection with the sale and clearly identified with the consideration stated separately from any other item by documentary evidence in existence and made known to the buyer at the time of sale, is not a part of the "taxable price" and is therefore deductible from the total consideration before computation of the tax:</text>
+      <text>Each of the following items, if made in connection with the sale and clearly identified with the consideration stated separately from any other item by documentary evidence in existence and made known to the buyer at the time of sale, is not a part of the “taxable price” and is therefore deductible from the total consideration before computation of the tax:</text>
       <para>
         <num>(1)</num>
         <text>A charge for labor or service used for application or installation, so long as the charge does not include any amounts described in <cite path="03|06|01|.08|B.">§B of this regulation</cite>, and in particular §B(1)(a), or any other fabrication.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>A charge for a professional service.</text>
+        <text>A charge for a professional service, except for a taxable service.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -522,7 +538,7 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>Any amount paid by a buyer of food or beverages for human consumption on the premises of the vendor as a mandatory gratuity or service charge which is in the nature of a tip, if the food or beverages are served to a group of not more than 10 persons. Mandatory gratuities or service charges on sales of food or beverages to a group of more than 10 persons are part of the "taxable price" whether or not separately stated, and therefore may not be deducted before computation of the tax.</text>
+        <text>Any amount paid by a buyer of food or beverages for human consumption on the premises of the vendor as a mandatory gratuity or service charge which is in the nature of a tip, if the food or beverages are served to a group of not more than 10 persons. Mandatory gratuities or service charges on sales of food or beverages to a group of more than 10 persons are part of the “taxable price” whether or not separately stated, and therefore may not be deducted before computation of the tax.</text>
       </para>
       <para>
         <num>(9)</num>
@@ -549,7 +565,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="03|06|01|.09">
     <prefix>Regulation</prefix>
@@ -567,7 +585,7 @@
         <text>Medical Equipment.</text>
         <para>
           <num>(a)</num>
-          <text>"Medical equipment" means equipment that:</text>
+          <text>“Medical equipment” means equipment that:</text>
           <para>
             <num>(i)</num>
             <text>Can withstand repeated use;</text>
@@ -587,7 +605,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>"Medical equipment" includes, but is not limited to, the following items:</text>
+          <text>“Medical equipment” includes, but is not limited to, the following items:</text>
           <para>
             <num>(i)</num>
             <text>Overbed table;</text>
@@ -643,7 +661,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>"Medical equipment" does not include:</text>
+          <text>“Medical equipment” does not include:</text>
           <para>
             <num>(i)</num>
             <text>Lift chairs;</text>
@@ -699,24 +717,24 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>"For use in the home" includes a nursing home or other assisted care facility, but only to the extent that the equipment remains in the room in which the patient sleeps and is used regularly and exclusively by the patient in that room. Equipment that is used generally for patients throughout the nursing home or other assisted care facility is not considered to be for use in the home. Thus, equipment used in examination, treatment, operating, delivery, and therapy rooms or moved from patient room to patient room in a nursing home or other assisted care facility is not exempt.</text>
+          <text>“For use in the home” includes a nursing home or other assisted care facility, but only to the extent that the equipment remains in the room in which the patient sleeps and is used regularly and exclusively by the patient in that room. Equipment that is used generally for patients throughout the nursing home or other assisted care facility is not considered to be for use in the home. Thus, equipment used in examination, treatment, operating, delivery, and therapy rooms or moved from patient room to patient room in a nursing home or other assisted care facility is not exempt.</text>
         </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>"Medical supplies" means an article used in the cure, mitigation, treatment, prevention, or diagnosis of illnesses. Disposable medical supplies are medical or surgical supplies consumed in a single usage and do not include skin care creams or cleansers. Medical supplies do not include nondisposable surgical supplies, or medical or surgical equipment.</text>
+        <text>“Medical supplies” means an article used in the cure, mitigation, treatment, prevention, or diagnosis of illnesses. Disposable medical supplies are medical or surgical supplies consumed in a single usage and do not include skin care creams or cleansers. Medical supplies do not include nondisposable surgical supplies, or medical or surgical equipment.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>"Medicine" means a preparation or substance intended for use in the cure, mitigation, treatment, or prevention of illnesses. The term includes drugs sold on prescription of physicians, drugs for which no prescription is required, and proprietary and patent medicines. The term does not include cosmetics, dentifrices, shaving and hair care products, soaps, deodorants, or skin care creams or cleansers. A product that is primarily cosmetic in nature is not "medicine" even though it may contain medicinal properties.</text>
+        <text>“Medicine” means a preparation or substance intended for use in the cure, mitigation, treatment, or prevention of illnesses. The term includes drugs sold on prescription of physicians, drugs for which no prescription is required, and proprietary and patent medicines. The term does not include cosmetics, dentifrices, shaving and hair care products, soaps, deodorants, or skin care creams or cleansers. A product that is primarily cosmetic in nature is not “medicine” even though it may contain medicinal properties.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>"Sickroom equipment" means "medical equipment" as defined in <cite path="03|06|01|.09|B.|(1)">§B(1) of this regulation</cite>.</text>
+        <text>“Sickroom equipment” means “medical equipment” as defined in <cite path="03|06|01|.09|B.|(1)">§B(1) of this regulation</cite>.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>"Tobacco cessation products" means nicotine patches, nicotine gum, or any other product intended for use as an aid in tobacco use cessation and approved by the United States Food and Drug Administration for that purpose.</text>
+        <text>“Tobacco cessation products” means nicotine patches, nicotine gum, or any other product intended for use as an aid in tobacco use cessation and approved by the United States Food and Drug Administration for that purpose.</text>
       </para>
     </para>
     <annotations/>
@@ -841,17 +859,13 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Sales to a Person Engaged in Printing and Sales of Photographic Materials.</text>
+      <text>Sales to a Person Engaged in Printing.</text>
       <para>
         <num>(1)</num>
         <text>Tangible personal property or digital products which will be incorporated into printed material which is to be resold, such as ink, paper, staples, stapling wire, binding materials, and digital artwork, or which will be consumed in manufacturing printed material which is to be resold, may be purchased free of tax through the issuance of resale certificates.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The sale of photographic material to any person for the production of an item used in composition or printing or in the production of another item used in printing is not subject to tax. Photographic material includes radiant energy sensitive material susceptible of accepting a photographic or similar image, such as film, a negative, or a presensitized plate, a substance which causes other material to have this property, such as a sensitizer, a substance which, when applied to material which has been exposed to radiant energy, causes a further change to that material, such as developer, and a substance which causes a stabilization of that material, such as gum lacquer.</text>
-      </para>
-      <para>
-        <num>(3)</num>
         <text>A sale of artwork, hand or machine compositions, lithographic plates or negatives, or typographies, whether in tangible or digital form, to a person engaged in the printing of tangible personal property for sale and for direct use by the person to produce that property for sale is exempt from the tax. The following apply:</text>
         <para>
           <num>(a)</num>
@@ -863,7 +877,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -885,11 +901,11 @@
       <text>For the purpose of these exemptions:</text>
       <para>
         <num>(1)</num>
-        <text>The term "stock" means equity securities, including any equity security convertible into any other class of equity security, any warrant, and any right to subscribe to or purchase any equity security. The term "stock" does not include any securities which are redeemable for cash at the option of the holder, or which are convertible into any form of debt securities.</text>
+        <text>The term “stock” means equity securities, including any equity security convertible into any other class of equity security, any warrant, and any right to subscribe to or purchase any equity security. The term “stock” does not include any securities which are redeemable for cash at the option of the holder, or which are convertible into any form of debt securities.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The term "transfer" means a transfer of personal property, a digital code, or a digital product:</text>
+        <text>The term “transfer” means a transfer of personal property, a digital code, or a digital product:</text>
         <para>
           <num>(a)</num>
           <text>Under a reorganization within the meaning of §368(a) of the Internal Revenue Code;</text>
@@ -909,7 +925,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>A transfer of tangible personal property, a digital code, or a digital product to a corporation upon its organization is "principally in consideration for the issuance of its stock", if the aggregate value in money of the consideration other than its stock, issued, paid, or transferred by the corporation in exchange for the tangible personal property, digital code, or digital product is less than 50 percent of the fair market value of the tangible personal property, digital code, or digital product received by the corporation. The transfer to or assumption of liability by a corporation upon its organization is not "consideration other than its stock", if, without regard to any dollar limitation, the entire transaction would otherwise qualify as an exempt casual and isolated sale.</text>
+        <text>A transfer of tangible personal property, a digital code, or a digital product to a corporation upon its organization is “principally in consideration for the issuance of its stock”, if the aggregate value in money of the consideration other than its stock, issued, paid, or transferred by the corporation in exchange for the tangible personal property, digital code, or digital product is less than 50 percent of the fair market value of the tangible personal property, digital code, or digital product received by the corporation. The transfer to or assumption of liability by a corporation upon its organization is not “consideration other than its stock”, if, without regard to any dollar limitation, the entire transaction would otherwise qualify as an exempt casual and isolated sale.</text>
       </para>
     </para>
     <para>
@@ -958,7 +974,7 @@
         <text>Terms Defined.</text>
         <para>
           <num>(a)</num>
-          <text>"Antique" means any item of personal property that:</text>
+          <text>“Antique” means any item of personal property that:</text>
           <para>
             <num>(i)</num>
             <text>Was made in an earlier period;</text>
@@ -977,7 +993,7 @@
           <text>Used Collectible.</text>
           <para>
             <num>(i)</num>
-            <text>"Used collectible" means an item of personal property that has been previously sold at retail as a new item and in which there is a general interest in collecting the item.</text>
+            <text>“Used collectible” means an item of personal property that has been previously sold at retail as a new item and in which there is a general interest in collecting the item.</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -1131,7 +1147,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Taxability is not affected by language in a real property construction contract or subcontract such as "tax included" or "tax exempt", except as provided in <cite path="03|06|01|.19|D.">§D of this regulation</cite> or by any form of payment under the real property construction contract or subcontract, whether lump-sum, cost-plus, time and material, or otherwise.</text>
+      <text>Taxability is not affected by language in a real property construction contract or subcontract such as “tax included” or “tax exempt”, except as provided in <cite path="03|06|01|.19|D.">§D of this regulation</cite> or by any form of payment under the real property construction contract or subcontract, whether lump-sum, cost-plus, time and material, or otherwise.</text>
     </para>
     <para>
       <num>C.</num>
@@ -1176,10 +1192,10 @@
     <para>
       <num>D.</num>
       <text>A person who, because of a contractual obligation, purchases material which will be incorporated into the real property of a private, nonprofit charitable, educational, or religious organization, or volunteer fire, ambulance, or rescue company or squad, located in Maryland, may use the exemption certificate issued to the organization to purchase the material tax-free. In order to purchase the material tax-free, the buyer shall certify to the supplier, in a signed statement, that the material will be incorporated into the real property of the exempt organization. The buyer shall include in the statement the name and exemption certificate number of the organization, and the date and identification of the contract for which the materials are purchased. No specific format for the statement is required, nor are forms supplied by the Comptroller. Buyers and suppliers may use any format which contains the required information. The following is an example of an acceptable format:</text>
-      <text>To:                                 (Name of Supplier)</text>
-      <text>Reference:        (Supplier's Invoice Number and Date)</text>
-      <text>I hereby certify that all of the materials purchased on this order will be incorporated into the real property of (name of organization), exemption certificate (number), in accordance with my contract (number or other designation), dated (date).</text>
-      <text>(Signature, Title and Date)</text>
+      <text proof="needed">To: ____________________________(Name of Supplier)</text>
+      <text proof="needed">Reference: ______________________(Supplier's Invoice Number and Date)</text>
+      <text proof="needed">I hereby certify that all of the materials purchased on this order will be incorporated into the real property of (name of organization), exemption certificate (number), in accordance with my contract (number or other designation), dated (date).</text>
+      <text>_____________________________(Signature, Title and Date)</text>
     </para>
     <para>
       <num>E.</num>
@@ -1189,7 +1205,9 @@
       <num>F.</num>
       <text>The retail sale or use of all equipment, tools, expendable supplies, and other items which are used to improve real property and are not incorporated into the realty, is subject to tax in all instances.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1215,18 +1233,18 @@
     <heading>Time of Collection.</heading>
     <para>
       <num>A.</num>
-      <text>A sale is a transaction for the present or future transfer of title or possession of tangible personal property, a digital code, or a digital product or for the performance of certain services, for a consideration, and the tax imposed on a retail sale applies when the transaction is entered into, regardless of when the consideration is to be paid, the tangible personal property, digital code, or digital product is to be delivered, or the services are to be performed. Except as provided by this regulation or for a rental or lease, the vendor shall collect the tax from the buyer when the sale occurs.</text>
+      <text>A sale is a transaction for the present or future transfer of title or possession of tangible personal property, a digital code, or a digital product or for the performance of taxable services, for a consideration, and the tax imposed on a retail sale applies when the transaction is entered into, regardless of when the consideration is to be paid, the tangible personal property, digital code, or digital product is to be delivered, or the services are to be performed. Except as provided by this regulation or for a rental, lease, subscription, or license for use, the vendor shall collect the tax from the buyer when the sale occurs.</text>
     </para>
     <para>
       <num>B.</num>
       <text>Exception for Certain Credit or Installment Sales.</text>
       <para>
         <num>(1)</num>
-        <text>If a vendor makes a credit or installment sale of tangible personal property, digital codes, or digital products which the vendor must manufacture, custom-alter, or order from a third party, collection of the tax may be deferred at the option of the vendor until the property, digital code, or digital product is delivered. Among other things, this exception does not apply to a sale, such as a lay-away sale, when delivery of existing property in the possession of the vendor is delayed pending full payment.</text>
+        <text>If a vendor makes a credit or installment sale of tangible personal property, taxable services, digital codes, or digital products which the vendor must manufacture, design, create, custom-alter, or order from a third party, collection of the tax may be deferred at the option of the vendor until the property, digital code, digital product, or taxable service is delivered. Among other things, this exception does not apply to a sale, such as a lay-away sale, when delivery of existing property in the possession of the vendor is delayed pending full payment.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The vendor may not defer collection of the tax beyond the time of full payment for or delivery of the property, digital code, or digital product, whichever occurs first. A vendor obligated to make more than one delivery as a result of a single sale of property, digital codes, or digital products which the vendor must manufacture, custom-alter, or order from a third party may defer collection of the tax on the portion of the price attributable to each delivery until payment of that portion of the price or the date of that delivery, whichever occurs first.</text>
+        <text>The vendor may not defer collection of the tax beyond the time of full payment for or delivery of the property, taxable service, digital code, or digital product, whichever occurs first. A vendor obligated to make more than one delivery as a result of a single sale of property, services, digital codes, or digital products which the vendor must manufacture, design, create, custom-alter, or order from a third party may defer collection of the tax on the portion of the price attributable to each delivery until payment of that portion of the price or the date of that delivery, whichever occurs first.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1234,10 +1252,52 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>The authority to defer collection of the tax created by this section does not affect the nature or amount of the vendor's or buyer's liability as created at the time of entering into a transaction, but only affects the time of collection of the tax. Thus, for example, if between the time of sale and the time of delivery, a change in the rate of tax should occur, the original rate of tax shall apply.</text>
+        <text>The authority to defer collection of the tax created by this section does not affect the nature or amount of the vendor's or buyer's liability as created at the time of entering into a transaction but only affects the time of collection of the tax.</text>
+        <para>
+          <num>(a)</num>
+          <text>If a change in the tax rate occurs between the time of sale and the time of delivery of tangible personal property, a digital code, a digital product, or a taxable service, the original tax rate shall apply.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the sale of the tangible personal property, digital code, digital product, or service is not taxable at the time the sale occurs, the sale does not become taxable if the tangible personal property, digital code, digital product, or service becomes taxable after the sale but before the items or services are delivered.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If the sale of the tangible personal property, digital code, digital product, or service is taxable at the time the sale occurs, the sale is taxable even if the tangible personal property, digital code, digital product, or service would not be taxable at the time the items or services are delivered.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Examples.</text>
+        <para>
+          <num>(a)</num>
+          <text>Example 1. A contract for the sale of tangible personal property is entered into on June 10. The contract states the property is to be delivered July 10, and requires a single payment due by August 10. Effective July 1 the same year, the rate of sales and use tax on the tangible personal property increases from 5 percent to 6 percent. The vendor is required to collect the tax on the transaction at the 5 percent rate that is in effect on June 10. The tax must be collected no later than the delivery date, July 10.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Example 2. A contract for the sale of tangible personal property is entered into on June 10. The contract states the property is to be delivered July 10 and requires a single payment due by August 10. Effective July 1 the same year, the tangible personal property is exempt from the sales and use tax. The vendor is required to collect the tax on the transaction at the rate that was in effect on June 10. The tax must be collected no later than the delivery date, July 10.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Example 3a. A contract for the sale of computer systems integration design consulting services is entered into on January 1, 2025. Services are to be delivered over a negotiated period of 5 years, from March 1, 2025, through February 28, 2030. The contract states the total price for the services is $5,000,000 to be paid in installments upon completion of milestones as defined by the contract. At the time of sale, computer systems integration design consulting is a nontaxable service. Computer systems integration design consulting becomes taxable effective July 1, 2025. Although some installment payments are made after the change in the taxability of the service, taxability for this contract is determined as of the date of sale, which is January 1, 2025. Because the service was not taxable at the date of sale, no sales and use tax is due on any of the installment payments.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Example 3b. Assume the facts in Example 3a, except the January 1, 2025 contract also includes an option for additional data or information technology services at a set price and an option for an additional period at a set price. Prior to February 28, 2030, the buyer exercises the rights to the additional services and additional years. Because the terms for the optional additional services and additional period were agreed upon and included in the January 1, 2025 contract, the additional services and additional period retain their status as nontaxable as determined as of the date of sale, which is January 1, 2025.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Example 3c. The parties from Example 3a effectuate a change order on December 1, 2025, contracting for additional data or information technology services not included in the January 1, 2025 contract. The change order adds $2,500,000 to the contract price and the payment of the $2,500,000 be based on additional milestones not included in the original contract. Although the installment payments made pursuant to the January 1, 2025 contract are not subject to the sales and use tax, the December 1, 2025 change order constitutes a new sale. The new sale is subject to the sales and use tax in effect on the date of sale, which is December 1, 2025. The vendor is required to collect the tax on milestone installment payments made for the services included in the change order.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Example 4. A contract for a subscription cloud storage service is initially entered into for a period from June 10, 2025 through July 9, 2025. Effective July 1, 2025, the cloud storage service becomes taxable. The subscription contract requires advance payments, gives the subscriber access to the service for a 1-month period, and is renewable thereafter on a monthly basis. Each subscription payment period is considered a separate lease, and thus a separate sale, for the purpose of determining when the tax is to be collected or paid. Because the cloud storage service is not subject to the sales and use tax as of June 10, 2025, no tax is due on the June 10, 2025 through July 9, 2025 subscription payment. Because the cloud storage service becomes subject to the sales and use tax on July 1, 2025, the tax is due on the July 10, 2025, through August 9, 2025, subscription payment and any subsequent monthly subscription payments for continued access.</text>
+        </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1245,7 +1305,7 @@
     <heading>Exempt Charitable or Nonprofit Organizations.</heading>
     <para>
       <num>A.</num>
-      <text>In this regulation, "food" has the meaning as defined in <cite doc="Md. Code" path="gtg|11-206">Tax-General Article, §11-206(a)(3)(i) </cite>and (ii), Annotated Code of Maryland.</text>
+      <text>In this regulation, “food” has the meaning as defined in <cite doc="Md. Code" path="gtg|11-206">Tax-General Article, §11-206(a)(3)(i) </cite>and (ii), Annotated Code of Maryland.</text>
     </para>
     <para>
       <num>B.</num>
@@ -1260,7 +1320,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>A purchase to be used primarily for carrying on an "unrelated trade or business" as that term is defined in §513 of the Internal Revenue Code, or a purchase made by officials, members, or employees of the organization for their personal usage is not a purchase made to carry on the work of the organization within the meaning of this regulation. A purchase by the organization to be used for raising funds in activities which do not constitute an "unrelated trade or business" qualifies for the exemption.</text>
+        <text>A purchase to be used primarily for carrying on an “unrelated trade or business” as that term is defined in §513 of the Internal Revenue Code, or a purchase made by officials, members, or employees of the organization for their personal usage is not a purchase made to carry on the work of the organization within the meaning of this regulation. A purchase by the organization to be used for raising funds in activities which do not constitute an “unrelated trade or business” qualifies for the exemption.</text>
       </para>
       <para>
         <num>(4)</num>
@@ -1553,7 +1613,21 @@
       <num>D.</num>
       <text>The tax applies to sales for use in this State regardless of whether the sale takes place in this State or outside this State.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>E.</num>
+      <text>Taxable Services.</text>
+      <para>
+        <num>(1)</num>
+        <text>The sale of a digital code, digital product, data or information technology service, a software publishing service, or a taxable service described in <cite doc="Md. Code" path="gtg|11-101">Tax-General Article, §11-101(m)(14) </cite>and (15), Annotated Code of Maryland is presumed to be made in the state in which the customer tax address is located.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a seller located outside the State delivers a taxable service within the State, the tax applies if the seller is an out-of-state vendor under <cite path="|03|06|01|.33">Regulation .33 of this chapter</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="03|06|01|.26">
     <prefix>Regulation</prefix>
@@ -1620,14 +1694,16 @@
         <text>To: (Name of Vendor)</text>
         <text>Reference: (Invoice Number and Date)</text>
         <text>I hereby certify that the property covered by the foregoing invoice is an aircraft, motor vehicle, railroad rolling stock, or vessel which will be used principally in interstate or foreign commerce or is tangible personal property which will be physically used in, on, or by a qualifying aircraft, motor vehicle, railroad rolling stock, or vessel.</text>
-        <text>(Signature, Title, Address)</text>
+        <text>_____________________________________ (Signature, Title, Address)</text>
       </para>
       <para>
         <num>(2)</num>
         <text>A vendor may also accept a signed statement covering a number of specified transactions or all transactions with a particular buyer, subject to notification to the contrary.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1639,41 +1715,69 @@
   <section cache:ref-path="03|06|01|.28">
     <prefix>Regulation</prefix>
     <num>.28</num>
-    <heading>Lease of Tangible Personal Property.</heading>
+    <heading>Lease of Tangible Personal Property, Digital Codes, Digital Products, Data or Information Technology Services, and Software Publishing Services.</heading>
     <para>
       <num>A.</num>
-      <text>The transfer of possession, absolutely or conditionally by any means, of tangible personal property, digital codes, or digital products for a consideration, by way of lease, rental, royalty agreement, or grant of a license for use, referred to in this regulation as a "lease", is included within the statutory definition of the term "sale" and is thus subject to the tax in the absence of a specific exemption or exclusion.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Each lease payment period is considered a separate lease, and thus a separate sale, for the purpose of determining when the tax is to be collected or paid.</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>The tax applies to the entire lease payment if property acquired by lease is within this State at any time during that lease payment period, regardless of where the lease was transacted or possession of the property taken.</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>A transaction involving the utilization of equipment with an operator supplied by the owner is a lease if control over the utilization of the equipment passes to the customer, but is not a lease if the transaction is for the performance of a specific job in a manner to be determined by the owner or his operator. In this transaction, the burden is on the parties to establish that no lease occurred. When the billing for this transaction is on a time basis, it is presumed that control passed for the time indicated and that the transaction is a lease. This presumption may be rebutted only by clear and convincing evidence, such as a written contract, that at the time the transaction was entered into each party contemplated that the agreement was for the completion of a specific job rather than for the provision of a particular piece of equipment with an operator for a particular purpose for as long as necessary. The fact that the owner issued a resale certificate to buy the equipment tax free is evidence that a subsequent transaction involving that equipment is a lease.</text>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>Service Charges.</text>
+      <text>In this regulation, “lease” means:</text>
       <para>
         <num>(1)</num>
-        <text>The tax applies to the entire lease payment if a charge for lease or rental of tangible personal property or digital products includes a charge for a service, whether the charge for service is separately stated or not, if the dominant purpose of the transaction is to obtain the tangible personal property or digital product and the service is a mandatory charge imposed by the vendor as a condition of renting the item or is incidental and is not the dominant purpose of the transaction. For example, a charge for the lease of a portable toilet that includes a mandatory charge for cleaning is subject to the tax whether the cleaning charge is separately stated or not. The dominant purpose for the lease of the toilet is to provide a specific item of tangible personal property and not to provide cleaning or servicing of the toilet. Separately stated charges for the services enumerated in <cite path="03|06|01|.28|F.|(2)">§F(2) of this regulation</cite> are excluded from taxable price.</text>
+        <text>The transfer of possession, absolutely or conditionally by any means, of tangible personal property, digital codes, or digital products for a consideration, by way of lease, rental, royalty agreement, or grant of a license for use; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The tax does not apply to a charge for a service that includes a charge for lease or rental of tangible personal property or digital product, whether the charge for the tangible personal property or digital product is separately stated or not, or whether the charge is mandatory or not, if the dominant purpose of the transaction is to obtain a service, and the provision of the tangible personal property or digital product is incidental to the service. For example, a charge for trash removal service where a trash receptacle is provided in conjunction with the service is not a taxable lease of tangible personal property. The dominant purpose of the lease is to remove trash from a premise and not to lease a trash receptacle.</text>
+        <text>A license for use of a data or information technology service or a software publishing service as defined in <cite path="|03|06|01|.48">Regulation .48 of this chapter</cite>.</text>
       </para>
     </para>
     <para>
+      <num>B.</num>
+      <text>“Lease” is included within the statutory definition of the term “sale” and is thus subject to the tax in the absence of a specific exemption or exclusion.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Each lease payment period is considered a separate lease, and thus a separate sale, for the purpose of determining when the tax is to be collected or paid.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The tax applies to the entire lease payment if property acquired by lease is within this State at any time during that lease payment period, regardless of where the lease was transacted or possession of the property taken.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The tax applies to the entire lease payment if the property, digital code, digital product, or taxable service acquired by lease is used within the State at any time during that lease payment period regardless of where the lease was transacted or possession of the property, the digital code, or the digital product was taken, or where the taxable service was delivered.</text>
+    </para>
+    <para>
       <num>F.</num>
+      <text>A transaction involving the utilization of equipment with an operator supplied by the owner is a lease if control over the utilization of the equipment passes to the customer, but is not a lease if the transaction is for the performance of a specific job in a manner to be determined by the owner or his operator. In this transaction, the burden is on the parties to establish that no lease occurred. When the billing for this transaction is on a time basis, it is presumed that control passed for the time indicated and that the transaction is a lease. This presumption may be rebutted only by clear and convincing evidence, such as a written contract, that at the time the transaction was entered into each party contemplated that the agreement was for the completion of a specific job rather than for the provision of a particular piece of equipment with an operator for a particular purpose for as long as necessary. The fact that the owner issued a resale certificate to buy the equipment tax free is evidence that a subsequent transaction involving that equipment is a lease.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Service Charges.</text>
+      <para>
+        <num>(1)</num>
+        <text>In this section, “nontaxable service” means any service other than a taxable service as defined in <cite doc="Md. Code" path="gtg|11-101">Tax-General Article, §11-101(m), Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The tax applies to the entire lease payment if a charge for lease or rental of tangible personal property or digital products includes a charge for a nontaxable service, whether the charge for a nontaxable service is separately stated or not, if the dominant purpose of the transaction is to obtain the tangible personal property or digital product and the nontaxable service is a mandatory charge imposed by the vendor as a condition of renting the item or is incidental and is not the dominant purpose of the transaction. For example, a charge for the lease of a portable toilet that includes a mandatory charge for cleaning is subject to the tax whether the cleaning charge is separately stated or not. The dominant purpose of the lease of the toilet is to provide a specific item of tangible personal property and not to provide cleaning or servicing of the toilet. Separately stated charges for the nontaxable services enumerated in <cite path="03|06|01|.28|H.|(2)">§H(2) of this regulation</cite> are excluded from taxable price.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The tax does not apply to a charge for a nontaxable service that includes a charge for lease or rental of tangible personal property or digital product, whether the charge for the tangible personal property or digital product is separately stated or not, or whether the charge is mandatory or not, if the dominant purpose of the transaction is to obtain a nontaxable service, and the provision of the tangible personal property or digital product is incidental to the nontaxable service. For example, a charge for trash removal service where a trash receptacle is provided in conjunction with the trash removal service is not a taxable lease of tangible personal property. The dominant purpose of the lease is to remove trash from a premise and not to lease a trash receptacle.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The tax applies to the entire lease payment if a charge for a lease of a taxable service includes a charge for a nontaxable service if the charge for the nontaxable service is not separately stated, if the dominant purpose of the transaction is to obtain the taxable service, and the nontaxable service is a mandatory charge imposed by the vendor as a condition of, or incidental to, receiving the taxable service and not the dominant purpose of the transaction. For example, a vendor charges a software developer for publishing a non-custom software application, which is a taxable software publishing service, and includes a charge for customer support, which is a nontaxable service. The dominant purpose for the lease of the software publishing service is to provide the software to end users, not to provide customer support. The entire lease payment is subject to the sales and use tax if the charge for customer support is not separately stated.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The tax does not apply to a charge for a lease of a nontaxable service that includes a charge for a lease of a taxable service that is not separately stated, if the dominant purpose of the transaction is to obtain the nontaxable service, and the provision of the taxable service is incidental to the nontaxable service.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
       <text>Computation of Tax.</text>
       <para>
         <num>(1)</num>
-        <text>The tax applies to the value in money of the consideration of any kind required to be paid to the lessor under the terms of the lease, except as provided in <cite path="03|06|01|.28|E.|(2)">§E(2) of this regulation</cite>. Included in the taxable price are charges for required maintenance or required insurance agreements, reimbursement for registration fees, taxes, and other expenses of the owner, passed on to the lessee, and all charges for an operator of leased equipment including waiting time, overtime, guaranteed time, travel time, and holiday pay.</text>
+        <text>The tax applies to the value in money of the consideration of any kind required to be paid to the lessor under the terms of the lease, except as provided in <cite path="03|06|01|.28|G.|(3)">§G(3) of this regulation</cite>. Included in the taxable price are charges for required maintenance or required insurance agreements, reimbursement for registration fees, taxes, and other expenses of the owner, passed on to the lessee, and all charges for an operator of leased equipment including waiting time, overtime, guaranteed time, travel time, and holiday pay.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -1684,7 +1788,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Charges for professional services;</text>
+          <text>Charges for professional services, unless the services are taxable services;</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1701,10 +1805,12 @@
       </para>
     </para>
     <para>
-      <num>G.</num>
-      <text>A person who buys tangible personal property or digital products for the dual purpose of leasing it to others and also for personal use, or who buys tangible personal property or a digital product with the sole intention of leasing it but in fact also employs the property or digital product for personal purposes, shall pay the tax on the purchase price and shall also collect the tax on all leases. The fact that the buyer may simultaneously or subsequently offer this property or digital product for outright sale does not create an exemption for the original purchase.</text>
+      <num>I.</num>
+      <text>Except as provided in <cite path="|03|06|01|.49">Regulation .49 of this chapter</cite>, a person who buys tangible personal property, a digital code, a digital product, or a taxable service for the dual purpose of leasing it to others and also for personal use, or who buys tangible personal property, a digital code, a digital product, or a taxable service with the sole intention of leasing it but in fact also employs the property or digital product for personal purposes, shall pay the tax on the purchase price and shall also collect the tax on all leases. The fact that the buyer may simultaneously or subsequently offer this property or digital product for outright sale does not create an exemption for the original purchase.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1738,7 +1844,7 @@
       <text>New Item.</text>
       <para>
         <num>(1)</num>
-        <text>"New Item" means new insofar as the ultimate purchaser is concerned. The fact that work is performed by several different persons before the item is ready for use by the ultimate purchaser does not mean that the item is not a new item. Thus, all charges for bringing the item to its finished state are subject to the tax. Likewise, the cost of repairing, remodeling, or reconditioning an item is subject to the tax if a new or different item from the original is produced by these services.</text>
+        <text>“New Item” means new insofar as the ultimate purchaser is concerned. The fact that work is performed by several different persons before the item is ready for use by the ultimate purchaser does not mean that the item is not a new item. Thus, all charges for bringing the item to its finished state are subject to the tax. Likewise, the cost of repairing, remodeling, or reconditioning an item is subject to the tax if a new or different item from the original is produced by these services.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -1883,7 +1989,7 @@
         <text>Production Activity.</text>
         <para>
           <num>(a)</num>
-          <text>"Production activity" means:</text>
+          <text>“Production activity” means:</text>
           <para>
             <num>(i)</num>
             <text>Assembling, manufacturing, processing, or refining tangible personal property for sale or resale, except for processing food or beverages by a food vendor;</text>
@@ -1915,7 +2021,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>"Production activity" does not include:</text>
+          <text>“Production activity” does not include:</text>
           <para>
             <num>(i)</num>
             <text>Servicing or repairing tangible personal property, except servicing or repairing production machinery or equipment;</text>
@@ -1936,7 +2042,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>"Used directly and predominantly in a production activity" means the:</text>
+        <text>“Used directly and predominantly in a production activity” means the:</text>
         <para>
           <num>(a)</num>
           <text>Use of the property is integral and essential to the production activity, occurs where the production activity is carried on, and occurs during the production activity; and</text>
@@ -2166,19 +2272,19 @@
         <text>Terms Defined.</text>
         <para>
           <num>(a)</num>
-          <text>"On site generated electricity" has the meaning stated in <cite doc="Md. Code" path="gtg|11-1">Tax-General Article, §11-1</cite>A-01(b)(1), Annotated Code of Maryland.</text>
+          <text>“On site generated electricity” has the meaning stated in <cite doc="Md. Code" path="gtg|11-1">Tax-General Article, §11-1</cite>A-01(b)(1), Annotated Code of Maryland.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>"Owner" has the meaning stated in <cite doc="Md. Code" path="gtg|11-1">Tax-General Article, §11-1</cite>A-01(c), Annotated Code of Maryland.</text>
+          <text>“Owner” has the meaning stated in <cite doc="Md. Code" path="gtg|11-1">Tax-General Article, §11-1</cite>A-01(c), Annotated Code of Maryland.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>"Public service company" has the meaning stated in <cite doc="Md. Code" path="gtg|8-401">Tax-General Article, §8-401(f), Annotated Code of Maryland</cite>.</text>
+          <text>“Public service company” has the meaning stated in <cite doc="Md. Code" path="gtg|8-401">Tax-General Article, §8-401(f), Annotated Code of Maryland</cite>.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>"Substantially the same ownership" means that identical persons or governmental entities are the owners of a facility that generates electricity and a building or machinery and equipment that consumes the electricity and their ownership interest in each varies by 10 percent or less.</text>
+          <text>“Substantially the same ownership” means that identical persons or governmental entities are the owners of a facility that generates electricity and a building or machinery and equipment that consumes the electricity and their ownership interest in each varies by 10 percent or less.</text>
         </para>
       </para>
     </para>
@@ -2253,22 +2359,22 @@
       <text>Definitions. In this regulation, the following terms have the meanings indicated:</text>
       <para>
         <num>(1)</num>
-        <text>"Certified film producer or film production company" means a film producer or film production company that has received a Certificate of Eligibility for Film Production Sales and Use Tax Exemption from the Maryland Film Office of the Maryland Department of Commerce.</text>
+        <text>“Certified film producer or film production company” means a film producer or film production company that has received a Certificate of Eligibility for Film Production Sales and Use Tax Exemption from the Maryland Film Office of the Maryland Department of Commerce.</text>
       </para>
       <para>
         <num>(2)</num>
         <text>Film Production Activity.</text>
         <para>
           <num>(a)</num>
-          <text>"Film production activity" means the production or post-production of film or video projects including feature films, television projects, commercials, corporate films, infomercials, music videos, or other projects for which the producer or production company will be compensated, and which are intended for nationwide commercial distribution.</text>
+          <text>“Film production activity” means the production or post-production of film or video projects including feature films, television projects, commercials, corporate films, infomercials, music videos, or other projects for which the producer or production company will be compensated, and which are intended for nationwide commercial distribution.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>"Film production activity" includes the production or postproduction of digital, animation, and multimedia projects.</text>
+          <text>“Film production activity” includes the production or postproduction of digital, animation, and multimedia projects.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>"Film production activity" does not include:</text>
+          <text>“Film production activity” does not include:</text>
           <para>
             <num>(i)</num>
             <text>Production or postproduction of student films or noncommercial personal videos;</text>
@@ -2288,11 +2394,11 @@
         <text>Nationwide Commercial Distribution.</text>
         <para>
           <num>(a)</num>
-          <text>"Nationwide commercial distribution" means intended for commercial distribution extending primarily beyond Maryland's local or regional (Maryland, Virginia, and the District of Columbia) market.</text>
+          <text>“Nationwide commercial distribution” means intended for commercial distribution extending primarily beyond Maryland's local or regional (Maryland, Virginia, and the District of Columbia) market.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>"Nationwide commercial distribution" does not include:</text>
+          <text>“Nationwide commercial distribution” does not include:</text>
           <para>
             <num>(i)</num>
             <text>Distribution primarily via Internet transmission; or</text>
@@ -2305,7 +2411,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>"Short term vehicle rentals" means a rental of a motor vehicle, as defined in <cite doc="Md. Code" path="gtr|11-135">Transportation Article, §11-135, Annotated Code of Maryland</cite>, for a period not to exceed 180 days.</text>
+        <text>“Short term vehicle rentals” means a rental of a motor vehicle, as defined in <cite doc="Md. Code" path="gtr|11-135">Transportation Article, §11-135, Annotated Code of Maryland</cite>, for a period not to exceed 180 days.</text>
       </para>
     </para>
     <para>
@@ -2574,31 +2680,31 @@
         <text>Terms Defined.</text>
         <para>
           <num>(a)</num>
-          <text>"Banners" means signs made of cloth.</text>
+          <text>“Banners” means signs made of cloth.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>"Billboard signs" means freestanding advertising signs alongside a road installed by direct burial or anchor bolted to a concrete base.</text>
+          <text>“Billboard signs” means freestanding advertising signs alongside a road installed by direct burial or anchor bolted to a concrete base.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>"Freestanding signs" means advertising, identifying, or directional signs made of pylons or other material installed by direct burial or anchor bolted to a concrete base.</text>
+          <text>“Freestanding signs” means advertising, identifying, or directional signs made of pylons or other material installed by direct burial or anchor bolted to a concrete base.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>"Hanging signs" means signs hanging from the interior or exterior of a building.</text>
+          <text>“Hanging signs” means signs hanging from the interior or exterior of a building.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>"Portable signs" means signs which can be moved from place to place, including signs equipped with stands or legs.</text>
+          <text>“Portable signs” means signs which can be moved from place to place, including signs equipped with stands or legs.</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>"Posters" means signs made of paper or cardboard.</text>
+          <text>“Posters” means signs made of paper or cardboard.</text>
         </para>
         <para>
           <num>(g)</num>
-          <text>"Signs affixed to a building" means advertising, identifying, or directional signs affixed to exterior or interior walls of a building by means of nails, screws, brackets, glue, or two-sided tape, including neon channel letter signs, box-type electric signs, and pin-mounted dimensional letter signs.</text>
+          <text>“Signs affixed to a building” means advertising, identifying, or directional signs affixed to exterior or interior walls of a building by means of nails, screws, brackets, glue, or two-sided tape, including neon channel letter signs, box-type electric signs, and pin-mounted dimensional letter signs.</text>
         </para>
       </para>
     </para>
@@ -2680,11 +2786,11 @@
         <text>Terms Defined.</text>
         <para>
           <num>(a)</num>
-          <text>"Accessory items" includes jewelry, watches, watchbands, handbags, handkerchiefs, umbrellas, scarves, ties, headbands, and belt buckles.</text>
+          <text>“Accessory items” includes jewelry, watches, watchbands, handbags, handkerchiefs, umbrellas, scarves, ties, headbands, and belt buckles.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>"Clothing or footwear" means an article of wearing apparel designed to be worn on or about the human body.</text>
+          <text>“Clothing or footwear” means an article of wearing apparel designed to be worn on or about the human body.</text>
         </para>
       </para>
     </para>
@@ -2765,15 +2871,15 @@
       <text>Buy One, Get One Free or for a Reduced Price.</text>
       <para>
         <num>(1)</num>
-        <text>The total price of items advertised as "buy one, get one free" or "buy one, get one for a reduced price" cannot be averaged in order for both items to qualify for the exemption. The application of the exemption depends on the actual price paid for the item. The examples in §G (2) and (3) of this regulation illustrate how these sales shall be handled.</text>
+        <text>The total price of items advertised as “buy one, get one free” or “buy one, get one for a reduced price” cannot be averaged in order for both items to qualify for the exemption. The application of the exemption depends on the actual price paid for the item. The examples in §G (2) and (3) of this regulation illustrate how these sales shall be handled.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>A retailer advertises pants as "buy one, get one free." The first pair of pants is priced at $120 and the second pair is free. The tax is due on the $120. Having advertised that the second pair is free, the store cannot ring up each pair of pants for $60 in order for the items to qualify for the exemption. However, if the retailer advertises and sells the pants for 50 percent off, selling each pair of $120 pants for $60, each pair of pants qualifies for the exemption.</text>
+        <text>A retailer advertises pants as “buy one, get one free.” The first pair of pants is priced at $120 and the second pair is free. The tax is due on the $120. Having advertised that the second pair is free, the store cannot ring up each pair of pants for $60 in order for the items to qualify for the exemption. However, if the retailer advertises and sells the pants for 50 percent off, selling each pair of $120 pants for $60, each pair of pants qualifies for the exemption.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>A retailer advertises shoes as "buy one at the regular price, get a second pair for half price."  The first pair of shoes is sold for $110 and the second pair is sold for $55. Tax is due on the pair of shoes, but not on the $55 pair. Having advertised that the second pair is half price, the store cannot ring up each pair of shoes for $75 in order for the items to qualify for the exemption. However, if the retailer advertises the shoes for 25 percent off, thereby selling each pair of $110 shoes for $82.50, each pair of shoes qualifies for the exemption.</text>
+        <text>A retailer advertises shoes as “buy one at the regular price, get a second pair for half price.”  The first pair of shoes is sold for $110 and the second pair is sold for $55. Tax is due on the pair of shoes, but not on the $55 pair. Having advertised that the second pair is half price, the store cannot ring up each pair of shoes for $75 in order for the items to qualify for the exemption. However, if the retailer advertises the shoes for 25 percent off, thereby selling each pair of $110 shoes for $82.50, each pair of shoes qualifies for the exemption.</text>
       </para>
     </para>
     <para>
@@ -3097,18 +3203,18 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>"Armored car service" does not include coin rolling or change room services, as long as these charges are separately stated.</text>
+        <text>“Armored car service” does not include coin rolling or change room services, as long as these charges are separately stated.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>"Detective" means a person who is authorized to provide private detective services under <cite doc="Md. Code" path="gbo">Business Occupations and Professions Article, Title 13, Annotated Code of Maryland</cite>.</text>
+        <text>“Detective” means a person who is authorized to provide private detective services under <cite doc="Md. Code" path="gbo">Business Occupations and Professions Article, Title 13, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(3)</num>
         <text>Detective Service.</text>
         <para>
           <num>(a)</num>
-          <text>"Detective service" means to conduct an investigation concerning:</text>
+          <text>“Detective service” means to conduct an investigation concerning:</text>
           <para>
             <num>(i)</num>
             <text>A crime or wrong committed, assumed to have been committed, or threatened to be committed;</text>
@@ -3148,7 +3254,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>"Detective service" includes:</text>
+          <text>“Detective service” includes:</text>
           <para>
             <num>(i)</num>
             <text>Securing evidence for use before any investigating committee, board of award, or board of arbitration, or for use in the trial of any civil or criminal cause;</text>
@@ -3172,19 +3278,19 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>"Detective service" does not include private process service unless the service goes beyond service of process to a missing person investigation.</text>
+          <text>“Detective service” does not include private process service unless the service goes beyond service of process to a missing person investigation.</text>
         </para>
       </para>
       <para>
         <num>(4)</num>
-        <text>"Security guard service" includes any activity that is performed for compensation as a security guard to protect any individual or property.</text>
+        <text>“Security guard service” includes any activity that is performed for compensation as a security guard to protect any individual or property.</text>
       </para>
       <para>
         <num>(5)</num>
         <text>Security Systems Service.</text>
         <para>
           <num>(a)</num>
-          <text>"Security systems service" means providing on the premises of a person's residential or commercial property the service of:</text>
+          <text>“Security systems service” means providing on the premises of a person's residential or commercial property the service of:</text>
           <para>
             <num>(i)</num>
             <text>Monitoring an electronically controlled burglar or fire alarm system for any residential or commercial property located in the State; or</text>
@@ -3196,7 +3302,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>"Security systems service" does not include:</text>
+          <text>“Security systems service” does not include:</text>
           <para>
             <num>(i)</num>
             <text>Installing a burglar or fire alarm system in commercial or residential property;</text>
@@ -3282,11 +3388,11 @@
         <text>Terms Defined.</text>
         <para>
           <num>(a)</num>
-          <text>"Act" means the Mobile Telecommunications Sourcing Act, 4 U.S.C. §116, et seq.</text>
+          <text>“Act” means the Mobile Telecommunications Sourcing Act, 4 U.S.C. §116, et seq.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>"Customer" means:</text>
+          <text>“Customer” means:</text>
           <para>
             <num>(i)</num>
             <text>The person that contracts with the home service provider for mobile telecommunications services; or</text>
@@ -3298,15 +3404,15 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>"Home service provider" means the facilities-based carrier or reseller with which the customer contracts for mobile telecommunications services.</text>
+          <text>“Home service provider” means the facilities-based carrier or reseller with which the customer contracts for mobile telecommunications services.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>"Licensed service area" means the geographic area in which the home service provider may by law or contract provide commercial mobile radio service to the customer.</text>
+          <text>“Licensed service area” means the geographic area in which the home service provider may by law or contract provide commercial mobile radio service to the customer.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>"Place of primary use" means the street address representative of where the customer's use of the mobile telecommunications service primarily occurs, which shall be:</text>
+          <text>“Place of primary use” means the street address representative of where the customer's use of the mobile telecommunications service primarily occurs, which shall be:</text>
           <para>
             <num>(i)</num>
             <text>The residential street address or the primary business street address of the customer; and</text>
@@ -3382,11 +3488,11 @@
         <text>Terms Defined.</text>
         <para>
           <num>(a)</num>
-          <text>"Effective rate" means a calculated percentage derived from analysis of selected accounts for a selected sample period.</text>
+          <text>“Effective rate” means a calculated percentage derived from analysis of selected accounts for a selected sample period.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>"Effective rate agreement" means an agreement between the Comptroller and a vendor that allows a vendor to compute its sales and use tax liability for purchases made by the vendor for a specific period using a predetermined agreed upon effective rate.</text>
+          <text>“Effective rate agreement” means an agreement between the Comptroller and a vendor that allows a vendor to compute its sales and use tax liability for purchases made by the vendor for a specific period using a predetermined agreed upon effective rate.</text>
         </para>
       </para>
     </para>
@@ -3524,7 +3630,7 @@
         <text>Defined Terms.</text>
         <para>
           <num>(a)</num>
-          <text>"Equipment" means an implement, such as a tool, apparatus, appliance, utensil, or instrument, used to perform a mechanical or manual operation.</text>
+          <text>“Equipment” means an implement, such as a tool, apparatus, appliance, utensil, or instrument, used to perform a mechanical or manual operation.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3543,7 +3649,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>"Solar energy equipment" does not include equipment that is part of a nonsolar energy system, such as a window, floor or other passive solar material that does not involve the use of a mechanical or electronic device but is designed to enhance or improve the functionality of a traditional heating or cooling system, or that uses any type of recreational facility or equipment as a storage medium, such as a pool or hot tub.</text>
+            <text>“Solar energy equipment” does not include equipment that is part of a nonsolar energy system, such as a window, floor or other passive solar material that does not involve the use of a mechanical or electronic device but is designed to enhance or improve the functionality of a traditional heating or cooling system, or that uses any type of recreational facility or equipment as a storage medium, such as a pool or hot tub.</text>
           </para>
         </para>
       </para>
@@ -3775,7 +3881,7 @@
     <heading>Cannabis.</heading>
     <para>
       <num>A.</num>
-      <text>Scope. This regulation applies to all businesses required to be licensed or registered by the Maryland Cannabis Administration, including growers, micro growers, processors, microprocessors, incubator space operators, dispensaries, micro dispensaries, on-site consumption establishments, and delivery services.</text>
+      <text>Scope. This regulation applies to all businesses required to be licensed or registered by the Maryland Cannabis Administration, including growers, micro growers, processors, microprocessors, incubator space operators, dispensaries, micro dispensaries, on-site consumption establishments, nurseries, and delivery services.</text>
     </para>
     <para>
       <num>B.</num>
@@ -3793,10 +3899,22 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>“Delivery service” has the meaning stated in Alcoholic Beverages and Cannabis Article, §36-101, Annotated Code of Maryland.</text>
+          <text>“Cannabinoid beverage” has the meaning stated in Alcoholic Beverages and Cannabis Article, § 36–101, Annotated Code of Maryland;</text>
         </para>
         <para>
           <num>(c)</num>
+          <text>“Cannabis business” means a cannabis business that is licensed  under Alcoholic Beverages and Cannabis Article, Title 36, Annotated Code of Maryland.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>“Cannabis nursery” means a cannabis nursery that is registered under Alcoholic Beverages and Cannabis Article, Title 36, Annotated Code of Maryland.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>“Delivery service” has the meaning stated in Alcoholic Beverages and Cannabis Article, §36-101, Annotated Code of Maryland.</text>
+        </para>
+        <para>
+          <num>(f)</num>
           <text>“Medical cannabis” means cannabis that is:</text>
           <para>
             <num>(i)</num>
@@ -3808,7 +3926,7 @@
           </para>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(g)</num>
           <text>“Vaping liquid” has the meaning indicated in <cite doc="Md. Code" path="gbr|16">Business Regulation Article, §16</cite>.7-101, Annotated Code of Maryland.</text>
         </para>
       </para>
@@ -3841,7 +3959,7 @@
         <text>Sales Between Cannabis Businesses.</text>
         <para>
           <num>(a)</num>
-          <text>Subject to §D(1)(b) and (c) of this regulation, the sales and use tax does not apply to the retail sale of cannabis between cannabis businesses that are licensed under Alcoholic Beverages and Cannabis Article, Title 36, Annotated Code of Maryland.</text>
+          <text>Subject to §D(1)(b) and (c) of this regulation, the sales and use tax does not apply to the retail sale of cannabis between cannabis businesses or between cannabis businesses and cannabis nurseries.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3882,10 +4000,812 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Notwithstanding the exemption from sales and use tax for certain food, the sale of food or edible products containing cannabis shall be subject to the sales and use tax rate applicable to cannabis under <cite doc="Md. Code" path="gtg|11-104">Tax-General Article, §11-104(k), Annotated Code of Maryland</cite>.</text>
+        <text>Notwithstanding the exemption from sales and use tax for certain food, the sale of food or edible products containing cannabis or cannabinoid beverages shall be subject to the sales and use tax rate applicable to cannabis under <cite doc="Md. Code" path="gtg|11-104">Tax-General Article, §11-104(k), Annotated Code of Maryland</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="03|06|01|.48">
+    <prefix>Regulation</prefix>
+    <num>.48</num>
+    <heading>Data or Information Technology Services and Software Publishing Services.</heading>
+    <para>
+      <num>A.</num>
+      <text>Definitions.</text>
+      <para>
+        <num>(1)</num>
+        <text>In this regulation, the following terms have the meaning indicated.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Terms Defined.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Buyer” has the meaning stated in <cite doc="Md. Code" path="gtg|11-101">Tax-General Article, §11-101(b), Annotated Code of Maryland</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Cloud computing” means a service that enables on-demand, self-service network access to a shared pool of configurable computer resources, including data storage, analytics, commerce, streaming, e-mail, document sharing, and document editing.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Customer tax address” has the meaning stated in <cite doc="Md. Code" path="gtg|11-101">Tax-General Article §11-101(c-1), Annotated Code of Maryland</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>“Data or information technology service” means services described under NAICS sectors 518, 519, and subsector 5415.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>“Emerging technology development area” means the University of Maryland’s Discovery District located in Prince George’s County.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>“NAICS” means the North American Industrial Classification System, United States Manual, 2022 Edition, published by the United States Office of Management and Budget.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>“Services described under NAICS subsector 5132” means:</text>
+          <para>
+            <num>(i)</num>
+            <text>Applications development and publishing (except on a custom basis);</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Computer software publishing and reproduction;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Gaming site publishing;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Mobile applications development and publishing (except on a custom basis);</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Packaged computer applications software;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Packaged computer operating systems software;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>Packaged computer software publishing;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>Packaged computer utility software;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>Packaged programming language and compiler software publishing;</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>Packaged software publishing;</text>
+          </para>
+          <para>
+            <num>(xi)</num>
+            <text>Publishing computer software for games; and</text>
+          </para>
+          <para>
+            <num>(xii)</num>
+            <text>Software publishing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>“Services described under NAICS sector 518” means:</text>
+          <para>
+            <num>(i)</num>
+            <text>Application hosting (excluding software publishing);</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Automated data processing;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Cloud computing (except software publishing and computer systems design);</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Cloud storage;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Co-location in data centers (i.e., rental of server and networking space in data centers);</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Computer data storage;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>Computer input preparation;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>Computer time leasing;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>Computer time rental;</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>Computer time sharing;</text>
+          </para>
+          <para>
+            <num>(xi)</num>
+            <text>Computing infrastructure provision;</text>
+          </para>
+          <para>
+            <num>(xii)</num>
+            <text>Computing platform infrastructure provision;</text>
+          </para>
+          <para>
+            <num>(xiii)</num>
+            <text>Data capture imaging;</text>
+          </para>
+          <para>
+            <num>(xiv)</num>
+            <text>Data entry;</text>
+          </para>
+          <para>
+            <num>(xv)</num>
+            <text>Data processing computer services;</text>
+          </para>
+          <para>
+            <num>(xvi)</num>
+            <text>Data processing (except payroll services, financial transaction processing services);</text>
+          </para>
+          <para>
+            <num>(xvii)</num>
+            <text>Disk and diskette conversion;</text>
+          </para>
+          <para>
+            <num>(xviii)</num>
+            <text>Disk and diskette recertification;</text>
+          </para>
+          <para>
+            <num>(xix)</num>
+            <text>Electronic data processing;</text>
+          </para>
+          <para>
+            <num>(xx)</num>
+            <text>Game server hosting;</text>
+          </para>
+          <para>
+            <num>(xxi)</num>
+            <text>Infrastructure as a service (IaaS);</text>
+          </para>
+          <para>
+            <num>(xxii)</num>
+            <text>Media streaming data storage;</text>
+          </para>
+          <para>
+            <num>(xxiii)</num>
+            <text>Media streaming technical support;</text>
+          </para>
+          <para>
+            <num>(xxiv)</num>
+            <text>Microfiche recording and imaging;</text>
+          </para>
+          <para>
+            <num>(xxv)</num>
+            <text>Microfilm recording and imaging;</text>
+          </para>
+          <para>
+            <num>(xxvi)</num>
+            <text>Optical scanning;</text>
+          </para>
+          <para>
+            <num>(xxvii)</num>
+            <text>Platform as a service (PaaS);</text>
+          </para>
+          <para>
+            <num>(xxviii)</num>
+            <text>Video and audio technical streaming support;</text>
+          </para>
+          <para>
+            <num>(xxix)</num>
+            <text>Video tape and film stock technical streaming support;</text>
+          </para>
+          <para>
+            <num>(xxx)</num>
+            <text>Virtual currency (cryptocurrency) mining; and</text>
+          </para>
+          <para>
+            <num>(xxxi)</num>
+            <text>Web hosting (excluding software publishing).</text>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>“Services described under NAICS sector 519” means:</text>
+          <para>
+            <num>(i)</num>
+            <text>Archives;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Bookmobiles;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Centers for documentation (i.e., archives);</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Circulating libraries;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Film archives;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Internet search portals;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>Internet search websites;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>Lending libraries;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>Libraries (except motion picture stock footage, motion picture commercial distribution);</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>Motion picture film libraries;</text>
+          </para>
+          <para>
+            <num>(xi)</num>
+            <text>Music archives;</text>
+          </para>
+          <para>
+            <num>(xii)</num>
+            <text>News clipping services;</text>
+          </para>
+          <para>
+            <num>(xiii)</num>
+            <text>Press clipping services;</text>
+          </para>
+          <para>
+            <num>(xiv)</num>
+            <text>Provision of stock photos;</text>
+          </para>
+          <para>
+            <num>(xv)</num>
+            <text>Reference libraries;</text>
+          </para>
+          <para>
+            <num>(xvi)</num>
+            <text>Telephone-based recorded information services;</text>
+          </para>
+          <para>
+            <num>(xvii)</num>
+            <text>Title search services (except real estate); and</text>
+          </para>
+          <para>
+            <num>(xviii)</num>
+            <text>Web search portals.</text>
+          </para>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>“Services described under NAICS subsector 5415” means:</text>
+          <para>
+            <num>(i)</num>
+            <text>Audio visual and IT (information technology) systems integration design;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>CAD (computer-aided design) systems integration design;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>CAE (computer-aided engineering) systems integration design;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>CAM (computer-aided manufacturing) systems integration design;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Computer disaster recovery;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Computer hardware consulting;</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>Computer network systems integration design;</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>Computer software consulting;</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>Computer systems integration analysis and design;</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>Computer systems integration design consulting;</text>
+          </para>
+          <para>
+            <num>(xi)</num>
+            <text>Computer systems integrator;</text>
+          </para>
+          <para>
+            <num>(xii)</num>
+            <text>Computer software installation;</text>
+          </para>
+          <para>
+            <num>(xiii)</num>
+            <text>Computer systems facilities (i.e., client’s facilities) management and operation;</text>
+          </para>
+          <para>
+            <num>(xiv)</num>
+            <text>Custom computer application software programming;</text>
+          </para>
+          <para>
+            <num>(xv)</num>
+            <text>Custom computer program or software development;</text>
+          </para>
+          <para>
+            <num>(xvi)</num>
+            <text>Custom computer programming services;</text>
+          </para>
+          <para>
+            <num>(xvii)</num>
+            <text>Custom computer software analysis and design;</text>
+          </para>
+          <para>
+            <num>(xviii)</num>
+            <text>Custom computer software support;</text>
+          </para>
+          <para>
+            <num>(xix)</num>
+            <text>Custom search engine optimization (SEO) (except hosting and infrastructure support services);</text>
+          </para>
+          <para>
+            <num>(xx)</num>
+            <text>Custom software programming;</text>
+          </para>
+          <para>
+            <num>(xxi)</num>
+            <text>Custom webpage design services;</text>
+          </para>
+          <para>
+            <num>(xxii)</num>
+            <text>Data processing facilities (i.e., client’s facilities) management and operation;</text>
+          </para>
+          <para>
+            <num>(xxiii)</num>
+            <text>Industrial robot automation applications/software design and development;</text>
+          </para>
+          <para>
+            <num>(xxiv)</num>
+            <text>Industrial robot programming;</text>
+          </para>
+          <para>
+            <num>(xxv)</num>
+            <text>Information management computer systems integration design;</text>
+          </para>
+          <para>
+            <num>(xxvi)</num>
+            <text>Local area network (LAN) computer system integration design;</text>
+          </para>
+          <para>
+            <num>(xxvii)</num>
+            <text>Machine vision software design and development;</text>
+          </para>
+          <para>
+            <num>(xxviii)</num>
+            <text>Material handling robot applications/software design and development;</text>
+          </para>
+          <para>
+            <num>(xxix)</num>
+            <text>Office automation computer systems integration design;</text>
+          </para>
+          <para>
+            <num>(xxx)</num>
+            <text>Robotics applications/software design and development;</text>
+          </para>
+          <para>
+            <num>(xxxi)</num>
+            <text>Robotics process automation software design and development; and</text>
+          </para>
+          <para>
+            <num>(xxxii)</num>
+            <text>Welding robot applications/software design and development.</text>
+          </para>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>“Qualified Company” means a company that contracts with the University of Maryland’s Applied Research Laboratory for Intelligence and Security to develop systems and technologies to advance the use of quantum computing.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>“Qualified Cybersecurity Business” means an entity organized for profit that is engaged primarily in the development of innovative proprietary cybersecurity technology or the provision of cybersecurity services.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>“Retail sale” has the meaning stated in <cite doc="Md. Code" path="gtg|11-101">Tax-General Article, §11-101(h), Annotated Code of Maryland</cite>.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>“Software publishing service” means a system software or application software publishing service described under NAICS subsector 5132.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>“Taxable price” has the meaning stated in <cite path="|03|06|01|.08">Regulation .08 of this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>“Vendor” has the meaning stated in <cite doc="Md. Code" path="gtg|11-101">Tax-General Article, §11-101(o), Annotated Code of Maryland</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Every classification detail under a NAICS sector's or subsector's industry groups, NAICS industries, and national industries includes all listed services, which can be performed together, separately, or in any combination.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The sale of data or information technology services or software publishing services in the State are subject to sales and use tax in the State as provided in <cite doc="Md. Code" path="gtg">Tax-General Article, Title 11, Annotated Code of Maryland</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Except as provided in <cite path="|03|06|01|.49">Regulation .49 of this chapter</cite>, a retail sale of a data or information technology service or software publishing service is presumed to be made in the state in which the customer tax address is located.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Application of NAICS sector codes.</text>
+      <para>
+        <num>(1)</num>
+        <text>Each service the vendor provides must be evaluated individually to determine whether it is a data or information technology service or software publishing service.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A vendor may not rely on the principal business activity code reported on the vendor’s annual income tax return to determine whether the services the vendor provides are subject to sales and use tax.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A buyer who is registered to remit sales and use tax may present to a vendor a certificate indicating multiple points of use of a data or information technology service or software publishing service as provided in <cite path="|03|06|01|.49">Regulation .49 of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Exempt Sales.</text>
+      <para>
+        <num>(1)</num>
+        <text>The sales and use tax does not apply to:</text>
+        <para>
+          <num>(a)</num>
+          <text>A sale of cloud computing to a qualified cybersecurity business;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A sale of a data or information technology service or software publishing service to a qualified company located in an emerging technology development area made in connection with the work of the company; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A sale of a data or information technology service or software publishing service by a qualified company in an emerging technology development area.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The exemption in <cite path="03|06|01|.48|F.|(1)">§F(1) of this regulation</cite> does not apply to any tangible personal property, digital product, digital code, or taxable service sold with the exempt service.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A vendor may accept a signed statement from a buyer certifying the exemption under §F(1)(a) or (b) of this regulation applies unless if, at the time of acceptance, the vendor knows or should have known that the exemption does not apply. The vendor shall retain the statement with the record of sale.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If sales and use tax is paid on the sale of a service that qualifies for an exemption, the person paying the tax may apply to the Comptroller for a refund pursuant to <cite path="03.06.03.05">COMAR 03.06.03.05</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="03|06|01|.49">
+    <prefix>Regulation</prefix>
+    <num>.49</num>
+    <heading>Multiple Points of Use Certificates.</heading>
+    <para>
+      <num>A.</num>
+      <text>Definitions.</text>
+      <para>
+        <num>(1)</num>
+        <text>In this regulation, the following terms have the meaning indicated.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Terms Defined.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Affiliated Group” has the meaning stated in Internal Revenue Code §1504.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Affiliated Group” includes related parties described under Internal Revenue Code §267(b)(10)—(12).</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Authorized buyer” means a buyer authorized by the Comptroller to issue a multiple points of use certificate in accordance with this regulation.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>“Buyer” has the meaning stated in <cite doc="Md. Code" path="gtg|11-101">Tax-General Article, §11-101(b), Annotated Code of Maryland</cite>.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>“Data or information technology service” has the meaning stated in <cite path="|03|06|01|.48">Regulation .48 of this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>“Multiple points of use certificate” means a certificate presented by an authorized buyer to a vendor that indicates, in accordance with <cite doc="Md. Code" path="gtg|11-403">Tax-General Article, §11-403(e), Annotated Code of Maryland</cite>, that a digital code, digital product, taxable data or information technology service or software publishing service will be concurrently available for use by the buyer or a related entity both in the State and outside of the State.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>“Related entity” means a member of an affiliated group or a related pass-through entity of which the buyer is also a member.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>“Related Pass-Through Entities” means one or more pass-through entities connected through ownership with a common parent pass-through entity but only if the common parent:</text>
+          <para>
+            <num>(i)</num>
+            <text>Possesses at least 80 percent of the total voting power of the total value of the pass-through entity; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Has a value equal to at least 80 percent of the total value of the pass-through entity.</text>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>“Software publishing service” has the meaning stated in <cite path="|03|06|01|.48">Regulation .48 of this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>“Vendor” has the meaning stated in <cite doc="Md. Code" path="gtg|11-101">Tax-General Article, §11-101(o), Annotated Code of Maryland</cite>.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Multiple Points of Use Certificate Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>To issue a multiple points of use certificate, a buyer must:</text>
+        <para>
+          <num>(a)</num>
+          <text>Be registered with the Comptroller for a sales and use tax account before requesting authorization to issue a multiple points of use certificate;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Submit to the Comptroller a separate request for authorization to issue a multiple points of use certificate for each transaction in which the buyer intends to use a multiple points of use certificate.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Be authorized by the Comptroller to issue a multiple points of use certificate; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Deliver a multiple points of use certificate, in the form and manner required by the Comptroller, to the vendor at or before the time of purchase.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Comptroller may deny a buyer’s request for authorization to issue a multiple points of use certificate for reasonable cause, including but not limited to the buyer’s fraud, gross negligence, misuse of a multiple points of use certificate, or delinquency in the payment of undisputed sales and use tax.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A buyer who is authorized by the Comptroller may issue a multiple points of use certificate for the purchase of a digital code, digital product, data or information technology service, or software publishing service if, at the time of the purchase, the buyer knows the digital code, digital product, data or information technology service, or software publishing service will be:</text>
+      <para>
+        <num>(1)</num>
+        <text>Concurrently available for use by the buyer both in the State and outside of the State; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Resold in its original form to at least one related entity for use both inside and outside of the State.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Buyer’s Obligation to Pay or Remit Sales and Use Tax.</text>
+      <para>
+        <num>(1)</num>
+        <text>Except as provided in <cite path="03|06|01|.49|D.|(2)">§D(2) of this regulation</cite>, a buyer who issues a multiple points of use certificate is required to pay or remit the applicable tax to the Comptroller.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A buyer who issues a multiple points of use certificate with an apportionment determined based on a subsequent resale to a related entity shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Assume or absorb the tax due from the related entity; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Remit the tax due from the related entity if the tax is not paid by the related entity.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A buyer who does not issue a multiple points of use certificate at or before the time of sale, or whose request for authorization to issue a multiple points of use certificate is denied by the Comptroller under <cite path="03|06|01|.49|B.|(2)">§B(2) of this regulation</cite> may request a refund for sales and use tax paid on the portion of the digital product, digital code, data or information technology service, or software publishing service used outside of Maryland.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Vendor’s Obligation to Collect, Pay, or Remit Sales and Use Tax.</text>
+      <para>
+        <num>(1)</num>
+        <text>Except as provided in <cite path="03|06|01|.49|E.|(3)">§E(3) of this regulation</cite>, a vendor is relieved of the duty to collect, pay, or remit the sales and use tax on the sale of a digital code, digital product, data or information technology service, or software publishing service if the buyer provides the vendor with a completed, authorized multiple points of use certificate.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A vendor shall obtain a multiple points of use certificate from the buyer before or at the time the sale is consummated to support each transaction for which a multiple points of use certificate applies.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A vendor may not accept a multiple points of use certificate at any time, including within the period described in §F, or rely on its acceptance of a multiple points of use certificate to relieve the vendor of the obligation to collect and the sales and remit the sales use tax if the vendor:</text>
+        <para>
+          <num>(a)</num>
+          <text>Failed to verify at or before the time of the sale, using the methods provided by the Comptroller, that the buyer was authorized by the Comptroller to issue the certificate;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Knows or should have known that the sale is not for a digital code, digital product, data or information technology service, or software publishing service; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Knows or should have known that the sale is not a sale for use in both the State and outside the State.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>When the Comptroller notifies a vendor of an intent to assess the tax on a transaction for which the vendor does not possess a multiple points of use certificate, the vendor shall have 60 days from the mailing of the notice to obtain the certificate. If the vendor fails to obtain a proper multiple points of use certificate within the 60-day period, the Comptroller's assessment is final.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Apportionment.</text>
+      <para>
+        <num>(1)</num>
+        <text>The apportionment must accurately reflect the primary use location in the State.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A buyer may use any reasonable method of apportionment that is supported by the buyer’s records as they exist at the time of the sale.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A buyer’s method of apportionment must be:</text>
+        <para>
+          <num>(a)</num>
+          <text>Consistent; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Uniform.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>The multiple points of use certificate must state:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name of the buyer;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The tax address of the buyer;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Maryland combined registration number of the buyer;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The name of the vendor;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The address of the vendor;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The estimated date of the sale or, for a subscription, the renewal term;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>A general description of the purchase including, for each item in the sale:</text>
+        <para>
+          <num>(a)</num>
+          <text>Information sufficient to identify the item as a digital product, digital code, data or information technology service, or software publishing service;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The estimated taxable price; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The percentage of the use allocated to Maryland.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>If the digital code, digital product, data or information technology service, or software publishing service is to be resold in its original form to one or more related entities within the State who are expected to remit the use tax to the Comptroller, the certificate must also state for each entity:</text>
+        <para>
+          <num>(a)</num>
+          <text>The name of the related entity;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The tax address of the related entity;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Maryland combined registration number of the related entity; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The estimated taxable price of the digital code, digital product, data or information technology service, or software publishing service resold in its original form to the related entity.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.50</num>
+    <heading>Applicable Rate for Data or Information Technology Services and Software Publishing Services.</heading>
+    <para>
+      <num>A.</num>
+      <text>Definitions.</text>
+      <para>
+        <num>(1)</num>
+        <text>In this regulation, the following terms have the meaning indicated.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Terms Defined.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Data or information technology service” has the meaning stated in <cite path="|03|06|01|.48">Regulation .48 of this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Software publishing service” has the meaning stated in <cite path="|03|06|01|.48">Regulation .48 of this chapter</cite>.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notwithstanding <cite doc="Md. Code" path="gtg|11-104">Tax-General Article, §11-104(l)(1), Annotated Code of Maryland</cite> regarding the sales and use tax rate for data or information technology services or software publishing services, if a different rate could be applied to a sale or use of tangible personal property, a digital code, a digital product, or a taxable service, the higher rate shall apply to the sale.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Tax-General Article, §§<cite doc="Md. Code" path="gtg|2-102">2-102</cite>, <cite doc="Md. Code" path="gtg|2-103">2-103</cite>, <cite doc="Md. Code" path="gtg|11-102">11-102</cite>, <cite doc="Md. Code" path="gtg|11-104">11-104</cite>, <cite doc="Md. Code" path="gtg|11-105">11-105</cite>, <cite doc="Md. Code" path="gtg|11-206">11-206</cite>, <cite doc="Md. Code" path="gtg|11-245">11-245</cite>, <cite doc="Md. Code" path="gtg|11-502">11-502</cite>, and <cite doc="Md. Code" path="gtg|11-504">11-504</cite>, Annotated Code of Maryland</annotation>
@@ -4021,12 +4941,14 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1986-09-16"><cite path="03.06.01.81">COMAR 03.06.01.81</cite> cited in Attorney General Opinion No. 86-049 (September 16, 1986)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-08-20" discontinuity="true">Chapter revised effective August 20, 1990 (17:16 Md. R. 1989)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.01">Regulation .01</cite> amended effective January 14, 1999 (26:1 Md. R. 22); July 11, 2022 (49:14 Md. R. 704)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.03">Regulation .03</cite> amended effective July 11, 2022 (49:14 Md. R. 704)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.01|B.">Regulation .01B</cite>, C amended effective March 2, 2026 (53:4 Md. R. 183)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.03">Regulation .03</cite> amended effective July 11, 2022 (49:14 Md. R. 704); March 2, 2026 (53:4 Md. R. 183)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-01-14"><cite path="|03|06|01|.03|C.">Regulation .03C</cite> amended effective January 14, 1999 (26:1 Md. R. 22)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.04">Regulation .04</cite> amended effective December 19, 1994 (21:25 Md. R. 2104); January 14, 1999 (26:1 Md. R. 22); July 11, 2022 (49:14 Md. R. 704)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-12-25"><cite path="|03|06|01|.05">Regulation .05</cite> amended effective December 9, 1991 (18:24 Md. R. 2641); December 19, 1994 (21:25 Md. R. 2104); January 14, 1999 (26:1 Md. R. 22); December 25, 2000 (27:25 Md. R. 2279)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.07">Regulation .07</cite> amended effective July 11, 2022 (49:14 Md. R. 704)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-12-19"><cite path="|03|06|01|.08">Regulation .08</cite> amended effective December 19, 1994 (21:25 Md. R. 2104)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.05|A.">Regulation .05A</cite>, B amended effective March 2, 2026 (53:4 Md. R. 183)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.07">Regulation .07</cite> amended effective July 11, 2022 (49:14 Md. R. 704); March 2, 2026 (53:4 Md. R. 183)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.08">Regulation .08</cite> amended effective December 19, 1994 (21:25 Md. R. 2104); March 2, 2026 (53:4 Md. R. 183)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-01-15"><cite path="|03|06|01|.08|A.">Regulation .08A</cite> amended effective January 15, 2007 (34:1 Md. R. 31)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|03|06|01|.08|B.">Regulation .08B</cite>, D amended effective August 19, 2013 (40:16 Md. R. 1340)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-05-01"><cite path="|03|06|01|.08|D.">Regulation .08D</cite> amended effective May 1, 2000 (27:8 Md. R. 796)</annotation>
@@ -4037,6 +4959,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|03|06|01|.10|D.">Regulation .10D</cite> amended effective August 19, 2013 (40:16 Md. R. 1340)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.11">Regulation .11</cite> amended effective July 11, 2022 (49:14 Md. R. 704)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-01-15"><cite path="|03|06|01|.11|B.">Regulation .11B</cite> amended effective January 15, 2007 (34:1 Md. R. 31)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.11|C.">Regulation .11C</cite> amended effective March 2, 2026 (53:4 Md. R. 183)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.12">Regulation .12</cite> amended effective July 11, 2022 (49:14 Md. R. 704)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.13|B.">Regulation .13B</cite>, C amended effective January 14, 1999 (26:1 Md. R. 22); July 11, 2022 (49:14 Md. R. 704)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.14">Regulation .14</cite> amended effective March 31, 2003 (30:6 Md. R. 418); July 11, 2022 (49:14 Md. R. 704)</annotation>
@@ -4047,16 +4970,17 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-01-15"><cite path="|03|06|01|.16|B.">Regulation .16B</cite> amended effective January 15, 2007 (34:1 Md. R. 31)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.18">Regulation .18</cite> amended effective July 11, 2022 (49:14 Md. R. 704)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-01-14"><cite path="|03|06|01|.19|C.">Regulation .19C</cite> amended effective January 14, 1999 (26:1 Md. R. 22)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.21">Regulation .21</cite> amended effective July 11, 2022 (49:14 Md. R. 704)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.21">Regulation .21</cite> amended effective July 11, 2022 (49:14 Md. R. 704); March 2, 2026 (53:4 Md. R. 183)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|03|06|01|.22">Regulation .22</cite> amended effective August 19, 2013 (40:16 Md. R. 1340)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.22|B.">Regulation .22B</cite>, C amended effective July 11, 2022 (49:14 Md. R. 704)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-08-11"><cite path="|03|06|01|.22|C.">Regulation .22C</cite> amended effective August 11, 1997 (24:16 Md. R. 1159)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-03-05"><cite path="|03|06|01|.23">Regulation .23</cite> amended effective March 5, 2001 (28:4 Md. R. 417)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-10-05"><cite path="|03|06|01|.24">Regulation .24</cite> amended effective October 5, 1998 (25:20 Md. R. 1527)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-10-11"><cite path="|03|06|01|.25|B.">Regulation .25B</cite> amended effective October 11, 1993 (20:20 Md. R. 1567)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.25|E.">Regulation .25E</cite> adopted effective March 2, 2026 (53:4 Md. R. 183)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.26|A.">Regulation .26A</cite>, D amended effective July 11, 2022 (49:14 Md. R. 704)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-12-19"><cite path="|03|06|01|.26|C.">Regulation .26C</cite> repealed effective December 19, 1994 (21:25 Md. R. 2104)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|03|06|01|.28">Regulation .28</cite> amended effective August 19, 2013 (40:16 Md. R. 1340)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.28">Regulation .28</cite> amended effective August 19, 2013 (40:16 Md. R. 1340); March 2, 2026 (53:4 Md. R. 183)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.28|A.">Regulation .28A</cite> amended effective July 11, 2022 (49:14 Md. R. 704)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-01-14"><cite path="|03|06|01|.28|D.">Regulation .28D</cite> amended effective January 14, 1999 (26:1 Md. R. 22)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.28|E.">Regulation .28E</cite>, G amended effective July 11, 2022 (49:14 Md. R. 704)</annotation>
@@ -4103,5 +5027,10 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-08-18"><cite path="|03|06|01|.46">Regulation .46</cite> adopted effective August 18, 2014 (41:16 Md. R. 944)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-11"><cite path="|03|06|01|.46|C.">Regulation .46C</cite> amended effective July 11, 2022 (49:14 Md. R. 704)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-21"><cite path="|03|06|01|.47">Regulation .47</cite> adopted effective August 21, 2023 (50:16 Md. R. 725)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.47">Regulation .47</cite> amended effective March 2, 2026 (53:4 Md. R. 183)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.48">Regulation .48</cite> adopted effective March 2, 2026 (53:4 Md. R. 183)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.49">Regulation .49</cite> adopted effective March 2, 2026 (53:4 Md. R. 183)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.50">Regulation .50</cite> adopted effective March 2, 2026 (53:4 Md. R. 183)</annotation>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
   </annotations>
 </container>

@@ -78,10 +78,14 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>“Full-time employee” means an agency employee who works for the agency at least 35 hours per week.</text>
+        <text>“Criminal background check” means finger-print based record checks of the criminal history record information maintained by the State and the criminal history record information in national crime information databases.</text>
       </para>
       <para>
         <num>(7)</num>
+        <text>“Full-time employee” means an agency employee who works for the agency at least 35 hours per week.</text>
+      </para>
+      <para>
+        <num>(8)</num>
         <text>“Local department" means the:</text>
         <para>
           <num>(a)</num>
@@ -93,19 +97,21 @@
         </para>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(9)</num>
         <text>“Office of Licensing and Monitoring (OLM)” means the licensing authority for the Social Services Administration of the Maryland Department of Human Services.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(10)</num>
         <text>“Placing agency” means the agency, entity, or individual with the legal authority to place a child in an out-of-home placement.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(11)</num>
         <text>“Type of license” means the specific grant of authority an agency must have depending on whether it is providing private foster care placements, private adoptions, independent living programs, or treatment foster care placements.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-244-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="07|05|01|.03">
     <prefix>Regulation</prefix>
@@ -967,7 +973,7 @@
     </para>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="07|05|01|.09">
     <prefix>Regulation</prefix>
     <num>.09</num>
     <heading>Screening Employees, Volunteers, and Governing Board Members.</heading>
@@ -976,7 +982,7 @@
       <text>Before agency employment or approval as a volunteer or governing board member, any applying employee, volunteer, or governing board member who is in close proximity to children as part of the authorized function of the position is subject to a:</text>
       <para>
         <num>(1)</num>
-        <text>State and federal criminal background investigation; and</text>
+        <text>State and federal criminal background <em>check</em>; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -985,14 +991,14 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The applying employee, volunteer, or governing board member shall be rejected if:</text>
+      <text>The agency shall reject the applying employee, volunteer, or governing board member if:</text>
       <para>
         <num>(1)</num>
         <text>The applicant is a minor;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The applicant refuses to consent to a required criminal background investigation and child protective services clearance;</text>
+        <text>The applicant refuses to consent to a required criminal background check and child protective services clearance;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1000,20 +1006,44 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>A criminal background check reveals that an applicant has had a conviction for:</text>
+        <text>A criminal background check reveals that an applicant has had a conviction:</text>
         <para>
           <num>(a)</num>
-          <text>Child abuse or neglect, a domestically-related assault or battery, any crime against children, rape, sexual assault sexual offense, or homicide; or</text>
+          <text>For child abuse or neglect, a domestically related assault or battery, any crime against children, rape, sexual assault, sexual offense, homicide, human trafficking, or a crime of violence as defined in <cite doc="Md. Code" path="gfl|5-101">Family Law Article, §5-101, Annotated Code of Maryland</cite>; or</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Assault or battery that is not domestically related or a felony offense related to a controlled dangerous substance in the 5 years before the application date.</text>
+          <text>Within the 5 years before the application date, for misdemeanor assault or battery that is not domestically related or a felony offense related to a controlled dangerous substance.</text>
         </para>
       </para>
     </para>
     <para>
       <num>C.</num>
-      <text>If the applicant has a pending child abuse or neglect investigation, the agency may not proceed with the application. The agency may decide to proceed with the application after the investigation is completed.</text>
+      <text>Application Restrictions.</text>
+      <para>
+        <num>(1)</num>
+        <text>Pending Child Abuse or Neglect Investigation.</text>
+        <para>
+          <num>(a)</num>
+          <text>If the applicant has a pending child abuse or neglect investigation, the agency may not proceed with the application.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The agency may decide to proceed with the application after the investigation is completed.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Unresolved Criminal Charge.</text>
+        <para>
+          <num>(a)</num>
+          <text>If an applicant has an unresolved criminal charge for a crime listed in <cite path="07|05|01|.09|B.|(4)">§B(4) of this regulation</cite>, the agency may not proceed with the application.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The agency may decide to proceed with the application after the charge is resolved.</text>
+        </para>
+      </para>
     </para>
     <para>
       <num>D.</num>
@@ -1027,7 +1057,9 @@
         <text>Determine from the references and interviews if there is any known reason why the individual should not or is not able to perform assigned duties and assume appropriate responsibilities.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-244-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="07|05|01|.10">
     <prefix>Regulation</prefix>
@@ -1436,7 +1468,7 @@
       </para>
     </para>
     <para>
-      <num proof="done">C.</num>
+      <num>D.</num>
       <text>Medical Information.</text>
       <para>
         <num>(1)</num>
@@ -1451,7 +1483,9 @@
         <text>If a medical report documents a potential medical threat to children in care, the chief administrator or president of the governing board shall take appropriate action to protect the children.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-244-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1459,7 +1493,7 @@
     <heading>Employee Qualifications.</heading>
     <para>
       <num>A.</num>
-      <text>Before offering employment, the agency shall verify the potential employee's personal qualifications pursuant to this regulation and Regulations .09 and .13 of this chapter.</text>
+      <text>All agency employees shall meet the qualifications pursuant to this regulation and Regulations .09 and .13 of this chapter.</text>
     </para>
     <para>
       <num>B.</num>
@@ -1553,7 +1587,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-244-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1761,38 +1797,46 @@
     <heading>Contractual, Professional, Volunteer, and Student Services.</heading>
     <para>
       <num>A.</num>
-      <text>Contractual Services. An individual employed by the agency who is not a full-time employee shall be bound by the provisions of a contract with the agency to provide specific, ethical, consistent, and appropriate services. A contractual employee shall:</text>
+      <text>Contractual Services.</text>
       <para>
         <num>(1)</num>
-        <text>Be approved by the chief administrator;</text>
+        <text>An individual employed by the agency who is not a full-time employee shall be bound by the provisions of a contract with the agency to provide specific, ethical, consistent, and appropriate services.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Be supervised by appropriate agency staff;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Be identified to the public as an employee of the agency when providing contractual services for the agency;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Adhere to agency policies;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Receive orientation and continued training as necessary;</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Comply with all agency confidentiality requirements;</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>Be subject to all requirements in Regulations .09 and .13 of this chapter; and</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>Be included in the list of employees provided to OLM before the agency’s license is renewed.</text>
+        <text>A contractual employee shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Be approved by the chief administrator;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Be supervised by appropriate agency staff;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Be identified to the public as an employee of the agency when providing contractual services for the agency;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Adhere to agency policies;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Receive orientation and continued training as necessary;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Comply with all agency confidentiality requirements;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Be subject to all requirements in Regulations .09 and .13 of this chapter; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Be included in the list of employees provided to OLM before the agency’s license is renewed.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -1800,7 +1844,11 @@
       <text>Professional Services.</text>
       <para>
         <num>(1)</num>
-        <text>The agency shall, with the concurrence and support of a child's parent or legal custodian, obtain or document the attempt to obtain professional services that are not available within the agency as required by the child's individual case plan. The agency shall ensure that any professional providing a direct service to a child in care:</text>
+        <text>The agency shall, with the concurrence and support of a child's parent or legal custodian, obtain or document the attempt to obtain professional services that are not available within the agency as required by the child's individual case plan.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The agency shall ensure that any professional providing a direct service to a child in care:</text>
         <para>
           <num>(a)</num>
           <text>Communicates with agency staff regarding the services provided; and</text>
@@ -1811,7 +1859,7 @@
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(3)</num>
         <text>The agency shall document that all professionals providing services to the agency, whether working directly with children in care or providing consultation to employees of the agency:</text>
         <para>
           <num>(a)</num>
@@ -1831,7 +1879,7 @@
         <text>Develop a written plan for the use of volunteers that includes:</text>
         <para>
           <num>(a)</num>
-          <text>A description of duties and responsibilities for volunteers,</text>
+          <text>A description of duties and responsibilities for volunteers;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1843,12 +1891,12 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>The method and frequency with which the agency will evaluate its volunteers; and</text>
+          <text>The method and frequency with which the agency will evaluate its volunteers;</text>
         </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>Require personal references, criminal background investigations, and health checks as required in <cite path="|07|05|01|.09">Regulation .09 of this chapter</cite>;</text>
+        <text>Require personal references, criminal background checks, and health checks as required in <cite path="|07|05|01|.09">Regulation .09 of this chapter</cite>;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1883,7 +1931,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>A plan for orientation and training of the student in the philosophy of the agency, needs of the children in care and their families, and confidentiality requirements;</text>
+          <text>A plan for orientation and training of the student in the philosophy of the agency, needs of the children in care and their families, and confidentiality requirements; and</text>
         </para>
         <para>
           <num>(e)</num>
@@ -1895,7 +1943,9 @@
         <text>Provide an opportunity for the student to participate in developing and implementing case plans for the children and families with whom the student works directly.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-244-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="07|05|01|.18">
     <prefix>Regulation</prefix>
@@ -2057,11 +2107,11 @@
             <text>The Department of Juvenile Services;</text>
           </para>
           <para>
-            <num proof="done">(iv)</num>
+            <num>(v)</num>
             <text>The Maryland Department of Health;</text>
           </para>
           <para>
-            <num proof="done">(vi)</num>
+            <num>(vi)</num>
             <text>The Department of Education; and</text>
           </para>
           <para>
@@ -2103,7 +2153,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-244-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2267,9 +2319,14 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ghu|2-209">Human Services Article, §2-209 </cite>Annotated Code of Maryland<br/>Agency Note; Federal Regulatory Reference: 45 CFR §§228.13 and 228.42</annotation>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ghu|2-209">Human Services Article, §2-209 </cite>Annotated Code of Maryland<br/>Agency Note: Federal Regulatory Reference: 42 U.S.C. §621 et seq.; 45 CFR 1355—1357</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-01-12">Effective date: January 12, 2001 (27:26 Md. R. 2357)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-01"><cite path="|07|05|01|.14|C.">Regulation .14C</cite> amended as an emergency action effective July 1, 2023 (50:15 Md. R. 679); emergency status expired December 28, 2023</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14" discontinuity="true">Chapter revised effective April 14, 2025 (52:7 Md. R. 321)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-02"><cite path="|07|05|01|.02|B.">Regulation .02B</cite> amended effective February 2, 2026 (53:2 Md. R. 61)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-02"><cite path="|07|05|01|.09">Regulation .09</cite> amended effective February 2, 2026 (53:2 Md. R. 61)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-02"><cite path="|07|05|01|.14|A.">Regulation .14A</cite> amended effective February 2, 2026 (53:2 Md. R. 61)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-02"><cite path="|07|05|01|.17">Regulation .17</cite> amended effective February 2, 2026 (53:2 Md. R. 61)</annotation>
+    <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-244-F" type="History" display="false"/>
   </annotations>
 </container>

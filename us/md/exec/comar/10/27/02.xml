@@ -7,7 +7,7 @@
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
-    <text>These regulations apply only to formal hearings before the Board based on charges or notices of proposed action issued pursuant to <cite doc="Md. Code" path="gho|8-316">Health Occupations Article, §8-316, </cite>8-404, 8-6A-10, or 8-6B-18, Annotated Code of Maryland.</text>
+    <text>These regulations apply only to formal hearings before the Board based on charges or notices of proposed action issued pursuant to Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-316">8-316</cite>, <cite doc="Md. Code" path="gho|8-404">8-404</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|10">10</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>B-<cite doc="Md. Code" path="gho|18">18</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>C-20 or 8–6D–10, Annotated Code of Maryland.</text>
     <annotations>
       <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
     </annotations>
@@ -193,7 +193,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gho|8-205">Health Occupations Article, §8-205(a)(1), </cite>Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>(a)(<cite doc="Md. Code" path="gho|1">1</cite>), and <cite doc="Md. Code" path="gho|8-317">8-317</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1973-09-30">Effective date: September 30, 1973</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-11-23"><cite path="|10|27|02|.01-1">Regulation .01-1</cite> adopted effective November 23, 1981 (8:23 Md. R. 1857)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Regulations .01 and .01-1 recodified to .01-1 and .01-2, respectively, and Preface recodified to Regulation .01 Scope, July 1991</annotation>
@@ -208,5 +208,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|10|27|02|.09">Regulation .09</cite> amended effective July 3, 1995 (22:13 Md. R. 967)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|10|27|02|.10">Regulation .10</cite> repealed effective July 3, 1995 (22:13 Md. R. 967)</annotation>
     <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    <annotation app="2026-02-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
   </annotations>
 </container>

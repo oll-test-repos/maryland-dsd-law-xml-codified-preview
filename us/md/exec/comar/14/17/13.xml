@@ -404,22 +404,14 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>Edible products produced with approval by the Administration under <cite path="14|17|13|.05|B.|(4)">§B(4) of this regulation</cite> may not:</text>
+        <text>Edible products produced with approval by the Administration under <cite path="14|17|13|.05|B.|(4)">§B(4) of this regulation</cite> may not contain more than:</text>
         <para>
           <num>(a)</num>
-          <text>Be a liquid edible product as described in <cite path="14|17|13|.05|D.">§D of this regulation</cite>; or</text>
+          <text>40 milligrams of THC per serving; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Contain more than:</text>
-          <para>
-            <num>(i)</num>
-            <text>40 milligrams of THC per serving; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>400 milligrams of THC per package.</text>
-          </para>
+          <text>400 milligrams of THC per package.</text>
         </para>
       </para>
       <para>
@@ -435,7 +427,9 @@
       <num>H.</num>
       <text>The Administration shall maintain permittee trade secrets in conformity with <cite path="14.17.11.05">COMAR 14.17.11.05</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -774,7 +768,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-01">Regulations <cite path="|14|17|13|.01">.01</cite>—<cite path="|14|17|13|.11">.11</cite> adopted as an emergency provision effective July 1, 2023 (50:14 Md. R. 559); emergency status expired June 30, 2024</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-07">Regulations <cite path="|14|17|13|.01">.01</cite>—<cite path="|14|17|13|.11">.11</cite> adopted as an emergency provision effective June 7, 2024 (51:14 Md. R. 676)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22">Regulations <cite path="|14|17|13|.01">.01</cite>—<cite path="|14|17|13|.11">.11</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|13|.05|G.">Regulation .05G</cite> amended effective March 16, 2026 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|13|.08|C.">Regulation .08C</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|13|.12">Regulation .12</cite> adopted effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
   </annotations>
 </container>

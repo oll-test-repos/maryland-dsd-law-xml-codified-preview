@@ -1,9 +1,376 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not yet effective">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>02</num>
   <heading>Delegation of Technical Acts by a Licensed Certified Midwife</heading>
-  <reason>Not yet effective</reason>
-  <text>Effective on February 22, 2026.</text>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <para>
+      <num>A.</num>
+      <text>This chapter governs the delegation of other technical tasks by a licensed certified midwife to an assistant not otherwise authorized under <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>This chapter may not be construed:</text>
+      <para>
+        <num>(1)</num>
+        <text>As establishing the licensure, certification, or registration of assistants by the Board;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To apply to an individual who is licensed, certified, or registered by a health occupations regulatory board, or health occupation students, acting pursuant to <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To mean that this chapter overrides, or is to be used in lieu of, more stringent regulations, policies, and procedures established by State licensure or certification requirements.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Assistant” means an individual:</text>
+        <para>
+          <num>(a)</num>
+          <text>To whom only routine technical tasks are delegated by a licensed certified midwife;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Who is trained; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Who is not licensed, certified, registered, or otherwise authorized by law by the Board, or any other State health occupations board, to practice any health occupation in the State.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Asynchronous telehealth interaction” has the meaning stated in <cite doc="Md. Code" path="gho|1-1001">Health Occupations Article, §1-1001(b), Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Board” means the Maryland Board of Nursing.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Delegating Licensed Certified Midwife (LCM)” means a licensed certified midwife who directs an assistant to perform technical tasks.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Direct supervision” means oversight exercised by a delegating licensed certified midwife who is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Personally treating the client; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In the physical presence of the client and the assistant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Licensed Certified Midwife (LCM)” means an individual who has been issued a license by the Board to practice certified midwifery in accordance with <cite path="|10.69.01">COMAR 10.69.01</cite>.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Mechanical Act.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Mechanical act” means an act which does not require professional judgment, medical or pharmaceutical training, or discretion.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Mechanical act” does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>Selecting a drug;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Labeling;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Measuring or calculating dosages;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Substituting one drug for another, including substituting a generic or brand drug for the prescribed drug;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Substituting one dosage form of a drug for another;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Altering the route of administration; or</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>Counseling client.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“On-site supervision” means oversight exercised by a delegating licensed certified midwife who is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Present at the same site as the assistant and the client; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Able to be immediately available in person during the assistant’s performance of a delegated act; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In the context of a synchronous telehealth interaction, able to be immediately available via secure telecommunications technology to the telehealth visit during the assistant’s performance of a delegated act; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In the context of an asynchronous telehealth interaction, is able to review the assistant’s work and interact with the assistant before communication with the client.</text>
+        </para>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Site” means any facility or location, including those defined in Health-General Article, §§19-114 and 19-3B-01(b), Annotated Code of Maryland, used for the delivery of health services.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Synchronous telehealth interaction” has the meaning stated in <cite doc="Md. Code" path="gho|1-1001">Health Occupations Article, §1-1001(d), Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>“Technical task” means a routine clinical act or task that does not require clinical or midwifery judgment and is performed with supervision as specified within this chapter.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Trained” means possessing the knowledge, skills, and abilities, as determined by the delegating licensed certified midwife, to perform delegated technical tasks.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Standards for Delegation.</heading>
+    <para>
+      <num>A.</num>
+      <text>A licensed certified midwife who delegates shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Assess the risk to the client and the outcome of the delegated acts;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Delegate only those technical tasks that are customary to the practice of a licensed certified midwife;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Delegate only those technical tasks for which the assistant has been trained;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Be responsible for the acts of the assistant;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Supervise the assistant in accordance with this chapter; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>If dispensing prescription medication under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 8, Annotated Code of Maryland</cite>, perform a final check of the prescription medication before it is provided to the client.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The responsibility for the delegated act cannot be transferred from the delegating licensed certified midwife to another licensed certified midwife, or to another licensed health care provider that is authorized to delegate clinical and technical tasks, without:</text>
+      <para>
+        <num>(1)</num>
+        <text>The expressed consent of the other licensed certified midwife or licensed health care provider; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Informing the assistant.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Scope of Delegation to an Assistant.</heading>
+    <para>
+      <num>A.</num>
+      <text>A licensed certified midwife may not delegate technical tasks to an assistant which shall, by law or regulation, be performed only by an individual that is required to be licensed, certified, registered, or otherwise recognized pursuant to any State laws.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A licensed certified midwife may delegate technical tasks, consistent with the approved policies and procedures of the site, in the following categories:</text>
+      <para>
+        <num>(1)</num>
+        <text>Surgical technical tasks that the delegating licensed certified midwife directly orders while present and personally performing the surgery in the same surgical field; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Nonsurgical technical tasks while the assistant is under the delegating licensed certified midwife’s direct supervision or on-site supervision.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Except as provided in §§B(1) and D of this regulation, a licensed certified midwife shall provide a minimum of on-site supervision when delegating technical tasks to an assistant, including, but not limited to, the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Client preparation for physical examination;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Client history interview;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Collecting and processing specimens, such as performing phlebotomy, inoculating culture media, pregnancy tests; dipstick and microscopic urinalysis, and microbiology including rapid streptococcal testing and throat cultures;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Preparing and performing laboratory tests under State and Clinical Laboratory Improvement Amendments regulations;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Clinical tests;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Transmitting prescriptions to a pharmacy;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Preparing and administering oral drugs;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Establishing a peripheral intravenous line; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Preparing and administering injections including small amounts of local anesthetics if provided either:</text>
+        <para>
+          <num>(a)</num>
+          <text>Intradermal;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Subcutaneous; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Intramuscular in the deltoid, gluteal, or vastus lateralis.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>When delegating injecting intravenous drugs or contrast materials to an assistant, a licensed certified midwife shall provide direct supervision.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A licensed certified midwife who is dispensing prescription medication under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 8, Annotated Code of Maryland</cite> may delegate only mechanical acts involved in dispensing a drug.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>A licensed certified midwife may not delegate to an assistant any act that requires the exercise of clinical judgment by a licensed certified midwife, including, but not limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Conducting physical examinations;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Administering any form of anesthetic agent or agent of conscious sedation other than topical anesthetics or small amounts of local anesthetics;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Initiating independently any form of treatment, except for cardiopulmonary resuscitation, or other forms of emergency treatment authorized to be performed by non-clinicians under State law;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Establishing a diagnosis or giving clinical advice; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Providing physical therapy.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Prohibited Conduct and Penalties.</heading>
+    <para>
+      <num>A.</num>
+      <text>An assistant acting beyond the scope of this chapter may be:</text>
+      <para>
+        <num>(1)</num>
+        <text>Considered to be engaged in the unlicensed practice of licensed certified midwifery or any other health occupation regulated by the State; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to all applicable fines and penalties in accordance with Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-701">8-701</cite> et seq., Annotated Code of Maryland and applicable regulations, or any other applicable provision of <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A delegating licensed certified midwife, through either act or omission, facilitation, or otherwise enabling or forcing an assistant to practice beyond the scope of this chapter, may be subject to discipline as set forth in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>D-10, Annotated Code of Maryland.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A delegating licensed certified midwife may not:</text>
+      <para>
+        <num>(1)</num>
+        <text>Require an assistant to perform a delegated technical task; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Permit an assistant to delegate any act to another individual.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Enforcement.</heading>
+    <text>The Board shall conduct any necessary investigation regarding the failure to comply with the requirements of <cite doc="Md. Code" path="gho">Health Occupations Article, Title 8, Annotated Code of Maryland</cite>, and this chapter, and it may refer any complaint or investigation to any other appropriate licensing or regulatory authority in accordance with applicable laws and regulations.</text>
+    <annotations>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§ <cite doc="Md. Code" path="gho|8-101">8-101</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-208">8-208</cite>, <cite doc="Md. Code" path="gho|8-508">8-508</cite>, <cite doc="Md. Code" path="gho|8-601">8-601</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|02">02</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>D-01 through 8-6D-15, 8-701, 8-708, and 8-710, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-22">Effective date: February 22, 2026 (52:17 Md. R. 875)</annotation>
+  </annotations>
   <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
 </container>

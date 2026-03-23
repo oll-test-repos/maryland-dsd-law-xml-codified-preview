@@ -43,18 +43,24 @@
       <text>Applicability.</text>
       <para>
         <num>(1)</num>
-        <text>The model regulations in Appendix A may be viewed as a guide for boards of education located in larger counties.</text>
+        <text>The model regulations in <cite path="19A|05|04|attachments|19A.05.00-Appendix-A">Appendix A</cite> may be viewed as a guide for boards of education located in larger counties.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The model regulations in Appendix B may be viewed as a guide for boards of education located in smaller counties.</text>
+        <text>The model regulations in <cite path="19A|05|04|attachments|19A.05.00-Appendix-B">Appendix B</cite> may be viewed as a guide for boards of education located in smaller counties.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-268-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">General Provisions Article, §§<cite doc="Md. Code" path="ggp|5-205">5-205</cite> and <cite doc="Md. Code" path="ggp|5-206">5-206</cite>, and Title 5, Subtitle 8, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-04-18">Effective date: April 18, 2011 (38:8 Md. R. 509)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-05-25" discontinuity="true">Regulations <cite path="|19A|05|04|.01">.01</cite>—<cite path="|19A|05|04|.02">.02</cite> repealed and new Regulations .01 and .02 adopted effective May 25, 2015 (42:10 Md. R. 685)</annotation>
   </annotations>
+  <attachments>
+    <attachment name="19A.05.00-Appendix-A" url="/us/md/exec/register/53/3/attachments/19A.05.00-Appendix-A.pdf"/>
+    <attachment name="19A.05.00-Appendix-B" url="/us/md/exec/register/53/3/attachments/19A.05.00-Appendix-B.pdf"/>
+  </attachments>
 </container>

@@ -10,13 +10,15 @@
     <text>In this chapter, the following documents are incorporated by reference:</text>
     <para>
       <num>A.</num>
-      <text>National Shellfish Sanitation Program Guide for the Control of Molluscan Shellfish 2019 Revision, Section I. Purpose &amp; Definitions and Section II. Model Ordinance except for Chapter IV, Shellstock Growing Areas; and</text>
+      <text>National Shellfish Sanitation Program (NSSP) Guide for the Control of Molluscan Shellfish 2023 Revision (US Food and Drug Administration), Section I. Purpose &amp; Definitions and Section II. Model Ordinance except for Chapter IV, Shellstock Growing Areas; and</text>
     </para>
     <para>
       <num>B.</num>
       <text>American Public Health Association, Recommended Procedures for the Examination of Sea Water and Shellfish, 4th Edition, 1970.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-209-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -35,7 +37,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>"Department" means the Maryland Department of Health or the Department's designee.</text>
+        <text>“Department” means the Maryland Department of Health or the Department's designee.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -46,11 +48,11 @@
         <text>Person-in-Charge.</text>
         <para>
           <num>(a)</num>
-          <text>"Person-in charge" means the licensee or other person responsible for the operation of the shellfish plant.</text>
+          <text>“Person-in charge” means the licensee or other person responsible for the operation of the shellfish plant.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>"Person-in-charge" includes the dealer as used in the National Shellfish Sanitation Program Guide for the Control of Molluscan Shellfish, Model Ordinance.</text>
+          <text>“Person-in-charge” includes the dealer as used in the National Shellfish Sanitation Program Guide for the Control of Molluscan Shellfish, Model Ordinance.</text>
         </para>
       </para>
       <para>
@@ -345,7 +347,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1986-03-10">Regulations <cite path="|10|15|07|.02">.02</cite>—<cite path="|10|15|07|.06">.06</cite> amended effective March 10, 1986 (13:5 Md. R. 543)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1978-09-22"><cite path="|10|15|07|.03|C.">Regulation .03C</cite> amended as an emergency provision effective June 1, 1978 (5:12 Md. R. 964); adopted permanently effective September 22, 1978 (5:19 Md. R. 1445)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-11-06" discontinuity="true">Regulations <cite path="|10|15|07|.01">.01</cite>—<cite path="|10|15|07|.12">.12</cite> repealed and new regulations <cite path="|10|15|07|.01">.01</cite>—<cite path="|10|15|07|.06">.06</cite> adopted effective November 6, 2006 (33:22 Md. R. 1733)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-24"><cite path="|10|15|07|.01|A.">Regulation .01A</cite> amended effective November 17, 2008 (35:23 Md. R. 2013); October 16, 2009 (36:20 Md. R. 1528); November 14, 2011 (38:23 Md. R. 1421); January 6, 2014 (40:26 Md. R. 2164); October 12, 2015 (42:20 Md. R. 1265); January 2, 2017 (43:26 Md. R. 1445); August 26, 2019 (46:17 Md. R. 726); July 24, 2023 (50:14 Md. R. 593)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-02"><cite path="|10|15|07|.01|A.">Regulation .01A</cite> amended effective November 17, 2008 (35:23 Md. R. 2013); October 16, 2009 (36:20 Md. R. 1528); November 14, 2011 (38:23 Md. R. 1421); January 6, 2014 (40:26 Md. R. 2164); October 12, 2015 (42:20 Md. R. 1265); January 2, 2017 (43:26 Md. R. 1445); August 26, 2019 (46:17 Md. R. 726); July 24, 2023 (50:14 Md. R. 593); February 2, 2026 (53:2 Md. R. 61)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-08-22"><cite path="|10|15|07|.02|B.">Regulation .02B</cite> amended as an emergency provision effective June 1, 2011 (38:15 Md. R. 898); amended permanently effective August 22, 2011 (38:17 Md. R. 1012)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-09-30"><cite path="|10|15|07|.02|B.">Regulation .02B</cite> amended as an emergency provision effective June 1, 2013 (40:13 Md. R. 1072); amended permanently effective September 30, 2013 (40:19 Md. R. 1547)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-11-17"><cite path="|10|15|07|.04">Regulation .04</cite> amended effective November 17, 2008 (35:23 Md. R. 2013)</annotation>
@@ -353,5 +355,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-08-22"><cite path="|10|15|07|.04|E.">Regulation .04E</cite> amended as an emergency provision effective June 1, 2011 (38:15 Md. R. 898); amended permanently effective August 22, 2011 (38:17 Md. R. 1012)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-08-22"><cite path="|10|15|07|.06">Regulation .06</cite> adopted as an emergency provision effective June 1, 2011 (38:15 Md. R. 898); adopted permanently effective August 22, 2011 (38:17 Md. R. 1012)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-09-30"><cite path="|10|15|07|.06|B.">Regulation .06B</cite> amended as an emergency provision effective June 1, 2013 (40:13 Md. R. 1072); amended permanently effective September 30, 2013 (40:19 Md. R. 1547)</annotation>
+    <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-209-F-I" type="History" display="false"/>
   </annotations>
 </container>

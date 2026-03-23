@@ -24,7 +24,7 @@
       <text>Maryland Physical Education Program.</text>
       <para>
         <num>(1)</num>
-        <text>The physical education comprehensive instructional program shall provide a developmentally appropriate, instructional program for all students that advances the student’s knowledge, confidence, skills, and motivation to enjoy a lifetime of healthful physical activity.</text>
+        <text>The physical education comprehensive instructional program shall provide a developmentally appropriate, instructional program for all students that advances the student's knowledge, confidence, skills, and motivation to enjoy a lifetime of healthful physical activity.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -37,26 +37,22 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Maryland Physical Education Content Standards. Students shall:</text>
+      <text>Maryland Physical Education Content Standards. All students shall:</text>
       <para>
         <num>(1)</num>
-        <text>Demonstrate competency in a variety of motor skills and movement patterns;</text>
+        <text>Develop a variety of motor skills;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Apply knowledge of concepts, principles, strategies, and tactics related to movement and performance;</text>
+        <text>Apply knowledge related to movement and fitness concepts;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness;</text>
+        <text>Develop social skills through movement; and</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Exhibit responsible personal and social behavior that respects self and others; and</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Recognize the value of physical activity for health, enjoyment, challenge, self-expression and social interaction.</text>
+        <text>Develop personal skills, identify personal benefits of movement, and choose to engage in physical activity.</text>
       </para>
     </para>
     <para>
@@ -79,11 +75,11 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Align to outcomes in the State Framework;</text>
+          <text>Align to the grade-span learning indicators in the State Framework;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Monitor a student’s cognitive, affective, and psychomotor progress;</text>
+          <text>Monitor a student’s cognitive, affective, social, and psychomotor progress;</text>
         </para>
         <para>
           <num>(d)</num>
@@ -167,14 +163,18 @@
         <text>The individualized action plan developed under §G(3)(d) shall provide appropriate learning experiences aligned with the State Framework.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-255-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.02</num>
     <heading>Certification Procedures.</heading>
-    <text>By September 2016 and each 5 years after that, each local superintendent of schools shall certify to the State Superintendent of Schools that the instructional programming within grades prekindergarten—12 meets, at a minimum, the requirements set forth in <cite path="|13A|04|13|.01">Regulation .01 of this chapter</cite>.</text>
-    <annotations/>
+    <text>By September 2030 and each 5 years after that, each local superintendent of schools shall certify to the State Superintendent of Schools that the instructional programming within grades prekindergarten—12 meets, at a minimum, the requirements set forth in <cite path="|13A|04|13|.01">Regulation .01 of this chapter</cite>.</text>
+    <annotations>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-255-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|2-205">2-205</cite>(c) and (h), 7-205.2, 7-409, and 7-4B-01—7-4B-06, Annotated Code of Maryland</annotation>
@@ -184,6 +184,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-11-29" discontinuity="true">Regulations <cite path="|13A|04|13|.01">.01</cite>—<cite path="|13A|04|13|.02">.02</cite> repealed and new Regulations <cite path="|13A|04|13|.01">.01</cite>—<cite path="|13A|04|13|.02">.02</cite> adopted effective November 29, 2010 (37:24 Md. R. 1659)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-07-12"><cite path="|13A|04|13|.01">Regulation .01</cite> amended effective July 12, 2021 (48:14 Md. R. 538)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-01"><cite path="|13A|04|13|.01|B.">Regulation .01B</cite>, C amended effective August 1, 2016 (43:15 Md. R. 864)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-01"><cite path="|13A|04|13|.02">Regulation .02</cite> amended effective August 1, 2016 (43:15 Md. R. 864)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|13A|04|13|.01|C.">Regulation .01C</cite>, D amended effective February 16, 2026 (53:2 Md. R.123)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|13A|04|13|.02">Regulation .02</cite> amended effective August 1, 2016 (43:15 Md. R. 864); February 16, 2026 (53:2 Md. R.123)</annotation>
+    <annotation app="2026-02-16" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
   </annotations>
 </container>

@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>12</num>
+  <heading>Language Assistance Program</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Designated language” has the meaning stated in <cite doc="Md. Code" path="gel|15">Election Law Article, §15</cite>.5–101(b), Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Licensed translation software services” means a tool or service that provides interpretation of spoken communication between designated languages and English.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Limited English proficiency” has the meaning stated in <cite doc="Md. Code" path="gel|15">Election Law Article, §15</cite>.5–101(c), Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Translated” means the process of a trained individual converting from one written language to another while preserving the original meaning.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Voting materials” has the meaning stated in <cite doc="Md. Code" path="gel|15">Election Law Article, §15</cite>.5–101(e), Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Timing for Determination of Significant Need for Language Assistance.</heading>
+    <text>Not later than 8 months preceding a Statewide primary election, the State Board shall determine whether there is significant need for language assistance in a county.</text>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Designating Forms and Instructions Necessary for Voting.</heading>
+    <para>
+      <num>A.</num>
+      <text>Timing. Not later than 7 months preceding a Statewide primary election, the State Board may determine if forms and instructions not named in <cite doc="Md. Code" path="gel|15">Election Law Article, § 15</cite>.5–101(e), Annotated Code of Maryland, shall be designated as necessary to voting.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Procedure. The State Board shall consider recommendations from the State Administrator when designating forms and instructions necessary to voting.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Notice of Significant Need for Language Assistance.</heading>
+    <para>
+      <num>A.</num>
+      <text>To the Public. Not later than 6 months preceding a Statewide primary election, the State Board shall publish its determinations of significant need for language assistance that includes:</text>
+      <para>
+        <num>(1)</num>
+        <text>A list of local boards affected; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The designated languages.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>To Local Government Officials. Not later than 6 months preceding a Statewide primary election, the State Administrator shall provide notice of the determination of significant need for language assistance by the State Board to:</text>
+      <para>
+        <num>(1)</num>
+        <text>The local board of elections; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The chief financial officer of the jurisdiction.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Local Board Requirements.</heading>
+    <text>Upon determination by the State Board of a significant need for language assistance, the local board shall:</text>
+    <para>
+      <num>A.</num>
+      <text>No later than 11 weeks preceding a Statewide primary election, post translated, downloadable voting materials in designated languages on its website;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Place a State Board approved sign, in each designated language, in each early voting center and polling place;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Ensure the availability in each early voting center or polling place of:</text>
+      <para>
+        <num>(1)</num>
+        <text>Licensed translation software services; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A tool or document that communicates in all designated languages and explains how to use the licensed translation software service;</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Make a reasonable effort to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Recruit election judges who can communicate in designated languages;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Assign election judges who speak the designated languages to each early voting center;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Determine which polling places are most likely to serve voters who speak designated languages; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Assign election judges who speak the designated languages to work in polling places that are most likely to serve voters who speak designated languages; and</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Include information about the language assistance program in training materials and programs for election judges and local board of elections staff.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Language Assistance in Addition to Required Assistance.</heading>
+    <para>
+      <num>A.</num>
+      <text>Form.</text>
+      <para>
+        <num>(1)</num>
+        <text>The State Board shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Prescribe a form for a local board to request approval to provide language assistance services in addition to those required by <cite path="|33|07|12|.05">Regulation .05 of this chapter</cite>; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Provide the form to local boards not later than 1 year preceding a Statewide primary election.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The form shall include questions about:</text>
+        <para>
+          <num>(a)</num>
+          <text>The population to be served;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The proposed services;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Reasons for the local board’s request; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Whether approving the request would impose additional costs or duties on the State Board.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A local board seeking to provide language assistance services that exceed requirements shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Submit the State Board prescribed form for each additional service or language which it proposes to provide; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Request State Board approval at least 6 months preceding a Statewide primary election during which the local board proposes to provide additional language assistance services.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Approval of Additional Language Assistance.</text>
+      <para>
+        <num>(1)</num>
+        <text>Upon receipt of a form requesting approval to provide additional language assistance, the State Administrator shall review and make a recommendation to the State Board to accept or reject the request.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The State Board shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Vote on a local board’s proposal within 30 days of receipt of a form requesting approval to provide additional language assistance; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Within 2 days of its vote on a request to provide additional language assistance, notify the local board of the outcome of the vote.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), and <cite doc="Md. Code" path="gel|15">15</cite>.5-104, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02">Effective date: March 2, 2026 (53:4 Md. R. 186)</annotation>
+  </annotations>
+  <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+</container>

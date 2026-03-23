@@ -7,7 +7,7 @@
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
-    <text>This chapter establishes standards for the imposition of monetary penalties not exceeding $5,000 against a registered nurse, licensed practical nurse, or advanced practice registered nurse if the Board finds that there are grounds to take action under <cite doc="Md. Code" path="gho|8-316">Health Occupations Article, §8-316, Annotated Code of Maryland</cite>.</text>
+    <text>This chapter establishes standards for the imposition of monetary penalties not exceeding $5,000 against a registered nurse, licensed practical nurse, direct-entry midwife, licensed certified midwife, or advanced practice registered nurse if the Board finds that there are grounds to take action under <cite doc="Md. Code" path="gho|8-316">Health Occupations Article, §8-316, Annotated Code of Maryland</cite>.</text>
     <annotations>
       <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
     </annotations>
@@ -25,15 +25,27 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>"Board" means the Board of Nursing.</text>
+        <text>“Board” means the Board of Nursing.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>“Licensee” means, unless the context requires otherwise, a registered nurse, a licensed practical nurse, or an advanced practice registered nurse as defined in <cite doc="Md. Code" path="gho|8-101">Health Occupations Article, §8-101, Annotated Code of Maryland</cite>.</text>
+        <text>“Licensee” means, unless the context requires otherwise, a<em>:</em></text>
+        <para>
+          <num>(a)</num>
+          <text>Registered nurse, a licensed practical nurse, or an advanced practice registered nurse as defined in <cite doc="Md. Code" path="gho|8-101">Health Occupations Article, §8-101, Annotated Code of Maryland</cite>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A licensed direct-entry midwife as defined in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>C-01, Annotated Code of Maryland; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A licensed certified midwife as defined in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>D-01, Annotated Code of Maryland.</text>
+        </para>
       </para>
       <para>
         <num>(3)</num>
-        <text>"Penalty" means monetary fine.</text>
+        <text>“Penalty” means monetary fine.</text>
       </para>
     </para>
     <annotations>
@@ -227,12 +239,13 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gho|8-316">Health Occupations Article, §8-316, </cite>Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-316">8-316</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>C-<cite doc="Md. Code" path="gho|20">20</cite>, and <cite doc="Md. Code" path="gho|8">8</cite>–<cite doc="Md. Code" path="gho|6D">6D</cite>–10, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-04-10">Effective date: April 10, 1995 (22:7 Md. R. 536)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|18|.01">Regulation .01</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|18|.02|B.">Regulation .02B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|18|.03|A.">Regulation .03A</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|18|.04|A.">Regulation .04A</cite>, H amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    <annotation app="2026-02-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
   </annotations>
 </container>

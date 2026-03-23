@@ -1041,7 +1041,7 @@
             <td data-text-align="center">20Y</td>
             <td data-text-align="center">10Y</td>
             <td data-text-align="center">Person</td>
-            <td data-text-align="center">II</td>
+            <td data-text-align="center">III</td>
             <td/>
           </tr>
           <tr>
@@ -2744,7 +2744,7 @@
           </tr>
           <tr>
             <td>102</td>
-            <td><strong>Counterfeiting</strong><br/>Counterfeiting of private instruments and documents</td>
+            <td><strong>Counterfeiting</strong><br/>Counterfeiting of private instruments or documents</td>
             <td>1-2502</td>
             <td>CR, §8-601(c)(1)</td>
             <td data-text-align="center">Felony</td>
@@ -2756,7 +2756,7 @@
           </tr>
           <tr>
             <td>102-1</td>
-            <td><strong>Counterfeiting</strong><br/>Possession of counterfeit private instruments and documents</td>
+            <td><strong>Counterfeiting</strong><br/>Possession of counterfeit private instruments or documents</td>
             <td>1-1502</td>
             <td>CR, §8-601(c)(2)</td>
             <td data-text-align="center">Misd.</td>
@@ -2768,8 +2768,8 @@
           </tr>
           <tr>
             <td>102-2</td>
-            <td><strong>Counterfeiting</strong><br/>Counterfeiting of private instruments and documents, not covered by CR, §8-601</td>
-            <td/>
+            <td><strong>Counterfeiting</strong><br/>Counterfeiting of private instruments or documents, not covered by CR, §8-601 or another statute</td>
+            <td>6-1313</td>
             <td>Common Law</td>
             <td data-text-align="center">Misd.</td>
             <td data-text-align="center">LIFE</td>
@@ -2792,8 +2792,8 @@
           </tr>
           <tr>
             <td>103-1</td>
-            <td><strong>Counterfeiting</strong><br/>Counterfeiting of public documents, not covered by CR, §8-605</td>
-            <td/>
+            <td><strong>Counterfeiting</strong><br/>Counterfeiting of public documents, not covered by CR, §8-605 or another statute</td>
+            <td>6-1313</td>
             <td>Common Law</td>
             <td data-text-align="center">Misd.</td>
             <td data-text-align="center">LIFE</td>
@@ -2840,7 +2840,7 @@
           </tr>
           <tr>
             <td>106</td>
-            <td><strong>Counterfeiting</strong><br/>Issuing counterfeit private instruments and documents</td>
+            <td><strong>Counterfeiting</strong><br/>Issuing counterfeit private instruments or documents</td>
             <td>1-2513</td>
             <td>CR, §8-602</td>
             <td data-text-align="center">Felony</td>
@@ -2852,7 +2852,7 @@
           </tr>
           <tr>
             <td>106-1</td>
-            <td><strong>Counterfeiting</strong><br/>Issuing counterfeit private instruments and documents, not covered by CR, §8-602</td>
+            <td><strong>Counterfeiting</strong><br/>Issuing counterfeit private instruments or documents, not covered by CR, §8-602 or another statute</td>
             <td/>
             <td>Common Law</td>
             <td data-text-align="center">Misd.</td>
@@ -7935,7 +7935,7 @@
           <tr>
             <td>348</td>
             <td><strong>Sexual Crimes</strong><br/>Rape, 1<sup>st</sup> degree</td>
-            <td>1-1102<br/>1-1812<br/>1-1813<br/>1-1814<br/>1-1815<br/>1-1816</td>
+            <td>1-1812<br/>1-1813<br/>1-1814<br/>1-1815<br/>1-1816</td>
             <td>CR, §3-303(d)(1)</td>
             <td data-text-align="center">Felony</td>
             <td data-text-align="center">LIFE ♦</td>
@@ -7947,7 +7947,7 @@
           <tr>
             <td>348-1</td>
             <td><strong>Sexual Crimes </strong><br/>Rape, 1<sup>st</sup> degree, in conjunction with kidnapping child younger than 16 years old</td>
-            <td>1-1102<br/>1-1817</td>
+            <td>1-1817</td>
             <td>CR, §3-303(d)(2)</td>
             <td data-text-align="center">Felony</td>
             <td data-text-align="center">LIFE without Parole ♦</td>
@@ -7960,7 +7960,7 @@
             <td>348-2</td>
             <td><strong>Sexual Crimes </strong><br/>Rape, 1<sup>st</sup> degree, <strong>subsequent</strong></td>
             <td>
-              <p>1-1102<br/>1-1812</p>
+              <p>1-1812</p>
               <p>1-1813</p>
               <p>1-1814</p>
               <p>1-1815</p>
@@ -7978,7 +7978,7 @@
           <tr>
             <td>348-3</td>
             <td><strong>Sexual Crimes </strong><br/>Rape, 1<sup>st</sup> degree, adult offender with victim younger than 13 years old</td>
-            <td>1-1102<br/>1-1818</td>
+            <td>1-1818</td>
             <td>CR, §3-303(d)(4)</td>
             <td data-text-align="center">Felony</td>
             <td data-text-align="center">LIFE without Parole ♦</td>
@@ -8066,7 +8066,6 @@
               <p>1-1819</p>
               <p>1-1820</p>
               <p>1-1821</p>
-              <p>2-1103</p>
             </td>
             <td>CR, §3-304(c)(1)</td>
             <td data-text-align="center">Felony</td>
@@ -8082,7 +8081,6 @@
             <td>
               <p>1-1822</p>
               <p>1-1823</p>
-              <p>2-1103</p>
             </td>
             <td>CR, §3-304(c)(2)</td>
             <td data-text-align="center">Felony</td>
@@ -8161,7 +8159,6 @@
               <p>1-1826</p>
               <p>1-1827</p>
               <p>1-1828</p>
-              <p>3-3600</p>
             </td>
             <td>CR, §3-307(a)(1)<br/>CR, §3-307(a)(2)</td>
             <td data-text-align="center">Felony</td>
@@ -8173,12 +8170,11 @@
           </tr>
           <tr>
             <td>357</td>
-            <td><strong>Sexual Crimes</strong><br/>Sex Offense, 3<sup>rd</sup> degree (a)(3), (a)(4), (a)(5) —age based elements</td>
+            <td><strong>Sexual Crimes</strong><br/>Sex Offense, 3<sup>rd</sup> degree (a)(3), (a)(4), (a)(5) — age based elements</td>
             <td>
               <p>1-1829</p>
               <p>1-1830</p>
               <p>1-1831</p>
-              <p>3-3600</p>
             </td>
             <td>CR, §3-307(a)(3)<br/>CR, §3-307(a)(4)<br/>CR, §3-307(a)(5)</td>
             <td data-text-align="center">Felony</td>
@@ -9163,7 +9159,7 @@
             <td data-text-align="center">20Y ♦</td>
             <td data-text-align="center">MM* = 5Y</td>
             <td data-text-align="center">Person</td>
-            <td data-text-align="center">II</td>
+            <td data-text-align="center">III</td>
             <td/>
           </tr>
           <tr>
@@ -9692,8 +9688,8 @@
     </text>
     <text><sup>1</sup> At the time of the offense, if more than 5 years has elapsed since the person completed serving the sentence for the most recent conviction of a crime of violence or select drug crimes (including all imprisonment, mandatory supervision, probation, and parole), the imposition of the mandatory minimum sentence is within the discretion of the court.</text>
     <text>MM* = Non-suspendable mandatory minimum penalty</text>
-    <text>\uF074 Defined as a violent crime in <cite doc="Md. Code" path="gcs|7-101">Correctional Services Article, §7-101, Annotated Code of Maryland</cite>. At the time of imposition of a sentence of incarceration for these offenses, <cite doc="Md. Code" path="gcp|6-217">Criminal Procedure Article, §6-217, Annotated Code of Maryland</cite> indicates the Court shall state in open court the minimum time the defendant must serve before becoming eligible for parole.</text>
-    <text>\uF074\uF074 Defined as a crime of violence only under certain circumstances specified in <cite doc="Md. Code" path="gcr|14-101">Criminal Law Article, §14-101, Annotated Code of Maryland</cite>.</text>
+    <text>♦ Defined as a violent crime in <cite doc="Md. Code" path="gcs|7-101">Correctional Services Article, §7-101, Annotated Code of Maryland</cite>. At the time of imposition of a sentence of incarceration for these offenses, <cite doc="Md. Code" path="gcp|6-217">Criminal Procedure Article, §6-217, Annotated Code of Maryland</cite> indicates the Court shall state in open court the minimum time the defendant must serve before becoming eligible for parole.</text>
+    <text>♦♦ Defined as a crime of violence only under certain circumstances specified in <cite doc="Md. Code" path="gcr|14-101">Criminal Law Article, §14-101, Annotated Code of Maryland</cite>.</text>
     <text>General Rules:</text>
     <para>
       <num>(a)</num>
@@ -9710,18 +9706,18 @@
     <page layout="portrait"/>
     <annotations>
       <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-171-F" type="History" display="false"/>
+      <annotation app="2026-01-01" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-220-F" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">
-      <cite doc="Md. Code" path="gcp|6-211">Criminal Procedure Article, §6-211, Annotated Code of Maryland</cite>
-    </annotation>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gcp|6-211">Criminal Procedure Article, §6-211, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-07-01">Effective date: July 1, 2001 (28:8 Md. R. 763)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-07-01"><cite path="|14|22|02|.01">Regulation .01</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); October 23, 2006 (33:21 Md. R. 1678); November 1, 2009 (36:21 Md. R. 1593); December 1, 2014 (41:22 Md. R. 1319); November 1, 2013 (40:21 Md. R. 1780); November 1, 2016 (43:21 Md. R. 1169); November 4, 2019 (46:22 Md. R. 978); April 1, 2020 (47:6 Md. R. 342); July 1, 2020 (47:11 Md. R. 560)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-11-01"><cite path="|14|22|02|.01|C.">Regulation .01C</cite>, P amended effective November 1, 2024 (51:21 Md. R. 927)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-11-02"><cite path="|14|22|02|.01|C.">Regulation .01C</cite>, S amended effective November 2, 2020 (47:22 Md. R. 936)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-11-15"><cite path="|14|22|02|.01|D.">Regulation .01D</cite>, F, H amended effective November 15, 2021 (48:23 Md. R. 982)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|14|22|02|.02">Regulation .02</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); July 7, 2003 (30:13 Md. R. 854); March 28, 2005 (32:6 Md. R. 636); November 24, 2005 (32:23 Md. R. 1828); February 27, 2006 (33:4 Md. R. 353); April 10, 2006 (33:7 Md. R. 674); August 14, 2006 (33:16 Md. R. 1365); October 23, 2006 (33:21 Md. R. 1678); February 1, 2007 (34:2 Md. R. 138); January 1, 2008 (34:24 Md. R. 2159); July 1, 2008 (35:13 Md. R 1181); December 1, 2008 (35:22 Md. R. 1958); April 1, 2009 (36:6 Md. R. 492); November 1, 2009 (36:21 Md. R. 1593); May 1, 2010 (37:7 Md. R. 575); November 1, 2010 (37:21 Md. R. 1437); June 1, 2011 (38:9 Md. R. 553); November 1, 2011 (38:22 Md. R. 1347); March 1, 2012 (39:3 Md. R. 259); November 1, 2012 (39:20 Md. R. 1307); April 1, 2013 (40:6 Md. R. 475); November 1, 2013 (40:21 Md. R. 1780); April 1, 2014 (41:6 Md. R. 380); December 1, 2014 (41:22 Md. R. 1319); June 1, 2015 (42:10 Md. R. 685); February 1, 2016 (43:1 Md. R. 14); November 1, 2016 (43:21 Md. R. 1169); October 1, 2017 (44:18 Md. R. 866); November 6, 2017 (44:22 Md. R. 1038); April 1, 2018 (45:5 Md. R. 288); July 1, 2018 (45:11 Md. R. 578); November 5, 2018 (45:22 Md. R. 1027); November 4, 2019 (46:22 Md. R. 978); April 1, 2020 (47:6 Md. R. 342); June 1, 2020 (47:11 Md. R. 560); July 1, 2020 (47:11 Md. R. 560); November 2, 2020 (47:22 Md. R. 936); November 15, 2021 (48:23 Md. R. 982); February 1, 2022 (49:1 Md. R. 13); October 1, 2022 (49:18 Md. R. 819)​​​; November 14, 2022 (49:23 Md. R. 997); April 1, 2023 (50:5 Md. R. 182); July 1, 2023 (50:12 Md. R.476);  November 13, 2023 (50:22 Md. R. 977); June 10, 2024 (51:11 Md. R. 580); November 1, 2024 (51:21 Md. R. 927); July 1, 2025 (52:10 Md. R. 438); October 27, 2025 (52:21 Md. R. 1025)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-01"><cite path="|14|22|02|.02">Regulation .02</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); July 7, 2003 (30:13 Md. R. 854); March 28, 2005 (32:6 Md. R. 636); November 24, 2005 (32:23 Md. R. 1828); February 27, 2006 (33:4 Md. R. 353); April 10, 2006 (33:7 Md. R. 674); August 14, 2006 (33:16 Md. R. 1365); October 23, 2006 (33:21 Md. R. 1678); February 1, 2007 (34:2 Md. R. 138); January 1, 2008 (34:24 Md. R. 2159); July 1, 2008 (35:13 Md. R 1181); December 1, 2008 (35:22 Md. R. 1958); April 1, 2009 (36:6 Md. R. 492); November 1, 2009 (36:21 Md. R. 1593); May 1, 2010 (37:7 Md. R. 575); November 1, 2010 (37:21 Md. R. 1437); June 1, 2011 (38:9 Md. R. 553); November 1, 2011 (38:22 Md. R. 1347); March 1, 2012 (39:3 Md. R. 259); November 1, 2012 (39:20 Md. R. 1307); April 1, 2013 (40:6 Md. R. 475); November 1, 2013 (40:21 Md. R. 1780); April 1, 2014 (41:6 Md. R. 380); December 1, 2014 (41:22 Md. R. 1319); June 1, 2015 (42:10 Md. R. 685); February 1, 2016 (43:1 Md. R. 14); November 1, 2016 (43:21 Md. R. 1169); October 1, 2017 (44:18 Md. R. 866); November 6, 2017 (44:22 Md. R. 1038); April 1, 2018 (45:5 Md. R. 288); July 1, 2018 (45:11 Md. R. 578); November 5, 2018 (45:22 Md. R. 1027); November 4, 2019 (46:22 Md. R. 978); April 1, 2020 (47:6 Md. R. 342); June 1, 2020 (47:11 Md. R. 560); July 1, 2020 (47:11 Md. R. 560); November 2, 2020 (47:22 Md. R. 936); November 15, 2021 (48:23 Md. R. 982); February 1, 2022 (49:1 Md. R. 13); October 1, 2022 (49:18 Md. R. 819)​​​; November 14, 2022 (49:23 Md. R. 997); April 1, 2023 (50:5 Md. R. 182); July 1, 2023 (50:12 Md. R.476);  November 13, 2023 (50:22 Md. R. 977); June 10, 2024 (51:11 Md. R. 580); November 1, 2024 (51:21 Md. R. 927); July 1, 2025 (52:10 Md. R. 438); October 27, 2025 (52:21 Md. R. 1025) ; January 01, 2026 (52:25 Md. R. 1269)</annotation>
     <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-171-F" type="History" display="false"/>
+    <annotation app="2026-01-01" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-220-F" type="History" display="false"/>
   </annotations>
 </container>

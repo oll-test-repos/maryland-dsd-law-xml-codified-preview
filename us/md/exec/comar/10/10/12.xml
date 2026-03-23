@@ -100,34 +100,34 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>"CDC" means the federal Centers for Disease Control and Prevention.</text>
+        <text>“CDC” means the federal Centers for Disease Control and Prevention.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>"CLIA" means the federal Clinical Laboratory Improvement Amendments of 1988.</text>
+        <text>“CLIA” means the federal Clinical Laboratory Improvement Amendments of 1988.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>"Department" means the Maryland Department of Health.</text>
+        <text>“Department” means the Maryland Department of Health.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>"Primary standard" means a general comprehensive standard or set of standards as defined in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite>.</text>
+        <text>“Primary standard” means a general comprehensive standard or set of standards as defined in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite>.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>"Public health testing program" means a medical laboratory as defined in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite> that is affiliated or collaborating with the Department for the purpose of offering or performing rapid HIV antibody testing or rapid hepatitis C virus testing approved by the Secretary.</text>
+        <text>“Public health testing program” means a medical laboratory as defined in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite> that is affiliated or collaborating with the Department for the purpose of offering or performing rapid HIV antibody testing or rapid hepatitis C virus testing approved by the Secretary.</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>"Public health testing license" means a license as defined in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite> issued by the Secretary authorizing the director of a public health HIV or hepatitis C (HCV) testing program to offer or perform rapid HIV tests or rapid hepatitis C virus tests.</text>
+        <text>“Public health testing license” means a license as defined in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite> issued by the Secretary authorizing the director of a public health HIV or hepatitis C (HCV) testing program to offer or perform rapid HIV tests or rapid hepatitis C virus tests.</text>
       </para>
       <para>
         <num>(7)</num>
         <text>Quality Assessment Plan.</text>
         <para>
           <num>(a)</num>
-          <text>"Quality assessment plan" means a planned system of step-by-step activities to ensure that:</text>
+          <text>“Quality assessment plan” means a planned system of step-by-step activities to ensure that:</text>
           <para>
             <num>(i)</num>
             <text>Testing is being carried out according to the manufacturer's instructions;</text>
@@ -143,7 +143,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>"Quality assessment plan" includes the ongoing activities that monitor, review, evaluate, and improve the overall quality of the procedures and processes before, during, and after a test is performed.</text>
+          <text>“Quality assessment plan” includes the ongoing activities that monitor, review, evaluate, and improve the overall quality of the procedures and processes before, during, and after a test is performed.</text>
         </para>
       </para>
       <para>
@@ -151,11 +151,11 @@
         <text>Quality Control.</text>
         <para>
           <num>(a)</num>
-          <text>"Quality control" means the policies and procedures defined in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite> that monitor and evaluate the analytical or test performance phase of the testing process.</text>
+          <text>“Quality control” means the policies and procedures defined in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite> that monitor and evaluate the analytical or test performance phase of the testing process.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>"Quality control" includes the operational techniques, tasks, or activities used to find and correct problems that might occur in the test system.</text>
+          <text>“Quality control” includes the operational techniques, tasks, or activities used to find and correct problems that might occur in the test system.</text>
         </para>
       </para>
       <para>
@@ -163,47 +163,41 @@
         <text>“Rapid hepatitis C virus test” means a public health hepatitis test that:</text>
         <para>
           <num>(a)</num>
-          <text>Is a single-use test device as defined in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite>;</text>
-        </para>
-        <para>
-          <num>(b)</num>
           <text>Uses whole blood as the specimen to detect hepatitis C antibodies;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(b)</num>
           <text>Is waived under the CLIA program; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(c)</num>
           <text>Provides a test result while the individual being tested is waiting.</text>
         </para>
       </para>
       <para>
         <num>(9)</num>
-        <text>"Rapid HIV antibody test" means a public health HIV test that:</text>
+        <text>“Rapid HIV antibody test” means a public health HIV test that:</text>
         <para>
           <num>(a)</num>
-          <text>Is a single-use test device as defined in <cite path="10.10.01.03|B.">COMAR 10.10.01.03B</cite>;</text>
-        </para>
-        <para>
-          <num>(b)</num>
           <text>Uses whole blood or oral fluid as the specimen to detect HIV antibodies;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(b)</num>
           <text>Is waived under the CLIA program; and</text>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(c)</num>
           <text>Provides a test result while the individual being tested is waiting.</text>
         </para>
       </para>
       <para>
         <num>(10)</num>
-        <text>"Secretary" means the Secretary of Health.</text>
+        <text>“Secretary” means the Secretary of Health.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -241,14 +235,10 @@
       <text>The Department shall issue a public health testing license that:</text>
       <para>
         <num>(1)</num>
-        <text>Is valid for a period of not more than 2 years;</text>
-      </para>
-      <para>
-        <num>(2)</num>
         <text>States that the license is limited to the performance of rapid HIV antibody testing and rapid hepatitis C virus testing; and</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(2)</num>
         <text>Lists the:</text>
         <para>
           <num>(a)</num>
@@ -324,7 +314,9 @@
       <num>G.</num>
       <text>The Secretary may impose one or more sanctions as provided in <cite path="10.10.08.01">COMAR 10.10.08.01</cite>—.03 if the Secretary determines that the public health testing program does not meet the standards of this chapter.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -607,10 +599,12 @@
       </para>
       <para>
         <num>(9)</num>
-        <text>How to refer an individual who has been tested for HIV antibodies or hepatitis C antibodies, or both, for services as prescribed in <cite path="10.18.08.10|C.">COMAR 10.18.08.10C</cite> and <cite path="10.18.09.07">10.18.09.07</cite>.</text>
+        <text>How to refer an individual who has been tested for HIV antibodies or hepatitis C antibodies, or both, for services as prescribed in <cite path="10.18.08.10|C.">COMAR 10.18.08.10C</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -700,13 +694,15 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-03-14">Regulations <cite path="|10|10|12|.01">.01</cite>—<cite path="|10|10|12|.10">.10</cite> adopted as an emergency provision effective January 19, 2005 (32:3 Md. R. 287); adopted permanently effective March 14, 2005 (32:5 Md. R. 580)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.01|A.">Regulation .01A</cite>, B amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.02|B.">Regulation .02B</cite> amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|12|.02|B.">Regulation .02B</cite> amended effective April 1, 2013 (40:6 Md. R. 473); March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.03">Regulation .03</cite> amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.04">Regulation .04</cite> amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|12|.04|D.">Regulation .04D</cite> amended effective March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|12|.04|E.">Regulation .04E</cite> amended effective August 29, 2016 (43:17 Md. R. 953)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.06|D.">Regulation .06D</cite>, E amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.07|B.">Regulation .07B</cite> amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|12|.07|B.">Regulation .07B</cite> amended effective April 1, 2013 (40:6 Md. R. 473); March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.09">Regulation .09</cite> amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.10">Regulation .10</cite> amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
+    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
   </annotations>
 </container>

@@ -667,15 +667,11 @@
         <text>Residence.</text>
         <para>
           <num>(a)</num>
-          <text>“Residence” means a house, condominium, apartment, or any other dwelling unit under legal control of an individual.</text>
+          <text>“Residence” means a house, condominium, apartment, or any other dwelling unit under legal possession of an individual.</text>
         </para>
         <para>
           <num>(b)</num>
           <text>“Residence” does not mean a dormitory or other on-campus college or university housing.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>“Residence” does not mean a short-term rental, hotel, hostel, or other property being occupied for a period of less than 90 days.</text>
         </para>
       </para>
       <para>
@@ -851,7 +847,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Authority: Alcoholic Beverages and Cannabis Article, §36-101, Annotated Code of Maryland</annotation>
@@ -859,6 +857,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-01"><cite path="|14|17|01|.01">Regulation .01</cite> adopted as an emergency provision effective July 1, 2023 (50:14 Md. R. 559); emergency status expired June 30, 2024</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-07"><cite path="|14|17|01|.01">Regulation .01</cite> adopted as an emergency provision effective June 7, 2024 (51:14 Md. R. 676)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22"><cite path="|14|17|01|.01">Regulation .01</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|01|.01|B.">Regulation .01B</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|01|.01|B.">Regulation .01B</cite> amended effective April 14, 2025 (52:7 Md. R. 324); March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
   </annotations>
 </container>

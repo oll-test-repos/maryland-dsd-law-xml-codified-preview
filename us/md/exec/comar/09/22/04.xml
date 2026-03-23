@@ -135,34 +135,12 @@
       </para>
       <para>
         <num>(12)</num>
-        <text>“Licensee” means an individual awarded a license by the Board and includes a:</text>
-        <para>
-          <num>(a)</num>
-          <text>Cosmetologist;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Limited Blow Dry Stylist;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Limited Esthetician;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Limited Hair Stylist;</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Limited Nail Technician; and</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>Senior Cosmetologist.</text>
-        </para>
+        <text>“Licensee” means an individual awarded a license by the Board.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -226,7 +204,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The practice of cosmetology, esthetics, and nail techniques;</text>
+        <text>The practice of cosmetology, esthetics, eyelash extension techniques, and nail techniques;</text>
       </para>
       <para>
         <num>(4)</num>
@@ -285,7 +263,9 @@
         <text>Consist of at least 1 clock hour.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -466,5 +446,8 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Business Occupations and Professions Article, §§<cite doc="Md. Code" path="gbo|5-205">5-205</cite> and <cite doc="Md. Code" path="gbo|5-311">5-311</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-05-01">Effective date: Effective date: May 1, 2023 (50:8 Md. R. 337)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|09|22|04|.02|B.">Regulation .02B</cite> amended effective March 2, 2026 (53:4 Md. R. 184)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|09|22|04|.05|A.">Regulation .05A</cite> amended effective March 2, 2026 (53:4 Md. R. 184)</annotation>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
   </annotations>
 </container>

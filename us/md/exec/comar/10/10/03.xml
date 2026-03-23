@@ -143,7 +143,7 @@
     </para>
     <annotations/>
   </section>
-  <section cache:ref-path="10|10|03|.02">
+  <section>
     <prefix>Regulation</prefix>
     <num>.02</num>
     <heading>Letters of Exception.</heading>
@@ -225,271 +225,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Excepted Tests. A POL or POCL operating under a letter of exception may perform one or more of the following excepted tests or types of tests:</text>
-      <para>
-        <num>(1)</num>
-        <text>Whole blood glucose by glucose monitoring devices cleared by the FDA for home use or a CLIA waived analyzer;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Dermatophyte screen;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Dipstick glucose;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Dipstick urinalysis using reagent test pads affixed to plastic strips that detect one or a combination of any of the following urine characteristics or constituents:</text>
-        <para>
-          <num>(a)</num>
-          <text>Glucose;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Bilirubin;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Ketones detected in the form of acetoacetic acid;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Specific gravity;</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Red blood cells or hemoglobin;</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>pH;</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>Protein;</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>Urobilinogen;</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>Nitrites; and</text>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>Leukocytes;</text>
-        </para>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Gram stain;</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Group A streptococcal screen;</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>Hematocrit;</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>Hemoglobin;</text>
-      </para>
-      <para>
-        <num>(9)</num>
-        <text>Infectious mononucleosis slide or card test;</text>
-      </para>
-      <para>
-        <num>(10)</num>
-        <text>Microscopic urinalysis;</text>
-      </para>
-      <para>
-        <num>(11)</num>
-        <text>Occult blood;</text>
-      </para>
-      <para>
-        <num>(12)</num>
-        <text>Pinworms;</text>
-      </para>
-      <para>
-        <num>(13)</num>
-        <text>Potassium hydroxide skin preparations;</text>
-      </para>
-      <para>
-        <num>(14)</num>
-        <text>Rheumatoid factor slide agglutination test;</text>
-      </para>
-      <para>
-        <num>(15)</num>
-        <text>Sickle-cell screen;</text>
-      </para>
-      <para>
-        <num>(16)</num>
-        <text>H. pylori test with a single-use test device for nonforensic testing, using a whole-blood specimen;</text>
-      </para>
-      <para>
-        <num>(17)</num>
-        <text>Fructosamine test with a single-use test device for nonforensic testing, using a whole-blood specimen;</text>
-      </para>
-      <para>
-        <num>(18)</num>
-        <text>Heterophile antibodies test with a single-use test device for nonforensic testing, using a whole-blood specimen;</text>
-      </para>
-      <para>
-        <num>(19)</num>
-        <text>Urine bacteria colony count;</text>
-      </para>
-      <para>
-        <num>(20)</num>
-        <text>Urine pregnancy test;</text>
-      </para>
-      <para>
-        <num>(21)</num>
-        <text>Wet mounts;</text>
-      </para>
-      <para>
-        <num>(22)</num>
-        <text>Influenza antigen test using a direct nasal or throat swab specimen;</text>
-      </para>
-      <para>
-        <num>(23)</num>
-        <text>Hemoglobin A1c test using a whole blood specimen;</text>
-      </para>
-      <para>
-        <num>(24)</num>
-        <text>Qualitative test for bladder cancer markers in voided urine including a test to detect:</text>
-        <para>
-          <num>(a)</num>
-          <text>Human complement factor H-related protein; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Nuclear mitotic apparatus protein (NMP);</text>
-        </para>
-      </para>
-      <para>
-        <num>(25)</num>
-        <text>Brain natriuretic peptide (BNP) test using a whole blood specimen to detect:</text>
-        <para>
-          <num>(a)</num>
-          <text>Heart disease; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The response of treatment for heart failure;</text>
-        </para>
-      </para>
-      <para>
-        <num>(26)</num>
-        <text>Fern test for qualitative detection of:</text>
-        <para>
-          <num>(a)</num>
-          <text>Amniotic fluid crystallization; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Estrogenic activity;</text>
-        </para>
-      </para>
-      <para>
-        <num>(27)</num>
-        <text>Qualitative semen analysis, limited to detecting:</text>
-        <para>
-          <num>(a)</num>
-          <text>The presence or absence of sperm; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Sperm motility;</text>
-        </para>
-      </para>
-      <para>
-        <num>(28)</num>
-        <text>Nitrazine vaginal pH test using phenaphthazine reagent paper strips;</text>
-      </para>
-      <para>
-        <num>(29)</num>
-        <text>Qualitative immunochromatographic test to detect the presence of adenovirus antigens directly from eye fluid;</text>
-      </para>
-      <para>
-        <num>(30)</num>
-        <text>Microalbumin-creatinine urinalysis test utilizing an instrument based dip-and-read reagent test strip for determining urine albumin and creatinine levels, including the urinary albumin-to-creatinine ratio (UACR) in a random urine specimen;</text>
-      </para>
-      <para>
-        <num>(31)</num>
-        <text>Screening tests for urine or saliva performed on FDA-cleared for home use or FDA approved single-use test devices for the presence of alcohol and drugs of abuse solely for the purpose of directing patient counseling;</text>
-      </para>
-      <para>
-        <num>(32)</num>
-        <text>Qualitative enzyme activity test using a chromogenic substrate of bacterial sialidase for use in the detection of bacterial vaginosis directly from vaginal fluid specimens;</text>
-      </para>
-      <para>
-        <num>(33)</num>
-        <text>Qualitative immunochromatographic test to detect the presence of Trichomonas vaginalis antigens directly from a vaginal swab;</text>
-      </para>
-      <para>
-        <num>(34)</num>
-        <text>CLIA-waived Prothrombin Time/International Normalized Ratio (PT/INR) with the additional requirements that:</text>
-        <para>
-          <num>(a)</num>
-          <text>The licensee shall enroll into a Proficiency Testing program offered by an entity that has been approved by the Centers for Medicare and Medicaid Services (CMS) to ensure validation of all measurement capabilities for the instrument used to perform the test; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>When the numerical score is less than 80 percent, the licensee shall submit the official proficiency test results to the Office of Health Care Quality for review and monitoring with evidence of documented remedial actions taken;</text>
-        </para>
-      </para>
-      <para>
-        <num>(35)</num>
-        <text>CLIA waived blood lipid analysis for cholesterol, HDL, LDL, and triglycerides;</text>
-      </para>
-      <para>
-        <num>(36)</num>
-        <text>Whole blood lead testing on a CLIA waived analyzer with the additional requirements:</text>
-        <para>
-          <num>(a)</num>
-          <text>The licensee shall enroll into a Proficiency Testing program offered by an entity that has been approved by the Centers for Medicare and Medicaid Services to ensure validation of all measurement capabilities for the instrument used to perform the test;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>When the numerical score is less than 80 percent, the licensee shall submit the official proficiency test result to the Office of Health Care Quality for review and monitoring with evidence of documented remedial actions taken;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>All staff involved in testing shall undergo training on the testing device and testing techniques with annual competencies;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Records of training and competencies for staff shall be:</text>
-          <para>
-            <num>(i)</num>
-            <text>Maintained by the laboratory; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Made available for review by the Department; and</text>
-          </para>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Reporting requirements stated in <cite path="10|10|03|.02|C.">§C of this regulation</cite> shall be followed; and</text>
-        </para>
-      </para>
-      <para>
-        <num>(37)</num>
-        <text>CLIA Waived Urine Drug Screens with the following additional requirements:</text>
-        <para>
-          <num>(a)</num>
-          <text>The licensee shall enroll into a proficiency testing program offered by an entity that has been approved by the Centers for Medicare and Medicaid Services; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>When the numerical score is less than 80 percent, the licensee shall submit the official proficiency test result to the Office of Health Care Quality for review and monitoring with evidence of documented remedial actions taken.</text>
-        </para>
-      </para>
+      <text>Excepted Tests. A POL or POCL operating under a letter of exception may perform one or more CLIA waived tests.</text>
     </para>
     <para>
       <num>C.</num>
@@ -595,7 +331,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -682,10 +420,6 @@
         <num>(5)</num>
         <text>The laboratory director shall sign the application forms attesting that the information provided is accurate and that the laboratory is or will be operated in accordance with the requirements and standards required in this chapter.</text>
       </para>
-      <para>
-        <num>(6)</num>
-        <text>A person shall submit with the application the nonrefundable partial licensing fee set forth in <cite path="10.10.04.02|C.">COMAR 10.10.04.02C</cite>.</text>
-      </para>
     </para>
     <para>
       <num>B.</num>
@@ -765,29 +499,19 @@
     </para>
     <para>
       <num>F.</num>
-      <text>Expiration and Renewal.</text>
-      <para>
-        <num>(1)</num>
-        <text>A letter of exception or permit expires on the date shown on the license.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The OHCQ shall mail a renewal application to a laboratory not less than 30 days before the expiration date shown on the license.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>A licensee shall file an application to renew a license using forms provided by the OHCQ and following the same procedures prescribed in §§A and B of this regulation.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>A licensee who fails to submit a completed renewal application before the expiration date may not operate the laboratory after its letter of exception or permit has expired.</text>
-      </para>
+      <text>Non-Transferability. A license is not transferable between laboratories, directors, or locations.</text>
     </para>
     <para>
       <num>G.</num>
-      <text>Non-Transferability. A license is not transferable between laboratories, directors, or locations.</text>
+      <text>Letter of Exception. A person applying for a letter of exception for a POL or POCL shall submit an initial application.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>H.</num>
+      <text>Letter of Exception — Limited Testing for Rare Diseases. A person applying for a letter of exception—limited testing for rare diseases for a laboratory shall submit an initial application.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|10|03|.05">
     <prefix>Regulation</prefix>
@@ -1014,21 +738,22 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gen|6-303">Environment Article, §6-303</cite>; Health-General Article, §§2-104(b), 17-202, 17-205—17-210, 17-212, 17-502, 17-503, 17-505, <br/>17-508, and 17-510; Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gen|6-303">Environment Article, §6-303</cite>; Health-General Article, §§2-104(b), 17-202, 17-205—17-210, 17-212, 17-502, 17-503, 17-505, and 17-510; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13">Effective date: December 13, 1999 (26:25 Md. R. 1897)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-07-23"><cite path="|10|10|03|.01">Regulation .01</cite> amended effective July 24, 2000 (27:14 Md. R. 1340); July 23, 2001 (28:14 Md. R. 1321)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|03|.01|A.">Regulation .01A</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|03|.01|E.">Regulation .01E</cite> adopted effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-04-13"><cite path="|10|10|03|.02">Regulation .02</cite> amended effective July 24, 2000 (27:14 Md. R. 1340); June 1, 2009 (36:11 Md. R. 787); April 13, 2015 (42:7 Md. R. 568)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16"><cite path="|10|10|03|.02|A.">Regulation .02A</cite> amended effective July 22, 2002 (29:14 Md. R. 1074); April 16, 2012 (39:7 Md. R. 492)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-01-06"><cite path="|10|10|03|.02|B.">Regulation .02B</cite> amended as an emergency provision effective November 1, 2004 (31:25 Md. R. 1789); amended permanently effective January 6, 2005 (31:26 Md. R. 1863)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|03|.02|B.">Regulation .02B</cite> amended as an emergency provision effective November 1, 2004 (31:25 Md. R. 1789); amended permanently effective January 6, 2005 (31:26 Md. R. 1863); March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-03-13"><cite path="|10|10|03|.02|B.">Regulation .02B</cite> amended effective August 29, 2005 (32:17 Md. R. 1438); February 22, 2010 (37:4 Md. R. 341); April 16, 2012 (39:7 Md. R. 492); November 12, 2012 (39:22 Md. R. 1428); April 1, 2013 (40:6 Md. R. 473); March 13, 2017 (44:5 Md. R. 292)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-11-12"><cite path="|10|10|03|.02|C.">Regulation .02C</cite> amended effective November 12, 2012 (39:22 Md. R. 1428)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|03|.03|C.">Regulation .03C</cite> amended effective June 1, 2009 (36:11 Md. R. 787); August 29, 2016 (43:17 Md. R. 953)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|03|.04">Regulation .04</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|03|.04">Regulation .04</cite> amended effective June 1, 2009 (36:11 Md. R. 787); March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|03|.04|B.">Regulation .04B</cite>, E amended effective August 29, 2016 (43:17 Md. R. 953)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|03|.05">Regulation .05</cite> adopted effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|03|.06">Regulation .06</cite> adopted effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|03|.06|A.">Regulation .06A</cite> amended effective August 29, 2016 (43:17 Md. R. 953)</annotation>
+    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
   </annotations>
 </container>

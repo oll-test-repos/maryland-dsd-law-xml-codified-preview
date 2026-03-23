@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>10</num>
+  <heading>Natural Organic Reduction — Definitions</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Scope.</heading>
+    <text>This chapter governs the definitions of terms used in <cite path="|09.34.11">COMAR 09.34.11</cite>, <cite path="|09.34.12">COMAR 09.34.12</cite>, <cite path="|09.34.13">COMAR 09.34.13</cite>, and <cite path="|09.34.14">COMAR 09.34.14</cite>.</text>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In <cite path="|09.34.11">COMAR 09.34.11</cite>, <cite path="|09.34.12">COMAR 09.34.12</cite>, <cite path="|09.34.13">COMAR 09.34.13</cite>, and <cite path="|09.34.14">COMAR 09.34.14</cite>, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Advertisement” means the publication, dissemination, or circulation of any oral or written matter, including labeling, which directly or indirectly calls to the attention of the public the goods or services one has to offer.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Aerobic” means the biochemical decomposition of organic matter primarily into stabilized solids and carbon dioxide by microorganisms in the presence of air.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Authorizing Agent” means an individual who has legal authority to arrange for and make decisions regarding the final disposition of human remains.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Board” means the Board of Morticians and Funeral Directors.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Bulking agent” means a material added to remains to increase porosity and facilitate aeration during natural organic reduction and can only be organic materials and cannot include synthetic microbes, insects, or chemicals.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Consumer.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Consumer” means an actual or prospective purchaser of consumer services, consumer goods, or consumer credit.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Consumer” includes an individual directed by the consumer, or properly acting on behalf of a deceased consumer, to inquire about the cost or purchase of reduction services or reduction related goods, or to act on behalf of the consumer.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Consumer” includes a funeral establishment contracting with a reduction facility authorizing agent of a decedent contracting with a reduction facility.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Curing.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Curing” means the phase of the reduction process after:</text>
+          <para>
+            <num>(i)</num>
+            <text>Most of the human remains have completed natural organic reduction and stabilized; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Any pathogen reduction process needed for the soil remains to meet the standards set in <cite path="09.34.13.11">COMAR 09.34.13.11</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Curing” includes periods in which the soil remains are managed to increase maturity prior to the completion of natural organic reduction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Decedent” means a dead human being.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Director” means the Director of the Office of Cemetery Oversight.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Engage in the Operation of a reduction facility” means:</text>
+        <para>
+          <num>(a)</num>
+          <text>Controlling or managing a reduction facility.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Engage in the operation of a reduction facility” does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>The practice of funeral direction or the practice of mortuary science; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Assistance in making decisions and filling out forms that are not directly related to natural organic reduction;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Obtaining vital statistics, signatures, and other information necessary to complete a death certificate;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Transportation of a body to the place of disposition; or</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Any other services regarding the disposition of a body that are not directly related to natural organic reduction.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>“Holding facility” means an area, within or adjacent to a reduction facility, designed for the retention of human remains before natural organic reduction begins.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Funeral establishment” means a building, structure, or premises licensed by the Board, with facilities for:</text>
+        <para>
+          <num>(a)</num>
+          <text>Embalming or holding of human remains for disposition;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Viewing of the human remains; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Funeral services.</text>
+        </para>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Human Remains.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Human remains” means:</text>
+          <para>
+            <num>(i)</num>
+            <text>The body of a deceased person; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A part of a body or limb that has been removed from a living person.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Human remains” includes the body or part of a body or limb in any state of decomposition.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Human remains” does not include soil remains produced after the completion of natural organic reduction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“Label” means the display of all written, printed, or graphic matter on the soil remains container or a statement accompanying a soil remains container.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>“Mature” means the characteristics of a soil after completing natural organic reduction so that is harmless to plant growth if used as a topsoil or soil supplement and it sufficiently stable that it will not generate nuisance odors and can be returned to the authorizing agent or the authorizing agent’s designee as soil remains.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>“Natural Organic Reduction” means the contained, accelerated, aerobic degradation of human remains into soil.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>“Office” means the Office of Cemetery Oversight.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>“Organic” means any natural biological substance of plant origin that is capable of microbial degradation.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>“Organic materials” means biodegradable materials such as wood chips, straw, and alfalfa added to the vessel to facilitate the natural organic reduction process and create nutrient-rich soil.</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>“Pathogenic organisms” means disease-causing organisms including, but not limited to bacteria, viruses, protozoa and viable helminth ova.</text>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>“Permit” means a permit issued by the Office to allow a sole proprietor, partnership, limited liability company, or corporation to operate a business which engages in the operation of a reduction facility or an individual to act as a registered reduction operator.</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>“Permit Holder” means the holder of a permit under <cite doc="Md. Code" path="gbr">Business Regulation Article, Title 5, Annotated Code of Maryland</cite>, to engage in the operation of a reduction facility or to act as a registered reduction operator.</text>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>“Pulverization” means the process of breaking down of skeletal remains into fine particles or powder by crushing, grinding, or milling after natural organic reduction leaving bone fragments reduced to 5 millimeters or less.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>“Reduction container” means a leak-proof container, including a body bag or casket, in which human remains are transported to the reduction facility for natural organic reduction, but the human remains are removed from prior to the start of the natural organic reduction process.</text>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>“Reduction facility” means a building, portion of a building, or enclosed structure that houses the necessary appliances, containers, and facilities for performing natural organic reduction.</text>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>“Registered Reduction Operator” means an individual registered with the Office to operate a reduction facility as a sole proprietor or on behalf of a sole proprietor or a permit holder.</text>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text>“Responsible Party” means a sole proprietor or the individual designated by a corporation, limited liability company, or partnership which holds a permit to engage in the operation of a reduction facility, to be the registered reduction operator responsible for the operations of the reduction facility.</text>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text>“Soil Remains” means the soil produced at final disposition of a dead human body at a reduction facility by completion of natural organic reduction.</text>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text>“Soil remains container” means a closable container, including an urn, box, or sack, in which soil remains are returned to the authorizing agent or the authorizing agent’s designee following the completion of natural organic reduction.</text>
+      </para>
+      <para>
+        <num>(30)</num>
+        <text>“Vector” means a carrier organism that is capable of transmitting a pathogen to another organism and includes, but is not limited to, flies and other insects, rodents, birds and vermin.</text>
+      </para>
+      <para>
+        <num>(31)</num>
+        <text>“Vessel” means the chamber, container, or pod into which the remains are placed for natural organic reduction. The vessel shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Promote aerobic reduction during natural organic reduction; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Be leak-proof, durable, noncorrosive, and fully sealed.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gbr|5-204">Business Regulation Article, § 5-204, </cite>Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30">Effective date: March 30, 2026 (53:6 Md. R. 287)</annotation>
+  </annotations>
+  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+</container>

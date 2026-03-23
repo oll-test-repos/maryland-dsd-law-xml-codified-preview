@@ -37,17 +37,17 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Comprehensive Health Education Standards.</text>
+      <text>Comprehensive Health Education Standards. All students will:</text>
       <para>
         <num>(1)</num>
-        <text>Students will comprehend concepts related to health promotion and disease prevention to enhance health, including:</text>
+        <text>Use functional health information to support the health and well-being of self and others, including:</text>
         <para>
           <num>(a)</num>
           <text>Mental and emotional health;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Substance abuse prevention;</text>
+          <text>Substance use and misuse;</text>
         </para>
         <para>
           <num>(c)</num>
@@ -59,40 +59,40 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>Healthy eating; and</text>
+          <text>Nutrition; and</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>Disease prevention and control.</text>
+          <text>Disease prevention and control;</text>
         </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors.</text>
+        <text>Analyze influences that affect the health and well-being of self and others;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Students will demonstrate the ability to access valid information, products, and services to enhance health.</text>
+        <text>Access valid and reliable resources to support the health and well-being of self and others;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Students will demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks.</text>
+        <text>Use interpersonal communication skills to support the health and well-being of self and others;</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>Students will demonstrate the ability to use decision-making skills to enhance health.</text>
+        <text>Use a decision-making process to support the health and well-being of self and others;</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>Students will demonstrate the ability to use goal-setting skills to enhance health.</text>
+        <text>Use a goal-setting process to support the health and well-being of self and others;</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks.</text>
+        <text>Demonstrate practices and behaviors to support the health and well-being of self and others; and</text>
       </para>
       <para>
         <num>(8)</num>
-        <text>Students will demonstrate the ability to advocate for personal, family, and community health.</text>
+        <text>Advocate to promote the health and well-being of self and others.</text>
       </para>
     </para>
     <para>
@@ -131,7 +131,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Direct teaching of the family life and human sexuality indicators and objectives will begin in or prior to the grade 5.</text>
+          <text>Direct teaching of the family life and human sexuality indicators and objectives must begin by grade 4.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -193,7 +193,7 @@
     </para>
     <para>
       <num>E.</num>
-      <text>Curriculum Documents. Consistent with Education Article, §§<cite doc="Md. Code" path="ged|2-205">2-205</cite>(h), <cite doc="Md. Code" path="ged|4-111">4-111</cite>.2, 7-205.2, 7-401, 7-410, 7-411, 7-411.1, 7-413, 7-439, and 7-445, Annotated Code of Maryland, each local school system shall provide comprehensive health education curriculum documents for the elementary and secondary schools under its jurisdiction that:</text>
+      <text>Curriculum Documents. Consistent with Education Article, §§<cite doc="Md. Code" path="ged|2-205">2-205</cite>(h), <cite doc="Md. Code" path="ged|4-111">4-111</cite>.2, 7-205.2, 7-401, 7-410, 7-411, 7-411.1, 7-413, 7-439, and 7-445, Annotated Code of Maryland, each local school system shall provide age-appropriate, scientifically based, medically accurate, and data-driven comprehensive health education curriculum documents for the elementary and secondary schools under its jurisdiction that:</text>
       <para>
         <num>(1)</num>
         <text>Include the standards set forth in <cite path="13A|04|18|.01|C.">§C of this regulation</cite>; and</text>
@@ -208,7 +208,7 @@
       <text>The local school system shall develop guidelines and procedures for the selection of qualified health education teachers. Qualifications shall include:</text>
       <para>
         <num>(1)</num>
-        <text>Health Education certification as set forth in COMAR 13A.12.02; and</text>
+        <text>Health Education licensure as set forth in COMAR 13A.12.02; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -223,7 +223,9 @@
       <num>H.</num>
       <text>Student Participation. Each student shall have the opportunity to participate in the comprehensive health education program required by this chapter.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-293-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -242,5 +244,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-01"><cite path="|13A|04|18|.01|B.">Regulation .01B</cite>, G amended effective August 1, 2016 (43:15 Md. R. 864)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-01"><cite path="|13A|04|18|.02">Regulation .02</cite> amended effective August 1, 2016 (43:15 Md. R. 864)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-30" discontinuity="true">Regulations <cite path="|13A|04|18|.01">.01</cite>—<cite path="|13A|04|18|.02">.02</cite> repealed and new Regulations <cite path="|13A|04|18|.01">.01</cite>—<cite path="|13A|04|18|.02">.02</cite> adopted effective December 30, 2019 (46:26 Md. R. 1166)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|13A|04|18|.01">Regulation .01</cite> amended effective March 30, 2026 (53:6 Md. R. 291)</annotation>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-293-F" type="History" display="false"/>
   </annotations>
 </container>

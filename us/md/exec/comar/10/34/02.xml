@@ -31,29 +31,45 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>"Board" means the State Board of Pharmacy.</text>
+        <text>“Board” means the State Board of Pharmacy.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>"Licensure examinations" means the Board-administered or Board-approved examinations required of applicants for licensure which include the following:</text>
+        <text>“Foreign school or college of pharmacy” means a school or college of pharmacy that is not located in any state of the United States.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Licensure examinations” means the Board-administered or Board-approved examinations required of applicants for licensure which include the following:</text>
         <para>
           <num>(a)</num>
-          <text>Exam I:</text>
+          <text>Exam I: North American Pharmacist Licensure Examination (NAPLEX);</text>
           <para>
             <num>(i)</num>
-            <text>Part I: NAPLEX, and</text>
+            <text>Part I: NAPLEX, and</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>Part II: Pharmacy Law Test;</text>
+            <text>Part II: Pharmacy Law Test;</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>Exam II:</text>
+          <text>Exam II: Pharmacy Law Test through either:</text>
           <para>
             <num>(i)</num>
-            <text>Prescreening Test of Oral English Competency, or</text>
+            <text>The Uniform Multistate Pharmacy Jurisprudence Examination (UMPJE) and the Maryland Pharmacy Law webinar and post-webinar test; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The Maryland Multistate Pharmacy Jurisprudence Examination (MPJE); and</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Exam III:</text>
+          <para>
+            <num>(i)</num>
+            <text>Prescreening Test of Oral English Competency; or</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -62,7 +78,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-264-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|34|02|.03">
     <prefix>Regulation</prefix>
@@ -70,35 +88,87 @@
     <heading>Licensure Examinations.</heading>
     <para>
       <num>A.</num>
-      <text>An applicant may take Exam I upon satisfactory proof that the applicant has graduated, or is expected to graduate at the completion of the immediate semester, from a school or college of pharmacy that has been:</text>
+      <text>Examination Eligibility.</text>
       <para>
         <num>(1)</num>
-        <text>Approved by the Board; or</text>
+        <text>An applicant may be approved by the Board to take Exam I upon satisfactory proof that the applicant has graduated, or is expected to graduate at the completion of the immediate semester, from a school or college of pharmacy that has been:</text>
+        <para>
+          <num>(a)</num>
+          <text>Approved by the Board; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Accredited by the American Council on Pharmaceutical Education (ACPE).</text>
+        </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>Accredited by the American Council on Pharmaceutical Education.</text>
+        <text>Beginning May 1, 2027, an applicant may be approved by the Board to take Exam II upon satisfactory proof that the applicant has graduated from, or has successfully completed the didactic portion of the core curriculum of a school or college of pharmacy that has been:</text>
+        <para>
+          <num>(a)</num>
+          <text>Approved by the Board; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Accredited by the American Council on Pharmaceutical Education (ACPE).</text>
+        </para>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>An applicant may not receive a license until the applicant has provided satisfactory proof to the Board of the applicant's graduation from a college or school of pharmacy approved by the Board or accredited by the American Council on Pharmaceutical Education.</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>Passing Grades — Exam I.</text>
+      <text>An applicant may not receive a license until the applicant has:</text>
       <para>
         <num>(1)</num>
-        <text>The passing grade for each of the two parts of the Exam I is 75.</text>
+        <text>Obtained passing scores on Exam I, Exam II, and Exam III, as applicable; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>If a candidate receives a passing grade on Part I or Part II of Exam I, the candidate is not required to retake that part unless the passing grade was received more than 1 year before the date the candidate successfully completed all of the other examination requirements set forth in this regulation.</text>
+        <text>Provided satisfactory proof to the Board of the applicant’s graduation from a college or school of pharmacy approved by the Board or accredited by the American Council on Pharmaceutical Education (ACPE).</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Passing Scores—Exam I and Exam II.</text>
+      <para>
+        <num>(1)</num>
+        <text>The passing score for Exam I is 75.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>II Passing Scores.</text>
+        <para>
+          <num>(a)</num>
+          <text>For the Maryland Multistate Pharmacy Jurisprudence Examination (MPJE) the passing score is 75.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For the Uniform Multistate Pharmacy Jurisprudence Examination (UMPJE) the passing score is 75.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Maryland Pharmacy Law Webinar and Post-Webinar Exam.</text>
+          <para>
+            <num>(i)</num>
+            <text>The passing score is 85.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The Maryland Pharmacy Law webinar and post-webinar exam shall provide unlimited attempts to pass the exam in one sitting provided that the applicant reviews the webinar after each failed attempt at the exam.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>There may not be a fee associated with the Maryland Pharmacy Law webinar and post-webinar exam.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a candidate receives a passing score on Exam I or Exam II, the candidate is not required to retake that exam unless the passing score was received more than 2 years before the date the candidate successfully completed all of the other examination requirements set forth in this regulation.</text>
       </para>
     </para>
     <para>
       <num>D.</num>
-      <text>Passing Grades — Exam II.</text>
+      <text>Passing Score—Exam III.</text>
       <para>
         <num>(1)</num>
         <text>Prescreening Test of Oral English Competency.</text>
@@ -236,7 +306,33 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>E.</num>
+      <text>Graduates of a Foreign School or College of Pharmacy.</text>
+      <para>
+        <num>(1)</num>
+        <text>In addition to the other examination requirements set forth in this regulation, an applicant who has graduated from a foreign school or college of pharmacy shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Be approved to take the Foreign Pharmacy Graduate Equivalency Examination (FPGEE); and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Obtain the Foreign Pharmacy Graduate Education Committee (FPGEC) Certificate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The passing score for the FPGEE is 75.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Upon successful completion of the FPGEE and submission of the FPGE Certificate, an applicant may be approved by the Board to take Exam I and Exam II.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-264-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|34|02|.04">
     <prefix>Regulation</prefix>
@@ -297,9 +393,11 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1984-04-09"><cite path="|10|34|02|.04">Regulation .04</cite> amended effective April 9, 1984 (11:7 Md. R. 625)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-02-19"><cite path="|10|34|02|.05|A.">Regulation .05A</cite>, B amended effective February 19, 1990 (17:3 Md. R. 298)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-02-17" discontinuity="true">Chapter revised effective February 17, 2003 (30:3 Md. R. 180)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-06-20"><cite path="|10|34|02|.03">Regulation .03</cite> amended effective June 20, 2005 (32:12 Md. R. 1047)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|10|34|02|.02|B.">Regulation .02B</cite> amended effective March 2, 2026 (53:4 Md. R. 185)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|10|34|02|.03">Regulation .03</cite> amended effective June 20, 2005 (32:12 Md. R. 1047; March 2, 2026 (53:4 Md. R. 185)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-07-03"><cite path="|10|34|02|.03|D.">Regulation .03D</cite> amended effective July 3, 2017 (44:13 Md. R. 621)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-07-01"><cite path="|10|34|02|.04">Regulation .04</cite> amended effective July 1, 2015 (42:7 Md. R. 569)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-07-01"><cite path="|10|34|02|.05|A.">Regulation .05A</cite>, D amended effective July 1, 2015 (42:7 Md. R. 569)</annotation>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-264-F" type="History" display="false"/>
   </annotations>
 </container>

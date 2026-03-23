@@ -800,7 +800,13 @@
       <num>C.</num>
       <text>The grower shall maintain a log of all visitors for 2 years.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>A firefighter, a rescue squad member, law enforcement officer, or emergency medical services personnel who is actively responding to a call for emergency services is not subject to §A(1)—(3) of this regulation.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -933,14 +939,30 @@
       </para>
       <para>
         <num>(15)</num>
-        <text>Harvesting, drying, curing; and</text>
+        <text>Harvesting, drying, curing;</text>
       </para>
       <para>
         <num>(16)</num>
-        <text>Research and development procedures.</text>
+        <text>Research and development procedures;</text>
       </para>
       <para>
         <num>(17)</num>
+        <text>Decontamination, including but not limited to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Preventing contamination;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Investigating decontaminating after repeated tests falling outside action limits; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Remediation steps and resulting environmental analysis.</text>
+        </para>
+      </para>
+      <para>
+        <num>(18)</num>
         <text>If applicable, co-locating with another licensee, including:</text>
         <para>
           <num>(a)</num>
@@ -968,7 +990,9 @@
         <text>Accurately reflect the procedures used at the premises.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Alcoholic Beverages and Cannabis Article, §§36-202, 36-203, 36-401, 36-402, and 36-410, Annotated Code of Maryland</annotation>
@@ -978,7 +1002,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22">Regulations <cite path="|14|17|10|.01">.01</cite>—<cite path="|14|17|10|.09">.09</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|10|.02">Regulation .02</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|10|.03|B.">Regulation .03B</cite>, D amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|10|.07|D.">Regulation .07D</cite> adopted effective March 16, 2026 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|10|.08|B.">Regulation .08B</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|14|17|10|.09|A.">Regulation .09A</cite> amended effective May 26, 2025 (52:10 Md. R. 436)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|10|.09|A.">Regulation .09A</cite> amended effective May 26, 2025 (52:10 Md. R. 436); March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
   </annotations>
 </container>

@@ -630,7 +630,7 @@
       <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" type="History" display="false"/>
     </annotations>
   </section>
-  <section cache:ref-path="10|25|07|.10">
+  <section>
     <prefix>Regulation</prefix>
     <num>.10</num>
     <heading>Withdrawal of Certification and Other Penalties.</heading>
@@ -655,67 +655,11 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>The MHCC-certified EHN violated a provision of <cite path="|10.25.18">COMAR 10.25.18</cite>.</text>
+        <text>The MHCC-certified EHN fails to submit electronic health care transactions information to the State-designated HIE in accordance with <cite path="|10|25|07|.09">Regulation .09 of this chapter</cite>.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>An MHCC-certified EHN shall report on compliance progress to the Commission, as follows:</text>
-      <para>
-        <num>(1)</num>
-        <text>By January 8, 2024, an MHCC-certified EHN shall submit to the Commission:</text>
-        <para>
-          <num>(a)</num>
-          <text>An affirmation that to the extent required by Health-General Article, §4-302.5, Annotated Code of Maryland, it:</text>
-          <para>
-            <num>(i)</num>
-            <text>Possesses the technological capability to filter and restrict from disclosure legally protected health information;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Is parsing restricted codes and conveying all other information in the health record that is not prohibited by law to exchange; and</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Possesses the technological capacity to allow a consumer to request and consent to the exchange of legally protected health information to a specific treating provider; or</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>An implementation plan that includes:</text>
-          <para>
-            <num>(i)</num>
-            <text>An affirmation that, despite its best efforts, the MHCC-certified EHN lacks the technological capability to fully comply with Health-General Article, §4-302.5, Annotated Code of Maryland, as of January 8, 2024, including a detailed explanation of the EHN’s limitations;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>A detailed description of the steps the MHCC-certified EHN is taking to ensure compliance with Health-General Article, §4-302.5, Annotated Code of Maryland, by June 1, 2024;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>A timeline to implement Health-General Article, §4-302.5, Annotated Code of Maryland, by June 1, 2024; and</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>A description of the extent legally protected health information and other health information will be restricted by the MHCC-certified EHN during the implementation of its plan.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>If a MHCC-certified EHN submits an implementation plan in accordance with <cite path="10|25|07|.10|B.|(1)">§B(1) of this regulation</cite>, the EHN shall:</text>
-        <para>
-          <num>(a)</num>
-          <text>Provide a status report to the Commission by April 1, 2024, detailing the progress the MHCC-certified EHN has made under its implementation plan; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Submit validation to the Commission by June 1, 2024, that it possesses the technological capability to filter and restrict from disclosure legally protected health information to the extent required by law.</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>C.</num>
       <text>Beginning June 1, 2024, a person who knowingly violates Health-General Article, §4-302.5, Annotated Code of Maryland, shall be guilty of a misdemeanor and on conviction is subject to a fine not to exceed $10,000 per day based on:</text>
       <para>
         <num>(1)</num>
@@ -730,8 +674,25 @@
         <text>The person’s prior record of compliance.</text>
       </para>
     </para>
+    <para>
+      <num>C.</num>
+      <text>A MHCC-certified EHN that fails to submit electronic health transactions information to the State-designated HIE in accordance with <cite path="|10|25|07|.09">Regulation .09 of this chapter</cite> may be subject to a financial penalty not to exceed $10,000 per day based on:</text>
+      <para>
+        <num>(1)</num>
+        <text>The extent of actual or potential public harm caused by the violation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The cost of investigating the violation; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Whether the MHCC-certified EHN committed previous violations.</text>
+      </para>
+    </para>
     <annotations>
       <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" type="History" display="false"/>
+      <annotation app="2025-11-10" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -740,11 +701,11 @@
     <heading>Notice Prior to Withdrawal.</heading>
     <para>
       <num>A.</num>
-      <text>Before withdrawal of certification on one of the bases provided in <cite path="|10|25|07|.09">Regulation .09 of this chapter</cite>, the Executive Director shall inform the MHCC-certified EHN, setting forth in writing the reasons for withdrawal.</text>
+      <text>Before withdrawal of certification on one of the bases provided in <cite path="|10|25|07|.10">Regulation .10 of this chapter</cite>, the Executive Director shall inform the MHCC-certified EHN, setting forth in writing the reasons for withdrawal.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>The notice of withdrawal shall set forth the right of the MHCC-certified EHN to an evidentiary hearing, conducted in accordance with <cite path="|10|25|07|.11">Regulation .11 of this chapter</cite>, to show cause why the certification should not be withdrawn.</text>
+      <text>The notice of withdrawal shall set forth the right of the MHCC-certified EHN to an evidentiary hearing, conducted in accordance with <cite path="|10|25|07|.12">Regulation .12 of this chapter</cite>, to show cause why the certification should not be withdrawn.</text>
     </para>
     <para>
       <num>C.</num>
@@ -752,6 +713,7 @@
     </para>
     <annotations>
       <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" type="History" display="false"/>
+      <annotation app="2025-11-10" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
     </annotations>
   </section>
   <section>

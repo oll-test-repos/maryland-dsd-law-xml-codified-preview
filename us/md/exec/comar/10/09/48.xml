@@ -88,7 +88,7 @@
       </para>
       <para>
         <num>(13)</num>
-        <text>"Department" means the Maryland Department of Health, which is the single State agency designated to administer the Maryland Medical Assistance Program pursuant to Title XIX of the Social Security Act, 42 U.S.C. §1396 et seq.</text>
+        <text>“Department” means the Maryland Department of Health, which is the single State agency designated to administer the Maryland Medical Assistance Program pursuant to Title XIX of the Social Security Act, 42 U.S.C. §1396 et seq.</text>
       </para>
       <para>
         <num>(14)</num>
@@ -100,7 +100,7 @@
       </para>
       <para>
         <num>(16)</num>
-        <text>"Entity" means a facility, agency, organization, department, office, corporation, partnership, group, or individual.</text>
+        <text>“Entity” means a facility, agency, organization, department, office, corporation, partnership, group, or individual.</text>
       </para>
       <para>
         <num>(17)</num>
@@ -116,7 +116,7 @@
       </para>
       <para>
         <num>(20)</num>
-        <text>"Medical Assistance Program" means the program of comprehensive medical and other health-related care for indigent and medically indigent persons.</text>
+        <text>“Medical Assistance Program” means the program of comprehensive medical and other health-related care for indigent and medically indigent persons.</text>
       </para>
       <para>
         <num>(21)</num>
@@ -171,12 +171,12 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>"Place of service" includes but is not limited to the participant’s home, day program, group home, alternate living arrangement, or place of employment.</text>
+          <text>“Place of service” includes but is not limited to the participant’s home, day program, group home, alternate living arrangement, or place of employment.</text>
         </para>
       </para>
       <para>
         <num>(27)</num>
-        <text>"Program" means the Medical Assistance Program as defined in <cite path="10.09.36.01">COMAR 10.09.36.01</cite>.</text>
+        <text>“Program” means the Medical Assistance Program as defined in <cite path="10.09.36.01">COMAR 10.09.36.01</cite>.</text>
       </para>
       <para>
         <num>(28)</num>
@@ -1423,19 +1423,19 @@
         <text>For all other services rendered to Maryland Medicaid participants residing in counties other than those listed in <cite path="10|09|48|.08|B.|(7)">§B(7) of this regulation</cite>, providers shall be reimbursed:</text>
         <para>
           <num>(a)</num>
-          <text>For dates of service July 1, 2022 through September 30, 2022, $24.56 per unit of service;</text>
+          <text>For dates of service January 1, 2023 through June 30, 2023, $24.56 per unit;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>For dates of service October 1, 2022 through December 31, 2022, $27.02 per unit;</text>
+          <text>For dates of service July 1, 2023 through December 31, 2023, $25.54 per unit;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>For dates of service January 1, 2023 through June 30, 2023, $24.56 per unit; and</text>
+          <text>For dates of service January 1, 2024 through June 30, 2024, $27.50 per unit; and</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>For dates of service July 1, 2023 through June 30, 2024, $25.54 per unit.</text>
+          <text>For dates of service July 1, 2024 through June 30, 2025, $28.33 per unit.</text>
         </para>
       </para>
       <para>
@@ -1443,19 +1443,19 @@
         <text>Providers rendering services to Maryland Medicaid participants residing in Calvert, Charles, Frederick, Montgomery, and Prince George’s counties shall be reimbursed:</text>
         <para>
           <num>(a)</num>
-          <text>For dates of service July 1, 2022 through September 30, 2022, $25.86 per unit;</text>
+          <text>For dates of service January 1, 2023 through June 30, 2023, $25.86 per unit;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>For dates of service October 1, 2022 through December 31, 2022, $28.45 per unit;</text>
+          <text>For dates of service July 1, 2023 through December 31, 2023, $26.89 per unit;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>For dates of service January 1, 2023 through June 30, 2023, $25.86 per unit; and</text>
+          <text>For dates of service January 1, 2024 through June 30, 2024, $28.96 per unit; and</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>For dates of service July 1, 2023 through June 30, 2024, $26.89 per unit.</text>
+          <text>For dates of service July 1, 2024 through June 30, 2025, $29.83 per unit.</text>
         </para>
       </para>
     </para>
@@ -1515,7 +1515,9 @@
         <text>Each fiscal year, the coordinator of community services shall complete the core services for each participant.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-033-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1555,12 +1557,12 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§2-104(b), 15-103, and 15-105, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-12">Regulations <cite path="|10|09|48|.01">.01</cite>—<cite path="|10|09|48|.18">.18</cite> adopted as an emergency provision effective June 23, 1992 (19:14 Md. R. 1276); adopted permanently effective October 12, 1992 (19:20 Md. R. 1815)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-12">Regulations <cite path="|10|09|48|.01">.01</cite>—<cite path="|10|09|48|.18" proof="needed">.18</cite> adopted as an emergency provision effective June 23, 1992 (19:14 Md. R. 1276); adopted permanently effective October 12, 1992 (19:20 Md. R. 1815)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-03-27">Regulations <cite path="|10|09|48|.01">.01</cite>—<cite path="|10|09|48|.03">.03</cite> and .06 amended and Regulation .12 repealed as an emergency provision effective December 9, 1994 (21:26 Md. R. 2183); adopted permanently effective March 27, 1995 (22:6 Md. R. 474)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-08-27"><cite path="|10|09|48|.01|B.">Regulation .01B</cite> amended effective August 27, 2007 (34:17 Md. R. 1507)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-08-27"><cite path="|10|09|48|.09|A.">Regulation .09A</cite> amended effective August 27, 2007 (34:17 Md. R. 1507)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-08-27"><cite path="|10|09|48|.10|A.">Regulation .10A</cite> amended effective August 27, 2007 (34:17 Md. R. 1507)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-07-08" discontinuity="true">Regulations <cite path="|10|09|48|.01">.01</cite>—<cite path="|10|09|48|.18">.18</cite> under Case Management for Individuals with Developmental Disability repealed and new Regulations <cite path="|10|09|48|.01">.01</cite>—<cite path="|10|09|48|.12">.12</cite> under Targeted Case Management for People with Intellectual and Developmental Disabilities adopted effective July 8, 2013 (40:13 Md. R. 1074)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-08-27"><cite path="|10|09|48|.09|A." proof="needed">Regulation .09A</cite> amended effective August 27, 2007 (34:17 Md. R. 1507)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-08-27"><cite path="|10|09|48|.10|A." proof="needed">Regulation .10A</cite> amended effective August 27, 2007 (34:17 Md. R. 1507)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-07-08" discontinuity="true">Regulations <cite path="|10|09|48|.01">.01</cite>—<cite path="|10|09|48|.18" proof="needed">.18</cite> under Case Management for Individuals with Developmental Disability repealed and new Regulations <cite path="|10|09|48|.01">.01</cite>—<cite path="|10|09|48|.12">.12</cite> under Targeted Case Management for People with Intellectual and Developmental Disabilities adopted effective July 8, 2013 (40:13 Md. R. 1074)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-06-08">Chapter name, Targeted Case Management for People with Intellectual and Developmental Disabilities amended to be Targeted Case Management for People with Developmental Disabilities effective June 8, 2015 (42:11 Md. R. 723)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-12-27"><cite path="|10|09|48|.01|B.">Regulation .01B</cite> amended effective June 8, 2015 (42:11 Md. R. 723); December 27, 2021 (48:26 Md. R. 1111)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-12-27"><cite path="|10|09|48|.02">Regulation .02</cite> amended effective December 27, 2021 (48:26 Md. R. 1111)</annotation>
@@ -1571,7 +1573,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-12-27"><cite path="|10|09|48|.06">Regulation .06</cite> amended effective June 8, 2015 (42:11 Md. R. 723); December 27, 2021 (48:26 Md. R. 1111)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-12-27"><cite path="|10|09|48|.07">Regulation .07</cite> amended effective June 8, 2015 (42:11 Md. R. 723); December 27, 2021 (48:26 Md. R. 1111)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-12-27"><cite path="|10|09|48|.08">Regulation .08</cite> amended effective June 8, 2015 (42:11 Md. R. 723); June 20, 2016 (43:12 Md. R. 666); December 27, 2021 (48:26 Md. R. 1111)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-09-16"><cite path="|10|09|48|.08|B.">Regulation .08B</cite> amended effective August 14, 2017 (44:16 Md. R. 809); February 12, 2018 (45:3 Md. R. 156); December 31, 2018 (45:26 Md. R. 1243); December 30, 2019 (46:26 Md. R. 1164); August 21, 2023 (50:16 Md. R. 276); September 16, 2024 (51:18 Md. R. 809)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|09|48|.08|B.">Regulation .08B</cite> amended effective August 14, 2017 (44:16 Md. R. 809); February 12, 2018 (45:3 Md. R. 156); December 31, 2018 (45:26 Md. R. 1243); December 30, 2019 (46:26 Md. R. 1164); August 21, 2023 (50:16 Md. R. 276); September 16, 2024 (51:18 Md. R. 809); November 24, 2025 (52:23 Md. R. 1139)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-06-08"><cite path="|10|09|48|.10">Regulation .10</cite> amended effective June 8, 2015 (42:11 Md. R. 723)</annotation>
+    <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-033-F" type="History" display="false"/>
   </annotations>
 </container>
