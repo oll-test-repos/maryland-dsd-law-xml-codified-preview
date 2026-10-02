@@ -24,7 +24,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" type="History" display="false"/>
+      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" target-path="10|25|07|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -184,7 +184,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" type="History" display="false"/>
+      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" target-path="10|25|07|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -289,7 +289,7 @@
       <text>The Commission shall issue certification to an applicant that has met all the requirements of <cite path="10|25|07|.05|A.">§A of this regulation</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" type="History" display="false"/>
+      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" target-path="10|25|07|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|25|07|.06">
@@ -627,7 +627,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" type="History" display="false"/>
+      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" target-path="10|25|07|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -691,8 +691,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" type="History" display="false"/>
-      <annotation app="2025-11-10" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" target-path="10|25|07|.10" type="History" display="false"/>
+      <annotation app="2025-11-10" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" target-path="10|25|07|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -712,8 +712,8 @@
       <text>Within 15 days of receipt of the notice of withdrawal, the MHCC-certified EHN may make a written filing that details the EHN's position and provides supporting documentation, before the Commission takes final action to withdraw the EHN's certification.</text>
     </para>
     <annotations>
-      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" type="History" display="false"/>
-      <annotation app="2025-11-10" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" target-path="10|25|07|.11" type="History" display="false"/>
+      <annotation app="2025-11-10" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" target-path="10|25|07|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -805,7 +805,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" type="History" display="false"/>
+      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" target-path="10|25|07" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -828,6 +828,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-13"><cite path="|10|25|07|.09">Regulation .09</cite> amended as an emergency provision effective January 11, 2024 (51:3 Md. R. 152); amended permanently effective May 13, 2024 (51:9 Md. R. 440)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-12-15"><cite path="|10|25|07|.09|C.">Regulation .09C</cite> amended effective December 15, 2008 (35:25 Md. R. 2150)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-10" discontinuity="true">Chapter revised effective November 10, 2025 (52:22 Md. R. 1095)</annotation>
-    <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" type="History" display="false"/>
+    <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|24-165-F" target-path="10|25|07|annos" type="History" display="false"/>
   </annotations>
 </container>

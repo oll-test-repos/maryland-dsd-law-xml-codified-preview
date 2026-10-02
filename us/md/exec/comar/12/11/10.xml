@@ -487,31 +487,31 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>The number of monitored individuals who violated the court order or program rules, and the number of monitored individuals removed from monitoring for a violation, categorized by the type of monitoring used;</text>
+        <text>The number of monitored individuals violating the court order or program rules, and the number of monitored individuals removed from monitoring for a violation, categorized by the type of monitoring used;</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>The number of instances for which the licensee was required to provide notification in accordance with <cite doc="Md. Code" path="gbo|20-401">Business Occupations and Professions Article, §20-401, Annotated Code of Maryland</cite> for a monitored individual who:</text>
+        <text>The number of instances for which a monitored individual was unaccounted for or absent from an approved location, or whose location was unknown within the following time frames:</text>
         <para>
           <num>(a)</num>
-          <text>Violates a condition of home detention monitoring;</text>
+          <text>Less than 2 hours,</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Tampers with home detention monitoring equipment or fails to maintain home detention monitoring equipment as required by a court order; or</text>
+          <text>More than 2 hours but less than 24 hours, and</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Enters an area that the monitored individual was expressly prohibited from entering as a condition of pretrial release or probation;</text>
+          <text>24 hours or more, with a copy of the written notice provided to the appropriate authority;</text>
         </para>
       </para>
       <para>
         <num>(7)</num>
-        <text>The number of instances for which the licensee provided notification as set forth in <cite path="12|11|10|.06|G.|(6)">§G(6) of this regulation</cite>;</text>
+        <text>The number of instances in which a monitored individual has been reported as having escaped;</text>
       </para>
       <para>
         <num>(8)</num>
-        <text>The number of monitored individuals who, in violation of a condition of release to private home detention, received a new criminal charge or conviction; and</text>
+        <text>The number of monitored individuals in each jurisdiction who, in violation of a condition of release to private home detention, received a new criminal charge or conviction; and</text>
       </para>
       <para>
         <num>(9)</num>
@@ -566,9 +566,7 @@
       <num>J.</num>
       <text>The monitoring agency licensee shall receive training in the use of electronic monitoring equipment from the manufacturer or its authorized representative.</text>
     </para>
-    <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-299-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -895,18 +893,18 @@
       </para>
       <para>
         <num>(9)</num>
-        <text>In accordance with <cite doc="Md. Code" path="gbo|20-401">Business Occupations and Professions Article, §20-401, Annotated Code of Maryland</cite>, a written policy and procedure governing when a monitor is required to notify the court, the designated law enforcement agency, and the Division of Parole and Probation if private home detention monitoring is a condition of probation, when a monitored individual has:</text>
+        <text>A written policy and procedure for documented action by a monitor, when the monitored individual is unaccounted for:</text>
         <para>
           <num>(a)</num>
-          <text>Violated a condition of home detention monitoring;</text>
+          <text>Less than 2 hours,</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Tampered with home detention monitoring equipment or failed to maintain home detention monitoring equipment as required by a court order; and</text>
+          <text>More than 2 hours but less than 24, and</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Entered an area that the monitored individual is expressly prohibited from entering as a condition of pretrial release or probation;</text>
+          <text>24 hours or more to include written notification to the appropriate authority as required by <cite doc="Md. Code" path="gbo|20-401">Business Occupations and Professions Article, §20-401(c), Annotated Code of Maryland</cite>;</text>
         </para>
       </para>
       <para>
@@ -1146,9 +1144,7 @@
       <num>B.</num>
       <text>The licensee shall conduct an annual review of policies and procedures and orientation materials and ensure their availability to staff.</text>
     </para>
-    <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-299-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1265,8 +1261,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-06-29">Regulations <cite path="|12|11|10|.01">.01</cite>—<cite path="|12|11|10|.11">.11</cite> adopted as an emergency provision effective June 29, 1999 (26:16 Md. R. 1239); emergency status extended at 27:1 Md. R. 73; emergency status expired June 30, 2000 (Emergency provisions are temporary and not printed in COMAR)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-08-07" discontinuity="true">Regulations <cite path="|12|11|10|.01">.01</cite>—<cite path="|12|11|10|.10">.10</cite> adopted effective August 7, 2000 (27:15 Md. R. 1401)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|12|11|10|.06|G.">Regulation .06G</cite> amended effective May 27, 2024 (51:10 Md. R. 528); March 30, 2026 (53:6 Md. R. 291)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|12|11|10|.09|A.">Regulation .09A</cite> amended effective March 30, 2026 (53:6 Md. R. 291)</annotation>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-299-F" type="History" display="false"/>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|12|11|10|.06|G.">Regulation .06G</cite> amended effective May 27, 2024 (51:10 Md. R. 528)</annotation>
   </annotations>
 </container>

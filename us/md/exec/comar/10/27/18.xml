@@ -9,7 +9,7 @@
     <heading>Scope.</heading>
     <text>This chapter establishes standards for the imposition of monetary penalties not exceeding $5,000 against a registered nurse, licensed practical nurse, direct-entry midwife, licensed certified midwife, or advanced practice registered nurse if the Board finds that there are grounds to take action under <cite doc="Md. Code" path="gho|8-316">Health Occupations Article, §8-316, Annotated Code of Maryland</cite>.</text>
     <annotations>
-      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10|27|18|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -49,7 +49,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10|27|18|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|27|18|.03">
@@ -245,7 +245,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|18|.02|B.">Regulation .02B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|18|.03|A.">Regulation .03A</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|18|.04|A.">Regulation .04A</cite>, H amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
-    <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
-    <annotation app="2026-02-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+    <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10|27|18|annos" type="History" display="false"/>
+    <annotation app="2026-02-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" target-path="10|27|18|annos" type="History" display="false"/>
   </annotations>
 </container>

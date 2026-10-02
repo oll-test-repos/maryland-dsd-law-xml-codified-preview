@@ -9,7 +9,7 @@
     <heading>Scope.</heading>
     <text>These regulations govern the use of quiet rooms and seclusion in all facilities as defined in Health-General Article, §§10-101(g) and 10-701, Annotated Code of Maryland. These regulations are supplemental to any other applicable law and regulation. In the event of conflict between these regulations and any other regulations or laws, the more stringent apply.</text>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|13|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -90,7 +90,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|13|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|21|13|.03">
@@ -198,7 +198,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|13|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|21|13|.04">
@@ -238,7 +238,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|13|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|21|13|.05">
@@ -314,7 +314,7 @@
       <text>If a patient is confined to a room in a manner that meets the definition of seclusion in accordance with <cite path="|10|21|13|.02|B.">Regulation .02B of this chapter</cite>, the patient is considered to be subject to seclusion, regardless of whether the room used is typically used as a seclusion room.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|13|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -366,7 +366,7 @@
       <text>When the patient's behavior no longer places the patient or others in serious threat of violence or injury, the patient shall be released from seclusion.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|13|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|21|13|.07">
@@ -446,7 +446,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|13|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -582,7 +582,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|13|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|21|13|.09">
@@ -736,7 +736,7 @@
       <text>If restraint is used in conjunction with seclusion, staff shall also comply with <cite path="|10.21.12">COMAR 10.21.12</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|13|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -815,7 +815,7 @@
       <text>The CEO shall assure that the facility's quality assurance process incorporates a monthly review of any variance permitted in <cite path="10|21|13|.12|A.">§A of this regulation</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|13|.12" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -832,6 +832,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|21|13|.08|D.">Regulation .08D</cite> amended effective November 24, 2025 (52:23 Md. R. 1139)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|21|13|.01|D." proof="needed">Regulation .01D</cite>, F amended effective November 24, 2025 (52:23 Md. R. 1139)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|10|21|13|.12|B.">Regulation .12B</cite> amended effective November 24, 2025 (52:23 Md. R. 1139)</annotation>
-    <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|13|annos" type="History" display="false"/>
   </annotations>
 </container>

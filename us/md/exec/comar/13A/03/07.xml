@@ -31,7 +31,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" target-path="13A|03|07|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -63,7 +63,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" target-path="13A|03|07|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -80,7 +80,7 @@
       <text>Meet one of the assessment requirements from the Department’s approved list of world language assessments for the Maryland Seal of Biliteracy.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" target-path="13A|03|07|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -119,7 +119,7 @@
       <text>Any other demographic factors for each Seal recipient as identified by the Department.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" target-path="13A|03|07" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -131,6 +131,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|13A|03|07|.03">Regulation .03</cite> amended effective September 15, 2025 (52:18 Md. R. 924)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|13A|03|07|.04">Regulation .04</cite> amended effective September 15, 2025 (52:18 Md. R. 924)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|13A|03|07|.06">Regulation .06</cite> adopted effective September 15, 2025 (52:18 Md. R. 924)</annotation>
-    <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" type="History" display="false"/>
+    <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-118-F" target-path="13A|03|07|annos" type="History" display="false"/>
   </annotations>
 </container>

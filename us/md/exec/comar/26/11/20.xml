@@ -205,9 +205,39 @@
         <text>A person who violates any provision of this regulation is subject to the sanctions set forth in <cite doc="Md. Code" path="gen">Environment Article, Title 2, Annotated Code of Maryland</cite>. Each noncompliant vehicle is a separate violation.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-029-F" type="History" display="false"/>
-    </annotations>
+    <para>
+      <num>F.</num>
+      <text>Record Keeping.</text>
+      <para>
+        <num>(1)</num>
+        <text>A vehicle dealer or business that sells, auctions, or transfers a motor vehicle shall maintain records, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Date of sale or transfer of motor vehicle;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Fuel type of motor vehicle;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Motor vehicle description (that is, make, model, year, and GVWR);</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Vehicle Identification Number (VIN); and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Statement that all air pollution control systems are in place and in operating condition.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Records shall be maintained on-site for 5 years and available to the Department upon request.</text>
+      </para>
+    </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -552,12 +582,10 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-06-26" discontinuity="true">Regulations .01 and .03—.05 repealed and Regulations .02 and .06 recodified as Regulations .01 and .02 effective June 26, 1989 (16:10 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-02-07"><cite path="|26|11|20|.02">Regulation .02</cite> repealed and new Regulation .02 adopted effective February 7, 2022 (49:3 Md. R. 139)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-01-09"><cite path="|26|11|20|.02|A.">Regulation .02A</cite>, C amended effective January 9, 2023 (49:27 Md. R. 1111)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|26|11|20|.02|F.">Regulation .02F</cite> repealed effective March 30, 2026 (53:6 Md. R. 293)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-26"><cite path="|26|11|20|.03">Regulation .03</cite> adopted effective October 26, 1992 (19:22 Md. R. 1991 and 19:21 Md. R. 1894)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-03-22"><cite path="|26|11|20|.04">Regulation .04</cite> adopted effective March 22, 1999 (26:6 Md. R. 488)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-10"><cite path="|26|11|20|.05">Regulation .05</cite> adopted effective July 10, 2000 (27:13 Md. R. 1212)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-12-10"><cite path="|26|11|20|.06">Regulation .06</cite> adopted effective December 10, 2001 (28:24 Md. R. 2132)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-05-09"><cite path="|26|11|20|.06|D.">Regulation .06D</cite> amended effective May 9, 2005 (32:9 Md. R. 850)</annotation>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-029-F" type="History" display="false"/>
   </annotations>
 </container>

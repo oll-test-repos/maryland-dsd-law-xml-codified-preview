@@ -308,7 +308,7 @@
       </para>
       <para>
         <num>(18)</num>
-        <text>“Knott class” means individuals with intellectual disabilities who were or are deemed inappropriately placed within the Department’s operated behavioral health facilities.</text>
+        <text>“Knott class” means individuals with intellectual disabilities who were or are deemed inappropriately placed within Mental Hygiene Administration facilities.</text>
       </para>
       <para>
         <num>(19)</num>
@@ -403,9 +403,7 @@
         <text>“Waiting list” means, for the purpose of this chapter, those individuals considered eligible for services and who have not received those services under the auspices of these regulations.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -545,7 +543,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>The individual may be eligible for services from the Behavioral Health Administration; and</text>
+          <text>The individual may be eligible for services from the Mental Hygiene Administration; and</text>
         </para>
         <para>
           <num>(e)</num>
@@ -553,9 +551,7 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -890,7 +886,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>Been determined inappropriately retained in a Department operated behavioral health facility as set forth in Knott vs. Hughes Civil Action No. Y-80-2832 (Fed. Dist. Ct. Md).</text>
+            <text>Been determined inappropriately retained in a Mental Hygiene Administration facility as set forth in Knott vs. Hughes Civil Action No. Y-80-2832 (Fed. Dist. Ct. Md).</text>
           </para>
         </para>
         <para>
@@ -918,7 +914,7 @@
           </para>
           <para>
             <num>(iv)</num>
-            <text>Resident in a behavioral health facility operated by the Department who has a developmental disability but is not an individual with an intellectual disability and who does not meet the criteria for admission or retention in a State psychiatric hospital and whose primary need is not for a mental health service.</text>
+            <text>Resident in an institution under the auspices of the Mental Hygiene Administration who has a developmental disability, but is not an individual with an intellectual disability and who does not meet the criteria for admission or retention in a State psychiatric hospital and whose primary need is not for a mental health service.</text>
           </para>
         </para>
         <para>
@@ -959,9 +955,7 @@
         <text>Eligible applicants may receive family support services and low intensity support services on a first-come, first-served basis, regardless of service priority determination.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1441,12 +1435,10 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-09-28"><cite path="|10|22|12|.12|A.">Regulation .12A</cite> amended effective September 28, 1992 (19:19 Md. R. 1708)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-07-26" discontinuity="true"><cite path="|10.22.18">COMAR 10.22.18</cite> recodified to <cite path="|10.22.12">COMAR 10.22.12</cite> effective July 26, 1999 (26:15 Md. R. 1148)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-11-25"><cite path="|10|22|12|.02|B.">Regulation .02B</cite> amended effective November 25, 2013 (40:23 Md. R. 1934)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|10|22|12|.03|B.">Regulation .03B</cite> amended effective March 26, 2007 (34:6 Md. R. 627); November 25, 2013 (40:23 Md. R. 1934), March 30, 2026 (53:6 Md. R. 291)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|10|22|12|.05|B.">Regulation .05B</cite> amended effective March 30, 2026 (53:6 Md. R. 291)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|10|22|12|.07|B.">Regulation .07B</cite> amended effective November 25, 2013 (40:23 Md. R. 1934); March 30, 2026 (53:6 Md. R. 291)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-11-25"><cite path="|10|22|12|.03|B.">Regulation .03B</cite> amended effective March 26, 2007 (34:6 Md. R. 627); November 25, 2013 (40:23 Md. R. 1934)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-11-25"><cite path="|10|22|12|.07|B.">Regulation .07B</cite> amended effective November 25, 2013 (40:23 Md. R. 1934)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-12-22"><cite path="|10|22|12|.08|B.">Regulation .08B</cite> amended as an emergency provision effective September 1, 2003 (30:20 Md. R. 1445); amended permanently effective December 22, 2003 (30:25 Md. R. 1845)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-12-22"><cite path="|10|22|12|.11|A.">Regulation .11A</cite> amended as an emergency provision effective September 1, 2003 (30:20 Md. R. 1445); amended permanently effective December 22, 2003 (30:25 Md. R. 1845)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-12-22"><cite path="|10|22|12|.11|F.">Regulation .11F</cite> adopted as an emergency provision effective September 1, 2003 (30:20 Md. R. 1445); adopted permanently effective December 22, 2003 (30:25 Md. R. 1845)</annotation>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
   </annotations>
 </container>

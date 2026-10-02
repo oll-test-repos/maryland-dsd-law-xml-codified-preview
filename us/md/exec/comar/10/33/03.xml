@@ -16,7 +16,7 @@
       <text>This chapter governs assisted living managers in the State pursuant to <cite doc="Md. Code" path="gho">Health Occupations Article, Title 9, Annotated Code of Maryland</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|33|03|.02">
@@ -148,7 +148,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|33|03|.03">
@@ -288,7 +288,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|33|03|.04">
@@ -420,7 +420,7 @@
       <text>Upon request by the assisted living program, for reasonable cause, the Board may extend the 24-hour time period for meeting the requirements of <cite path="10|33|03|.04|E.">§E of this regulation</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -468,7 +468,7 @@
       <text>A licensee shall complete an implicit bias and structural racism training program approved by the Cultural and Linguistic Health Care Professional Competency Program in accordance with Health-General Article, §20-1306, Annotated Code of Maryland, for an applicant’s first renewal after April 1, 2026.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -496,7 +496,7 @@
       <text>An assisted living manager who fails to apply for licensure reinstatement within 5 years after the expiration date of the license shall meet the requirements for a new license in effect at the time of the request in order to be licensed to practice as an assisted living manager in the State.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -588,7 +588,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|33|03|.08">
@@ -616,7 +616,7 @@
       <text>If an application has been closed under <cite path="10|33|03|.08|D.">§D of this regulation</cite>, to obtain a license the applicant shall submit a new application fee and otherwise comply with all applicable license requirements.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -625,7 +625,7 @@
     <heading>Display of License.</heading>
     <text>Each individual licensed as an assisted living manager in the State shall display printed verification of licensure in a conspicuous place in the office or place of business or employment of the licensee.</text>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -653,12 +653,12 @@
       <text>Failure to notify the Board of any change of mailing address, legal name, or email address within 30 days of the change may result in a fine as set forth under <cite path="10.33.05.02|D.">COMAR 10.33.05.02D</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §19-1809; Health Occupations Article, §§<cite doc="Md. Code" path="gho|9-205">9-205</cite>, <cite doc="Md. Code" path="gho|9-3">9-3</cite>A-01—9-3A-18, and 9-401—9-501; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19">Effective date: January 19, 2026 (53:1 Md. R 22)</annotation>
   </annotations>
-  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
 </container>

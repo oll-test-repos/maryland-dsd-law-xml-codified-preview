@@ -198,7 +198,7 @@
       <text>Standards. A licensee shall ensure that the laboratory meets the applicable standards concerning test requisition contained in 42 CFR §493.1241.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" target-path="10|10|06|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|10|06|.03">
@@ -674,7 +674,7 @@
     <num>.06</num>
     <heading>Quality Control — Single-Use Test Devices. — Repealed.</heading>
     <annotations>
-      <annotation app="2025-08-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+      <annotation app="2025-08-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" target-path="10|10|06|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -706,7 +706,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" target-path="10|10|06|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1022,7 +1022,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" target-path="10|10|06|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1468,7 +1468,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" target-path="10|10|06|.12" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1560,7 +1560,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" target-path="10|10|06|.13" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1770,6 +1770,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|06|.15|B.">Regulation .15B</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|06|.16" proof="needed">Regulation .16</cite> repealed effective April 1, 2013 (40:6 Md. R. 473)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|06|.16|A." proof="needed">Regulation .16A</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
-    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" target-path="10|10|06|annos" type="History" display="false"/>
   </annotations>
 </container>

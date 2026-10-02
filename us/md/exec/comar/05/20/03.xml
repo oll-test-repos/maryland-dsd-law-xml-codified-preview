@@ -95,7 +95,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-227-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-227-F" target-path="05|20|03|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -135,7 +135,7 @@
       <text>A recipient of financial assistance may grant or lend all or a portion of the financial assistance it receives from the Program to a designated third party to carry out the project in accordance with the terms and conditions of an agreement with the Department.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-227-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-227-F" target-path="05|20|03|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -231,7 +231,7 @@
       <text>A recipient of financial assistance may file one or more applications in accordance with schedules established by the Department.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-227-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-227-F" target-path="05|20|03|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -485,6 +485,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-05"><cite path="|05|20|03|.02|B.">Regulation .02B</cite> amended effective January 5, 2026 (52:26 Md. R. 1309)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-05"><cite path="|05|20|03|.03|B.">Regulation .03B</cite> amended effective January 5, 2026 (52:26 Md. R. 1309)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-05"><cite path="|05|20|03|.04|B.">Regulation .04B</cite> amended effective January 5, 2026 (52:26 Md. R. 1309)</annotation>
-    <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-227-F" type="History" display="false"/>
+    <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-227-F" target-path="05|20|03|annos" type="History" display="false"/>
   </annotations>
 </container>

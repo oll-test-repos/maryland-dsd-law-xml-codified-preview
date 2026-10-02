@@ -21,7 +21,7 @@
       <text>Preparation of medication for stock and investigational use.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" target-path="10|34|04|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -88,7 +88,7 @@
       <text>The date on which the prescription was transferred to the secondary pharmacy.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" target-path="10|34|04|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -158,7 +158,7 @@
     <heading>Transfers of Prescription for Controlled Dangerous Substances.</heading>
     <text>A pharmacist may transfer a prescription for a controlled dangerous substance in accordance with federal law.</text>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" target-path="10|34|04|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -219,7 +219,7 @@
       <text>The primary pharmacy maintains, in a readily retrievable and identifiable manner, a record of preparations received from the secondary pharmacy.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" target-path="10|34|04|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -256,7 +256,7 @@
       <text>The date on which the prepared product was sent to the primary pharmacy if it was sent back to the primary pharmacy.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" target-path="10|34|04|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -292,7 +292,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" target-path="10|34|04|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|34|04|.10">
@@ -328,7 +328,7 @@
       <text>Except as provided in <cite path="|10|34|04|.06">Regulation .06 of this chapter</cite>, a permit holder of a pharmacy shall obtain manufacturing and distribution permits in order to compound or package medication that is not prepared as a prescription destined for a specific patient, but is forwarded to another pharmacy, authorized prescriber, licensed distributor, or other person or entity.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" target-path="10|34|04" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -348,6 +348,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|10|34|04|.07">Regulation .07</cite> recodified to Regulation .08 effective September 29, 2025 (Md. R. 956)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|10|34|04|.08">Regulation .08</cite> recodified to Regulation .09 effective September 29, 2025 (Md. R. 956)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|10|34|04|.09">Regulation .09</cite> recodified to Regulation .10 effective September 29, 2025 (Md. R. 956)</annotation>
-    <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" type="History" display="false"/>
+    <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-117-F" target-path="10|34|04|annos" type="History" display="false"/>
   </annotations>
 </container>

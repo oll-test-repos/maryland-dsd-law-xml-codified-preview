@@ -80,7 +80,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.02">
@@ -592,7 +592,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.05">
@@ -771,7 +771,7 @@
       <text>Provide an alternative set of management standards to <cite path="|26.13.01">COMAR 26.13.01</cite>—26.13.09 and Regulations <cite path="|26|13|10|.01">.01</cite>—<cite path="|26|13|10|.05">.05</cite> of this chapter.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.07">
@@ -969,7 +969,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.09">
@@ -1071,7 +1071,7 @@
       <text>Voluntary Management.  A person managing an aerosol can excluded under <cite path="26|13|10|.09-1|B.">§B of this regulation</cite> may voluntarily elect to manage the aerosol can in accordance with the provisions of Regulations <cite path="|26|13|10|.06">.06</cite>—<cite path="|26|13|10|.25">.25</cite> of this chapter.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.10">
@@ -1536,7 +1536,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10|.14" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.15">
@@ -1948,7 +1948,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.17">
@@ -2192,7 +2192,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10|.17" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -2382,7 +2382,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10|.19" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -2414,7 +2414,7 @@
       <text>Universal Waste Aerosol Cans.  A large quantity handler of universal waste shall manage universal waste aerosol cans in accordance with the requirements established for small quantity handlers in <cite path="|26|13|10|.16-1">Regulation .16-1 of this chapter</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10|.20" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.21">
@@ -2850,7 +2850,7 @@
       <text>Hazardous waste pharmaceuticals are regulated by Regulations <cite path="|26|13|10|.32">.32</cite>—<cite path="|26|13|10|.49">.49</cite> of this chapter and may not be added to the universal waste regulations of Regulations <cite path="|26|13|10|.06">.06</cite>—<cite path="|26|13|10|.25">.25</cite> of this chapter as a category of universal waste.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10|.25" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.26">
@@ -3841,7 +3841,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.33">
@@ -3881,7 +3881,7 @@
       <text>Healthcare facilities and reverse distributors remain subject to the prohibitions in 40 CFR §403.5(b), which prohibits introduction of specified pollutants into a POTW.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.34">
@@ -3933,7 +3933,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.35">
@@ -4057,7 +4057,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.36">
@@ -4145,7 +4145,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.37">
@@ -4185,7 +4185,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.38">
@@ -4309,7 +4309,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -4358,7 +4358,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.40">
@@ -4450,7 +4450,7 @@
       <text>Container Labeling. A healthcare facility shall label or clearly mark each container of non-creditable hazardous waste pharmaceuticals with the phrase “Hazardous Waste Pharmaceuticals”.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.41">
@@ -4490,7 +4490,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.42">
@@ -4542,7 +4542,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -4610,7 +4610,7 @@
       <text>Additional Reports.  The Department may require healthcare facilities to furnish additional reports concerning the quantities and disposition of non-creditable hazardous waste pharmaceuticals.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.44">
@@ -4666,7 +4666,7 @@
       <text>The healthcare facility shall ensure that any record required to be kept by this regulation is made readily available upon the request of an inspector representing the Department or the EPA.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.45">
@@ -4738,7 +4738,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.46">
@@ -4886,7 +4886,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.47">
@@ -5026,7 +5026,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -5111,7 +5111,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.49">
@@ -5199,7 +5199,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -5246,6 +5246,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|10|.30">Regulation .30</cite> adopted effective May 1, 2008 (35:8 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|10|.31">Regulation .31</cite> adopted effective May 1, 2008 (35:8 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-01">Regulations <cite path="|26|13|10|.32">.32</cite>—<cite path="|26|13|10|.49">.49</cite> adopted effective October 1, 2025 (52:17 Md. R. 876)</annotation>
-    <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10|annos" type="History" display="false"/>
   </annotations>
 </container>

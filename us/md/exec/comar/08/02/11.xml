@@ -1040,8 +1040,8 @@
       <text>Special Restrictions for Beaver Creek. A person may not have any brown trout in possession while fishing in Beaver Creek, from the confluence with Antietam Creek upstream to the Albert Powell State Trout Hatchery.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-241-F" type="History" display="false"/>
-      <annotation app="2026-02-16" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-241-F" target-path="08|02|11|.01" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" target-path="08|02|11|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1175,7 +1175,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-241-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-241-F" target-path="08|02|11|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="08|02|11|.04">
@@ -2431,6 +2431,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-01-01"><cite path="|08|02|11|.10|I.">Regulation .10I</cite> amended effective January 1, 2003 (29:21 Md. R. 1645)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-10-17"><cite path="|08|02|11|.11">Regulation .11</cite> repealed effective October 17, 2011 (38:21 Md. R. 1276)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-07-01" discontinuity="true">Annotation: This chapter was formerly <cite path="|08.02.22">COMAR 08.02.22</cite>. It was transferred to <cite path="|08.03.02">COMAR 08.03.02</cite> when the Fisheries Administration was abolished by Ch. 162, Acts of 1981, effective July 1, 1981. It was again transferred to <cite path="|08.02.11">COMAR 08.02.11</cite> in 1984 due to Department reorganization.</annotation>
-    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-241-F" type="History" display="false"/>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-241-F" target-path="08|02|11|annos" type="History" display="false"/>
   </annotations>
 </container>

@@ -15,8 +15,8 @@
     <container name="emergency">
       <container codify:applicability="2026-01-15" codify:expire="2026-07-14">
         <num>25-186-E</num>
-        <codify:remove history="false" doc="Code of Maryland Regulations" path="15|06|04|.07" warning="false" codified:doc="Code of Maryland Regulations" codified:path="15|06|04|.01|annos"/>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="15|06|04|.01" codified:doc="Code of Maryland Regulations" codified:path="15|06|04|.01">
+        <codify:remove history="false" doc="Code of Maryland Regulations" path="15|06|04|.07" warning="false"/>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="15|06|04|.01">
           <section>
             <prefix>Regulation</prefix>
             <num>.01</num>
@@ -24,7 +24,7 @@
             <text>These regulations establish a science-based status assessment protocol to determine the harm and impact caused by invasive plants, including an approval procedure for activities involving invasive plant species that cause or are likely to cause severe harm and administrative orders that the Secretary may issue to enforce these regulations.</text>
           </section>
         </codify:replace>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="15|06|04|.02" codified:doc="Code of Maryland Regulations" codified:path="15|06|04|.02">
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="15|06|04|.02">
           <section cache:ref-path="15|06|04|.02">
             <prefix>Regulation</prefix>
             <num>.02</num>
@@ -167,7 +167,7 @@
             </para>
           </section>
         </codify:replace>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="15|06|04|.03" codified:doc="Code of Maryland Regulations" codified:path="15|06|04|.03">
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="15|06|04|.03">
           <section>
             <prefix>Regulation</prefix>
             <num>.03</num>
@@ -182,7 +182,7 @@
             </para>
           </section>
         </codify:replace>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="15|06|04|.04" codified:doc="Code of Maryland Regulations" codified:path="15|06|04|.04">
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="15|06|04|.04">
           <section cache:ref-path="15|06|04|.04">
             <prefix>Regulation</prefix>
             <num>.04</num>
@@ -309,7 +309,7 @@
             </para>
           </section>
         </codify:replace>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="15|06|04|.05" codified:doc="Code of Maryland Regulations" codified:path="15|06|04|.05">
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="15|06|04|.05">
           <section>
             <prefix>Regulation</prefix>
             <num>.05</num>
@@ -348,7 +348,7 @@
             </para>
           </section>
         </codify:replace>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="15|06|04|.06" codified:doc="Code of Maryland Regulations" codified:path="15|06|04|.06">
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="15|06|04|.06">
           <section>
             <prefix>Regulation</prefix>
             <num>.06</num>
@@ -467,7 +467,7 @@
             </para>
           </section>
         </codify:replace>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="15|06|04|annos" codified:doc="Code of Maryland Regulations" codified:path="15|06|04|annos">
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="15|06|04|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">Agriculture Article, §§<cite doc="Md. Code" path="gag|2-103">2-103</cite>(b) and <cite doc="Md. Code" path="gag|9">9</cite>.5-301, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="Emergency Action" dest="container">53:3  25-186-E  (Regulations <cite path="|15|06|04|.01" doc="Code of Maryland Regulations">.01</cite> — <cite path="|15|06|04|.06" doc="Code of Maryland Regulations">.06</cite>) EMERGENCY ACTION IN EFFECT 1/15/2026 — 7/14/2026</annotation>

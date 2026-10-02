@@ -16,7 +16,7 @@
     <heading>Definitions.</heading>
     <para>
       <num>A.</num>
-      <text>In this chapter, the following terms have the meanings indicated.</text>
+      <text>In these regulations, the following terms have the meanings indicated.</text>
     </para>
     <para>
       <num>B.</num>
@@ -54,9 +54,7 @@
         <text>“Secretary” means the Secretary of Health or the Secretary's designee.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -300,7 +298,5 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-07-12">Subtitle 11 Midwifery effective February 1, 1957; repealed effective July 12, 1987 (14:14 Md. R. 1572)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-12-25" discontinuity="true">Regulations <cite path="|10|11|01|.01">.01</cite>—<cite path="|10|11|01|.03">.03</cite> adopted effective December 25, 1989 (16:25 Md. R. 2710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-04-06" discontinuity="true">Chapter revised effective April 6, 2009 (36:7 Md. R. 524)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="3036-03-30"><cite path="|10|11|01|.02">Regulation .02</cite> amended effective March 30, 3036 (53:6 Md. R. 291)</annotation>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
   </annotations>
 </container>

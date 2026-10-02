@@ -9,7 +9,8 @@
     <heading>Purpose.</heading>
     <text>The purpose of this chapter is to provide requirements relating to leased or rented residences benefitting from weatherization assistance performed by the Department of Housing and Community Development pursuant to <cite doc="Md. Code" path="gpu|7-224">Public Utilities Article, §7-224(e), Annotated Code of Maryland</cite>.</text>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-070-F" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-070-F" target-path="05" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-070-F" target-path="05|24" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -53,7 +54,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-070-F" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-070-F" target-path="05" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-070-F" target-path="05|24" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -62,7 +64,8 @@
     <heading>Applicability.</heading>
     <text>The regulations in this chapter apply to building owners who lease low-income residential properties to tenants and who obtain weatherization assistance through the low-income programs for those properties.</text>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-070-F" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-070-F" target-path="05" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-070-F" target-path="05|24" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -90,7 +93,8 @@
       <text>Violation of any part of this section by the building owner may result in the building owner being required to repay the Department for the low-income program’s share of the cost of the weatherization assistance<em>.</em></text>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-070-F" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-070-F" target-path="05" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-070-F" target-path="05|24" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -99,5 +103,5 @@
     </annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-01">Effective date: September 1, 2025 (52:17 Md. R. 874)</annotation>
   </annotations>
-  <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-070-F" type="History" display="false"/>
+  <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-070-F" target-path="05|24" type="History" display="false"/>
 </container>

@@ -298,7 +298,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" target-path="10|32|20|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -462,7 +462,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" target-path="10|32|20|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|20|.04">
@@ -650,7 +650,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" target-path="10|32|20|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1104,7 +1104,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" target-path="10|32|20|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|20|.11">
@@ -1132,7 +1132,7 @@
       <text>Documentation of Continuing Education Credits. A current certificate from the national certifying board will serve as documentation of continuing education credits earned.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" target-path="10|32|20|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|20|.12">
@@ -1361,7 +1361,7 @@
       <text>Unless the disciplinary panel agrees to accept the surrender of a license, a licensed perfusionist may not surrender the license nor may the license lapse by operation of law while the licensee is under investigation or while charges are pending against the licensee.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" target-path="10|32|20|.14" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1381,7 +1381,7 @@
       <text>The Board shall pay any penalty collected under this regulation into the Board of Physicians Fund.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" target-path="10|32|20|.15" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1405,7 +1405,7 @@
       <text>Appeals from a final Board decision shall be taken in accordance with <cite doc="Md. Code" path="gho|14-5">Health Occupations Article, §14-5</cite>E-17, Annotated Code of Maryland.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" target-path="10|32|20|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|20|.17">
@@ -1767,7 +1767,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" target-path="10|32|20|.18" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|20|.19">
@@ -1961,6 +1961,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-15"><cite path="|10|32|20|.17|B.">Regulation .17B</cite>, C amended effective August 15, 2016 (43:16 Md. R. 900)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-15"><cite path="|10|32|20|.18">Regulation .18</cite> amended effective August 15, 2016 (43:16 Md. R. 900)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|10|32|20|.18|A.">Regulation .18A</cite>, C amended effective January 19, 2026 (53:1 Md. R, 21)</annotation>
-    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" type="History" display="false"/>
+    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-224-F" target-path="10|32|20|annos" type="History" display="false"/>
   </annotations>
 </container>

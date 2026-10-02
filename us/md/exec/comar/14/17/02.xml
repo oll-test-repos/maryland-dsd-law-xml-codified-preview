@@ -147,7 +147,7 @@
     <heading>Technical Authority.</heading>
     <text>The Maryland Cannabis Administration’s Technical Authority for Cannabis Testing (Effective February 2025), or Technical Authority, is incorporated by reference.</text>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|02|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="14|17|02|.05">
@@ -302,7 +302,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|02" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -314,6 +314,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|02|.04">Regulation .04</cite> amended effective March 16, 2026 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|02|.05">Regulation .05</cite> adopted effective April 14, 2025 (52:7 Md. R. 324)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|02|.06">Regulation .06</cite> adopted effective March 16, 2026 (53:5 Md. R. 244)</annotation>
-    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|02|annos" type="History" display="false"/>
   </annotations>
 </container>

@@ -36,7 +36,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" target-path="33|07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -45,7 +45,7 @@
     <heading>Timing for Determination of Significant Need for Language Assistance.</heading>
     <text>Not later than 8 months preceding a Statewide primary election, the State Board shall determine whether there is significant need for language assistance in a county.</text>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" target-path="33|07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -61,7 +61,7 @@
       <text>Procedure. The State Board shall consider recommendations from the State Administrator when designating forms and instructions necessary to voting.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" target-path="33|07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -93,7 +93,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" target-path="33|07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -146,7 +146,7 @@
       <text>Include information about the language assistance program in training materials and programs for election judges and local board of elections staff.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" target-path="33|07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -222,12 +222,12 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" target-path="33|07" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), and <cite doc="Md. Code" path="gel|15">15</cite>.5-104, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02">Effective date: March 2, 2026 (53:4 Md. R. 186)</annotation>
   </annotations>
-  <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+  <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" target-path="33|07" type="History" display="false"/>
 </container>

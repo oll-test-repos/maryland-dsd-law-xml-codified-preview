@@ -2,7 +2,7 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>57</num>
-  <heading>Partially Capitated Programs Authority<annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/></heading>
+  <heading>Partially Capitated Programs</heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -454,11 +454,9 @@
     </para>
     <para>
       <num>I.</num>
-      <text>PCPs which are governmental units or are funded by the Behavioral Health Administration or the Developmental Disabilities Administration of the Department and subject to the oversight of one of these agencies are exempt from the requirements of this regulation.</text>
+      <text>PCPs which are governmental units or are funded by the Mental Hygiene Administration, the Alcohol and Drug Abuse Administration, or the Developmental Disabilities Administration of the Department and subject to the oversight of one of these agencies are exempt from the requirements of this regulation.</text>
     </para>
-    <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -586,7 +584,5 @@
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§2-104(b), 15-103, and 15-105, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-10-23">Regulations <cite path="|10|09|57|.01">.01</cite> — <cite path="|10|09|57|.17">.17</cite> adopted as an emergency provision effective June 14, 1995 (22:14 Md. R. 1051); adopted permanently effective October 23, 1995 (22:21 Md. R. 1616)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|10|09|57|.10|I.">Regulation .10I</cite> amended effective March 30, 2026 (53:6 Md. R. 291)</annotation>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
   </annotations>
 </container>

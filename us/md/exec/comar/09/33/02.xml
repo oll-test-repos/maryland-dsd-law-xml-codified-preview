@@ -9,7 +9,7 @@
     <heading>Purpose.</heading>
     <text>The Economic Stabilization Act regulations provide notice requirements and guidelines for employers faced with a major reduction in the workforce.</text>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" target-path="09|33|02|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -18,7 +18,7 @@
     <heading>Exemptions.</heading>
     <text>This chapter does not apply to a reduction in operations as described in <cite doc="Md. Code" path="gle|11-302">Labor and Employment Article, §11-302, Annotated Code of Maryland</cite>.</text>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" target-path="09|33|02|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -106,7 +106,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" target-path="09|33|02|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -115,7 +115,7 @@
     <heading>Notice.</heading>
     <text>At least 60 calendar days prior to initiating a reduction in operations, an employer shall provide written notice as required by <cite doc="Md. Code" path="gle|11-305">Labor and Employment Article, §11-305, Annotated Code of Maryland</cite>.</text>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" target-path="09|33|02|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -223,7 +223,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" target-path="09|33|02|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -275,7 +275,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" target-path="09|33|02|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -327,7 +327,7 @@
       <text>If the employer approves, the Maryland Department of Labor may contact other partner organizations to provide whatever assistance and resources are deemed appropriate.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" target-path="09|33|02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|33|02|.08">
@@ -395,7 +395,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" target-path="09|33|02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -411,7 +411,7 @@
       <text>In assessing a penalty for a violation of the law, a regulation, or an order, the Secretary or the Secretary’s designee shall consider the factors listed in <cite doc="Md. Code" path="gle|11-306">Labor and Employment Article, §11-306(b), Annotated Code of Maryland</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" target-path="09|33|02" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -420,6 +420,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Chapter recodified from <cite path="|24.03.03">COMAR 24.03.03</cite> to <cite path="|24.03.02">COMAR 24.03.02</cite></annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Chapter recodified from <cite path="|24.03.02">COMAR 24.03.02</cite> to <cite path="|09.33.02">COMAR 09.33.02</cite>, May 1996</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13" discontinuity="true">Chapter revised effective October 13, 2025 (52:20 Md. R. 1000)</annotation>
-    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" type="History" display="false"/>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-054-F" target-path="09|33|02|annos" type="History" display="false"/>
   </annotations>
 </container>

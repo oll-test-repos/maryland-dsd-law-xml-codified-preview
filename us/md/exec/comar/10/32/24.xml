@@ -24,7 +24,7 @@
       <text>This chapter does not prohibit an individual from practicing a health occupation that the individual is authorized to practice under <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -33,7 +33,7 @@
     <heading>Incorporation by Reference.</heading>
     <text>The National Society of Genetic Counselors Code of Ethics (1992, revised 2017) is incorporated by reference.</text>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -185,7 +185,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -333,7 +333,7 @@
       <text>In addition to the powers set forth elsewhere in this chapter, the Committee may develop and make recommendations to the Board in any matters related to the regulation of the practice of genetic counseling.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -342,7 +342,7 @@
     <heading>Code of Ethics.</heading>
     <text>A genetic counselor in the State shall follow The National Society of Genetic Counselors Code of Ethics.</text>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|24|.06">
@@ -454,7 +454,7 @@
       <text>The Board may not issue a supervised genetic counselor license to an applicant if the applicant has failed the national certifying examination two or more times.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -471,7 +471,7 @@
       <text>Document the referral in the patient’s medical record.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -516,7 +516,7 @@
       <text>Facilitating informed decision-making about testing, management, and alternatives.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -584,7 +584,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -764,7 +764,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|24|.11">
@@ -780,7 +780,7 @@
       <text>If a licensed genetic counselor or supervised genetic counselor fails to notify the Board within the time required under <cite path="10|32|24|.11|A.">§A of this regulation</cite>, the licensed genetic counselor or supervised genetic counselor may be subject to an administrative penalty of $100.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -821,7 +821,7 @@
       <text>Replacement of license fee—$25.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -981,7 +981,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|24|.14">
@@ -1049,7 +1049,7 @@
       <text>A report made under this regulation is not subject to subpoena or discovery in a civil action other than a proceeding arising out of a hearing and decision of the Board under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 14, Annotated Code of Maryland</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|24|.15">
@@ -1309,7 +1309,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|24|.16">
@@ -1561,12 +1561,12 @@
       </text>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-606">1-606</cite>, <cite doc="Md. Code" path="gho|14-205">14-205</cite>, and <cite doc="Md. Code" path="gho|14-5">14-5</cite>G-01—14-5G-29, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-01">Effective date: September 01, 2025 (52:17 Md. R. 874)</annotation>
   </annotations>
-  <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" type="History" display="false"/>
+  <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-113-F-I" target-path="10|32" type="History" display="false"/>
 </container>

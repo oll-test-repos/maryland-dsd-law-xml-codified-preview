@@ -271,7 +271,7 @@
       <text>Little Aberdeen Creek encompasses the area upstream of a line beginning at a point at or near Lat. 38° 56.773' N., Long. 76° 31.740' W., then running 111° (True) to a point, at or near Lat. 38° 56.747' N., Long. 76° 31.652' W., and running to the head of the creek. This area has a 6-knot speed limit, during the boating season.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-246-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-246-F" target-path="08|18|25|.04" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -289,6 +289,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|08|18|25|.04|H.">Regulation .04H</cite> amended effective February 16, 2026 (53:3 Md. R. 121)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-28"><cite path="|08|18|25|.05">Regulation .05</cite> repealed effective March 28, 2016 (43:6 Md. R. 406)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-06-24"><cite path="|08|18|25|.05|B.">Regulation .05B</cite>, C amended effective June 24, 2013 (40:12 Md. R. 1041)</annotation>
-    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-246-F" type="History" display="false"/>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-246-F" target-path="08|18|25|annos" type="History" display="false"/>
   </annotations>
 </container>

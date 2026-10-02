@@ -220,7 +220,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|03|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|03|.01-1">
@@ -372,7 +372,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|03|.01-1" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|03|.02">
@@ -481,7 +481,7 @@
       <aftertext>Agency Note: information from the complete determination of applicable hazardous waste numbers required by §D(1) of this regulation is needed in order to comply with the container marking requirements of Regulation .03-10 of this chapter.</aftertext>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|03|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|03|.02-1">
@@ -1124,7 +1124,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|03|.03-3" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|03|.03-4">
@@ -1284,7 +1284,7 @@
       <text>In order to be eligible for the exemption from permitting and interim status requirements with respect to accumulation of hazardous waste identified in <cite path="26|13|03|.03-4|A.">§A of this regulation</cite>, a person shall comply with all requirements of this regulation and Regulations <cite path="|26|13|03|.03-5">.03-5</cite>—<cite path="|26|13|03|.03-11">.03-11</cite> of this chapter, <cite path="|26|13|03|.05|E.">Regulation .05E of this chapter</cite>, and Regulations .05-1—.05-2 of this chapter.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|03|.03-4" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|03|.03-5">
@@ -1472,7 +1472,7 @@
       <text>Status of Recovered Material Following an Emergency. Unless the generator can demonstrate, in accordance with <cite path="26.13.02.03|C.">COMAR 26.13.02.03C</cite> and D and <cite path="26.13.02.04">COMAR 26.13.02.04</cite>-1 that material recovered following an emergency is not a hazardous waste, then the recovered material is a newly generated hazardous waste, and the generator shall manage the waste in accordance with all applicable requirements and conditions of this chapter, <cite path="|26.13.04">COMAR 26.13.04</cite>, and <cite path="|26.13.06">COMAR 26.13.06</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|03|.03-5" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|03|.03-6">
@@ -1686,7 +1686,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|03|.03-7" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -2534,7 +2534,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|03|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|03|.05-1">
@@ -3312,7 +3312,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|03|.05-4" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -3538,7 +3538,7 @@
       <text>Additional Reporting. The Secretary, as he deems necessary, may require generators to furnish additional reports concerning the quantities and disposition of wastes identified or listed in <cite path="|26.13.02">COMAR 26.13.02</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|03|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|03|.07">
@@ -3687,6 +3687,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13">Regulations <cite path="|26|13|03|.07-1">.07-1</cite>—<cite path="|26|13|03|.07-3">.07-3</cite> repealed effective January 13, 2022 (49:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|03|.07-4">Regulation .07-4</cite> amended effective January 13, 2022 (49:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13">Regulations .07-5 repealed effective January 13, 2022 (49:1 Md. R. 14)</annotation>
-    <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|03|annos" type="History" display="false"/>
   </annotations>
 </container>

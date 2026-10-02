@@ -118,7 +118,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" target-path="33|08|01|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="33|08|01|.02-1">
@@ -170,7 +170,7 @@
       <text>The local board's counsel shall be present throughout all canvass sessions if it appears that absentee or provisional ballots could decide the outcome of a contest or a question.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" target-path="33|08|01|.02-1" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="33|08|01|.03">
@@ -265,7 +265,7 @@
       <text>The election director may include the notice for the pre-election public demonstration required by Election Law Article, Subtitle 10, Annotated Code of Maryland, in the notice required under this regulation.</text>
     </para>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" target-path="33|08|01|.05-1" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -325,7 +325,7 @@
     <heading>Voting System Verification.</heading>
     <text>A local board shall test the voting system as provided in <cite path="|33.10">COMAR 33.10</cite> for accuracy.</text>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" target-path="33|08|01|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -437,7 +437,7 @@
       <text>The State Board of Elections has the authority to modify the plan to ensure completion of the canvass and certification of election results in a timely manner for State certification and any post-election audits.</text>
     </para>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" target-path="33|08|01" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -469,7 +469,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-10-14"><cite path="|33|08|01|.11">Regulation .11</cite> amended as an emergency provision effective July 3, 2002 (29:18 Md. R. 1440); amended permanently effective October 14, 2002 (29:20 Md. R. 1595)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|33|08|01|.12|B.">Regulation .12B</cite> amended effective April 19, 2010 (37:8 Md. R. 624)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|33|08|01|.13">Regulation .13</cite> adopted effective November 24, 2025 (52:23 Md. R. 1140)</annotation>
-    <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" type="History" display="false"/>
-    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" target-path="33|08|01|annos" type="History" display="false"/>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" target-path="33|08|01|annos" type="History" display="false"/>
   </annotations>
 </container>

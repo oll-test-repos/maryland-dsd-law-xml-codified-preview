@@ -9,7 +9,7 @@
     <heading>Valuation.</heading>
     <text>The value of conservation property subject to a perpetual easement, as defined by Tax-Property Article, §§<cite doc="Md. Code" path="gtp|8-209">8-209</cite>.1, 8-219, and 9-107, Annotated Code of Maryland, shall be valued at a rate equivalent to the highest rate that is used to value land that is eligible for agricultural use assessment under Tax Property Article, §8–209, Annotated Code of Maryland, and is set forth in <cite path="18.02.03.08">COMAR 18.02.03.08</cite>.</text>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-120-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-120-F" target-path="18|02|10|.01" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -17,6 +17,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-12-12"><cite path="|18|02|10|.01">Regulation .01</cite> adopted as an emergency provision effective June 1, 2002 (29:18 Md. R. 1439); adopted permanently effective December 12, 2002 (29:24 Md. R. 1920)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|18|02|10|.01">Regulation .01</cite> amended effective October 23, 2006 (33:21 Md. R. 1678); February 16, 2026 (53:3 Md. R.123)</annotation>
-    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-120-F" type="History" display="false"/>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-120-F" target-path="18|02|10|annos" type="History" display="false"/>
   </annotations>
 </container>

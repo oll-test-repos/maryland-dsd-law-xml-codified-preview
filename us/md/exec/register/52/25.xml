@@ -15,8 +15,8 @@
     <container name="emergency">
       <container codify:applicability="2025-11-20" codify:expire="2026-05-19">
         <num>25-248-E</num>
-        <codify:remove history="false" doc="Code of Maryland Regulations" path="10|34|32|.08" warning="false" codified:doc="Code of Maryland Regulations" codified:path="10|34|32|.01|annos"/>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|32|.02" codified:doc="Code of Maryland Regulations" codified:path="10|34|32|.02">
+        <codify:remove history="false" doc="Code of Maryland Regulations" path="10|34|32|.08" warning="false"/>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|32|.02">
           <section>
             <prefix>Regulation</prefix>
             <num>.02</num>
@@ -94,7 +94,7 @@
             </annotations>
           </section>
         </codify:replace>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|32|.03" codified:doc="Code of Maryland Regulations" codified:path="10|34|32|.03">
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|32|.03">
           <section cache:ref-path="10|34|32|.03">
             <prefix>Regulation</prefix>
             <num>.03</num>
@@ -260,7 +260,7 @@
             </para>
           </section>
         </codify:replace>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|32|.04" codified:doc="Code of Maryland Regulations" codified:path="10|34|32|.04">
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|32|.04">
           <section>
             <prefix>Regulation</prefix>
             <num>.04</num>
@@ -443,7 +443,7 @@
             </para>
           </section>
         </codify:replace>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|32|.05" codified:doc="Code of Maryland Regulations" codified:path="10|34|32|.05">
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|32|.05">
           <section>
             <prefix>Regulation</prefix>
             <num>.05</num>
@@ -470,7 +470,7 @@
             </para>
           </section>
         </codify:replace>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|32|.06" codified:doc="Code of Maryland Regulations" codified:path="10|34|32|.06">
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|32|.06">
           <section>
             <prefix>Regulation</prefix>
             <num>.06</num>
@@ -669,7 +669,7 @@
             </para>
           </section>
         </codify:replace>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|32|.07" codified:doc="Code of Maryland Regulations" codified:path="10|34|32|.07">
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|32|.07">
           <section>
             <prefix>Regulation</prefix>
             <num>.07</num>
@@ -677,7 +677,7 @@
             <text>Fees charged for the administration of vaccinations may not exceed $50 in addition to the cost of each vaccination.</text>
           </section>
         </codify:replace>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|32|annos" codified:doc="Code of Maryland Regulations" codified:path="10|34|32|annos">
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|32|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|12-101">12-101</cite>, <cite doc="Md. Code" path="gho|12-102">12-102</cite>(b), <cite doc="Md. Code" path="gho|12-508">12-508</cite>, and <cite doc="Md. Code" path="gho|12-6">12-6</cite>A-10, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>

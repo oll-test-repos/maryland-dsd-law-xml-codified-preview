@@ -24,7 +24,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-140-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-140-F" target-path="33|13|06|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -91,7 +91,7 @@
       <text>Use of Payment Processors. If a contribution to a campaign finance entity is made through a Third-Party Payment Processor, the campaign finance entity shall initiate the transfer of the contribution from the account of the Third-Party Payment Processor to the designated campaign account of the campaign finance entity within 7 days after the contribution is deposited in the account of the Third-Party Payment Processor.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-141-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-141-F" target-path="33|13|06|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="33|13|06|.04">
@@ -171,7 +171,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-104-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-104-F" target-path="33|13|06|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -212,7 +212,7 @@
       <text>Use a third-party payment processor as a campaign account or a financial institution.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-142-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-142-F" target-path="33|13|06|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -343,7 +343,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-01-09"><cite path="|33|13|06|.05|C.">Regulation .05C</cite> amended effective January 9, 2012 (38:27 Md. R. 1765)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|33|13|06|.05|D.">Regulation .05D</cite> adopted effective October 27, 2025 (52:21 Md. R. 1026)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-29"><cite path="|33|13|06|.06">Regulation .06</cite> adopted effective February 29, 2016 (43:4 Md. R. 336)</annotation>
-    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-104-F" type="History" display="false"/>
-    <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-142-F" type="History" display="false"/>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-104-F" target-path="33|13|06|annos" type="History" display="false"/>
+    <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-142-F" target-path="33|13|06|annos" type="History" display="false"/>
   </annotations>
 </container>

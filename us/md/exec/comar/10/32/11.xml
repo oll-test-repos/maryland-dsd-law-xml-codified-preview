@@ -44,7 +44,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" target-path="10|32|11|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -140,7 +140,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" target-path="10|32|11|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -231,7 +231,7 @@
       <text>The Committee may develop and make recommendations to the Board in any matters related to regulating the practice of respiratory care.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" target-path="10|32|11|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|11|.05">
@@ -525,7 +525,7 @@
       <text>If an applicant has not passed the National Certifying Board exam for credentialing as a Certified Respiratory Therapist or a Registered Respiratory Therapist within the 5 years immediately preceding the applicant’s application and has not practiced respiratory care for at least 3 of the past 5 years, the Board may require the applicant to take and pass one of those exams as part of the application process.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" target-path="10|32|11|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|11|.07">
@@ -541,7 +541,7 @@
       <text>The applicant or licensee shall pay the costs of the evaluations required in <cite path="10|32|11|.07|A.">§A of this regulation</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" target-path="10|32|11|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -681,7 +681,7 @@
       <text>If a particular practice issue has not yet been addressed in the AARC guidelines, the Board may consult with the Maryland/District of Columbia Society for Respiratory Care or any licensed respiratory care practitioner to determine whether a respiratory care practitioner being investigated by the Board is practicing within the acceptable standard of care.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" target-path="10|32|11|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|11|.11">
@@ -817,7 +817,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" target-path="10|32|11|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1040,7 +1040,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" target-path="10|32|11|.13" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|11|.14">
@@ -1068,7 +1068,7 @@
       <text>An individual is not required to make a report under this regulation that would be in violation of a federal or State law, rule, or regulation concerning the confidentiality of alcohol and drug abuse patient records.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" target-path="10|32|11|.14" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|11|.15">
@@ -1420,7 +1420,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" target-path="10|32|11|.15" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|11|.16">
@@ -1682,6 +1682,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|10|32|11|.14|B.">Regulation .14B</cite> amended effective January 19, 2026 (53:1 Md. R. 21)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|10|32|11|.15">Regulation .15</cite> amended effective July 22, 2013 (40:14 Md. R. 1176); January 19, 2026 (53:1 Md. R. 21)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-07-22"><cite path="|10|32|11|.16">Regulation .16</cite> adopted effective July 22, 2013 (40:14 Md. R. 1176)</annotation>
-    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" type="History" display="false"/>
+    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-223-F" target-path="10|32|11|annos" type="History" display="false"/>
   </annotations>
 </container>

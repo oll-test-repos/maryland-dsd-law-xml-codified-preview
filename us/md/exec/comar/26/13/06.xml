@@ -317,7 +317,7 @@
       <text>Imminent Hazard Action. Notwithstanding any other provisions of this chapter, enforcement actions may be brought under <cite doc="Md. Code" path="gen">Environment Article, Title 7, Subtitle 2, Annotated Code of Maryland</cite>, or other applicable State authority.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|06|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|06|.02">
@@ -405,7 +405,7 @@
       <text>Construction Quality Assurance Program. The owner or operator of a surface impoundment subject to <cite path="|26|13|06|.19">Regulation .19 of this chapter</cite>, a waste pile subject to <cite path="|26|13|06|.20">Regulation .20 of this chapter</cite>, or a landfill subject to <cite path="|26|13|06|.22">Regulation .22 of this chapter</cite> shall comply with the requirements of <cite path="26.13.05.02">COMAR 26.13.05.02</cite>-2.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|06|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|06|.03">
@@ -505,7 +505,7 @@
       <text>The owner or operator of a facility subject to this chapter is not required to comply with <cite path="26.13.05.05|D.|(2)|(i)">COMAR 26.13.05.05D(2)(i)</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|06|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|06|.06">
@@ -2622,7 +2622,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|06|.22" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|06|.23">
@@ -2765,6 +2765,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|26|13|06|.25|A.">Regulation .25A</cite> amended effective January 13, 2022 (49:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|06|.28">Regulation .28</cite> adopted effective May 1, 2008 (35:8 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|06|.29">Regulation .29</cite> adopted effective May 1, 2008 (35:8 Md. R. 809)</annotation>
-    <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|06|annos" type="History" display="false"/>
   </annotations>
 </container>

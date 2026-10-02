@@ -9,7 +9,7 @@
     <heading>Scope.</heading>
     <text>The purpose of this chapter is to establish as a matter of policy and priority that parents, guardians, and caregivers are provided with a meaningful opportunity to participate in and have access to programs and services critical to their child’s education, regardless of their dominant language.</text>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-121-F" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-121-F" target-path="13A|01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -18,7 +18,7 @@
     <heading>Scope.</heading>
     <text>This chapter applies to all local school systems.</text>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-121-F" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-121-F" target-path="13A|01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -50,7 +50,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-121-F" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-121-F" target-path="13A|01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -103,12 +103,12 @@
       <text>Update covered languages annually.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-121-F" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-121-F" target-path="13A|01" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ged|2-205">Education Article §2-205, Annotated Code of Maryland</cite>; Federal Statutory Reference: 42 U.S.C. § 2000d</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15">Effective date: September 15, 2025 (52:18 Md. R. 924)</annotation>
   </annotations>
-  <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-121-F" type="History" display="false"/>
+  <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-121-F" target-path="13A|01" type="History" display="false"/>
 </container>

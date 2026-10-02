@@ -16,7 +16,7 @@
       <text>This chapter does not apply to the reconstruction of a highway facility.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" target-path="08|01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -156,7 +156,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" target-path="08|01" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="08|01|11|.03">
@@ -204,7 +204,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" target-path="08|01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -220,7 +220,7 @@
       <text>For all projects subject to the Coast Smart Construction Program, the Qualifying Agency shall complete the Coast Smart Project Screening Form within the Coast Smart Construction Program Document.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" target-path="08|01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -272,7 +272,7 @@
       <text>The qualifying agency shall provide the completed Coast Smart Project Screening Form to the Coast Smart Council upon request.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" target-path="08|01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -316,7 +316,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" target-path="08|01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -348,12 +348,12 @@
       <text>The qualifying agency shall maintain all project information, including the Coast Smart Screening Form, in accordance with the agency's document retention schedule.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" target-path="08|01" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|3-1001">3-1001</cite>, <cite doc="Md. Code" path="gnr|3-1006">3-1006</cite>, and <cite doc="Md. Code" path="gnr|3-1009">3-1009</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-12-11">Effective date: December 11, 2025 (52:24 Md. R. 1197)</annotation>
   </annotations>
-  <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" type="History" display="false"/>
+  <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-193-F" target-path="08|01" type="History" display="false"/>
 </container>

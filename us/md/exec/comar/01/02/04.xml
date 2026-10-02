@@ -707,7 +707,7 @@
       <text>A partial or complete denial of a late fee waiver or suspension request is not an adverse action under <cite path="01.02.03.05">COMAR 01.02.03.05</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-242-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-242-F" target-path="01|02|04" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -739,6 +739,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-08-08"><cite path="|01|02|04|.20-1">Regulation .20-1</cite> amended effective August 8, 2022 (49:16 Md. R. 757)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-09-12"><cite path="|01|02|04|.20-1A">Regulation .20-1A</cite> amended effective September 12, 2016 (43:18 Md. R. 1017)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|01|02|04|.22">Regulation .22</cite> adopted effective January 19, 2026 (53:1 Md. R. 20)</annotation>
-    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-242-F" type="History" display="false"/>
+    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-242-F" target-path="01|02|04|annos" type="History" display="false"/>
   </annotations>
 </container>

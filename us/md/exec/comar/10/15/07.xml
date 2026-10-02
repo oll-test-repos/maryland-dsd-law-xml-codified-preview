@@ -17,7 +17,7 @@
       <text>American Public Health Association, Recommended Procedures for the Examination of Sea Water and Shellfish, 4th Edition, 1970.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-209-F-I" type="History" display="false"/>
+      <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-209-F-I" target-path="10|15|07|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -355,6 +355,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-08-22"><cite path="|10|15|07|.04|E.">Regulation .04E</cite> amended as an emergency provision effective June 1, 2011 (38:15 Md. R. 898); amended permanently effective August 22, 2011 (38:17 Md. R. 1012)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-08-22"><cite path="|10|15|07|.06">Regulation .06</cite> adopted as an emergency provision effective June 1, 2011 (38:15 Md. R. 898); adopted permanently effective August 22, 2011 (38:17 Md. R. 1012)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-09-30"><cite path="|10|15|07|.06|B.">Regulation .06B</cite> amended as an emergency provision effective June 1, 2013 (40:13 Md. R. 1072); amended permanently effective September 30, 2013 (40:19 Md. R. 1547)</annotation>
-    <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-209-F-I" type="History" display="false"/>
+    <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-209-F-I" target-path="10|15|07|annos" type="History" display="false"/>
   </annotations>
 </container>

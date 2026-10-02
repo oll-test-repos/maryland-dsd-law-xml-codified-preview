@@ -132,7 +132,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" target-path="12|03|02|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -204,7 +204,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" target-path="12|03|02|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="12|03|02|.03">
@@ -468,7 +468,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" target-path="12|03|02|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="12|03|02|.04">
@@ -596,7 +596,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" target-path="12|03|02|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="12|03|02|.05">
@@ -676,7 +676,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" target-path="12|03|02|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="12|03|02|.06">
@@ -808,7 +808,7 @@
       <text>An incarcerated individual involuntarily suspended from the RDP may continue to participate in other faith group religious observances and ceremonial meals.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" target-path="12|03|02|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="12|03|02|.07">
@@ -888,7 +888,7 @@
       <text>Upon receipt of a decision under <cite path="12|03|02|.07|D.|(4)">§D(4) of this regulation</cite>, the facility chaplain, or a designee, shall comply with applicable requirements established under <cite path="12|03|02|.07|D.|(2)">§D(2) of this regulation</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" target-path="12|03|02|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -916,7 +916,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" target-path="12|03|02|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -960,7 +960,7 @@
       <text>If a facility chaplain, or a designee, has knowledge that an incarcerated individual is allegedly violating the agreed-to terms for participation in the RDP, the chaplain, or a designee, shall address the alleged violation according to procedures established under <cite path="|12|03|02|.06">Regulation .06 of this chapter</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" target-path="12|03|02|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1004,7 +1004,7 @@
       <text>A facility chaplain, or a designee, shall notify the facility’s Islamic incarcerated individual population, at least 60 days before the Ramadan observance, of the availability of the Ramadan food items, including dried dates, and the cost of each item.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" target-path="12|03|02|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="12|03|02|.11">
@@ -1400,13 +1400,13 @@
       <text>If changes occur during Passover, the Office of Religious Services shall provide the correctional dietary manager with changes to the list of incarcerated individuals who are participating in the special Passover ceremonial meals.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" target-path="12|03|02|.11" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Correctional Services Article, §§<cite doc="Md. Code" path="gcs|2-109">2-109</cite>(c), <cite doc="Md. Code" path="gcs|3-205">3-205</cite>, <cite doc="Md. Code" path="gcs|4-208">4-208</cite>, and <cite doc="Md. Code" path="gcs|5-201">5-201</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-03-12">Effective date: March 12, 2018 (45:5 Md. R. 286)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16">Regulations <cite path="|12|03|02|.01">.01</cite>—<cite path="|12|03|02|.11">.11</cite> repealed and Regulations <cite path="|12|03|02|.01">.01</cite>—<cite path="|12|03|02|.11">.11</cite> adopted effective February 16, 2026 (53:3 Md. R. 122)</annotation>
-    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" type="History" display="false"/>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-192-F" target-path="12|03|02|annos" type="History" display="false"/>
   </annotations>
 </container>

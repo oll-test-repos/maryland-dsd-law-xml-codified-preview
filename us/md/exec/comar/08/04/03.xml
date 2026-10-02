@@ -209,7 +209,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" target-path="08|04|03|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -246,7 +246,7 @@
       <text>The alteration of the vessel in such a way that it is no longer eligible to be issued a certificate of number.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" target-path="08|04|03|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -271,7 +271,7 @@
       <text>Certificate of number has been revoked.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" target-path="08|04|03|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -319,7 +319,7 @@
       <text>The certificate of number is invalid when the person whose name appears on the certificate involuntarily loses ownership interest in the numbered vessel by legal process.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" target-path="08|04|03|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -447,6 +447,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|08|04|03|.08">Regulation .08</cite> amended effective March 16, 2026 (53:5 Md. R. 243)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|08|04|03|.10|A.">Regulation .10A</cite> amended effective January 13, 2022 (49:1 Md. R. 13)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13"><cite path="|08|04|03|.10|E.">Regulation .10E</cite>, F adopted effective January 13, 2022 (49:1 Md. R. 13)</annotation>
-    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" type="History" display="false"/>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-291-F" target-path="08|04|03|annos" type="History" display="false"/>
   </annotations>
 </container>

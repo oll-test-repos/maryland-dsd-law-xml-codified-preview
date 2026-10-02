@@ -247,7 +247,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-207-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-207-F" target-path="10|16|07|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -620,7 +620,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-207-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-207-F" target-path="10|16|07|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1701,7 +1701,7 @@
       <text>In an emergency situation when physician or emergency medical services are not immediately available, a certificate for emergency epinephrine holder or agent may administer emergency use epinephrine to an individual who is experiencing or believed in good faith by the certificate for emergency epinephrine holder or agent to be experiencing anaphylaxis.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-207-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-207-F" target-path="10|16|07|.15" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|16|07|.16">
@@ -1748,6 +1748,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-12-26"><cite path="|10|16|07|.14">Regulation .14</cite> adopted as an emergency provision effective June 30, 2016 (43:15 Md. R. 861); emergency expired effective December 26, 2016</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-27"><cite path="|10|16|07|.14">Regulation .14</cite> adopted effective February 27, 2017 (44:4 Md. R. 254)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|10|16|07|.15">Regulation .15</cite> amended effective February 16, 2026 (53:3 Md. R. 122)</annotation>
-    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-207-F" type="History" display="false"/>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-207-F" target-path="10|16|07|annos" type="History" display="false"/>
   </annotations>
 </container>

@@ -168,7 +168,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|02|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|02|.02">
@@ -1531,7 +1531,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|02|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|02|.04-1">
@@ -2127,7 +2127,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|02|.04-1" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -2998,7 +2998,7 @@
       <text>Prohibition on Reuse.  A person may not reuse in a vehicle a defective airbag module or a defective airbag inflator that is subject to a recall under the National Highway Traffic Safety Administration.  An attempt to reuse the defective item in this manner constitutes sham recycling and is prohibited by <cite path="26.13.02.02|H.">COMAR 26.13.02.02H</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|02|.05">
@@ -3262,7 +3262,7 @@
       <text>Fluorescent Lamps. A person that generates waste fluorescent lamps that exhibit the toxicity characteristic of <cite path="|26|13|02|.14">Regulation .14 of this chapter</cite> shall comply with <cite path="26.13.10.26">COMAR 26.13.10.26</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|02|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|02|.06">
@@ -3479,7 +3479,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|02|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|02|.07">
@@ -3547,7 +3547,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|02|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|02|.07-1">
@@ -3579,7 +3579,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|02|.07-1" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -3842,7 +3842,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|02|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -3967,7 +3967,7 @@
       <text>A solid waste that exhibits the characteristic of reactivity has the EPA Hazardous Waste Number of D003.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|02|.13" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|02|.14">
@@ -4882,7 +4882,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|02|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|02|.17">
@@ -9742,7 +9742,7 @@
       </text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|02|.19" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -10689,7 +10689,7 @@
       </table>
     </text>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|02|.23" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -11003,6 +11003,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-05-01"><cite path="|26|13|02|.24">Regulation .24</cite> repealed and new Regulation .24 adopted effective May 1, 2008 (35:8 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-01-18"><cite path="|26|13|02|.25">Regulation .25</cite> adopted effective January 18, 2016 (43:1 Md. R. 14)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-07-08"><cite path="|26|13|02|.26">Regulation .26</cite> repealed and new Regulation .26 adopted effective July 8, 2002 (29:13 Md. R. 992)</annotation>
-    <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|02|annos" type="History" display="false"/>
   </annotations>
 </container>

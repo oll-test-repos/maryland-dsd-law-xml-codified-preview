@@ -527,7 +527,7 @@
       <text>An RN-FNE shall maintain medical records in accordance with Health-General Article, Title 4, Subtitle 4, Annotated Code of Maryland.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-159-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-159-F" target-path="10|27|21|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1071,6 +1071,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-27"><cite path="|10|27|21|.05">Regulation .05</cite> amended effective February 27, 2017 (44:4 Md. R. 254)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-27"><cite path="|10|27|21|.07">Regulation .07</cite> amended effective January 18, 2016 (43:1 Md. R. 13); February 27, 2017 (44:4 Md. R. 254)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-09-10"><cite path="|10|27|21|.08|A.">Regulation .08A</cite> amended effective September 10, 2018 (45:18 Md. R. 834)</annotation>
-    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-159-F" type="History" display="false"/>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-159-F" target-path="10|27|21|annos" type="History" display="false"/>
   </annotations>
 </container>

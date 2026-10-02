@@ -2,7 +2,7 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>06</num>
-  <heading>Data Reporting by Non-Hospital Health Care Facilities<annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" type="History" display="false"/></heading>
+  <heading>Data Reporting by Non-Hospital Health Care Facilities<annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" target-path="10|24|06|heading" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -56,7 +56,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" type="History" display="false"/>
+      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" target-path="10|24|06|.04" type="History" display="false"/>
+      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" target-path="10|24|06|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -136,7 +137,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" type="History" display="false"/>
+      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" target-path="10|24|06|.04" type="History" display="false"/>
+      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" target-path="10|24|06|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|24|06|.03">
@@ -152,7 +154,8 @@
       <text>Disclosure under <cite path="10|24|06|.03|A.">§A of this regulation</cite> may not be made in such a way that the data furnished for a specific patient can be identified.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" type="History" display="false"/>
+      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" target-path="10|24|06|.04" type="History" display="false"/>
+      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" target-path="10|24|06|.03" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -162,7 +165,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-12-22"><cite path="|10|24|06|.02">Regulation .02</cite> amended effective December 22, 2025 (52:25 Md. R. 1268)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-12-22"><cite path="|10|24|06|.03">Regulation .03</cite> recodified from Regulation .04 effective December 22, 2025 (52:25 Md. R. 1268)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-12-22"><cite path="|10|24|06|.04">Regulation .04</cite> repealed effective December 22, 2025 (52:25 Md. R. 1268)</annotation>
-    <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" type="History" display="false"/>
+    <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" target-path="10|24|06|annos" type="History" display="false"/>
   </annotations>
-  <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" type="History" display="false"/>
+  <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-185-F" target-path="10|24|06|.04" type="History" display="false"/>
 </container>

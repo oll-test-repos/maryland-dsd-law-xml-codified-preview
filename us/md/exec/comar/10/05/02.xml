@@ -132,7 +132,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -141,7 +141,7 @@
     <heading>Incorporation By Reference.</heading>
     <text>In this chapter, the following document is incorporated by reference, National Fire Protection Association (NFPA) 101 Life Safety Code (2018 Edition), which is incorporated by reference in <cite path="29.06.01.06">COMAR 29.06.01.06</cite>.</text>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -150,7 +150,7 @@
     <heading>License Requirements.</heading>
     <text>A freestanding birthing center shall only provide normal maternity care and shall meet all general licensing requirements for a facility as provided in <cite path="|10.05.01">COMAR 10.05.01</cite> and all requirements of this chapter.</text>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -222,7 +222,7 @@
       <text>Current Business Email Address. A freestanding birthing center is required to maintain a current business email address on file with the OHCQ.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -386,7 +386,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -466,7 +466,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -550,7 +550,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -559,7 +559,7 @@
     <heading>Consultation.</heading>
     <text>A licensed direct-entry midwife, licensed certified midwife, certified nurse midwife, or physician shall consult or collaborate with another health care practitioner who has the knowledge, skills, and expertise to manage a clinical issue, as needed or as required in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>C-04, Annotated Code of Maryland.</text>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -568,7 +568,7 @@
     <heading>Referral System.</heading>
     <text>A licensed direct-entry midwife, licensed certified midwife, certified nurse midwife, or physician shall refer and transfer patients with complications beyond their scope of practice to a health care practitioner with the knowledge, skills, and experience to manage the client.</text>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -604,7 +604,7 @@
       <text>A freestanding birthing center shall conduct a transfer drill with staff that may be involved in patient transfers at least once a year.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -640,7 +640,7 @@
       <text>Process of Filing a Complaint.  The freestanding birthing center shall have a written process that describes how patients are notified of how to file a complaint with the OHCQ and, if applicable, an accreditation organization.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -696,7 +696,7 @@
       <text>Lighting and Power. A freestanding birthing center shall have adequate lighting in the birthing rooms.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02|.12" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -752,7 +752,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -820,7 +820,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -848,7 +848,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -858,6 +858,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-12-08"><cite path="|10|05|02|.01|B.">Regulation .01B</cite> amended effective December 8, 2016 (43:24 Md. R. 1350)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-12-08"><cite path="|10|05|02|.06|A.">Regulation .06A</cite> amended effective December 8, 2016 (43:24 Md. R. 1350)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13" discontinuity="true">Chapter revised effective October 13, 2025 (52:20 Md. R. 1000)</annotation>
-    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" type="History" display="false"/>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-068-F" target-path="10|05|02|annos" type="History" display="false"/>
   </annotations>
 </container>

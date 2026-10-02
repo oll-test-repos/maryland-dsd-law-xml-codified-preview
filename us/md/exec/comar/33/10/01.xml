@@ -1454,7 +1454,7 @@
       <text>The local board may accept a criminal background check performed within 6 months prior to hire if conducted by the State Board or another local board, if the provider verifies and documents its authenticity.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|10|01" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -1464,6 +1464,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-02-10"><cite path="|33|10|01|.17|F.">Regulation .17F</cite> amended effective February 10, 2020 (47:3 Md. R. 173)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-10"><cite path="|33|10|01|.18">Regulation .18</cite> amended effective July 10, 2023 (50:13 Md. R. 514)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|33|10|01|.30">Regulation .30</cite> adopted effective September 29, 2025 (52:19 Md. R. 957)</annotation>
-    <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+    <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|10|01|annos" type="History" display="false"/>
   </annotations>
 </container>

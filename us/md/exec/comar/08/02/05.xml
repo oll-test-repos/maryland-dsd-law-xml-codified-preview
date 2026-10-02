@@ -141,9 +141,7 @@
       <num>M.</num>
       <text>Fishing and Crabbing in a Leased Area. Fishing and crabbing are permitted in an area that has been leased for shellfish aquaculture in accordance with <cite path="|08.02.23">COMAR 08.02.23</cite> if the fishing or crabbing activity does not destroy or damage shellfish or gear which may be planted or secured there.</text>
     </para>
-    <annotations>
-      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="08|02|05|.03">
     <prefix>Regulation</prefix>
@@ -1936,7 +1934,7 @@
       <text>A person shall land bluefin tuna whole.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-187-F" type="History" display="false"/>
+      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-187-F" target-path="08|02|05|.23" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="08|02|05|.24">
@@ -2344,7 +2342,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-240-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-240-F" target-path="08|02|05|.24" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -2411,7 +2409,7 @@
       <text>A person that lands a billfish may eviscerate the billfish but it shall otherwise be maintained whole with its head, fins, and bill intact through offloading.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-187-F" type="History" display="false"/>
+      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-187-F" target-path="08|02|05|.26" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="08|02|05|.27">
@@ -2455,7 +2453,7 @@
       <text>A person that owns or operates a fishing vessel that possesses a swordfish in the Atlantic Ocean or lands a swordfish shall maintain the swordfish in round or dressed form as defined in 50 CFR 635 through off-loading.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-187-F" type="History" display="false"/>
+      <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-187-F" target-path="08|02|05|.27" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -3131,8 +3129,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-08-22"><cite path="|08|02|05|.29|D.">Regulation .29D</cite>, F amended effective August 22, 2011 (38:17 Md. R. 1012)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-30"><cite path="|08|02|05|.29|E.">Regulation .29E</cite> amended effective March 30, 2015 (42:6 Md. R. 511)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-07-01"><cite path="|08|02|05|.30">Regulation .30</cite> adopted effective July 1, 2019 (46:13 Md. R. 589)</annotation>
-    <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-187-F" type="History" display="false"/>
-    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-240-F" type="History" display="false"/>
-    <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
+    <annotation app="2025-12-22" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-187-F" target-path="08|02|05|annos" type="History" display="false"/>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-240-F" target-path="08|02|05|annos" type="History" display="false"/>
   </annotations>
 </container>

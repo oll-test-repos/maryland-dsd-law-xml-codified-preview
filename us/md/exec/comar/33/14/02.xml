@@ -470,7 +470,7 @@
       <text>If the members of the gubernatorial ticket endorse another gubernatorial ticket, they may not be held liable under <cite doc="Md. Code" path="gel|15-106">Election Law Article, §15-106(a), Annotated Code of Maryland</cite>, for any independent use of the endorsement by the endorsed campaign in any fundraising activity.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-148-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-148-F" target-path="33|14|02" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -498,6 +498,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-12-12"><cite path="|33|14|02|.12">Regulation .12</cite> amended effective December 12, 2022 (49:25 Md. R. 1053)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-12-12"><cite path="|33|14|02|.13">Regulation .13</cite> adopted effective December 12, 2022 (49:25 Md. R. 1053)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|33|14|02|.14">Regulation .14</cite> adopted effective October 27, 2025 (52:21 Md. R. 1026)</annotation>
-    <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-148-F" type="History" display="false"/>
+    <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-148-F" target-path="33|14|02|annos" type="History" display="false"/>
   </annotations>
 </container>

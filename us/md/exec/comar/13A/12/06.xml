@@ -44,7 +44,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" target-path="13A|12|06|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -196,7 +196,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" target-path="13A|12|06|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="13A|12|06|.03">
@@ -392,7 +392,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" target-path="13A|12|06|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -440,7 +440,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" target-path="13A|12|06|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -534,7 +534,7 @@
       <text>The existence of a record in the Educator Identification Clearinghouse alone is not a basis for reciprocal action.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" target-path="13A|12|06|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="13A|12|06|.09">
@@ -606,7 +606,7 @@
       <text>A license revoked or voluntarily surrendered while an educator is under investigation for, or facing a petition identifying, grounds under <cite path="|13A|12|06|.02|D.">Regulation .02D of this chapter</cite> may not be reinstated.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" target-path="13A|12|06|.09" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -622,6 +622,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|13A|12|06|.04|B.">Regulation .04B</cite>, D amended effective October 27, 2025 (52:21 Md. R. 1025)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|13A|12|06|.08|D.">Regulation .08D</cite> amended effective October 27, 2025 (52:21 Md. R. 1025)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|13A|12|06|.09|D.">Regulation .09D</cite>, E amended effective October 27, 2025 (52:21 Md. R. 1025)</annotation>
-    <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" type="History" display="false"/>
+    <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" target-path="13A|12|06|annos" type="History" display="false"/>
   </annotations>
 </container>

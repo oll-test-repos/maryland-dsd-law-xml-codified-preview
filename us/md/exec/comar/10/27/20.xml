@@ -324,7 +324,7 @@
       <text>The licensee shall maintain medical records in accordance with Health-General Article, Title 4, Subtitle 4, Annotated Code of Maryland.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-159-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-159-F" target-path="10|27|20|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|27|20|.05">
@@ -776,6 +776,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|10|27|20|.04">Regulation .04</cite> amended effective July 2, 2018 (45:13 Md. R. 667); October 13, 2025 (52:10 Md. R. 1002)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-10-27"><cite path="|10|27|20|.05">Regulation .05</cite> amended effective October 27, 2003 (30:21 Md. R. 1529)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-10-27"><cite path="|10|27|20|.06|B.">Regulation .06B</cite> amended effective October 27, 2003 (30:21 Md. R. 1529)</annotation>
-    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-159-F" type="History" display="false"/>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-159-F" target-path="10|27|20|annos" type="History" display="false"/>
   </annotations>
 </container>

@@ -760,7 +760,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" target-path="10|50|01|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -844,7 +844,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" target-path="10|50|01|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -852,7 +852,7 @@
     <num>.05</num>
     <heading>Responsibilities of the OHCQ. — Repealed.</heading>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" target-path="10|50|01|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1088,7 +1088,7 @@
       <text>Return of Permit. If a tissue bank's permit is amended, suspended, or revoked, the original permit is void and the tissue bank's technical director shall return the permit to the OHCQ.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" target-path="10|50|01|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|50|01|.07">
@@ -1208,7 +1208,7 @@
       <text>Change in Accreditation Status. Tissue banks shall report all changes in accreditation status to the OHCQ within seven calendar days of becoming aware of the change.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" target-path="10|50|01|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1440,7 +1440,7 @@
       <text>Process of Filing a Complaint. The tissue bank shall have a written process that describes how donors and recipients of tissue bank services are notified of how to file a complaint with the OHCQ and, if applicable, an accreditation organization.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" target-path="10|50|01|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1548,7 +1548,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" target-path="10|50|01|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1808,7 +1808,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" target-path="10|50|01|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|50|01|.11">
@@ -1960,7 +1960,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" target-path="10|50|01|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -2040,6 +2040,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-01-09"><cite path="|10|50|01|.10|C.">Regulation .10C</cite> amended effective January 9, 2012 (38:27 Md. R. 1764)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|10|50|01|.11|A.">Regulation .11A</cite> amended effective September 15, 2025 (52:18 Md. R. 923)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-04-04"><cite path="|10|50|01|.11|A.">Regulation .11A</cite>, C amended effective April 4, 2011 (38:7 Md. R. 432)</annotation>
-    <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" type="History" display="false"/>
+    <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-130-F-I" target-path="10|50|01|annos" type="History" display="false"/>
   </annotations>
 </container>

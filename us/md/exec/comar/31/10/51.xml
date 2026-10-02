@@ -9,7 +9,7 @@
     <heading>Purpose.</heading>
     <text>The purpose of this chapter is to adopt regulations to implement <cite doc="Md. Code" path="gin|15-144">Insurance Article, §15-144, Annotated Code of Maryland</cite>, to ensure uniform definitions and methodology for the reporting requirements established under this chapter.</text>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" target-path="31|10|51|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -18,7 +18,7 @@
     <heading>Scope.</heading>
     <text>This chapter applies to carriers that deliver or issue for delivery a health benefit plan in Maryland.</text>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" target-path="31|10|51|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -130,7 +130,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" target-path="31|10|51|.08" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" target-path="31|10|51|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="31|10|51|.04">
@@ -234,7 +235,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" target-path="31|10|51|.08" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" target-path="31|10|51|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -258,7 +260,8 @@
       <text>A complete summary form shall include responses to each applicable section of the standardized form, as described in the instructions posted on the Administration’s website.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" target-path="31|10|51|.08" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" target-path="31|10|51|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -314,7 +317,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" target-path="31|10|51|.08" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" target-path="31|10|51|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -323,14 +327,15 @@
     <heading>Effective Date.</heading>
     <text>This chapter is applicable to all reports filed after January 1, 2022.</text>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" target-path="31|10|51|.08" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" target-path="31|10|51|.07" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Insurance Article, §§<cite doc="Md. Code" path="gin|2-109">2-109</cite>(a)(<cite doc="Md. Code" path="gin|1">1</cite>) and <cite doc="Md. Code" path="gin|15-144">15-144</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-12-27">Effective date: Effective December 27, 2021 (48:26 Md. R. 1113)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13">Chapter revised effective October 13, 2025 (52:20 Md. R. 1003)</annotation>
-    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" type="History" display="false"/>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" target-path="31|10|51|annos" type="History" display="false"/>
   </annotations>
-  <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" type="History" display="false"/>
+  <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-018-F" target-path="31|10|51|.08" type="History" display="false"/>
 </container>

@@ -3225,26 +3225,78 @@
     <heading>Commercial Fishing Records.</heading>
     <para>
       <num>A.</num>
-      <text>Any person licensed to fish commercially shall accurately record their catch on forms provided by the Department.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>During any season a licensee is authorized to fish commercially the licensee shall:</text>
+      <text>General.</text>
       <para>
         <num>(1)</num>
-        <text>Accurately record their catch on the report or reports described in <cite path="08|02|13|.06|C.">§C of this regulation</cite> or a comparable federal form approved by the Department; and</text>
+        <text>Any person licensed under Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-210">4-210</cite>, <cite doc="Md. Code" path="gnr|4-210">4-210</cite>.1, 4-701, 4-701.1, or 4-701.2, Annotated Code of Maryland:</text>
+        <para>
+          <num>(a)</num>
+          <text>Unless they have indicated on a form provided by the Department that they will not be participating in a fishery for a particular period of time, shall accurately record their harvest information in accordance with this regulation;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Shall declare their method of reporting on a form provided by the Department:</text>
+          <para>
+            <num>(i)</num>
+            <text>At the time of obtaining a license; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>When renewing the license; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>May change their reporting declaration not more than two times per license year on a form provided by the Department.</text>
+        </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>Unless the licensee has indicated on a form provided by the Department that the licensee will not be participating in a fishery for a particular period of time, the licensee shall submit the completed report or reports to the Department in accordance with <cite path="08|02|13|.06|D.">§D of this regulation</cite>.</text>
+        <text>Licensees are required to report:</text>
+        <para>
+          <num>(a)</num>
+          <text>Oyster harvest, only if they have paid the oyster surcharge in accordance with <cite doc="Md. Code" path="gnr|4-701">Natural Resources Article, §4-701, Annotated Code of Maryland</cite>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Clam harvest, only if they have declared to harvest clams in accordance with <cite path="08.02.08.05">COMAR 08.02.08.05</cite>; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Guided fishing activities, only if they provide services as a fishing guide.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For purposes of this regulation, the time period for reporting fishing guide activities is Sunday through Saturday.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Electronic reports submitted in accordance with this regulation satisfy the paper reporting requirements described in this subtitle.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A licensee shall submit the completed paper reports as required in <cite path="08|02|13|.06|B.">§B of this regulation</cite> unless the licensee has indicated on a form provided by the Department that the licensee will report electronically in accordance with §§C or D of this regulation.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>An individual who is authorized to use a licensee’s commercial license and vessel in accordance with <cite doc="Md. Code" path="gnr|4-701">Natural Resources Article, §4-701, Annotated Code of Maryland</cite>:</text>
+        <para>
+          <num>(a)</num>
+          <text>Shall report in the same manner as the licensee; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>May not participate in the regulatory exceptions described in §§E-K of this regulation.</text>
+        </para>
       </para>
     </para>
     <para>
-      <num>C.</num>
-      <text>Reports.</text>
+      <num>B.</num>
+      <text>Paper Reports.</text>
       <para>
         <num>(1)</num>
-        <text>During the appropriate open seasons, the following reports shall be submitted to the Department monthly:</text>
+        <text>During the appropriate open seasons, the following reports shall be submitted to the Department following the instructions detailed on the report not later than the 10th day of the month immediately following the month that the report pertains to:</text>
         <text>
           <table>
             <thead>
@@ -3264,7 +3316,7 @@
               </tr>
               <tr>
                 <td data-vertical-align="middle">Unlimited Tidal Fish License</td>
-                <td data-vertical-align="middle">Daily Commercial Fisheries Catch Log, Daily Record of Commercial Crabbing, Maryland Monthly Oyster Report, Commercial Charter Boat Captain's Daily Log, Monthly Softshell/Razor Clam Report, Monthly Hardshell Clam Report</td>
+                <td data-vertical-align="middle">Daily Commercial Fisheries Catch Log, Daily Record of Commercial Crabbing, Maryland Monthly Oyster Report, Fishing Guide Daily Log, Maryland Monthly Clam Report, Crab Charter Report</td>
               </tr>
               <tr>
                 <td data-vertical-align="middle">Limited Crab Catcher, Crab Harvester, or Additional Crab Pot Authorizations</td>
@@ -3275,16 +3327,16 @@
                 <td data-vertical-align="middle">Maryland Monthly Oyster Report</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle">Conch, Turtles, and Lobster</td>
+                <td data-vertical-align="middle">Conch, Cancer Crab, Turtles, and Lobster</td>
                 <td data-vertical-align="middle">Daily Commercial Fisheries Catch Log</td>
               </tr>
               <tr>
                 <td data-vertical-align="middle">Resident Fishing Guide</td>
-                <td data-vertical-align="middle">Commercial Charter Boat Captain's Daily Log</td>
+                <td data-vertical-align="middle">Fishing Guide Daily Log, Crab Charter Report</td>
               </tr>
               <tr>
                 <td data-vertical-align="middle">Nonresident Fishing Guide</td>
-                <td data-vertical-align="middle">Commercial Charter Boat Captain's Daily Log</td>
+                <td data-vertical-align="middle">Fishing Guide Daily Log, Crab Charter Report</td>
               </tr>
               <tr>
                 <td data-vertical-align="middle">Master Fishing Guide</td>
@@ -3292,10 +3344,10 @@
               </tr>
               <tr>
                 <td data-vertical-align="middle">Clam Harvester</td>
-                <td data-vertical-align="middle">Monthly Softshell/Razor Clam Report, Monthly Hardshell Clam Report</td>
+                <td data-vertical-align="middle">Maryland Monthly Clam Report</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle">Northern Snakehead License</td>
+                <td data-vertical-align="middle">Northern Snakehead  or Chesapeake Channa License</td>
                 <td data-vertical-align="middle">Daily Commercial Fisheries Catch Log</td>
               </tr>
               <tr>
@@ -3308,107 +3360,495 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The Maryland monthly oyster report is only required of a licensee that has paid the oyster surcharge in accordance with <cite doc="Md. Code" path="gnr|4-701">Natural Resources Article, §4-701, Annotated Code of Maryland</cite>.</text>
+        <text>In accordance with <cite doc="Md. Code" path="gnr|4-701">Natural Resources Article, §4-701, Annotated Code of Maryland</cite>, the Department may suspend a person's tidal fish license, authorization, or entitlement to engage in a particular activity or activities under a tidal fish license if the reports described in <cite path="08|02|13|.06|B.">§B of this regulation</cite> are not received by the Department within 50 days of the due date described in <cite path="08|02|13|.06|B.|(1)">§B(1) of this regulation</cite>.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>All licensees authorized under <cite doc="Md. Code" path="gnr|4-701">Natural Resources Article, §4-701, Annotated Code of Maryland</cite>, that guide fishing parties shall submit the Commercial Charter Boat Captain's Daily Log in accordance with this regulation.</text>
+        <text>The maximum penalty for failing to submit reports within 50 days of the due date described in <cite path="08|02|13|.06|B.|(1)">§B(1) of this regulation</cite> shall be as follows:</text>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Number of Late Reports</th>
+                <th>Maximum Penalty</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td data-text-align="center" data-vertical-align="middle">1</td>
+                <td data-vertical-align="middle">Warning</td>
+              </tr>
+              <tr>
+                <td data-text-align="center" data-vertical-align="middle">2</td>
+                <td data-vertical-align="middle">3-Day Suspension</td>
+              </tr>
+              <tr>
+                <td data-text-align="center" data-vertical-align="middle">3</td>
+                <td data-vertical-align="middle">1-Week Suspension</td>
+              </tr>
+              <tr>
+                <td data-text-align="center" data-vertical-align="middle">4</td>
+                <td data-vertical-align="middle">2-Week Suspension</td>
+              </tr>
+              <tr>
+                <td data-text-align="center" data-vertical-align="middle">5</td>
+                <td data-vertical-align="middle">1-Month Suspension</td>
+              </tr>
+              <tr>
+                <td data-text-align="center" data-vertical-align="middle">6</td>
+                <td data-vertical-align="middle">2-Month Suspension</td>
+              </tr>
+              <tr>
+                <td data-text-align="center" data-vertical-align="middle">7</td>
+                <td data-vertical-align="middle">3-Month Suspension</td>
+              </tr>
+              <tr>
+                <td data-text-align="center" data-vertical-align="middle">8</td>
+                <td data-vertical-align="middle">4-Month Suspension</td>
+              </tr>
+              <tr>
+                <td data-text-align="center" data-vertical-align="middle">9</td>
+                <td data-vertical-align="middle">5-Month Suspension</td>
+              </tr>
+              <tr>
+                <td data-text-align="center" data-vertical-align="middle">10</td>
+                <td data-vertical-align="middle">6-Month Suspension</td>
+              </tr>
+              <tr>
+                <td data-text-align="center" data-vertical-align="middle">11</td>
+                <td data-vertical-align="middle">7-Month Suspension</td>
+              </tr>
+              <tr>
+                <td data-text-align="center" data-vertical-align="middle">12</td>
+                <td data-vertical-align="middle">1-Year Suspension</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The “Number of Late Reports” described in <cite path="08|02|13|.06|B.|(3)" proof="needed">§B(3) of this regulation</cite> means the number of late reports the Department has recorded for each individual report required by <cite path="08|02|13|.06|B.|(1)">§B(1) of this regulation</cite> in any 12-month period.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Department may only suspend a licensee under this regulation from participating in the fishery or fisheries to which the reporting violations pertain.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Department may impose less than the maximum suspension.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Before the Department imposes a suspension or revocation under this regulation, an individual is entitled to a contested case hearing upon request in accordance with <cite doc="Md. Code" path="gnr|4-701">Natural Resources Article, §4-701, Annotated Code of Maryland</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Electronic Harvest Reporting without Hailing.</text>
+      <para>
+        <num>(1)</num>
+        <text>A licensee who declares electronic harvest reporting without hailing as their method of reporting shall accurately record their harvest information in a system approved by the Department or in a comparable federal system approved by the Department.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department shall post on its website the systems approved under this section.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A licensee shall report their harvest information by the earlier deadline of:</text>
+        <para>
+          <num>(a)</num>
+          <text>The 10th day of the month immediately following the month that the report pertains to; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The timeframe required by the federal agency which requires the submission of the report.</text>
+        </para>
       </para>
     </para>
     <para>
       <num>D.</num>
-      <text>The reports described in <cite path="08|02|13|.06|C.">§C of this regulation</cite> shall be submitted by the 10th day of the month immediately following the month that the report or reports pertain to.</text>
+      <text>Electronic Harvest Reporting with Hailing—General.</text>
+      <para>
+        <num>(1)</num>
+        <text>A licensee who declares electronic harvest reporting with hailing as their method of reporting:</text>
+        <para>
+          <num>(a)</num>
+          <text>Shall accurately record their harvest information in an electronic format prescribed by the Department;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>May choose to participate in the exceptions described in §§E–K of this regulation; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Shall return all paper striped bass or yellow perch permit cards that have been issued by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A licensee is not required to report on the days that they do not engage in activities authorized under their license.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Hailing Requirements.</text>
+        <para>
+          <num>(a)</num>
+          <text>Prior to the vessel being underway, a licensee shall send a start hail following the method prescribed by the electronic system.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A licensee shall send an end hail:</text>
+          <para>
+            <num>(i)</num>
+            <text>That includes the required information;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Following the method prescribed by the electronic system;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Within 30 minutes of completion of harvest activity; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Prior to landing the harvest.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A licensee shall revise their start hail prior to sending their end hail if the original information reported is no longer accurate.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A licensee shall revise their end hail catch information if the original information reported is no longer accurate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Vessel Marking Requirements.</text>
+        <para>
+          <num>(a)</num>
+          <text>The markings described in this section shall be displayed on the vessel at all times if the licensee has declared electronic harvest reporting with hailing as their method for reporting harvest.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The markings described in this section shall be removed from the vessel upon declaring to report harvest using paper or electronic reporting without hailing.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The letters for the abbreviation of the report being submitted electronically shall be identified and displayed on the vessel and shall be painted or firmly attached to the port side near the stern of the vessel as follows:</text>
+          <para>
+            <num>(i)</num>
+            <text>The letters shall be positioned in such a manner as to be clearly visible to persons in passing boats;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The letters shall be plain vertical block characters of not less than 3 inches in height and shall contrast with the color of the background;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The letters “EHRC” shall be displayed when harvesting blue crabs;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The letters “EHRS” shall be displayed when harvesting oysters, soft-shell clams, or hard-shell clams;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>The letters “EHRG” shall be displayed when operating a guided fishing trip; and</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>The letters “EHRF” shall be displayed when harvesting all other fish species.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If a licensee is participating in more than one fishery, the licensee may display a combination of letters described in <cite path="08|02|13|.06|D.|(3)|(c)" proof="needed">§D(3)(c) of this regulation</cite> as directed by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The exceptions described in §§E—K of this regulation are available only to a licensee who has declared electronic harvest reporting with hailing as their method of reporting.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>If a licensee on a vessel participates in an exception described in §§E—K of this regulation, all licensees on board that vessel shall report their harvest information in the electronic harvest reporting with hailing system.</text>
+      </para>
     </para>
     <para>
       <num>E.</num>
-      <text>In accordance with <cite doc="Md. Code" path="gnr|4-701">Natural Resources Article, §4-701(l), Annotated Code of Maryland</cite>, the Department may suspend a person's tidal fish license, authorization, or entitlement to engage in a particular activity or activities under a tidal fish license if the reports described in <cite path="08|02|13|.06|C.">§C of this regulation</cite> are not received by the Department within 50 days of the due date described in <cite path="08|02|13|.06|D.">§D of this regulation</cite>.</text>
+      <text>Electronic Harvest Reporting with Hailing—Blue Crabs.</text>
+      <para>
+        <num>(1)</num>
+        <text>For purposes of this section, the crabbing week is Wednesday through Tuesday.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Except as permitted in <cite path="08.02.03.14|B.">COMAR 08.02.03.14B</cite>, a licensee or vessel may not set or retrieve gear or catch blue crabs for commercial purposes more than 6 days during any crabbing week.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Notwithstanding <cite path="08.02.03.14">COMAR 08.02.03.14</cite>, a licensee is not required to take their declared day off.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Notwithstanding <cite path="08.02.03.11">COMAR 08.02.03.11</cite>, the licensee:</text>
+        <para>
+          <num>(a)</num>
+          <text>May set crab pots and remove blue crabs from crab pots in the Chesapeake Bay up to 2 hours before sunrise; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>May, on July 3 and July 4, set crab pots and remove crabs from crab pots in the Chesapeake Bay up to 3 hours before sunrise.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>If a licensee begins removing blue crabs prior to the start times listed in <cite path="08.02.03.11">COMAR 08.02.03.11</cite>, the licensee:</text>
+        <para>
+          <num>(a)</num>
+          <text>Shall cease removing crabs from crab pots not more than 6 hours after sunrise; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>May set crab pots already onboard a vessel up to 1 hour after the end of the time period established in <cite path="08|02|13|.06|E.|(5)|(a)" proof="needed">§E(5)(a) of this regulation</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>If a licensee on a vessel participates in the harvest hours described in <cite path="08|02|13|.06|E.|(4)" proof="needed">§E(4) of this regulation</cite>, all licensees on board that vessel shall adhere to the time periods described in <cite path="08|02|13|.06|E.|(5)" proof="needed">§E(5) of this regulation</cite>.</text>
+      </para>
     </para>
     <para>
       <num>F.</num>
-      <text>The maximum penalty for failing to submit reports within 50 days of the due date described in <cite path="08|02|13|.06|D.">§D of this regulation</cite> shall be as follows:</text>
-      <text>
-        <table>
-          <thead>
-            <tr>
-              <th>Number of Late Reports</th>
-              <th>Maximum Penalty</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td data-text-align="center" data-vertical-align="middle">1</td>
-              <td data-vertical-align="middle">Warning</td>
-            </tr>
-            <tr>
-              <td data-text-align="center" data-vertical-align="middle">2</td>
-              <td data-vertical-align="middle">3-Day Suspension</td>
-            </tr>
-            <tr>
-              <td data-text-align="center" data-vertical-align="middle">3</td>
-              <td data-vertical-align="middle">1-Week Suspension</td>
-            </tr>
-            <tr>
-              <td data-text-align="center" data-vertical-align="middle">4</td>
-              <td data-vertical-align="middle">2-Week Suspension</td>
-            </tr>
-            <tr>
-              <td data-text-align="center" data-vertical-align="middle">5</td>
-              <td data-vertical-align="middle">1-Month Suspension</td>
-            </tr>
-            <tr>
-              <td data-text-align="center" data-vertical-align="middle">6</td>
-              <td data-vertical-align="middle">2-Month Suspension</td>
-            </tr>
-            <tr>
-              <td data-text-align="center" data-vertical-align="middle">7</td>
-              <td data-vertical-align="middle">3-Month Suspension</td>
-            </tr>
-            <tr>
-              <td data-text-align="center" data-vertical-align="middle">8</td>
-              <td data-vertical-align="middle">4-Month Suspension</td>
-            </tr>
-            <tr>
-              <td data-text-align="center" data-vertical-align="middle">9</td>
-              <td data-vertical-align="middle">5-Month Suspension</td>
-            </tr>
-            <tr>
-              <td data-text-align="center" data-vertical-align="middle">10</td>
-              <td data-vertical-align="middle">6-Month Suspension</td>
-            </tr>
-            <tr>
-              <td data-text-align="center" data-vertical-align="middle">11</td>
-              <td data-vertical-align="middle">7-Month Suspension</td>
-            </tr>
-            <tr>
-              <td data-text-align="center" data-vertical-align="middle">12</td>
-              <td data-vertical-align="middle">1-Year Suspension</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
+      <text>Electronic Harvest Reporting with Hailing— Oysters.</text>
+      <para>
+        <num>(1)</num>
+        <text>Notwithstanding <cite path="08.02.04.03">COMAR 08.02.04.03</cite>, a licensee may:</text>
+        <para>
+          <num>(a)</num>
+          <text>Begin harvesting up to 1 half hour before sunrise; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Designate a representative in the electronic harvest reporting system to deliver their oysters to a dealer if the designated representative:</text>
+          <para>
+            <num>(i)</num>
+            <text>Is commercially licensed to harvest oysters;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Has purchased the oyster surcharge; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Has declared to report harvest using the electronic harvest reporting system with hailing.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A licensee who begins harvest activity early shall cease harvest one half hour earlier than the stop times listed in <cite path="08.02.04.03">COMAR 08.02.04.03</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a licensee on a vessel participates in the harvest hours described in <cite path="08|02|13|.06|F.|(1)|(a)" proof="needed">§F(1)(a) of this regulation</cite>, all licensees on board that vessel shall adhere to the time periods described in <cite path="08|02|13|.06|F.|(2)" proof="needed">§F(2) of this regulation</cite>.</text>
+      </para>
     </para>
     <para>
       <num>G.</num>
-      <text>The “Number of Late Reports” described in <cite path="08|02|13|.06|F.">§F of this regulation</cite> means the number of late reports the Department has recorded for each individual report required by <cite path="08|02|13|.06|C.">§C of this regulation</cite> in any 12-month period.</text>
+      <text>Electronic Harvest Reporting with Hailing—Soft-Shell Clams.</text>
+      <para>
+        <num>(1)</num>
+        <text>Notwithstanding <cite path="08.02.02.03">COMAR 08.02.02.03</cite>, a licensee may:</text>
+        <para>
+          <num>(a)</num>
+          <text>Begin harvesting up to one half hour before sunrise; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Designate a representative in the electronic harvest reporting system to deliver their soft-shell clams to a dealer if the designated representative:</text>
+          <para>
+            <num>(i)</num>
+            <text>Is commercially licensed to harvest soft-shell clams;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Has declared their intent to harvest soft-shell clams in accordance with <cite path="08.02.08.05">COMAR 08.02.08.05</cite>; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Has declared to report harvest using the electronic harvest reporting system with hailing.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A licensee who begins harvest activity early shall cease harvest 1 half hour earlier than the stop times listed in <cite path="08.02.02.03">COMAR 08.02.02.03</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a licensee on a vessel participates in the harvest hours described in <cite path="08|02|13|.06|G.|(1)|(a)" proof="needed">§G(1)(a) of this regulation</cite>, all licensees on board that vessel shall adhere to the time periods described in <cite path="08|02|13|.06|G.|(2)" proof="needed">§G(2) of this regulation</cite>.</text>
+      </para>
     </para>
     <para>
       <num>H.</num>
-      <text>The “Number of Late Reports” described in <cite path="08|02|13|.06|F.">§F of this regulation</cite> does not mean the total number of late reports the Department has recorded for all reports required by <cite path="08|02|13|.06|C.">§C of this regulation</cite>.</text>
+      <text>Electronic Harvest Reporting with Hailing—Hard-Shell Clams.</text>
+      <para>
+        <num>(1)</num>
+        <text>Notwithstanding <cite path="08.02.07.03">COMAR 08.02.07.03</cite>, a licensee may:</text>
+        <para>
+          <num>(a)</num>
+          <text>Begin harvesting up to 1 half hour before sunrise; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Designate a representative in the electronic harvest reporting system to deliver their hard-shell clams to a dealer if the designated representative:</text>
+          <para>
+            <num>(i)</num>
+            <text>Is commercially licensed to harvest hard-shell clams;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Has declared their intent to harvest hard-shell clams in accordance with <cite path="08.02.08.05">COMAR 08.02.08.05</cite>; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Has declared to report harvest using the electronic harvest reporting system with hailing;</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A licensee who begins harvest activity early shall cease harvest 1 half hour earlier than the stop times listed in <cite path="08.02.07.03">COMAR 08.02.07.03</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a licensee on a vessel participates in the harvest hours described in <cite path="08|02|13|.06|H.|(1)|(a)" proof="needed">§H(1)(a) of this regulation</cite>, all licensees on board that vessel shall adhere to the time periods described in <cite path="08|02|13|.06|H.|(2)" proof="needed">§H(2) of this regulation</cite>.</text>
+      </para>
     </para>
     <para>
       <num>I.</num>
-      <text>The Department may only suspend a licensee under this regulation from participating in the fishery or fisheries to which the reporting violations pertain.</text>
+      <text>Electronic Harvest Reporting with Hailing—Fishing Guides. Notwithstanding <cite path="08.02.15.12">COMAR 08.02.15.12</cite>, the captain and one mate may each possess up to one striped bass per person per day for personal consumption during the open recreational and charter boat summer and fall fishery.</text>
     </para>
     <para>
       <num>J.</num>
-      <text>The Department may impose less than the maximum suspension.</text>
+      <text>Electronic Harvest Reporting with Hailing—Striped Bass.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department may not issue a physical striped bass permit to a licensee who has registered for a striped bass permit and declares their reporting method to be electronic harvest reporting with hailing.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notwithstanding <cite path="|08.02.15">COMAR 08.02.15</cite>, a licensee:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is not required to have their striped bass permit in possession;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is not required to record their harvest on their striped bass permit;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Shall have their striped bass counted and weighed by a Department representative at a check station not later than the day immediately following harvest; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>May designate an individual to take their striped bass to be counted and weighed at a check station only if the:</text>
+          <para>
+            <num>(i)</num>
+            <text>Licensee has designated the individual in the electronic harvest reporting system; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Catch is counted and weighed the same day as harvested.</text>
+          </para>
+        </para>
+      </para>
     </para>
     <para>
       <num>K.</num>
-      <text>Before the Department imposes a suspension or revocation under this regulation, an individual is entitled to a contested case hearing upon request in accordance with <cite doc="Md. Code" path="gnr|4-701">Natural Resources Article, §4-701, Annotated Code of Maryland</cite>.</text>
+      <text>Electronic Harvest Reporting with Hailing—Yellow Perch.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department may not issue a physical yellow perch harvest permit to a licensee who has declared their:</text>
+        <para>
+          <num>(a)</num>
+          <text>Intent to fish for yellow perch; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Reporting method to be electronic harvest reporting with hailing.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Notwithstanding <cite path="08.02.21.03">COMAR 08.02.21.03</cite>, a licensee:</text>
+        <para>
+          <num>(a)</num>
+          <text>Prior to landing, shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>Except for the actual weight, complete all fields on the Department-issued tag;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Affix the Department-issued tag to each container of yellow perch; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Include the sum of all containers for the number of fish and the estimated weight with the end hail;</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is not required to have their yellow perch permit in possession; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Is not required to record their harvest on their yellow perch permit;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>After the fish from each container are weighed and packed for transport the:</text>
+        <para>
+          <num>(a)</num>
+          <text>Licensee shall revise the end hail and provide the actual weight for each container; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Tag shall be:</text>
+          <para>
+            <num>(i)</num>
+            <text>Removed from the container; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Retained by the licensee.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In the manner specified by the Department, the licensee shall return the:</text>
+        <para>
+          <num>(a)</num>
+          <text>Used tags at the end of each month during the season; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Unused tags at the end of the season.</text>
+        </para>
+      </para>
     </para>
     <annotations>
-      <annotation app="2026-07-15" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-044-F" type="History" display="false"/>
+      <annotation app="2026-07-15" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-044-F" target-path="08|02|13|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="08|02|13|.07">
@@ -6129,7 +6569,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-02-14"><cite path="|08|02|13|.03|E.">Regulation .03E</cite> adopted effective February 14, 2005 (32:3 Md. R. 289)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-11-05"><cite path="|08|02|13|.03|E.">Regulation .03E</cite> amended effective November 5, 2007 (34:22 Md. R. 1976)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-02-27"><cite path="|08|02|13|.04">Regulation .04</cite> amended effective February 27, 1995 (22:4 Md. R. 236)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-04-15"><cite path="|08|02|13|.04|H.">Regulation .04H</cite> and I amended effective April 15, 1991 (18:7 Md. R. 772)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-04-15"><cite path="|08|02|13|.04|H." proof="needed">Regulation .04H</cite> and I amended effective April 15, 1991 (18:7 Md. R. 772)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-02-14"><cite path="|08|02|13|.05">Regulation .05</cite> adopted effective February 14, 2005 (32:3 Md. R. 289)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-11-05"><cite path="|08|02|13|.05">Regulation .05</cite> amended effective November 5, 2007 (34:22 Md. R. 1976)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-02-22"><cite path="|08|02|13|.06">Regulation .06</cite> adopted effective February 22, 2010 (37:4 Md. R. 338)</annotation>
@@ -6147,8 +6587,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|08|02|13|.05|D.">Regulation .05D</cite>, E, F amended effective June 26, 2023 (50:12 Md. R. 475); July 7, 2025 (52:13 Md. R. 655); July 7, 2025 (52:13 Md. R. 655)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-03-31"><cite path="|08|02|13|.05|G.">Regulation .05G</cite>, L amended effective March 31, 2014 (41:6 Md. R. 377)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-06-20"><cite path="|08|02|13|.05|J.">Regulation .05J</cite> amended as an emergency provision effective July 2, 2011 (38:16 Md. R. 941); emergency status extended to June 20, 2012 (39:1 Md. R. 16); emergency status superseded March 19, 2012 (39:5 Md. R. 381)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-09-20"><cite path="|08|02|13|.06">Regulation .06</cite> amended effective September 20, 2010 (37:19 Md. R. 1283)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-12-25"><cite path="|08|02|13|.06|C.">Regulation .06C</cite> amended effective July 1, 2019 (46:13 Md. R. 589); October 31, 2022 (49:22 Md. R. 979) ; December 25, 2023 (50:25 Md. R. 1087)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-15"><cite path="|08|02|13|.06">Regulation .06</cite> amended effective September 20, 2010 (37:19 Md. R. 1283); July 15, 2026 (52:23 Md. R. 1138)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-12-25"><cite path="|08|02|13|.06|C.">Regulation .06C</cite> amended effective July 1, 2019 (46:13 Md. R. 589); October 31, 2022 (49:22 Md. R. 979); December 25, 2023 (50:25 Md. R. 1087)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-04-04"><cite path="|08|02|13|.06|C.">Regulation .06C</cite>, E amended effective April 4, 2011 (38:7 Md. R. 429)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-06-20"><cite path="|08|02|13|.06|K.">Regulation .06K</cite> amended as an emergency provision effective July 2, 2011 (38:16 Md. R. 941); emergency status extended to June 20, 2012 (39:1 Md. R. 16); emergency status superseded March 19, 2012 (39:5 Md. R. 381)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-19"><cite path="|08|02|13|.06|K.">Regulation .06K</cite> amended effective March 19, 2012 (39:5 Md. R. 381)</annotation>
@@ -6165,6 +6605,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-11-10"><cite path="|08|02|13|.10">Regulation .10</cite> adopted effective November 10, 2014 (41:22 Md. R. 1318)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-06-26"><cite path="|08|02|13|.10|F.">Regulation .10F</cite> amended effective June 26, 2023 (50:12 Md. R. 475)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-23"><cite path="|08|02|13|.10|F.">Regulation .10F</cite>, J amended effective March 23, 2020 (47:6 Md. R. 340)</annotation>
-    <annotation app="2026-07-15" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-044-F" type="History" display="false"/>
+    <annotation app="2026-07-15" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-044-F" target-path="08|02|13|annos" type="History" display="false"/>
   </annotations>
 </container>

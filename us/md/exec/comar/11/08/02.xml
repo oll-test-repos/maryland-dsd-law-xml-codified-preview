@@ -9,7 +9,7 @@
     <heading>Established.</heading>
     <text>Pursuant to <cite doc="Md. Code" path="gtr|7-203">Transportation Article, §7-203</cite>.1, Annotated Code of Maryland, there is hereby created the State Safety Oversight Agency (SSOA) for each fixed guideway rail public transportation system solely within the State of Maryland hereafter referred to as a Rail Transit Agency (RTA).</text>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" target-path="11|08|02|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -34,7 +34,7 @@
       <text>Enforce relevant federal and State laws and regulations relating to safety of the RTA rail systems.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" target-path="11|08|02|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -62,7 +62,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" target-path="11|08|02|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -114,7 +114,7 @@
       <text>The SSOA shall coordinate its enforcement activities with federal and State governmental authorities as appropriate.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" target-path="11|08|02|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -238,13 +238,13 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" target-path="11|08|02" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Transportation Article, §§<cite doc="Md. Code" path="gtr|2-102">2-102</cite>(c)(<cite doc="Md. Code" path="gtr|5">5</cite>) and <cite doc="Md. Code" path="gtr|7-203">7-203</cite>.1, Annotated Code of Maryland;<br/>49 U.S.C. §5329 and 49 CFR Part 674</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-03-26">Effective date: March 26, 2018 (45:6 Md. R. 321)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-05">Chapter revised effective January 5, 2026 (52:26 Md. R. 1309)</annotation>
-    <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/>
+    <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" target-path="11|08|02|annos" type="History" display="false"/>
   </annotations>
 </container>

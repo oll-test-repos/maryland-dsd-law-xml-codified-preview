@@ -216,8 +216,7 @@
       <text>“Substantially equivalent” does not mean a registered nurse or licensed practical nursing education program in another state or country that does not have a supervised clinical learning experience requirement.</text>
     </para>
     <annotations>
-      <annotation app="2025-08-26" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|emergency|25-163-E" type="History" display="false"/>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-163-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-163-F" target-path="10|27|01|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -587,8 +586,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-08-26" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|emergency|25-163-E" type="History" display="false"/>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-163-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-163-F" target-path="10|27|01|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|27|01|.04">
@@ -1758,8 +1756,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-08-26" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|emergency|25-163-E" type="History" display="false"/>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-163-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-163-F" target-path="10|27|01|.17" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1913,7 +1910,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-05"><cite path="|10|27|01|.17|C.">Regulation .17C</cite> adopted as an emergency provision effective September 7, 2022 (49:21 Md. R. 940); emergency status expired effective March 5, 2023</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-10-31"><cite path="|10|27|01|.17|C.">Regulation .17C</cite> amended as an emergency provision effective May 4, 2023 (50:10 Md. R. 405); emergency status expired effective October 31, 2023</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|10|27|01|.17|C.">Regulation .17C</cite> adopted as an emergency provision effective August 26, 2025 (52:20 Md. R. 999); adopted permanently effective October 13, 2025 (52:20 Md. R. 1001)</annotation>
-    <annotation app="2025-08-26" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|emergency|25-163-E" type="History" display="false"/>
-    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-163-F" type="History" display="false"/>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-163-F" target-path="10|27|01|annos" type="History" display="false"/>
   </annotations>
 </container>

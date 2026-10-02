@@ -143,7 +143,7 @@
       <text>Biological indicators shall be used no less than once a month according to manufacturers’ instructions to assure that the sterilizer is functioning properly.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-124-F" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-124-F" target-path="10|53|09|.04" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -153,6 +153,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-06-20" discontinuity="true"><cite path="|10|53|09|.01">Regulation .01</cite>, Requirements for Instructor's License, repealed and new Regulations <cite path="|10|53|09|.01">.01</cite>—<cite path="|10|53|09|.03">.03</cite> adopted under new chapter, Sterilization Procedures, effective June 20, 2005 (32:12 Md. R. 1047)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-08-05" discontinuity="true">Chapter revised effective August 5, 2024 (51:15 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15">Regulation.04A amended effective September 15, 2025 (52:18 Md. R. 923)</annotation>
-    <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-124-F" type="History" display="false"/>
+    <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-124-F" target-path="10|53|09|annos" type="History" display="false"/>
   </annotations>
 </container>

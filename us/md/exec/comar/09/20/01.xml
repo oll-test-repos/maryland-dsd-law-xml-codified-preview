@@ -36,7 +36,9 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.06" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.07" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -44,7 +46,9 @@
     <num>.02</num>
     <heading>Modifications to the International Plumbing Code. — Repealed.</heading>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.06" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.07" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -52,7 +56,9 @@
     <num>.03</num>
     <heading>Modifications to the International Residential Code. — Repealed.</heading>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.06" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.07" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -60,7 +66,9 @@
     <num>.04</num>
     <heading>Modifications to the National Fuel Gas Code, ANSI Z223.1, NFPA 54. — Repealed.</heading>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.06" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.07" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|20|01|.05">
@@ -412,7 +420,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.06" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.07" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -431,7 +440,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-30" discontinuity="true">Chapter revised effective December 30, 2019 (46:26 Md. R. 1163)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|09|20|01|.01">Regulation .01</cite> amended effective November 24, 2025 (52:23 Md. R. 1138)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24">Regulations .02.—.04, .06, .07 repealed effective November 24, 2025 (52:23 Md. R. 1138)</annotation>
-    <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|annos" type="History" display="false"/>
   </annotations>
-  <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" type="History" display="false"/>
+  <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.06" type="History" display="false"/>
+  <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-143-F-I" target-path="09|20|01|.07" type="History" display="false"/>
 </container>

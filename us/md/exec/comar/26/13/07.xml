@@ -28,7 +28,7 @@
       <text>Record Keeping. Applicants shall keep records of all data used to complete permit applications and any supplemental information submitted under this chapter for a period of at least 3 years from the date the application is signed.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|07|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|07|.02">
@@ -444,7 +444,7 @@
       <text>Any facility with an effective permit shall submit to the Secretary a new application at least 180 days before the expiration date of the effective permit, unless permission for a later date has been granted by the Secretary. The later date may not be after the expiration date of the effective permit.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|07|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|07|.02-1">
@@ -1258,7 +1258,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|07|.02-6" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -3301,7 +3301,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|07|.17" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|07|.18">
@@ -3841,7 +3841,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|07|.20" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|07|.20-1">
@@ -4181,7 +4181,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|07|.20-1" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|07|.20-2">
@@ -4505,7 +4505,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|07|.20-2" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|07|.20-3">
@@ -4541,7 +4541,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|07|.20-3" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|07|.20-4">
@@ -4685,7 +4685,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|07|.20-4" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|07|.20-5">
@@ -4809,7 +4809,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|07|.20-5" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|07|.20-6">
@@ -4849,7 +4849,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+      <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|07|.20-6" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|07|.21">
@@ -5662,6 +5662,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-01"><cite path="|26|13|07|.20-4">Regulation .20-4</cite> amended effective October 1, 2025 (52:17 Md. R. 876)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-01"><cite path="|26|13|07|.20-5">Regulation .20-5</cite> amended effective October 1, 2025 (52:17 Md. R. 876)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-01"><cite path="|26|13|07|.20-6">Regulation .20-6</cite> amended effective October 1, 2025 (52:17 Md. R. 876)</annotation>
-    <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" type="History" display="false"/>
+    <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|07|annos" type="History" display="false"/>
   </annotations>
 </container>

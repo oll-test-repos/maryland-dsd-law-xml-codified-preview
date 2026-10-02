@@ -1289,7 +1289,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>The transfer is in compliance with any agreement entered into between the Department and a hospital for the provision of acute inpatient psychiatric care in State hospital conversion beds;</text>
+          <text>The transfer is in compliance with any agreement entered into between the Mental Hygiene Administration and a hospital for the provision of acute inpatient psychiatric care in State hospital conversion beds;</text>
         </para>
       </para>
       <para>
@@ -1318,7 +1318,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Unless otherwise provided for in an agreement with the Department for State hospital conversion beds, obtain from the receiving hospital confirmation that:</text>
+        <text>Unless otherwise provided for in an agreement with the Mental Hygiene Administration for State hospital conversion beds, obtain from the receiving hospital confirmation that:</text>
         <para>
           <num>(a)</num>
           <text>The receiving hospital consents to accept the patient; and</text>
@@ -1343,7 +1343,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Explanation of Transfer.</text>
+      <text>Explanation of transfer.</text>
       <para>
         <num>(1)</num>
         <text>Except as otherwise provided in §C(2),, of this regulation, before moving a patient, the transferring hospital shall provide explanation of the reasons for the transfer and any alternative to the transfer to the patient or to a legally authorized representative of the patient.</text>
@@ -1409,9 +1409,7 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|07|01|.24">
     <prefix>Regulation</prefix>
@@ -1806,8 +1804,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-064-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
+      <annotation managed="false" type="Emergency Action">52:11  25-064-E  (Regulations .24) EMERGENCY ACTION IN EFFECT 5/6/2025 —11/2/2025</annotation>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-064-F" target-path="10|07|01|.24" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -3220,7 +3218,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§19-307.2, 19-308, 19-308.6, 19-308.8, 19-318—19-320, 19-342, 19-349.1, and 19-380—19-385; Insurance Article, Title 4, Subtitle 4; <cite doc="Md. Code" path="gps|14-110">Public Safety Article, §14-110</cite>.1; Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§19-307.2, 19-308, 19-308.6, 19-308.8, 19-318—19-320, 19-323, 19-342, 19-349.1, and 19-380—19-385; Insurance Article, Title 4, Subtitle 4; <cite doc="Md. Code" path="gps|14-110">Public Safety Article, §14-110</cite>.1; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1946-12-19">Effective date: December 19, 1946</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1959-03-20">Amended effective March 20, 1959</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1964-09-01">Amended effective September 1, 1964</annotation>
@@ -3261,7 +3259,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-05-23"><cite path="|10|07|01|.22">Regulation .22</cite> repealed effective May 23, 1994 (21:10 Md. R. 844)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16"><cite path="|10|07|01|.22">Regulation .22</cite> adopted effective April 16, 2012 (39:7 Md. R. 491)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-02-22"><cite path="|10|07|01|.23">Regulation .23</cite> adopted effective February 22, 1988 (15:4 Md. R. 473)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|10|07|01|.23|A.">Regulation .23A</cite> and C amended as an emergency provision effective June 9, 1988 (15:14 Md. R. 1653); emergency status expired December 9, 1988; adopted permanently effective December 26, 1988 (15:26 Md. R. 2982); March 30, 2026 (53:6 Md. R. 291)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-12-26"><cite path="|10|07|01|.23|A.">Regulation .23A</cite> and C amended as an emergency provision effective June 9, 1988 (15:14 Md. R. 1653); emergency status expired December 9, 1988; adopted permanently effective December 26, 1988 (15:26 Md. R. 2982)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-12-28">Regulations <cite path="|10|07|01|.24">.24</cite>—<cite path="|10|07|01|.26">.26</cite> adopted effective December 28, 1987 (14:26 Md. R. 2746)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-03-31"><cite path="|10|07|01|.24">Regulation .24</cite> amended effective March 1, 2004 (31:4 Md. R. 315); March 31, 2014 (41:6 Md. R. 378)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|10|07|01|.24|C.">Regulation .24C</cite> amended as an emergency provision effective May 6, 2025 (52:11 Md. R. 531); adopted permanently effective October 13, 2025 (52:20 Md. R. 1001)</annotation>
@@ -3289,7 +3287,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-04-23"><cite path="|10|07|01|.35">Regulation .35</cite> adopted effective April 23, 2018 (45:8 Md. R. 420)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-04-23"><cite path="|10|07|01|.36">Regulation .36</cite> adopted effective April 23, 2018 (45:8 Md. R. 420)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-04-23"><cite path="|10|07|01|.37">Regulation .37</cite> adopted effective April 23, 2018 (45:8 Md. R. 420)</annotation>
-    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-064-F" type="History" display="false"/>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-064-F" target-path="10|07|01|annos" type="History" display="false"/>
   </annotations>
 </container>

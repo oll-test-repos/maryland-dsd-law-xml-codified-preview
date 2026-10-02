@@ -538,7 +538,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-151-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-151-F" target-path="07|02|07|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="07|02|07|.03">
@@ -654,7 +654,7 @@
       <text>As required by <cite path="07.02.04.04|E.">COMAR 07.02.04.04E</cite>, if a parent, guardian, or custodian is unwilling to sign a statement acknowledging receipt of written information about CPS responses on the form prescribed by the Administration, the local department shall document the refusal and sign the form.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-151-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-151-F" target-path="07|02|07|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="07|02|07|.04">
@@ -1716,7 +1716,7 @@
       <text>If the alleged maltreator was a child and not the parent of the alleged victim, the local department may consider the factors in <cite path="|07|02|07|.10|D.">Regulation .10D of this chapter</cite> to determine the appropriate finding.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-151-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-151-F" target-path="07|02|07|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="07|02|07|.12">
@@ -2901,6 +2901,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-09-07"><cite path="|07|02|07|.17|B.">Regulation .17B</cite> amended effective September 7, 2020 (47:18 Md. R. 824)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-09-07"><cite path="|07|02|07|.21">Regulation .21</cite> amended effective September 7, 2020 (47:18 Md. R. 824)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-09-07"><cite path="|07|02|07|.23|A.">Regulation .23A</cite>, B amended effective September 7, 2020 (47:18 Md. R. 824)</annotation>
-    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-151-F" type="History" display="false"/>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-151-F" target-path="07|02|07|annos" type="History" display="false"/>
   </annotations>
 </container>

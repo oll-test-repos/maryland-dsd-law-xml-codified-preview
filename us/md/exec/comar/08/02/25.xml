@@ -1139,9 +1139,7 @@
         <text>Noodling.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="08|02|25|.04">
     <prefix>Regulation</prefix>
@@ -1745,6 +1743,5 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-03-21"><cite path="|08|02|25|.07|E.">Regulation .07E</cite> amended effective March 21, 2022 (49:6 Md. R. 405)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-08-26"><cite path="|08|02|25|.08">Regulation .08</cite> adopted effective August 26, 2019 (46:17 Md. R. 725)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-23"><cite path="|08|02|25|.09">Regulation .09</cite> adopted effective March 23, 2020 (47:6 Md. R. 340)</annotation>
-    <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
   </annotations>
 </container>

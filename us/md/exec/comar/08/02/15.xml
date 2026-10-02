@@ -89,9 +89,7 @@
         <text>“Year class” means striped bass born in a given year.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -620,7 +618,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-302-F" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-302-F" target-path="08|02|15|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="08|02|15|.05">
@@ -1196,7 +1194,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-175-F" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-175-F" target-path="08|02|15|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1301,9 +1299,7 @@
       <num>C.</num>
       <text>General Restriction. When fishing in any area described in this regulation, all striped bass in a person’s possession shall meet the size and possession limits set forth in regulation for that area.</text>
     </para>
-    <annotations>
-      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1333,9 +1329,7 @@
       <num>D.</num>
       <text>General Restriction. When fishing in any area described in this regulation, all striped bass in a person’s possession shall meet the size and possession limits set forth in regulation for that area.</text>
     </para>
-    <annotations>
-      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1551,9 +1545,7 @@
         <text>During the period July 16 through July 31, a person may not target striped bass or striped bass hybrids in the Chesapeake Bay or its tidal tributaries.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-206">4-206</cite>, <cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-2">4-2</cite>A-<cite doc="Md. Code" path="gnr|03">03</cite>, <cite doc="Md. Code" path="gnr|4-2">4-2</cite>A-<cite doc="Md. Code" path="gnr|04">04</cite>, <cite doc="Md. Code" path="gnr|4-2">4-2</cite>A-<cite doc="Md. Code" path="gnr|05">05</cite>, <cite doc="Md. Code" path="gnr|4-2">4-2</cite>A-08.1, 4-701, 4-704, 4-704.1, 4-731, 4-732, 4-734, 4-745, and 4-745.2, Annotated Code of Maryland</annotation>
@@ -1681,8 +1673,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-09"><cite path="|08|02|15|.12|I.">Regulation .12I</cite> adopted effective March 9, 2020 (47:5 Md. R. 310)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-11-25"><cite path="|08|02|15|.12|I.">Regulation .12I</cite> amended effective May 31, 2021 (48:11 Md. R. 428); November 25, 2024 (51:23 Md. R. 1036)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-09"><cite path="|08|02|15|.12|I.">Regulation .12I</cite> amended as an emergency provision effective February 9, 2024 (51:10 Md. R. 520); emergency status expired June 15, 2024</annotation>
-    <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-175-F" type="History" display="false"/>
-    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-302-F" type="History" display="false"/>
-    <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-175-F" target-path="08|02|15|annos" type="History" display="false"/>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-302-F" target-path="08|02|15|annos" type="History" display="false"/>
   </annotations>
 </container>

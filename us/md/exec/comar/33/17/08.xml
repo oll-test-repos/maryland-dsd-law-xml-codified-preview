@@ -9,7 +9,7 @@
     <heading>Purpose.</heading>
     <text>The purpose of this chapter is to provide a uniform procedure for a public building to appeal its selection as an early voting center by a local board of election, pursuant to <cite doc="Md. Code" path="gel|10-301">Election Law Article, §10-301</cite>.1, Annotated Code of Maryland.</text>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|17" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -26,7 +26,7 @@
       <text>Leased by the State or a political subdivision of the State.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|17" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -35,7 +35,7 @@
     <heading>Who May File.</heading>
     <text>A public official responsible for the public building that has been selected to be used as an early voting center by a local board may file an appeal under this chapter.</text>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|17" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="33|17|08|.04">
@@ -83,7 +83,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|17" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -103,7 +103,7 @@
       <text>Copy for State Board. The public official shall mail or deliver a copy of the appeal to the State Board, to the attention of the State Administrator.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|17" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -167,7 +167,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|17" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="33|17|08|.07">
@@ -219,7 +219,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|17" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="33|17|08|.08">
@@ -295,7 +295,7 @@
       <text>Copy for Local Board. The public official shall mail or deliver a copy of the complaint to the local board, to the attention of the election director.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|17" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -327,7 +327,7 @@
       <text>If a public official or local board chooses not to attend in person, the opportunity to submit a written response shall be provided by the State Board.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|17" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="33|17|08|.10">
@@ -379,12 +379,12 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|17" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), and <cite doc="Md. Code" path="gel|10-301">10-301</cite>.1, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29">Effective date: September 29, 2025 (52:19 Md. R. 957)</annotation>
   </annotations>
-  <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+  <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|17" type="History" display="false"/>
 </container>

@@ -148,7 +148,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-290-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-290-F" target-path="03|12|01|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -341,6 +341,6 @@
     <annotation managed="false" type="Authority" dest="container">Tax-General Article, §§<cite doc="Md. Code" path="gtg|2-102">2-102</cite>, <cite doc="Md. Code" path="gtg|2-103">2-103</cite>, and <cite doc="Md. Code" path="gtg|7">7</cite>.5-102, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-12-13">Effective date: December 13, 2021 (48:25 Md. R. 1079)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|12|01|.01|B.">Regulation .01B</cite> amended effective March 2, 2026 (53:4 Md. R. 183)</annotation>
-    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-290-F" type="History" display="false"/>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-290-F" target-path="03|12|01|annos" type="History" display="false"/>
   </annotations>
 </container>

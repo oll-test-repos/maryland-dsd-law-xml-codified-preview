@@ -125,7 +125,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-261-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-261-F" target-path="10|26|03|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -330,7 +330,7 @@
       <text>If requested by the Board, provide an English language translation of the records by a Board approved translator, at the licensee's expense.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-261-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-261-F" target-path="10|26|03|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -417,6 +417,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-10-18">Effective date: October 18, 1999 (26:21 Md. R. 1630)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|10|26|03|.03|C.">Regulation .03C</cite> amended effective October 1, 2001 (28:19 Md. R. 1685); February 16, 2026 (53:3 Md. R. 122)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|10|26|03|.06|G.">Regulation .06G</cite>, H adopted effective April 11, 2005 (32:7 Md. R. 681); February 16, 2026 (53:3 Md. R. 122)</annotation>
-    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-261-F" type="History" display="false"/>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-261-F" target-path="10|26|03|annos" type="History" display="false"/>
   </annotations>
 </container>

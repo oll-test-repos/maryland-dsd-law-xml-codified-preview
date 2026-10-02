@@ -140,7 +140,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-005-F" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-005-F" target-path="11|04|15|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -172,7 +172,7 @@
       <text>Multiple work zone speed control systems may be implemented and used in a work zone.  If a work zone has more than one work zone speed control system in use, not more than one citation may be issued for the same registration plate for alleged violations that occur within a 1-hour period in the work zone.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-005-F" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-005-F" target-path="11|04|15|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -204,7 +204,7 @@
       <text>A device that flashes when workers are present in the work zone shall be placed in advance of the first work zone speed control system in the work zone. The positioning of the device that flashes when workers are present shall be as approved by the agency that maintains the highway on which the work zone is located.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-005-F" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-005-F" target-path="11|04|15|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="11|04|15|.04">
@@ -252,7 +252,7 @@
       <text>A work zone speed control system may be used only to record the images of vehicles that are traveling at speeds at least 12 miles per hour above the posted speed limit in the work zone.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-005-F" type="History" display="false"/>
+      <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-005-F" target-path="11|04|15|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -292,6 +292,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-01"><cite path="|11|04|15|.03|B.">Regulation .03B</cite> amended effective September 1, 2025 (52:17 Md. R. 875)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-01"><cite path="|11|04|15|.03|D.">Regulation .03D</cite> adopted effective September 1, 2025 (52:17 Md. R. 875)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-01"><cite path="|11|04|15|.04|D.">Regulation .04D</cite> amended effective September 1, 2025 (52:17 Md. R. 875)</annotation>
-    <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-005-F" type="History" display="false"/>
+    <annotation app="2025-09-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-005-F" target-path="11|04|15|annos" type="History" display="false"/>
   </annotations>
 </container>

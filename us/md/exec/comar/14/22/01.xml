@@ -1076,7 +1076,7 @@
       <text>Total Offense Score. To obtain an offense score, the individual completing the worksheet shall add the points assigned to each element of the offense score for each person offense for which the defendant is to be sentenced. The maximum score is 15 and the minimum score is 1.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-01" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-220-F" type="History" display="false"/>
+      <annotation app="2026-01-01" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-220-F" target-path="14|22|01|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="14|22|01|.10">
@@ -1886,7 +1886,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-171-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-171-F" target-path="14|22|01|.12" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1943,7 +1943,7 @@
       <text>Other Subsequent Offenses. When an enhanced penalty for any other subsequent offense has been invoked, providing for an enhanced statutory maximum and/or mandatory minimum, the guidelines shall be calculated according to the rules set forth in these regulations with respect to the offense’s statutory maximum and/or any applicable mandatory minimum.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-01" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-220-F" type="History" display="false"/>
+      <annotation app="2026-01-01" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-220-F" target-path="14|22|01|.15" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -2036,8 +2036,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-04-01"><cite path="|14|22|01|.17|A.">Regulation .17A</cite> amended effective April 1, 2021 (48:6 Md. R. 238)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-01-19"><cite path="|14|22|01|.17|B.">Regulation .17B</cite> amended effective January 19, 2004 (31:1 Md. R. 31)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-10-01"><cite path="|14|22|01|.17|C.">Regulation .17C</cite> amended effective June 1, 2011 (38:9 Md. R. 553); June 1, 2015 (42:10 Md. R. 685); October 1, 2017 (44:18 Md. R. 866)</annotation>
-    <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-171-F" type="History" display="false"/>
-    <annotation app="2026-01-01" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-220-F" type="History" display="false"/>
-    <annotation app="2026-01-01" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+    <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-171-F" target-path="14|22|01|annos" type="History" display="false"/>
+    <annotation app="2026-01-01" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-220-F" target-path="14|22|01|annos" type="History" display="false"/>
+    <annotation app="2026-01-01" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" target-path="14|22|01|annos" type="History" display="false"/>
   </annotations>
 </container>

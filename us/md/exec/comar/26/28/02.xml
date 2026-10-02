@@ -10,7 +10,7 @@
     <text>The purpose of this chapter is to establish reporting requirements for building owners, tenants, electric and gas companies, and district energy providers.</text>
     <annotations/>
   </section>
-  <section cache:ref-path="26|28|02|.02">
+  <section>
     <prefix>Regulation</prefix>
     <num>.02</num>
     <heading>Reporting Requirements of Building Owners.</heading>
@@ -154,41 +154,7 @@
         <text>At the request of the Department, such records shall be made available for inspection and audit by the Department.</text>
       </para>
     </para>
-    <para>
-      <num>E.</num>
-      <text>Annual Reporting Fee.</text>
-      <para>
-        <num>(1)</num>
-        <text>A building owner shall pay an annual reporting fee for each covered building as defined in <cite doc="Md. Code" path="gen|2-1601">Environment Article, §2-1601, Annotated Code of Maryland</cite>.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The annual reporting fee is due by June 1st of each year beginning in 2026.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>In 2026, the annual reporting fee is $100.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Beginning in 2027 and each year thereafter, the annual reporting fee is $100 as adjusted for inflation pursuant to <cite path="26|28|02|.02|E.|(5)">§E(5) of this regulation</cite>.</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Consumer Price Index.</text>
-        <para>
-          <num>(a)</num>
-          <text>The annual reporting fee rate set forth in this chapter shall be increased each calendar year by the percentage, if any, by which the Consumer Price Index for the most recent calendar year exceeds the Consumer Price Index for the previous calendar year.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The Consumer Price Index for any calendar year is the 12-month average of the Consumer Price Index for all urban consumers published by the U.S. Department of Labor.</text>
-        </para>
-      </para>
-    </para>
-    <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-179-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -353,7 +319,5 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Environment Article, §§<cite doc="Md. Code" path="gen|1-404">1-404</cite>, <cite doc="Md. Code" path="gen|2-301">2-301</cite>, <cite doc="Md. Code" path="gen|2-302">2-302</cite>, <cite doc="Md. Code" path="gen|2-1205">2-1205</cite>, <cite doc="Md. Code" path="gen|2-1602">2-1602</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-12-23">Effective date: December 23, 2024 (51:25 Md. R. 1142)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|26|28|02|.02|E.">Regulation .02E</cite> adopted effective March 30, 2026 (53:6 Md. R. 292)</annotation>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-179-F" type="History" display="false"/>
   </annotations>
 </container>

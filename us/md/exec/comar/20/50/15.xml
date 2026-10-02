@@ -44,7 +44,7 @@
       <text>Waiver of Regulations. Upon written request, a regulation in this chapter may be waived by the Commission for “good cause shown”.</text>
     </para>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-174-F" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-174-F" target-path="20|50" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -148,7 +148,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-174-F" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-174-F" target-path="20|50" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -484,7 +484,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-174-F" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-174-F" target-path="20|50" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="20|50|15|.04">
@@ -692,7 +692,7 @@
       <text>Electric System Plan Publishing. Electric companies shall publish a final electric system plan under the electric system plan docket assigned to each electric company after the consideration of feedback in <cite path="|20|50|15|.04|I." proof="needed">Regulation .04I of this chapter</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-174-F" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-174-F" target-path="20|50" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="20|50|15|.05">
@@ -756,7 +756,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-174-F" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-174-F" target-path="20|50" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -776,12 +776,12 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-174-F" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-174-F" target-path="20|50" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Public Utilities Article, §§<cite doc="Md. Code" path="gpu|1-101">1-101</cite>, <cite doc="Md. Code" path="gpu|2-113">2-113</cite>, <cite doc="Md. Code" path="gpu|2-121">2-121</cite>, <cite doc="Md. Code" path="gpu|7-216">7-216</cite>, and <cite doc="Md. Code" path="gpu|7-801">7-801</cite>—<cite doc="Md. Code" path="gpu|7-804">7-804</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24">Effective date: November 24, 2025 (52:23 Md. R. 1140)</annotation>
   </annotations>
-  <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-174-F" type="History" display="false"/>
+  <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-174-F" target-path="20|50" type="History" display="false"/>
 </container>

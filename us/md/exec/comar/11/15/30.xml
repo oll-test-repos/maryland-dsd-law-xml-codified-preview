@@ -42,7 +42,7 @@
       <text>Money collected through the sale and renewal of special agriculture registration plates and due to the Maryland Agricultural Education Foundation shall be transferred monthly to the Foundation.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-245-F" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-245-F" target-path="11|15|30|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -58,6 +58,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-30"><cite path="|11|15|30|.01">Regulation .01</cite> amended effective July 30, 2018 (45:15 Md. R. 726)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-11-05"><cite path="|11|15|30|.01|B.">Regulation .01B</cite>, F amended effective November 5, 2007 (34:22 Md. R. 1978)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|11|15|30|.02">Regulation .02</cite> amended effective March 16, 2026 (53:5 Md. R. 244)</annotation>
-    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-245-F" type="History" display="false"/>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-245-F" target-path="11|15|30|annos" type="History" display="false"/>
   </annotations>
 </container>

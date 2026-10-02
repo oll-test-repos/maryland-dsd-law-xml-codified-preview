@@ -214,7 +214,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" target-path="09|22|02|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|22|02|.04">
@@ -440,7 +440,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" target-path="09|22|02|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|22|02|.06">
@@ -650,7 +650,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" target-path="09|22|02|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -715,7 +715,7 @@
       <text>Sanitation, unauthorized services, prohibited practices, and interference with inspector. The civil penalties applicable to licensees under <cite path="09.22.01.17|C.">COMAR 09.22.01.17C</cite>-F apply to beauty salons.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" target-path="09|22|02" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -817,6 +817,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-23"><cite path="|09|22|02|.07|F.">Regulation .07F</cite> amended effective March 23, 2020 (47:6 Md. R. 341)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|09|22|02|.07">Regulation .07</cite> adopted effective March 2, 2026 (53:4 Md. R. 184)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|09|22|02|.08">Regulation .08</cite> recodified from Regulation .07 and amended effective March 2, 2026 (53:4 Md. R. 184)</annotation>
-    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" target-path="09|22|02|annos" type="History" display="false"/>
   </annotations>
 </container>

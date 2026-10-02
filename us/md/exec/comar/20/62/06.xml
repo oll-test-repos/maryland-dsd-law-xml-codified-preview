@@ -9,7 +9,7 @@
     <heading>Scope.</heading>
     <text>This chapter is applicable to electric companies, subscriber organizations, subscription coordinators, and subscribers participating in consolidated billing.</text>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-139-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-139-F" target-path="20|62" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -45,7 +45,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-139-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-139-F" target-path="20|62" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -61,7 +61,7 @@
       <text>An electric company shall implement consolidated billing as required by this chapter no later than January 1, 2026.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-139-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-139-F" target-path="20|62" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="20|62|06|.04">
@@ -293,12 +293,12 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-139-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-139-F" target-path="20|62" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Public Utilities Article, §§<cite doc="Md. Code" path="gpu|2-113">2-113</cite>, <cite doc="Md. Code" path="gpu|2-121">2-121</cite>, <cite doc="Md. Code" path="gpu|7-306">7-306</cite>, <cite doc="Md. Code" path="gpu|7-306">7-306</cite>.1, and 7-306.2, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27">Effective date: October 27, 2025 (52:21 Md. R. 1026)</annotation>
   </annotations>
-  <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-139-F" type="History" display="false"/>
+  <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-139-F" target-path="20|62" type="History" display="false"/>
 </container>

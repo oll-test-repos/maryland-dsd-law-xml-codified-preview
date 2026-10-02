@@ -164,7 +164,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-255-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-255-F" target-path="13A|04|13|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -173,7 +173,7 @@
     <heading>Certification Procedures.</heading>
     <text>By September 2030 and each 5 years after that, each local superintendent of schools shall certify to the State Superintendent of Schools that the instructional programming within grades prekindergarten—12 meets, at a minimum, the requirements set forth in <cite path="|13A|04|13|.01">Regulation .01 of this chapter</cite>.</text>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-255-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-255-F" target-path="13A|04|13|.02" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -186,6 +186,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-01"><cite path="|13A|04|13|.01|B.">Regulation .01B</cite>, C amended effective August 1, 2016 (43:15 Md. R. 864)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|13A|04|13|.01|C.">Regulation .01C</cite>, D amended effective February 16, 2026 (53:2 Md. R.123)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|13A|04|13|.02">Regulation .02</cite> amended effective August 1, 2016 (43:15 Md. R. 864); February 16, 2026 (53:2 Md. R.123)</annotation>
-    <annotation app="2026-02-16" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+    <annotation app="2026-02-16" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" target-path="13A|04|13|annos" type="History" display="false"/>
   </annotations>
 </container>

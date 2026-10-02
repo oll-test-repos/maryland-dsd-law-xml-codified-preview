@@ -111,7 +111,7 @@
       <text>The computation of the tax under §I of this regulation is presumptively correct.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|03|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="03|06|03|.03">
@@ -376,6 +376,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-08-20"><cite path="|03|06|03|.09">Regulation .09</cite> recodified to be Regulation .07 effective August 20, 1990 (17:16 Md. R. 1990)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-12-09">Regulations .08 and .09 adopted effective December 9, 1991 (18:24 Md. R. 2641)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-01-14">Regulations .08 and .09 repealed effective January 14, 1999 (26:1 Md. R. 22)</annotation>
-    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|03|annos" type="History" display="false"/>
   </annotations>
 </container>

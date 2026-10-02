@@ -276,7 +276,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" target-path="10|60|01|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -308,7 +308,7 @@
       <text>Pursuant to <cite doc="Md. Code" path="gho|21">Health Occupations Article, §21</cite>–401, Annotated Code of Maryland, unless an individual is licensed under this chapter, an individual may not use the title “environmental health specialist” or “licensed environmental health specialist” or the initials “E.H.S.” or “L.E.H.S.” after the name of the individual or any other title with the intent to represent that the individual is licensed to practice as an environmental health specialist.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" target-path="10|60|01|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|60|01|.03">
@@ -448,7 +448,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" target-path="10|60|01|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|60|01|.04">
@@ -744,7 +744,7 @@
       <text>The maximum duration of an apprenticeship shall be 5 years.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" target-path="10|60|01" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -762,6 +762,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-06-28"><cite path="|10|60|01|.05|A.">Regulation .05A</cite>, B amended effective June 28, 2021 (48:13 Md. R. 508)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-08-05"><cite path="|10|60|01|.05|E.">Regulation .05E</cite> amended effective April 23, 2018 (45:8 Md. R. 422); August 5, 2024 (51:15 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-05"><cite path="|10|60|01|.06">Regulation .06</cite> adopted effective January 5, 2026 (52:26 Md. R. 1309)</annotation>
-    <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" type="History" display="false"/>
+    <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" target-path="10|60|01|annos" type="History" display="false"/>
   </annotations>
 </container>

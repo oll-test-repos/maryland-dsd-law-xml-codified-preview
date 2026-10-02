@@ -20,7 +20,7 @@
       <text>Prior to implementing a BWC program, a correctional unit shall develop and maintain a written policy consistent with regulations of this chapter.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" target-path="12|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -136,7 +136,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" target-path="12|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -172,7 +172,7 @@
       <text>A correctional unit may designate an employee responsible for maintaining BWC systems and performing routine maintenance in accordance with the manufacturer’s guidelines.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" target-path="12|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -232,7 +232,7 @@
       <text>Video and audio recordings from BWCs used for training purposes shall be separately tagged from recordings of official daily operations as described in <cite path="|12|10|07|.11">Regulation .11 of this chapter</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" target-path="12|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -252,7 +252,7 @@
       <text>A correctional officer or agent is not required to provide notification that audio and video recordings of communications may be captured to an individual who becomes party to the communication after the initial notification has been provided.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" target-path="12|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -328,7 +328,7 @@
       <text>A correctional officer or agent shall document any deviation from regulations of this chapter or a correctional unit’s BWC policy.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" target-path="12|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -364,7 +364,7 @@
       <text>An agency may include other events as qualifying events as long as they are not prohibited under <cite path="|12|10|07|.08">Regulation .08 of this chapter</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" target-path="12|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -424,7 +424,7 @@
       <text>In order to safeguard a correctional officer or agent’s privacy, a correctional officer or agent may place a BWC in sleep mode or completely power off the BWC when using locker rooms or restroom facilities.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" target-path="12|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -456,7 +456,7 @@
       <text>Following the conclusion of a discretionary use of the BWC, a correctional officer or agent shall follow the procedures outlined in <cite path="|12|10|07|.06">Regulation .06 of this chapter</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" target-path="12|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -496,7 +496,7 @@
       <text>Strict digital security procedures shall be established by a correctional unit for storing BWC recordings to prevent unauthorized access, tampering, or deletion.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" target-path="12|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -516,12 +516,12 @@
       <text>If a BWC recording is associated with a criminal investigation, the correctional unit shall consult with a criminal investigative unit or prosecuting attorney prior to release.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" target-path="12|10" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Correctional Services Article, §§<cite doc="Md. Code" path="gcs|2-109">2-109</cite> and <cite doc="Md. Code" path="gcs|8-211">8-211</cite>; Courts of Judicial Proceedings Article, §10-402; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-05">Effective date: January 5, 2026 (52:26 Md. R. 1310)</annotation>
   </annotations>
-  <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" type="History" display="false"/>
+  <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-231-F" target-path="12|10" type="History" display="false"/>
 </container>

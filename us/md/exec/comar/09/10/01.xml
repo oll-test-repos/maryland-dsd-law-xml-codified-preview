@@ -592,7 +592,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-190-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-190-F" target-path="09|10|01|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -7077,6 +7077,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-05-02"><cite path="|09|10|01|.91|H.">Regulation .91H</cite> amended effective May 2, 2022 (49:9 Md. R. 530)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-07-16" discontinuity="true">Annotation: <cite path="09.10.01.03|O.">COMAR 09.10.01.03O</cite> is cited in Attorney General Opinion No. 81-018 (July 16, 1981) which found that the Thoroughbred Racing Board of the Maryland Racing Commission has the authority to require that all purses won by horsemen be maintained by a racing association in a special interest-bearing account until paid to the horsemen and that the Board may provide for the use and disposition of the interest earned on these accounts, to some extent.</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-08-04">Annotation: <cite path="09.10.01.78">COMAR 09.10.01.78</cite> cited in Attorney General Opinion No. 87-033 (August 4, 1987)</annotation>
-    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-190-F" type="History" display="false"/>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-190-F" target-path="09|10|01|annos" type="History" display="false"/>
   </annotations>
 </container>

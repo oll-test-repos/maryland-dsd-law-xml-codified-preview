@@ -196,7 +196,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" target-path="10|10|12|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -315,7 +315,7 @@
       <text>The Secretary may impose one or more sanctions as provided in <cite path="10.10.08.01">COMAR 10.10.08.01</cite>—.03 if the Secretary determines that the public health testing program does not meet the standards of this chapter.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" target-path="10|10|12|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -603,7 +603,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" target-path="10|10|12|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -703,6 +703,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-01"><cite path="|10|10|12|.07|B.">Regulation .07B</cite> amended effective April 1, 2013 (40:6 Md. R. 473); March 1, 2026 (52:24 Md. R. 1198)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.09">Regulation .09</cite> amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-01"><cite path="|10|10|12|.10">Regulation .10</cite> amended effective April 1, 2013 (40:6 Md. R. 473)</annotation>
-    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" target-path="10|10|12|annos" type="History" display="false"/>
   </annotations>
 </container>

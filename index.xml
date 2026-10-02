@@ -38,7 +38,7 @@
           <p>This version of the laws and codes on this website is dedicated to the public domain under the <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a> license.</p>
         </rights>
         <days-after-publication>180</days-after-publication>
-        <after-date>2026-09-26</after-date>
+        <after-date>2027-03-31</after-date>
       </license>
     </licenses>
     <history-start>2025-08-18</history-start>
@@ -46,15 +46,16 @@
       <repositories>
         <repository name="maryland-dsd/law-xml" commit="564183076789e07249dbe1b4e210632f6576c652"/>
       </repositories>
-      <platform version="2.19.2.dev135" reproducible="false"/>
-      <build-date>2026-03-23</build-date>
-      <codified-date>2026-03-30</codified-date>
+      <platform version="2.22.9.dev533" reproducible="false"/>
+      <build-date>2026-10-02</build-date>
+      <codified-date>2026-09-29</codified-date>
     </build>
   </meta>
   <xi:include href="./us/md/exec/comar/index.xml"/>
   <collection name="us/md/exec/register">
     <heading>Maryland Register</heading>
     <xi:include href="./us/md/exec/register/53/index.xml"/>
+    <xi:include href="./us/md/exec/register/48/index.xml"/>
     <xi:include href="./us/md/exec/register/52/index.xml"/>
   </collection>
   <collection name="editorial-actions" display="false">
@@ -88,7 +89,7 @@
     </annotation>
     <annotation>
       <subheading>Order Print and PDF Copies</subheading>
-      <text>The text appearing here was produced from materials provided by the Division of State Documents, Office of the Secretary of State, State of Maryland, and is current as of March 30, 2026. The text appearing here is not the official text. While this text has been prepared from data created and maintained by the Division of State Documents, only the printed or electronic version of the text obtained directly from the Division of State Documents is official, valid, and enforceable under Maryland law.</text>
+      <text>The text appearing here was produced from materials provided by the Division of State Documents, Office of the Secretary of State, State of Maryland, and is current as of September 29, 2026. The text appearing here is not the official text. While this text has been prepared from data created and maintained by the Division of State Documents, only the printed or electronic version of the text obtained directly from the Division of State Documents is official, valid, and enforceable under Maryland law.</text>
       <text>COMAR and the Maryland Register are available in print or PDF for purchase in an assembled, easy-to-read format. See <a href="https://dsd.maryland.gov/Pages/Publications-to-Order.aspx">Publications to Order</a> or call our Subscription Office at <a href="tel:410-260-3876">410-260-3876</a> to order by phone.</text>
     </annotation>
   </annotations>

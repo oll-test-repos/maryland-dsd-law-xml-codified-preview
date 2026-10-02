@@ -28,8 +28,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-08-26" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|emergency|25-160-E" type="History" display="false"/>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-160-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-160-F" target-path="10|27|28" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|27|28|.02">
@@ -161,8 +160,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-08-26" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|emergency|25-160-E" type="History" display="false"/>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-160-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-160-F" target-path="10|27|28" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -210,8 +208,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-08-26" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|emergency|25-160-E" type="History" display="false"/>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-160-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-160-F" target-path="10|27|28" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -327,8 +324,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-08-26" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|emergency|25-160-E" type="History" display="false"/>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-160-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-160-F" target-path="10|27|28" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -364,8 +360,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-08-26" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|emergency|25-160-E" type="History" display="false"/>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-160-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-160-F" target-path="10|27|28" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -374,8 +369,7 @@
     <heading>Enforcement.</heading>
     <text>The Board shall conduct any necessary investigation regarding the failure to comply with the requirements of <cite doc="Md. Code" path="gho">Health Occupations Article, Title 8, Annotated Code of Maryland</cite> and this chapter, and it may refer any complaint or investigation to any other appropriate licensing or regulatory authority in accordance with applicable laws and regulations<em>.</em></text>
     <annotations>
-      <annotation app="2025-08-26" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|emergency|25-160-E" type="History" display="false"/>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-160-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-160-F" target-path="10|27|28" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -383,6 +377,5 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27">Regulations <cite path="|10|27|28|.01">.01</cite> — <cite path="|10|27|28|.06">.06</cite> adopted as an emergency provision effective August 26, 2025 (52:20 Md. R. 999); adopted permanently effective October 27, 2025 (52:21 Md. R. 1024)</annotation>
   </annotations>
-  <annotation app="2025-08-26" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|emergency|25-160-E" type="History" display="false"/>
-  <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-160-F" type="History" display="false"/>
+  <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-160-F" target-path="10|27|28" type="History" display="false"/>
 </container>

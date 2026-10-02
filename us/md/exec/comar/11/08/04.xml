@@ -2,7 +2,7 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>04</num>
-  <heading>Safety Violations<annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/></heading>
+  <heading>Safety Violations<annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" target-path="11|08|04|heading" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -16,7 +16,7 @@
       <text>If a person fails to comply with a lawfully issued subpoena, on application of the SSOA or designee in a contempt proceeding, a court of competent jurisdiction may compel the person to comply.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" target-path="11|08|04|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -32,7 +32,7 @@
       <text>Nothing in this regulation shall be deemed to alter the obligation of any individual to comply with any other provisions concerning rail safety.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" target-path="11|08|04|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -65,7 +65,7 @@
       <text>Any suspension from safety-sensitive duties by the Maryland SSOA applies at any other Maryland rail transit system overseen by the SSOA.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" target-path="11|08|04|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -105,7 +105,7 @@
       <text>The Secretary of Transportation or Secretary’s designee will conduct an evaluation and advise the RTA of the determination within 30 calendar days.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" target-path="11|08|04|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -129,13 +129,13 @@
       <text>The administrative law judge’s decision is the final order of the Secretary of Transportation or Secretary’s designee.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" target-path="11|08|04|.05" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Transportation Article, §§<cite doc="Md. Code" path="gtr|2-102">2-102</cite>(c)(<cite doc="Md. Code" path="gtr|5">5</cite>) and <cite doc="Md. Code" path="gtr|7-203">7-203</cite>.1, Annotated Code of Maryland;<br/>49 U.S.C. §5329 and 49 CFR Part 674</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-03-26">Effective date: March 26, 2018 (45:6 Md. R. 321)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-05">Chapter revised effective January 5, 2026 (52:26 Md. R. 1309)</annotation>
-    <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/>
+    <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" target-path="11|08|04|annos" type="History" display="false"/>
   </annotations>
 </container>

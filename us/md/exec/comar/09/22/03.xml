@@ -441,7 +441,7 @@
     <heading>Sanitation Requirements-Eyelash Extensions.</heading>
     <text>In addition to the sanitation requirements in <cite path="|09|22|03|.03">Regulation .03 of this chapter</cite>, a cosmetology school approved by the State Board of Education or the Maryland Higher Education Commission that offers cosmetology services normally performed by an eyelash extension technician shall comply with the requirements of <cite path="09.22.02.07|B.">COMAR 09.22.02.07B</cite>.</text>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" target-path="09|22|03|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -481,7 +481,7 @@
       <text>The Board shall report the sanitation violation and the amount of fine imposed to the Department of Education in regard to a public school or to the Maryland Higher Education Commission in regard to a private career school.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" target-path="09|22|03|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -490,7 +490,7 @@
     <heading>Citations to Schools.</heading>
     <text>Unless otherwise indicated, the civil penalties applicable to licensees under <cite path="09.22.01.17|C.">COMAR 09.22.01.17C</cite>—F apply to schools.</text>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" target-path="09|22|03" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -511,6 +511,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-07-31"><cite path="|09|22|03|.07">Regulation .07</cite> adopted effective July 31, 2006 (33:15 Md. R. 1280)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-23"><cite path="|09|22|03|.07|B.">Regulation .07B</cite> amended effective March 23, 2020 (47:6 Md. R. 342)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|09|22|03|.08">Regulation .08</cite> recodified from Regulation .07 and amended effective March 2, 2026 (53:4 Md. R. 184)</annotation>
-    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" type="History" display="false"/>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-287-F" target-path="09|22|03|annos" type="History" display="false"/>
   </annotations>
 </container>

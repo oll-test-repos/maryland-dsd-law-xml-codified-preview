@@ -56,7 +56,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-145-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-145-F" target-path="27|01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -72,7 +72,7 @@
       <text>In the event that a provision of this chapter conflicts with a provision of a local program, the stricter provision applies.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-145-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-145-F" target-path="27|01" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="27|01|15|.03">
@@ -229,7 +229,7 @@
       <text>A local jurisdiction shall provide an appeals process consistent with their local program that allows the alleged violator to appeal the notification of violation.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-145-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-145-F" target-path="27|01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -281,7 +281,7 @@
       <text>A jurisdiction shall require a bond or other financial security for restoration or mitigation that exceeds 1,000 square feet or $1,000, or adopt procedures approved by the Commission that ensure the restoration or mitigation is properly completed.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-145-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-145-F" target-path="27|01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -297,7 +297,7 @@
       <text>A local jurisdiction may request in writing that the Chair refer an enforcement action to the Office of the Attorney General.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-145-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-145-F" target-path="27|01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -313,12 +313,12 @@
       <text>A local jurisdiction shall institute a criminal prosecution or suit for a civil penalty for a violation within three years after a Commission or the local jurisdiction knew or reasonably should have known of a violation.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-145-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-145-F" target-path="27|01" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|8-1806">8-1806</cite>, <cite doc="Md. Code" path="gnr|8-1808">8-1808</cite>(c), <cite doc="Md. Code" path="gnr|8-1809">8-1809</cite>, <cite doc="Md. Code" path="gnr|8-1815">8-1815</cite>, and <cite doc="Md. Code" path="gnr|8-1815">8-1815</cite>.1, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-12-11">Effective date: December 11, 2025 (52:24 Md. R. 1199)</annotation>
   </annotations>
-  <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-145-F" type="History" display="false"/>
+  <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-145-F" target-path="27|01" type="History" display="false"/>
 </container>

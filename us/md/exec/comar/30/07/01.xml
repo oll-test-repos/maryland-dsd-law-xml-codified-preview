@@ -204,7 +204,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|25-077-F" type="History" display="false"/>
+      <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|25-077-F" target-path="30|07|01|.01" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -214,6 +214,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" discontinuity="true">Chapter recodified from <cite path="|14.17.01">COMAR 14.17.01</cite> to <cite path="|30.07.01">COMAR 30.07.01</cite>, August 1997</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-10"><cite path="|30|07|01|.01">Regulation .01</cite> amended effective November 10, 2025 (52:22 Md. R. 1096)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-12-19"><cite path="|30|07|01|.01|B.">Regulation .01B</cite> amended effective December 19, 2005 (32:25 Md. R. 1946)</annotation>
-    <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|25-077-F" type="History" display="false"/>
+    <annotation app="2025-11-10" doc="Maryland Register, Volume 52, Issue 22" eff="2025-11-10" path="regulations|final|25-077-F" target-path="30|07|01|annos" type="History" display="false"/>
   </annotations>
 </container>

@@ -9,7 +9,7 @@
     <heading>Scope.</heading>
     <text>These regulations govern the use of quiet rooms and restraint in all facilities as defined in Health-General Article, §§10-101(g) and 10-701, Annotated Code of Maryland. These regulations are supplemental to any other applicable law and regulation. In the event of conflict between these regulations and any other regulations or laws, the more stringent apply.</text>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|12|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -141,7 +141,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|12|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|21|12|.03">
@@ -249,7 +249,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|12|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -307,7 +307,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|12|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|21|12|.06">
@@ -387,7 +387,7 @@
       <text>As necessary, staff shall ensure that each restraint is padded to provide appropriate protection for the patient.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|12|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -486,7 +486,7 @@
       <text>When the patient's behavior no longer places the patient or others in serious threat of violence or injury, the patient shall be released from restraint.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|12|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|21|12|.09">
@@ -566,7 +566,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|12|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -706,7 +706,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|12|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|21|12|.11">
@@ -840,7 +840,7 @@
       <text>If seclusion is used in conjunction with restraint, staff shall also comply with <cite path="|10.21.13">COMAR 10.21.13</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+      <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|12|.12" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -900,6 +900,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-14"><cite path="|10|21|12|.09">Regulation .09</cite> amended effective February 14, 2026 (52:23 Md. R. 1139)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-14">Regulation 10D amended effective February 14, 2026 (52:23 Md. R. 1139)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-14"><cite path="|10|21|12|.12|D.">Regulation .12D</cite>, F amended effective February 14, 2026 (52:23 Md. R. 1139)</annotation>
-    <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" type="History" display="false"/>
+    <annotation app="2026-02-14" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-071-F" target-path="10|21|12|annos" type="History" display="false"/>
   </annotations>
 </container>

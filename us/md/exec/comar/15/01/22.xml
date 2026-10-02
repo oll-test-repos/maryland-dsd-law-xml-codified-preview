@@ -9,7 +9,7 @@
     <heading>Purpose.</heading>
     <text>This chapter establishes the criteria and procedure for the Secretary to grant exemptions to Class 4 Limited Winery License applicants from the ingredient percentage requirement set forth in Alcoholic Beverages and Cannabis Article, §2-206(c)(2)(ii), Annotated Code of Maryland.</text>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-169-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-169-F" target-path="15|01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -37,7 +37,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-169-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-169-F" target-path="15|01" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="15|01|22|.03">
@@ -57,7 +57,7 @@
       <text>Duration of Exemption. An exemption granted by the Secretary under this chapter shall be valid for 1 year following the date the application is granted by the Secretary.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-169-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-169-F" target-path="15|01" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="15|01|22|.04">
@@ -117,12 +117,12 @@
       <text>The Secretary may deny a Class 4 Limited Winery License holder’s request for an exemption if the person has been granted an exemption for each of the previous 4 years.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-169-F" type="History" display="false"/>
+      <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-169-F" target-path="15|01" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gag|2-103">Agriculture Article, §2-103</cite>; and Alcoholic Beverages and Cannabis Article, §2-206; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-12-11">Effective date: December 11, 2025 (52:24 Md. R. 1199)</annotation>
   </annotations>
-  <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-169-F" type="History" display="false"/>
+  <annotation app="2025-12-11" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-169-F" target-path="15|01" type="History" display="false"/>
 </container>

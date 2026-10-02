@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Maryland Register, Volume 48, Issue 1" codify:doc="Code of Maryland Regulations">
+  <num>48-1</num>
+  <meta>
+    <stub/>
+    <effective>2026-09-29</effective>
+    <citations>
+      <citation type="register" url="./48-1.pdf">48:1</citation>
+    </citations>
+    <history>
+      <published>2026-09-29</published>
+    </history>
+  </meta>
+  <container name="regulations">
+    <container name="final">
+      <container>
+        <num>101-01-F</num>
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="04|01|01|.01" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="04|01|01|.01">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.01</num>
+            <heading>General.</heading>
+            <text>These regulations set out procedures for filing requests with the Department of General Services for the inspection and copying of records under State Government Article, §§<cite doc="Md. Code" path="gsg|10-611">10-611</cite>—<cite doc="Md. Code" path="gsg|10-630">10-630</cite>, Annotated Code of Maryland. It is the policy of the Department to facilitate public access to the records of the Department, when that access is allowed by law, by minimizing costs and time delays to persons requesting information. CHANGE</text>
+          </section>
+        </codify:replace-or-insert>
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="04|01|02|.01" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="04|01|02|.01">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.01</num>
+            <heading>Who May File.</heading>
+            <text>Any interested person may file a petition with the Secretary to adopt a new regulation under the laws administered by the Department of General Services</text>
+          </section>
+        </codify:replace-or-insert>
+      </container>
+    </container>
+  </container>
+</document>

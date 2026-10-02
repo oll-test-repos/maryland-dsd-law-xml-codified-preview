@@ -36,7 +36,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|07|11|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -72,7 +72,7 @@
       <text>Alternative to Compensation. A public high school student who earns hours toward the service-learning requirement for graduation under COMAR 13A.03.02.05 for their time in service as an election judge shall not be compensated for that service under §§A and B of this regulation.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" target-path="33|07|11|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -116,7 +116,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" target-path="33|07|11" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -125,8 +125,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|33|07|11|.01|B.">Regulation .01B</cite> amended effective September 29, 2025 (52:19 Md. R. 957)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|33|07|11|.02|D.">Regulation .02D</cite> adopted effective March 2, 2026 (53:4 Md. R. 186)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-24"><cite path="|33|07|11|.03">Regulation .03</cite> adopted effective November 24, 2025 (52:23 Md. R. 1140)</annotation>
-    <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" type="History" display="false"/>
-    <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" type="History" display="false"/>
-    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" type="History" display="false"/>
+    <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-111-F" target-path="33|07|11|annos" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-173-F" target-path="33|07|11|annos" type="History" display="false"/>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-274-F" target-path="33|07|11|annos" type="History" display="false"/>
   </annotations>
 </container>

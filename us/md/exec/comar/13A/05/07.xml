@@ -2,14 +2,14 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>07</num>
-  <heading>Programs for Multilingual Learners<annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-119-F" type="History" display="false"/></heading>
+  <heading>Programs for Multilingual Learners<annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-119-F" target-path="13A|05|07|heading" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
     <text>These regulations pertain to all programs for multilingual learners (MLs) that provide instructional assistance and services to enable MLs to attain English Proficiency, develop high levels of academic language, and achieve at high levels in academic subjects so that all MLs can meet the same challenging Maryland College and Career Ready Standards that all students are expected to meet.</text>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-119-F" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-119-F" target-path="13A|05|07|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -33,7 +33,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-119-F" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-119-F" target-path="13A|05|07|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -145,7 +145,7 @@
       <text>Local school systems shall adopt policies and procedures to ensure that there is an English language development program and that the program meets the requirements of this chapter.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-119-F" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-119-F" target-path="13A|05|07|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -154,7 +154,7 @@
     <heading>Funding.</heading>
     <text>The amount of State funding shall be determined annually on the basis of the number of MLs who are reported on the Enrollment Survey as of October 31.</text>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-119-F" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-119-F" target-path="13A|05|07|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -163,7 +163,7 @@
     <heading>Reporting Requirements.</heading>
     <text>Local school systems shall annually report to the Department their goals, objectives, and strategies regarding the performance of multilingual learners along with timelines for implementation and methods for measuring progress.</text>
     <annotations>
-      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-119-F" type="History" display="false"/>
+      <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-119-F" target-path="13A|05|07|.05" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -174,6 +174,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|13A|05|07|.03">Regulation .03</cite> amended effective October 24, 2016 (43:21 Md. R. 1168); September 15, 2025 (52:18 Md. R. 924)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|13A|05|07|.04">Regulation .04</cite> amended effective October 24, 2016 (43:21 Md. R. 1168); September 15, 2025 (52:18 Md. R. 924)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|13A|05|07|.05">Regulation .05</cite> amended effective October 24, 2016 (43:21 Md. R. 1168); September 15, 2025 (52:18 Md. R. 924)</annotation>
-    <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-119-F" type="History" display="false"/>
+    <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-119-F" target-path="13A|05|07|annos" type="History" display="false"/>
   </annotations>
 </container>

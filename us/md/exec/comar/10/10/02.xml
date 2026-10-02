@@ -92,7 +92,7 @@
       <text>The Secretary shall maintain a Laboratory Advisory Committee to advise the Secretary on matters relating to medical laboratories as set forth in Health-General Article, Title 17, Subtitle 2, Annotated Code of Maryland.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+      <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" target-path="10|10|02|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|10|02|.02">
@@ -434,6 +434,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|02|.02">Regulation .02</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24"><cite path="|10|10|02|.02|C.">Regulation .02C</cite> amended effective July 24, 2000 (27:14 Md. R. 1340)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-06-01"><cite path="|10|10|02|.03">Regulation .03</cite> amended effective June 1, 2009 (36:11 Md. R. 787)</annotation>
-    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" type="History" display="false"/>
+    <annotation app="2026-03-01" doc="Maryland Register, Volume 52, Issue 24" eff="2025-12-11" path="regulations|final|25-092-F" target-path="10|10|02|annos" type="History" display="false"/>
   </annotations>
 </container>

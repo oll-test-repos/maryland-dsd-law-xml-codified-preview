@@ -186,7 +186,7 @@
       <text>Device registration fee 30 days or more delinquent—$125 per account.</text>
     </para>
     <annotations>
-      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-144-F" type="History" display="false"/>
+      <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-144-F" target-path="15|03|08|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -219,6 +219,6 @@
     <annotation managed="false" type="Authority" dest="container">Agriculture Article, §§<cite doc="Md. Code" path="gag|11-204">11-204</cite>.1—11-204.7, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-12">Effective date: October 12, 1992 (19:20 Md. R. 1818)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|15|03|08|.05">Regulation .05</cite> amended effective October 2, 2000 (27:19 Md. R. 1728); September 29, 2025 (52:19 Md. R. 957)</annotation>
-    <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-144-F" type="History" display="false"/>
+    <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-144-F" target-path="15|03|08|annos" type="History" display="false"/>
   </annotations>
 </container>

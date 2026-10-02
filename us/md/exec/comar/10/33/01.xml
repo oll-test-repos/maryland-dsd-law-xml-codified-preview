@@ -2,14 +2,39 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>01</num>
-  <heading>General Regulations<annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/></heading>
+  <heading>General Regulations<annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|heading" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
     <text>This subtitle governs the licensure, practice, and discipline of nursing home administrators and assisted living managers in the State.</text>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.05" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.06" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.07" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.08" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.09" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.10" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.11" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.12" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.13" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.14" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.15" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.16" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.17" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.18" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.19" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.20" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.21" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.22" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.23" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.24" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.25" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.26" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.27" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.28" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.29" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -305,7 +330,32 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.05" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.06" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.07" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.08" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.09" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.10" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.11" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.12" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.13" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.14" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.15" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.16" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.17" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.18" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.19" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.20" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.21" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.22" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.23" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.24" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.25" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.26" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.27" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.28" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.29" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -341,7 +391,32 @@
       <text>From time to time, the Board shall make and publish regulations for the execution and enforcement of the laws related to the licensure, license renewal, and discipline of nursing home administrators and assisted living managers.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.05" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.06" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.07" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.08" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.09" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.10" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.11" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.12" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.13" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.14" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.15" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.16" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.17" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.18" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.19" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.20" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.21" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.22" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.23" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.24" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.25" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.26" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.27" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.28" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.29" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -350,7 +425,32 @@
     <heading>Severability.</heading>
     <text>If any provision of the regulations in this subtitle is declared unconstitutional or invalid, or the application of these regulations to any person or circumstances is held invalid, the applicability of the provision to other persons and circumstances and the constitutionality or validity of every other provision of these regulations is not to be affected.</text>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.05" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.06" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.07" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.08" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.09" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.10" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.11" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.12" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.13" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.14" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.15" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.16" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.17" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.18" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.19" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.20" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.21" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.22" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.23" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.24" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.25" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.26" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.27" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.28" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.29" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.04" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -408,7 +508,31 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|33|01|.16|E.">Regulation .16E</cite> amended effective May 20, 2019 (46:10 Md. R. 489)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19" discontinuity="true">Regulations <cite path="|10|33|01|.01">.01</cite> — <cite path="|10|33|01|.29">.29</cite> under <cite path="|10.33.01">COMAR 10.33.01</cite> Nursing Home Administrators, under Subtitle <cite path="|10.33">10.33</cite> Board of Nursing Home Administrators, repealed effective January 19, 2026 (53:1 Md. R 22)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19" discontinuity="true">Regulations <cite path="|10|33|01|.01">.01</cite> — <cite path="|10|33|01|.04">.04</cite> under <cite path="|10.33.01">COMAR 10.33.01</cite> Nursing Home Administrators, under Subtitle <cite path="|10.33">10.33</cite> Board of Long-Term Care Administrators, adopted effective January 19, 2026 (53:1 Md. R 22)</annotation>
-    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|annos" type="History" display="false"/>
   </annotations>
-  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.05" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.06" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.07" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.08" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.09" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.10" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.11" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.12" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.13" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.14" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.15" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.16" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.17" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.18" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.19" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.20" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.21" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.22" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.23" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.24" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.25" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.26" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.27" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.28" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33|01|.29" type="History" display="false"/>
 </container>

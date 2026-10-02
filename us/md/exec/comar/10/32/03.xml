@@ -2,7 +2,7 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>03</num>
-  <heading>Physician Assistant<annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/></heading>
+  <heading>Physician Assistant<annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|heading" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -28,7 +28,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -288,7 +288,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|03|.03">
@@ -388,7 +388,7 @@
       <text>The Committee may delegate a physician member and a physician assistant member of the Committee to conduct the interview of each physician assistant and patient care team physician, as permitted under <cite path="10|32|03|.03|F.|(2)">§F(2) of this regulation</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -440,7 +440,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|03|.05">
@@ -524,7 +524,7 @@
       <text>Primary Source Verification. The Board may accept the Federation Credential Verification Service for primary source verification of a physician assistant's education and examination.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -652,7 +652,7 @@
       <text>Each collaborating physician shall document their official acknowledgment of their understanding and status as a listed patient care team physician on the collaboration agreement with the physician assistant.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|03|.07">
@@ -768,7 +768,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -872,7 +872,7 @@
       <text>Individual members of the Board are not civilly liable for actions regarding the approval, modification, or disapproval of an advanced duty under the collaboration agreement described in this regulation.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -972,7 +972,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|03|.10">
@@ -1132,7 +1132,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1160,7 +1160,7 @@
       <text>An individual may not identify himself or herself as a physician assistant unless licensed by the Board.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1228,7 +1228,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.12" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1480,7 +1480,7 @@
       <text>Unprofessional conduct in the practice of medicine, <cite doc="Md. Code" path="gho|14-404">Health Occupations Article, §14-404(a)(3), Annotated Code of Maryland</cite>, includes the failure of a physician to comply with the statute and regulations governing the physician's duty to supervise the physician assistant.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.13" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|03|.14">
@@ -1532,7 +1532,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.14" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|03|.15">
@@ -1612,7 +1612,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.15" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1632,7 +1632,7 @@
       <text>A team of physicians and physician assistants or physician assistants practicing under this regulation may not be required to maintain on-site documentation describing collaboration agreements as otherwise required in <cite path="|10|32|03|.06">Regulation .06 of this chapter</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1689,7 +1689,7 @@
       <text>Advanced Duty Application Fee — $100.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.17" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|03|.18">
@@ -2037,7 +2037,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|.18" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -2075,6 +2075,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-07-22"><cite path="|10|32|03|.18">Regulation .18</cite> adopted effective July 22, 2013 (40:14 Md. R. 1175)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-05" discontinuity="true">Chapter revised effective January 5, 2026 (52:26 Md. R. 1309)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1986-02-18">Annotation: <cite path="|10.32.03">COMAR 10.32.03</cite> cited in Attorney General Opinion No. 86-008 (February 18, 1986)</annotation>
-    <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" type="History" display="false"/>
+    <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-205-F" target-path="10|32|03|annos" type="History" display="false"/>
   </annotations>
 </container>

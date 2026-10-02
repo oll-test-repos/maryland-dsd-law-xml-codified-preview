@@ -2,7 +2,7 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>04</num>
-  <heading>Prohibition of Smoking or Vaping in Public Indoor Areas<annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" type="History" display="false"/></heading>
+  <heading>Prohibition of Smoking or Vaping in Public Indoor Areas<annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|heading" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -16,7 +16,8 @@
       <text>Nothing in this chapter preempts a county or municipal government from enacting and enforcing more stringent measures to protect the public from involuntary exposure to environmental smoke in indoor areas open to the public.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.12" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -136,7 +137,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.12" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -185,7 +187,8 @@
       <text>A research or educational laboratory for the purpose of conducting scientific research into the health effects of environmental smoke.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.12" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -246,7 +249,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.12" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -294,7 +298,8 @@
       <text>An owner of an establishment containing an indoor area open to the public not listed in Regulation .05A—C of this chapter shall prohibit smoking or vaping in an indoor area open to the public.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.12" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -378,7 +383,8 @@
       <text>The owner or person in charge shall ensure that a sign required under this regulation is conspicuously posted and in good condition.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.12" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -414,7 +420,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.12" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -454,7 +460,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.12" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -498,7 +504,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.12" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -530,7 +536,7 @@
       <text>The Department shall pay a penalty collected under this regulation to the Cigarette Restitution Fund established under <cite doc="Md. Code" path="gsf|7-317">State Finance and Procurement Article, §7-317, Annotated Code of Maryland</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.12" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -558,7 +564,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.12" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -579,7 +585,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|10|19|04|.05">Regulation .05</cite> amended effective February 16, 2026 (53:3 Md. R. 122)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|10|19|04|.06">Regulation .06</cite> amended effective February 16, 2026 (53:3 Md. R. 122)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|10|19|04|.12">Regulation .12</cite> repealed effective February 16, 2026 (53:3 Md. R. 122)</annotation>
-    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" type="History" display="false"/>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|annos" type="History" display="false"/>
   </annotations>
-  <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" type="History" display="false"/>
+  <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-233-F" target-path="10|19|04|.12" type="History" display="false"/>
 </container>

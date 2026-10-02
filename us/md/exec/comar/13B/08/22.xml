@@ -150,7 +150,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-066-F" type="History" display="false"/>
+      <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-066-F" target-path="13B|08|22|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="13B|08|22|.03">
@@ -973,6 +973,6 @@
     <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|11-105">11-105</cite> and <cite doc="Md. Code" path="ged|18-204">18-204</cite> and Title 18, Subtitle 22, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-25">Effective date: July 25, 2022 (49:15 Md. R. 739)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-02"><cite path="|13B|08|22|.02|B.">Regulation .02B</cite> amended effective February 2, 2026 (53:2 Md. R. 61)</annotation>
-    <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-066-F" type="History" display="false"/>
+    <annotation app="2026-02-02" doc="Maryland Register, Volume 53, Issue 2" eff="2026-02-02" path="regulations|final|25-066-F" target-path="13B|08|22|annos" type="History" display="false"/>
   </annotations>
 </container>

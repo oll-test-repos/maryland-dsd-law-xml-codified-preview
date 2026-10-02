@@ -818,7 +818,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-065-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-065-F" target-path="13B|02|01|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1329,7 +1329,7 @@
       <text>In determining the amount of work associated with a credit hour, to take into account a variety of delivery methods, measurements of student work, academic calendars, disciplines, and degree levels.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-147-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-147-F" target-path="13B|02|01|.12" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1814,7 +1814,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-10-17"><cite path="|13B|02|01|.08|B.">Regulation .08B</cite> amended as an emergency provision effective July 1, 2011 (38:14 Md. R. 788); amended permanently effective October 17, 2011 (38:21 Md. R. 1279)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|13B|02|01|.12">Regulation .12</cite> amended effective October 13, 2025 (52:20 Md. R. 1002)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-05-07"><cite path="|13B|02|01|.21">Regulation .21</cite> amended effective May 7, 2018 (45:9 Md. R. 462)</annotation>
-    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-147-F" type="History" display="false"/>
-    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-065-F" type="History" display="false"/>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-147-F" target-path="13B|02|01|annos" type="History" display="false"/>
+    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-065-F" target-path="13B|02|01|annos" type="History" display="false"/>
   </annotations>
 </container>

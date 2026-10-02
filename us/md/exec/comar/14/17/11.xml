@@ -377,7 +377,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|11|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -581,7 +581,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|11|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -2262,7 +2262,7 @@
       <text>A firefighter, a rescue squad member, law enforcement officer, or emergency medical services personnel who is actively responding to a call for emergency services is not subject to §A(1)—(3) of this regulation.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|11|.17" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -2448,7 +2448,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|11|.19" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -2463,6 +2463,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|11|.17|D.">Regulation .17D</cite> adopted effective March 16, 2026 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|11|.18|B.">Regulation .18B</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|11|.19|A.">Regulation .19A</cite> amended effective May 26, 2025 (52:10 Md. R. 436); March 16, 2026 (53:5 Md. R. 244)</annotation>
-    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" type="History" display="false"/>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|11|annos" type="History" display="false"/>
   </annotations>
 </container>

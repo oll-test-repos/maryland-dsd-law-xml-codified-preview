@@ -21,7 +21,7 @@
       <text>The information concerns conduct by a person or government entity which the Board’s Executive Director reasonably believes may pose a risk to the public health, safety, or welfare and is disclosed to a law enforcement authority, administrative official, or agency that regulates the individual, or to a hospital or other healthcare facility where the individual has privileges.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -30,12 +30,12 @@
     <heading>Other Disclosures.</heading>
     <text>This chapter does not prevent or limit the ability of the Board to disclose general licensing information as provided in <cite doc="Md. Code" path="ggp|4-333">General Provisions Article, §4-333, Annotated Code of Maryland</cite>, or any information which the Board may otherwise disclose by law.</text>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ggp|4-333">General Provisions Article, §4-333</cite>; <cite doc="Md. Code" path="gho|9-205">Health Occupations Article, §9-205</cite>; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19">Effective date: January 19, 2026 (53:1 Md. R 22)</annotation>
   </annotations>
-  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
 </container>

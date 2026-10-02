@@ -40,7 +40,7 @@
       <text>A licensee suspended for disciplinary reasons is not exempt from the continuing education requirement in this regulation.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -68,12 +68,12 @@
       <text>A licensee suspended for disciplinary reasons is not exempt from the continuing education requirement in this regulation.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §19-1807; Health Occupations Article, §§<cite doc="Md. Code" path="gho|9-205">9-205</cite> and <cite doc="Md. Code" path="gho|9-311">9-311</cite>; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19">Effective date: January 19, 2026 (53:1 Md. R 22)</annotation>
   </annotations>
-  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
 </container>

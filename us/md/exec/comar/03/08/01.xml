@@ -72,7 +72,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-303-F" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-303-F" target-path="03|08|01|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -116,7 +116,7 @@
       <text>Buyers of tires who are not tire wholesalers do not have the option of buying tires free of new tire fees or tire recycling fees and paying the fees directly to the Comptroller.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-303-F" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-303-F" target-path="03|08|01|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -156,7 +156,7 @@
       <text>If the seller of new tires in the State fails to keep the records required, the computation of the new tire fee and the tire recycling fee under § D of this regulation is presumptively correct.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-303-F" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-303-F" target-path="03|08|01|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -208,7 +208,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-303-F" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-303-F" target-path="03|08|01|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -227,6 +227,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|03|08|01|.04">Regulation .04</cite> amended effective March 16, 2026 (53:5 Md. R. 243)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-01-14"><cite path="|03|08|01|.05">Regulation .05</cite> repealed and new Regulation .05 adopted effective January 14, 1999 (26:1 Md. R. 22)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-01-14"><cite path="|03|08|01|.06">Regulation .06</cite> repealed effective January 14, 1999 (26:1 Md. R. 22)</annotation>
-    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-303-F" type="History" display="false"/>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-303-F" target-path="03|08|01|annos" type="History" display="false"/>
   </annotations>
 </container>

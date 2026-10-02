@@ -112,8 +112,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-156-F" type="History" display="false"/>
-      <annotation app="2025-10-13" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-156-F" target-path="10|27|05|.01" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" target-path="10|27|05|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -294,8 +294,8 @@
       <text>A certified nurse midwife has the right and obligation to refuse to perform any delegated medical act, oral or written, if, in the certified nurse midwife’s judgment, it is unsafe or an invalidly prescribed medical act or beyond the competence of the certified nurse midwife, in which case the nurse midwife shall notify the delegating physician at once.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-156-F" type="History" display="false"/>
-      <annotation app="2025-10-13" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-156-F" target-path="10|27|05|.06" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" target-path="10|27|05|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -303,7 +303,7 @@
     <num>.07</num>
     <heading>Nurse Midwife Peer Review Advisory Committee. — Repealed.</heading>
     <annotations>
-      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+      <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10|27|05|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -453,7 +453,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|05|.11">Regulation .11</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" discontinuity="true">Annotation: <cite path="|10.11">COMAR 10.11</cite> Midwifery was replaced by <cite path="|10.27.05">COMAR 10.27.05</cite> Practice of Nurse Midwifery</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-07-12">Annotation: <cite path="|10.11">COMAR 10.11</cite> Midwifery adopted effective February 1, 1957; repealed effective July 12, 1987 (14:14 Md. R. 1572)</annotation>
-    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-156-F" type="History" display="false"/>
-    <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-156-F" target-path="10|27|05|annos" type="History" display="false"/>
+    <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10|27|05|annos" type="History" display="false"/>
   </annotations>
 </container>

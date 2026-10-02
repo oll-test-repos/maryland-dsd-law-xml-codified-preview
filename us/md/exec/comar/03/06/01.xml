@@ -68,7 +68,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|01|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -154,7 +154,7 @@
       <text>The sales and use tax treatment of repairs to real property is described in <cite path="|03|06|01|.19">Regulation .19 of this chapter</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|01|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="03|06|01|.04">
@@ -380,7 +380,7 @@
       <text>The payment by a buyer of food or beverages for human consumption on the premises of the vendor of a separately stated and identified mandatory gratuity or service charge which is in the nature of a tip is not subject to tax if the food or beverages are served to a group of not more than 10 persons. Mandatory gratuities or service charges on sales of food or beverages to a group of more than 10 persons are subject to the tax whether or not separately stated.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|01|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -418,7 +418,7 @@
       <text>A buyer who provides a vendor with a multiple points of use certificate which includes a resale to a related entity as provided for in <cite path="|03|06|01|.49">Regulation .49 of this chapter</cite> may not apply for a refund based on a claim that it was impractical at the time of purchase to establish the amount of property to be resold.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|01|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="03|06|01|.08">
@@ -566,7 +566,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|01|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="03|06|01|.09">
@@ -878,7 +878,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|01|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1206,7 +1206,7 @@
       <text>The retail sale or use of all equipment, tools, expendable supplies, and other items which are used to improve real property and are not incorporated into the realty, is subject to tax in all instances.</text>
     </para>
     <annotations>
-      <annotation app="2025-08-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+      <annotation app="2025-08-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" target-path="03|06|01|.19" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1296,7 +1296,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|01|.21" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1626,7 +1626,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|01|.25" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="03|06|01|.26">
@@ -1702,7 +1702,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-08-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+      <annotation app="2025-08-22" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" target-path="03|06|01|.26" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1809,7 +1809,7 @@
       <text>Except as provided in <cite path="|03|06|01|.49">Regulation .49 of this chapter</cite>, a person who buys tangible personal property, a digital code, a digital product, or a taxable service for the dual purpose of leasing it to others and also for personal use, or who buys tangible personal property, a digital code, a digital product, or a taxable service with the sole intention of leasing it but in fact also employs the property or digital product for personal purposes, shall pay the tax on the purchase price and shall also collect the tax on all leases. The fact that the buyer may simultaneously or subsequently offer this property or digital product for outright sale does not create an exemption for the original purchase.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|01|.28" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -4004,7 +4004,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|01|.47" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="03|06|01|.48">
@@ -4520,7 +4520,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|01" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="03|06|01|.49">
@@ -4772,7 +4772,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -4804,7 +4804,7 @@
       <text>Notwithstanding <cite doc="Md. Code" path="gtg|11-104">Tax-General Article, §11-104(l)(1), Annotated Code of Maryland</cite> regarding the sales and use tax rate for data or information technology services or software publishing services, if a different rate could be applied to a sale or use of tangible personal property, a digital code, a digital product, or a taxable service, the higher rate shall apply to the sale.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+      <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|01" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -5031,6 +5031,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.48">Regulation .48</cite> adopted effective March 2, 2026 (53:4 Md. R. 183)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.49">Regulation .49</cite> adopted effective March 2, 2026 (53:4 Md. R. 183)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|03|06|01|.50">Regulation .50</cite> adopted effective March 2, 2026 (53:4 Md. R. 183)</annotation>
-    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" type="History" display="false"/>
+    <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-295-F" target-path="03|06|01|annos" type="History" display="false"/>
   </annotations>
 </container>

@@ -9,7 +9,7 @@
     <heading>Scope.</heading>
     <text>These regulations govern procedures for disciplinary and licensing proceedings before the Board.</text>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -117,7 +117,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|33|07|.03">
@@ -357,7 +357,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|33|07|.04">
@@ -601,7 +601,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|33|07|.05">
@@ -873,7 +873,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|33|07|.06">
@@ -1057,7 +1057,7 @@
       <text>The Board may order any of the sanctions listed in <cite path="10|33|07|.06|A.">§A of this regulation</cite> in combination or individually as appropriate for the violations committed by the licensee.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|33|07|.07">
@@ -1225,7 +1225,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1495,7 +1495,7 @@
       </text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1559,7 +1559,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|33|07|.10">
@@ -1819,7 +1819,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|33|07|.11">
@@ -1843,7 +1843,7 @@
       <text>If the Board upholds the cease and desist order under <cite path="10|33|07|.11|C.">§C of this regulation</cite>, if requested, the respondent shall be entitled to an evidentiary hearing pursuant to the procedures under <cite path="|10|33|07|.05">Regulation .05 of this chapter</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1887,7 +1887,7 @@
       <text>The Board, in its discretion, may allow for an evidentiary hearing if it determines there is a genuine dispute of material fact that cannot be resolved at the show cause hearing.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1927,12 +1927,12 @@
       <text>If the Board grants reinstatement, the Board may impose probationary conditions and restrictions along with the reinstatement.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§2-104 and 19-1809; Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-212">1-212</cite>, <cite doc="Md. Code" path="gho|1-602">1-602</cite>—<cite doc="Md. Code" path="gho|1-609">1-609</cite>, <cite doc="Md. Code" path="gho|9-205">9-205</cite>, <cite doc="Md. Code" path="gho|9-313">9-313</cite>—<cite doc="Md. Code" path="gho|9-316">9-316</cite>.1, 9-3A-11—9-3A-17, and <br/>9-401—9-407; State Government Article, §§<cite doc="Md. Code" path="gsg|10-201">10-201</cite>—<cite doc="Md. Code" path="gsg|10-226">10-226</cite>; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19">Effective date: January 19, 2026 (53:1 Md. R 22)</annotation>
   </annotations>
-  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" type="History" display="false"/>
+  <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-201-F" target-path="10|33" type="History" display="false"/>
 </container>

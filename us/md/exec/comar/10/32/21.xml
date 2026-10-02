@@ -279,7 +279,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" target-path="10|32|21|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -521,7 +521,7 @@
       <text>The Board shall provide staff for the Council.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" target-path="10|32|21" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|21|.03-2">
@@ -569,7 +569,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" target-path="10|32|21" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -715,7 +715,7 @@
       <text>A licensee shall comply with the requirements of the licensee’s collaboration and consultation agreement with a physician.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" target-path="10|32|21|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1366,7 +1366,7 @@
       <text>After the expiration date of the license, the naturopathic doctor is no longer licensed to practice naturopathic medicine.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" target-path="10|32|21|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1414,7 +1414,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" target-path="10|32|21|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -2386,7 +2386,7 @@
       <text>Written verification fee—$50.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" target-path="10|32|21|.20" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|21|.21">
@@ -2466,7 +2466,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|10|32|21|.11|B.">Regulation .11B</cite> amended effective January 19, 2026 (53:1 Md. R. 22)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|10|32|21|.20">Regulation .20</cite> amended effective January 19, 2026 (53:1 Md. R. 22)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-08-28"><cite path="|10|32|21|.21">Regulation .21</cite> adopted effective August 28, 2017 (44:17 Md. R. 835)</annotation>
-    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" type="History" display="false"/>
-    <annotation app="2026-01-19" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" type="History" display="false"/>
+    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" target-path="10|32|21|annos" type="History" display="false"/>
+    <annotation app="2026-01-19" doc="Editor Action 2026-03-09" eff="2026-03-09" path="" target-path="10|32|21|annos" type="History" display="false"/>
   </annotations>
 </container>

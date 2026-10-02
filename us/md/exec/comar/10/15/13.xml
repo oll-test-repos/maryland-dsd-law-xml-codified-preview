@@ -32,7 +32,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" target-path="10|15" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -76,7 +76,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" target-path="10|15" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -93,7 +93,7 @@
       <text>Maintain the functionality of the AED.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" target-path="10|15" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -110,7 +110,7 @@
       <text>Receive maintenance and recall notices from MIEMSS.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" target-path="10|15" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -163,7 +163,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" target-path="10|15" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -227,12 +227,12 @@
       <text>The completed inspection report is a public document that is available for public disclosure in accordance with General Provisions Article, §§<cite doc="Md. Code" path="ggp|4-101">4-101</cite>—<cite doc="Md. Code" path="ggp|4-601">4-601</cite>, Annotated Code of Maryland.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" target-path="10|15" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§2-104 and 21-330.3, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16">Effective date: February 16, 2026 (53:3 Md. R. 122)</annotation>
   </annotations>
-  <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" type="History" display="false"/>
+  <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-210-F" target-path="10|15" type="History" display="false"/>
 </container>

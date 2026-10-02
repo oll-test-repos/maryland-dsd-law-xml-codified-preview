@@ -60,7 +60,7 @@
       <text>An applicant for a license who claims experience as an environmental health specialist shall provide to the Board independent written verification from the applicant’s employer describing the nature and duration of the applicant’s experience.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" target-path="10|60|02|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -452,7 +452,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" target-path="10|60|02|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|60|02|.05">
@@ -560,7 +560,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" type="History" display="false"/>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" target-path="10|60|02|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|60|02|.06">
@@ -831,6 +831,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-08-05"><cite path="|10|60|02|.09|A.">Regulation .09A</cite> amended as an emergency provision effective January 9, 2024 (51:3 Md. R. 153); emergency status expired effective July 7, 2024; amended permanently effective August 5, 2024 (51:15 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-08-05"><cite path="|10|60|02|.09|D.">Regulation .09D</cite> adopted as an emergency provision effective January 9, 2024 (51:3 Md. R. 153); emergency status expired effective July 7, 2024; adopted permanently effective August 5, 2024 (51:15 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-11-09"><cite path="|10|60|02|.10">Regulation .10</cite> adopted effective November 9, 2015 (42:22 Md. R. 1379)</annotation>
-    <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" type="History" display="false"/>
+    <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" target-path="10|60|02|annos" type="History" display="false"/>
   </annotations>
 </container>

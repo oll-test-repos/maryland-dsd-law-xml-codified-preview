@@ -494,7 +494,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-159-F" type="History" display="false"/>
+      <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-159-F" target-path="10|27|10|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -933,6 +933,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-05-02" discontinuity="true">Regulations <cite path="|10|27|10|.01">.01</cite>—<cite path="|10|27|10|.03">.03</cite> repealed and new Regulations <cite path="|10|27|10|.01">.01</cite>—<cite path="|10|27|10|.04">.04</cite> adopted effective May 2, 2011 (38:9 Md. R. 553)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|10|.01|B.">Regulation .01B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|10|27|10|.02|C.">Regulation .02C</cite> amended effective October 13, 2025 (52:20 Md. R. 1002)</annotation>
-    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-159-F" type="History" display="false"/>
+    <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-159-F" target-path="10|27|10|annos" type="History" display="false"/>
   </annotations>
 </container>

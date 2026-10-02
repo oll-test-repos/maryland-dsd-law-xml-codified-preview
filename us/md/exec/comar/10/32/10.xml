@@ -2,7 +2,7 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>10</num>
-  <heading>Licensure of Radiation Therapists, Radiographers, Nuclear Medicine Technologists, and Radiologist Assistants<annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" type="History" display="false"/></heading>
+  <heading>Licensure of Radiation Therapists, Radiographers, Nuclear Medicine Technologists, and Radiologist Assistants<annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" target-path="10|32|10|heading" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -28,7 +28,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" target-path="10|32|10|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -236,7 +236,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" target-path="10|32|10|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -454,7 +454,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" target-path="10|32|10|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|10|.05">
@@ -522,7 +522,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" target-path="10|32|10|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|10|.05-1">
@@ -590,7 +590,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" target-path="10|32|10|.05-1" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|10|.05-2">
@@ -686,7 +686,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" target-path="10|32|10|.05-2" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -736,7 +736,7 @@
       <text>Identification. A radiation therapist, radiographer, nuclear medicine technologist, or radiologist assistant, when practicing radiation therapy, radiography, nuclear medicine technology, or radiology assistance shall wear a badge which identifies the individual wearing the badge to be a licensed radiation therapist, radiographer, nuclear medicine technologist, or radiologist assistant.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" target-path="10|32|10|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -869,7 +869,7 @@
       <text>Performance of any other duties that the Board determines may be performed by a radiation therapist.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" target-path="10|32|10|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1183,7 +1183,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" target-path="10|32|10|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1451,7 +1451,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" target-path="10|32|10|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|10|.12">
@@ -1515,7 +1515,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" type="History" display="false"/>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" target-path="10|32|10|.12" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|32|10|.13">
@@ -2535,6 +2535,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-05-12"><cite path="|10|32|10|.18">Regulation .18</cite> amended effective May 12, 2014 (41:9 Md. R. 521)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-07-22"><cite path="|10|32|10|.19">Regulation .19</cite> adopted effective July 22, 2013 (40:14 Md. R. 1176)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-05-12"><cite path="|10|32|10|.19|B.">Regulation .19B</cite> amended effective May 12, 2014 (41:9 Md. R. 521)</annotation>
-    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" type="History" display="false"/>
+    <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-213-F" target-path="10|32|10|annos" type="History" display="false"/>
   </annotations>
 </container>

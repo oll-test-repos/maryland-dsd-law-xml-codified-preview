@@ -2378,15 +2378,15 @@
         <text>The emission-based fee prescribed in <cite path="26|11|02|.19|A.">§A of this regulation</cite> shall be calculated by multiplying the total weight of actual annual emissions in tons of regulated emissions times an amount in dollars per ton as prescribed below:</text>
         <para>
           <num>(a)</num>
-          <text>From October 1, 2008 through May 31, 2025: $50 per ton as increased pursuant to <cite path="26|11|02|.19|B.|(5)">§B(5) of this regulation</cite>;</text>
+          <text>From January 1, 1997 through September 30, 2008: $25 per ton as increased pursuant to <cite path="26|11|02|.19|B.|(6)">§B(6) of this regulation</cite>;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>From June 1, 2025 through December 31, 2026: $200 per ton; and</text>
+          <text>From October 1, 2008 through December 31, 2008: $50 per ton; and</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Beginning January 1, 2027: $200 per ton as increased pursuant to <cite path="26|11|02|.19|B.|(5)">§B(5) of this regulation</cite>.</text>
+          <text>Beginning January 1, 2009: $50 per ton as increased pursuant to <cite path="26|11|02|.19|B.|(6)">§B(6) of this regulation</cite>.</text>
         </para>
       </para>
       <para>
@@ -2395,10 +2395,14 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Except as provided in <cite path="26|11|02|.19|B.|(4)">§B(4) of this regulation</cite>, the total weight of annual emissions used to calculate the annual permit fee is based on the total actual emission tonnages as certified by the source and verified by the Department. Annual emissions shall be rounded off to the nearest ton.</text>
+        <text>Effective October 1, 2008 through December 31, 2009, the maximum annual permit to operate fee for each plant or facility is $500,000.</text>
       </para>
       <para>
         <num>(4)</num>
+        <text>Except as provided in <cite path="26|11|02|.19|B.|(5)">§B(5) of this regulation</cite>, the total weight of annual emissions used to calculate the annual permit fee is based on the total actual emission tonnages as certified by the source and verified by the Department. Annual emissions shall be rounded off to the nearest ton.</text>
+      </para>
+      <para>
+        <num>(5)</num>
         <text>Basis for Annual Emissions. The annual emissions to be used to calculate the fee in §§A and B of this regulation shall be as prescribed below:</text>
         <para>
           <num>(a)</num>
@@ -2410,7 +2414,7 @@
         </para>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(6)</num>
         <text>Consumer Price Index.</text>
         <para>
           <num>(a)</num>
@@ -2479,16 +2483,14 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>An emission certification submitted pursuant to this section and which contains all information required by <cite path="26.11.01.05">COMAR 26.11.01.05</cite>-1, for NOx and VOC, satisfies the requirements of <cite path="26.11.01.05">COMAR 26.11.01.05</cite>-1.</text>
+        <text>An emission certification submitted pursuant to this section and which contains all information required by <cite path="26.11.01.05-1">COMAR 26.11.01.05-1</cite>, for NOx and VOC, satisfies the requirements of <cite path="26.11.01.05-1">COMAR 26.11.01.05-1</cite>.</text>
       </para>
     </para>
     <para>
       <num>E.</num>
       <text>The owner or operator of a source for which a permit to operate is required is responsible for the timely and complete payment of all permit fees required by this chapter.</text>
     </para>
-    <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-179-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Environment Article, §§<cite doc="Md. Code" path="gen|1-101">1-101</cite>, <cite doc="Md. Code" path="gen|1-404">1-404</cite>, <cite doc="Md. Code" path="gen|1-601">1-601</cite>—<cite doc="Md. Code" path="gen|1-606">1-606</cite>, <cite doc="Md. Code" path="gen|2-101">2-101</cite>—<cite doc="Md. Code" path="gen|2-103">2-103</cite>, <cite doc="Md. Code" path="gen|2-301">2-301</cite>—<cite doc="Md. Code" path="gen|2-303">2-303</cite>, and <cite doc="Md. Code" path="gen|2-401">2-401</cite>—<cite doc="Md. Code" path="gen|2-404">2-404</cite>, Annotated Code of Maryland</annotation>
@@ -2555,7 +2557,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-12-10"><cite path="|26|11|02|.19">Regulation .19</cite> amended effective June 16, 1997 (24:12 Md. R. 866); December 10, 2001 (28:24 Md. R. 2130)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|26|11|02|.19|A.">Regulation .19A</cite> amended effective August 19, 2013 (40:16 Md. R. 1345)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-10-01"><cite path="|26|11|02|.19|B.">Regulation .19B</cite> amended effective October 1, 2008 (35:19 Md. R. 1717)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|26|11|02|.19|B.">Regulation .19B</cite> amended as an emergency provision effective November 3, 2008 (35:24 Md. R. 2073); amended permanently effective February 23, 2009 (36:4 Md. R. 356); March 30, 2026 (53:6 Md. R. 292)</annotation>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-179-F" type="History" display="false"/>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-02-23"><cite path="|26|11|02|.19|B.">Regulation .19B</cite> amended as an emergency provision effective November 3, 2008 (35:24 Md. R. 2073); amended permanently effective February 23, 2009 (36:4 Md. R. 356)</annotation>
   </annotations>
 </container>

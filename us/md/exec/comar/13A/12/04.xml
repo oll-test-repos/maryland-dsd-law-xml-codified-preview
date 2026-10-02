@@ -95,7 +95,7 @@
       <text>The Department shall evaluate credits from institutions in other countries for comparability of degree and coursework by an independent agency authorized to analyze foreign credentials and designated by the Department. The evaluation is conclusive for the Department.</text>
     </para>
     <annotations>
-      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-107-F" type="History" display="false"/>
+      <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-107-F" target-path="13A|12|04|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1219,6 +1219,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|04|.07|A.">Regulation .07A</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|04|.13|D.">Regulation .13D</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|04|.15|C.">Regulation .15C</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
-    <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-107-F" type="History" display="false"/>
+    <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-107-F" target-path="13A|12|04|annos" type="History" display="false"/>
   </annotations>
 </container>
